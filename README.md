@@ -157,77 +157,36 @@
 
 原版链接：https://github.com/KiraYamato94/LasMonjas
 
+| GameModes | CaptureTheFlag | PoliceAndThiefs | KingOfTheHill |
+|-----------|----------------|-----------------|---------------|
+| 游戏模式      | 夺旗模式           | 警察抓小偷           | 山丘之王          |
 
 
 
 
+| Impostors   | 内鬼职业 | Crewmates      | 船员职业 | Neutrals        | 中立职业 | Rebels        | 叛军   | Modifiers       | 效果设置 |
+|-------------|------|----------------|------|-----------------|------|---------------|------|-----------------|------|
+| Mimic       | 变形者  | Captain        | 船长   | Joker           | 小丑   | Renegade      | 豺狼   | Lovers          | 恋人   |
+| Painter     | 隐蔽者  | Mechanic       | 工程师  | Role Thief      | 交换师  | Bounty Hunter | 赏金猎人 | Lighter         | 小灯人  |
+| Demon       | 吸血鬼  | Sheriff        | 警长   | Pyromaniac      | 纵火犯  | Trapper       | 陷阱师  | Blind           | 失明者  |
+| Janitor     | 清理者  | Detective      | 侦探   | Treasure Hunter | 寻宝猎人 | Yinyanger     | 阴阳师  | Flash           | 闪电侠  |
+| Ilusionist  | 骗术师  | Forensic       | 法医   | Devourer        | 秃鹫   | Challenger    | 挑战者  | Big Chungus     | 巨人   |
+| Manipulator | 术士   | Time Traveler  | 时间之主 |                 |      |               |      | The Chosen One  | 天选之子 |
+| Bomberman   | 爆破者  | Squire         | 医生   |                 |      |               |      | Performer       | 演员   |
+| Chameleon   | 隐形人  | Cheater        | 换票师  |                 |      |               |      |                 |      |
+| Gambler     | 赌徒   | Fortune Teller | 预言家  |                 |      |               |      |                 |      |
+| Sorcerer    | 女巫   | Hacker         | 黑客   |                 |      |               |      |                 |      |
+|             |      | Sleuth         | 追踪者  |                 |      |               |      |                 |      |
+|             |      | Fink           | 告密者  |                 |      |               |      |                 |      |
+|             |      | Kid            | 小孩   |                 |      |               |      |                 |      |
+|             |      | Welder         | 焊接工  |                 |      |               |      |                 |      |
+|             |      | Spiritualist   | 殉道者  |                 |      |               |      |                 |      |
+|             |      | Coward         | 诱饵   |                 |      |               |      |                 |      |
+|             |      | Vigilant       | 保安   |                 |      |               |      |                 |      |
+|             |      | Medusa         | 广播员  |                 |      |               |      |                 |      |
+|             |      | Hunter         | 猎人   |                 |      |               |      |                 |      |
+|             |      | Jinx           | 倒霉蛋  |                 |      |               |      |                 |      |
 
-
-Impostors	Crewmates	Neutrals	Rebels	Modifiers
-Mimic	Captain	Joker	Renegade	Lovers
-Painter	Mechanic	Role Thief	Bounty Hunter	Lighter
-Demon	Sheriff	Pyromaniac	Trapper	Blind
-Janitor	Detective	Treasure Hunter	Yinyanger	Flash
-Ilusionist	Forensic	Devourer	Challenger	Big Chungus
-Manipulator	Time Traveler	
-
-The Chosen One
-Bomberman	Squire	
-
-Performer
-Chameleon	Cheater	
-
-
-Gambler	Fortune Teller	
-
-
-Sorcerer	Hacker	
-
-
-
-Sleuth	
-
-
-
-Fink	
-
-
-
-Kid	
-
-
-
-Welder	
-
-
-
-Spiritualist	
-
-
-
-Coward	
-
-
-
-Vigilant	
-
-
-
-Medusa	
-
-
-
-Hunter	
-
-
-
-Jinx	
-
-
-GameModes
-PoliceAndThiefs
-KingOfTheHill
-CaptureTheFlag
 
 
 
