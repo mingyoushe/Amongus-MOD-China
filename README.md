@@ -37,42 +37,28 @@
 
 
 原版链接：https://github.com/yukinogatari/TheOtherRoles-GM
-
-Impostors	Crewmates	Neutral	Other
-Evil Mini	Nice Mini	Arsonist	GM
-Evil Guesser	Nice Guesser	Jester	
-Bounty Hunter	Detective	Jackal	
-Camouflager	Engineer	Sidekick	
-Cleaner	Hacker	Lover	
-Eraser	Lighter	Opportunist	
-Godfather (Mafia)	Mayor	Vulture	
-Mafioso (Mafia)	Medic	Lawyer	
-Janitor (Mafia)	Security Guard	Chain-Shifter	
-Morphling	Seer	Plague Doctor	
-Trickster	Sheriff	Fox & Immoralist	
-Vampire	Shifter	
-
-Warlock	Snitch	
-
-Witch	Spy	
-
-Ninja	Nice Swapper	
-
-Evil Swapper	Time Master	
-
-Serial Killer	Tracker	
-
-Neko-Kabocha	Bait	
-
-
-Madmate	
-
-
-Medium	
-
-
-Fortune Teller
-
+| Impostors         | 内鬼职业     | Crewmates      | 船员职业 | Neutral          | 中立职业    | Other  | 其他职业 |
+|-------------------|----------|----------------|------|------------------|---------|--------|------|
+| Evil Mini         | 坏小人      | Nice Mini      | 好小人  | Arsonist         | 纵火犯     | GM     | 管理员  |
+| Evil Guesser      | 赌怪       | Nice Guesser   | 好赌怪  | Jester           | 小丑      |        |      |
+| Bounty Hunter     | 赏金猎人     | Detective      | 调查员  | Jackal           | 豺狼      |        |      |
+| Camouflager       | 隐蔽者      | Engineer       | 工程师  | Sidekick         | 跟班      |        |      |
+| Cleaner           | 清洁工      | Hacker         | 黑客   | Lover            | 恋人      |        |      |
+| Eraser            | 抹除者      | Lighter        | 小灯人  | Opportunist      | 机会主义    |        |      |
+| Godfather (Mafia) | 教父（黑手党）  | Mayor          | 市长   | Vulture          | 秃鹫      |        |      |
+| Mafioso (Mafia)   | 黑手党（黑手党） | Medic          | 医生   | Lawyer           | 律师      |        |      |
+| Janitor (Mafia)   | 清洁工（黑手党） | Security Guard | 保安   | Chain-Shifter    | 恋人交换师   |        |      |
+| Morphling         | 变形者      | Seer           | 灵媒   | Plague Doctor    | 瘟疫医生    |        |      |
+| Trickster         | 骗术师      | Sheriff        | 警长   | Fox & Immoralist | 狐狸于不道德者 |        |      |
+| Vampire           | 吸血鬼      | Shifter        | 交换者  |                  |         |        |      |
+| Warlock           | 术士       | Snitch         | 	告密者 |                  |         |        |      |
+| Witch             | 女巫       | Spy            | 间谍   |                  |         |        |      |
+| Ninja             | 忍者       | Nice Swapper   | 好换票师 |                  |         |        |      |
+| Evil Swapper      | 坏换票师     | Time Master    | 时间之主 |                  |         |        |      |
+| Serial Killer     | 连环杀手     | Tracker        | 追踪者  |                  |         |        |      |
+| Neko-Kabocha      | 南瓜复仇者    | Bait           | 诱饵   |                  |         |        |      |
+|                   |          | Madmate        | 	通灵师 |                  |         |        |      |
+|                   |          | Fortune Teller | 	算命先生 |                  |         |        |      |
 
 
 3.内鬼小镇（最新支持2021.6.15版本）仅私服可玩  
