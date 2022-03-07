@@ -49,7 +49,7 @@
 | Mafioso (Mafia)   | 黑手党（黑手党） | Medic          | 医生   | Lawyer           | 律师      |        |      |
 | Janitor (Mafia)   | 清洁工（黑手党） | Security Guard | 保安   | Chain-Shifter    | 恋人交换师   |        |      |
 | Morphling         | 变形者      | Seer           | 灵媒   | Plague Doctor    | 瘟疫医生    |        |      |
-| Trickster         | 骗术师      | Sheriff        | 警长   | Fox & Immoralist | 狐狸于不道德者 |        |      |
+| Trickster         | 骗术师      | Sheriff        | 警长   | Fox & Immoralist | 狐狸&不道德者 |        |      |
 | Vampire           | 吸血鬼      | Shifter        | 交换者  |                  |         |        |      |
 | Warlock           | 术士       | Snitch         | 	告密者 |                  |         |        |      |
 | Witch             | 女巫       | Spy            | 间谍   |                  |         |        |      |
