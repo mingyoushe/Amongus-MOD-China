@@ -155,6 +155,7 @@
 ====
 
 原版链接：https://github.com/KiraYamato94/LasMonjas
+2.23汉化文件https://wwi.lanzoul.com/iGvX0015dvef
 
 | GameModes | CaptureTheFlag | PoliceAndThiefs | KingOfTheHill |
 |-----------|----------------|-----------------|---------------|
