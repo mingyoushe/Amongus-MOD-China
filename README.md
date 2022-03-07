@@ -7,7 +7,7 @@
 
 
 原版链接：https://github.com/Eisbison/TheOtherRoles <br>  
-汉化版本3.4.4：https://wwi.lanzoul.com/imbgA015ec2f
+汉化版本3.4.4：https://wwi.lanzoul.com/imbgA015ec2f <br> 
 
 
 | Impostors         | 内鬼职业     | Crewmates      | 船员职业 | Neutral  | 中立职业 | Secondary | 其他职业 |
@@ -40,7 +40,8 @@
 
 
 原版链接：https://github.com/yukinogatari/TheOtherRoles-GM <br> 
-超多职业GM3.5.2汉化版：https://wwi.lanzoul.com/imbgA015ec2f
+超多职业GM3.5.2汉化版：https://wwi.lanzoul.com/imbgA015ec2f <br> 
+
 
 | Impostors         | 内鬼职业     | Crewmates      | 船员职业 | Neutral          | 中立职业    | Other  | 其他职业 |
 |-------------------|----------|----------------|------|------------------|---------|--------|------|
