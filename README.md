@@ -6,7 +6,8 @@
 
 
 
-原版链接：https://github.com/Eisbison/TheOtherRoles
+原版链接：<font color=red>https://github.com/Eisbison/TheOtherRoles</font>
+
 
 Impostors	Crewmates	Neutral	Secondary
 Evil Mini	Nice Mini	Arsonist	Lover
