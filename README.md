@@ -8,51 +8,47 @@
 
 原版链接：<font color=red>https://github.com/Eisbison/TheOtherRoles</font>
 
-| 水果        | 价格    |  数量  |
-| --------   | -----:   | :----: |
-| 香蕉        | $1      |   5    |
-| 苹果        | $1      |   6    |
-| 草莓        | $1      |   7    |
-Impostors	Crewmates	Neutral	Secondary
-Evil Mini	Nice Mini	Arsonist	Lover
-Evil Guesser	Nice Guesser	Jester	
-Bounty Hunter	Detective	Jackal	
-Camouflager	Engineer	Sidekick	
-Cleaner	Hacker	Vulture	
-Eraser	Lighter	Lawyer	
-Godfather (Mafia)	Mayor	
+|内鬼          |   船员     |  中立     |  次要
+|--------      | -----:     | :----:    |
+|Evil Mini	|Nice Mini	|Arsonist	|Lover
+|Evil Guesser	|Nice Guesser	|Jester	
+|Bounty Hunter	|Detective	|Jackal	
+|Camouflager	|Engineer	|Sidekick	
+|Cleaner	|Hacker	|Vulture	
+|Eraser	|Lighter	|Lawyer	
+|Godfather (Mafia)	|Mayor	
 
-Mafioso (Mafia)	Medic	
+|Mafioso (Mafia)	|Medic	
 
-Janitor (Mafia)	Security Guard	
+|Janitor (Mafia)	|Security Guard	
 
-Morphling	Seer	
+|Morphling	|Seer	
 
-Trickster	Sheriff	
+|Trickster	|Sheriff	
 
-Vampire	Deputy	
+|Vampire	|Deputy	
 
-Warlock	Shifter	
+|Warlock	|Shifter	
 
-Witch	Snitch	
+|Witch	|Snitch	
 
 
-Spy	
+|  |Spy	
 
 
-Swapper	
+|  |Swapper	
 
 
-Time Master	
+|  |Time Master	
 
 
-Tracker	
+|  |Tracker	
 
 
-Bait	
+|  |Bait	
 
 
-Medium
+|  |Medium
 
 
 
