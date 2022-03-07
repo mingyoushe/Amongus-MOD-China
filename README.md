@@ -9,7 +9,7 @@
 原版链接：<font color=red>https://github.com/Eisbison/TheOtherRoles</font>
 
 |内鬼          |   船员     |  中立     |  次要|
-|--------      | -----:     | :----:    |       |      
+|：--------      | -----:     | :----:    |  :----: |      
 |Evil Mini	|Nice Mini	|Arsonist	|Lover|
 |Evil Guesser	|Nice Guesser	|Jester|	
 |Bounty Hunter	|Detective	|Jackal	|
