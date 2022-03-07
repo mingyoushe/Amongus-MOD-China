@@ -222,84 +222,87 @@
 原版链接：https://github.com/Syyreth/ModsAmongUs
 
 
-
-Crewmate Roles:
-V.I.P
-Captain
-Vigilante
-Guardian
-Investigator
-Swapper
-Engineer
-Visionary
-Chronos
-Retributionist
-Lookout
-Tracker
-Pilot
-Drainer
-Lovers	Neutral Roles:
-Executioner
-Jester
-Phantom
-Arsonist
-Ghoul
-Plaguebearer
-Angel
-Serial Killer
-Survivor	Impostor Roles:
+| Crewmate Roles:  | 船员职业 | Neutral Roles:  | 中立职业 | Impostor Roles:  | 内鬼职业 | Coven Roles:   | 巫师团  |
+|------------------|------|-----------------|------|------------------|------|----------------|------|
+| V.I.P            | VIP  | Executioner     |      | Janitor          | 清理者  | Witch          | 女巫   |
+| Captain          | 船长   | Jester          | 小丑   | Morpher          | 变形者  | Medusa         | 美杜莎  |
+| Vigilante        | 警长   | Phantom         |      | Spy              | 间谍   | Potion Master  | 药剂师  |
+| Guardian         | 保安   | Arsonist        | 纵火犯  | Consort          |      | Necromancer    | 死灵法师 |
+| Investigator     | 调查员  | Ghoul           |      | The Stealth      |      | Hex Master     |      |
+| Swapper          | 换票师  | Plaguebearer    |      | Graverobber      |      | Poisoner       | 毒药师  |
+| Engineer         | 工程师  | Angel           | 天使   | FlashBang        |      |                |      |
+| Visionary        |      | Serial Killer   | 连环杀手 | Blackmailer      |      |                |      |
+| Chronos          |      | Survivor        |      | Bounty Hunter    | 赏金猎人 |                |      |
+| Retributionist   | 殉道师  |                 |      | AntiTasker       |      |                |      |
+| Lookout          |      |                 |      | Assassin         | 刺客   |                |      |
+| Tracker          | 追踪者  |                 |      |                  |      |                |      |
+| Pilot            |      |                 |      |                  |      |                |      |
+| Drainer          |      |                 |      |                  |      |                |      |
+| Lovers           | 恋人   |                 |      |                  |      |                |      |
 
 
-Janitor
-Morpher
-Spy
-Consort
-The Stealth
-Graverobber
-FlashBang
-Blackmailer
-Bounty Hunter
-AntiTasker
-Assassin	Coven Roles:
-Witch
-Medusa
-Potion Master
-Necromancer
-Hex Master
-Poisoner
-
-
-
-
-11.crewlink游戏聊天工具MOD  (支持版本v2021.11.9.2s)
-====
-
-
-原版链接：https://github.com/sawa90/AmongUsReplayInWindow
-
-
-
-
-
-
-
-12.游戏重播MOD replay 支持任何版本
-====
-
-
-原版链接：https://github.com/sawa90/AmongUsReplayInWindow
-
-
-
-
-
-
-
-13.恶搞模组Cursed-Among-Us v1.1.0 （支持6.30）
+11.恶搞模组Cursed-Among-Us v1.1.0 （支持6.30）
 ====
 
 
 模组链接：https://github.com/Devs-Us/Cursed-Among-Us
+
+12.S服skeld.net(最新支持2021.6.30)
+====
+| GameMOD        | 游戏模式  |
+|----------------|-------|
+| Slenderman     | 瘦长鬼影  |
+| Zombies        | 僵尸    |
+| Cops & Robbers | 警察抓小偷 |
+| Jester         | 小丑    |
+| Troll          | 小鬼    |
+| Detective      | 侦探    |
+| 50-50          | 两组克隆人 |
+| CrazyColors:   | 疯狂变色  |
+| Twins          | 双胞胎   |
+| Clones         | 克隆人   |
+| Escalation     | 加速    |
+| Standard       | 标准模式  |
+
+
+13.哈利波特模组
+====
+模组链接：https://github.com/FatherofHeathens/HarryPotterAmongUs
+
+| Role      | 职业  | Passive Ability                         | 被动          | Active Ability                                                                                                                                       | 技能              |
+|-----------|-----|-----------------------------------------|-------------|------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| Harry     | 哈利  | Can not be killed by Voldemort's spell. | 不能被伏地魔的法术杀死 | Can become invisible for 10 seconds.                                                                                                                 | 隐身10秒           |
+| Hermione  | 赫敏  | None.                                   | 无           | Can teleport themselves back to where they were 10 seconds ago. This can bring the player back to life, unless they are killed by Voldemort's spell. | 传送回10秒前的位置和生命状态 |
+| Ron       | 罗恩  | None.                                   | 无           | Can activate an ability that prevents any spells or kills being used against the player.                                                             | 保护咒抵御法术或者杀戮     |
+| Voldemort | 伏地魔 | None.                                   | 无           | Can shoot a spell that will kill any player it connects with, except Harry; it will kill Voldemort instead.                                          | 阿达瓦索命咒          |
+| Bellatrix | 贝拉  | None.                                   | 无           | Can shoot a spell that temporarily blinds and freezes any player it connects with.                                                                   | 失明和冻结，钻心咒：心灵控制  |
+
+
+
+模组链接：https://skeld.net/
+
+14.crewlink游戏聊天工具MOD  (支持版本v2021.11.9.2s)
+====
+
+
+原版链接：https://github.com/sawa90/AmongUsReplayInWindow
+
+
+
+
+
+15.游戏重播MOD replay 支持任何版本
+====
+
+
+原版链接：https://github.com/sawa90/AmongUsReplayInWindow
+
+
+
+
+
+
+
 
 
 
