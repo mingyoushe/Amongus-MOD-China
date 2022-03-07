@@ -16,6 +16,23 @@
 |Camouflager         |Engineer	   |Sidekick	|
 |Cleaner	            |Hacker	      |Vulture	   |
 |Eraser	            |Lighter	      |Lawyer	   |
+|Godfather (Mafia)	|Mayor	      |           |
+|Mafioso (Mafia)  	|Medic	      |
+|Janitor (Mafia)	   |Security Guard|
+|Morphling	         |Seer	         |
+|Trickster	         |Sheriff	      |
+|Vampire	            |Deputy	      |
+|Warlock	            |Shifter	      |
+|Witch	            |Snitch	      |
+                   |Spy	         |
+                  |Swapper	      |
+                  |Time Master	|
+                  |Tracker	      |
+                   |Bait	         |
+                   |Medium        |
+
+
+
 
 
 
