@@ -300,6 +300,8 @@
 16.历代Amongus版本更新
 ====
 Amongus2020.12.9
+链接：https://pan.baidu.com/s/1LUMk-YcXhVE7JwD9eCNhEw?pwd=5ht5 
+提取码：5ht5 
 
 Amongus2021.4.14
 
