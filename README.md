@@ -8,47 +8,47 @@
 
 原版链接：<font color=red>https://github.com/Eisbison/TheOtherRoles</font>
 
-|内鬼          |   船员     |  中立     |  次要
-|--------      | -----:     | :----:    |
-|Evil Mini	|Nice Mini	|Arsonist	|Lover
-|Evil Guesser	|Nice Guesser	|Jester	
-|Bounty Hunter	|Detective	|Jackal	
-|Camouflager	|Engineer	|Sidekick	
-|Cleaner	|Hacker	|Vulture	
-|Eraser	|Lighter	|Lawyer	
-|Godfather (Mafia)	|Mayor	
+|内鬼          |   船员     |  中立     |  次要|
+|--------      | -----:     | :----:    |       |      
+|Evil Mini	|Nice Mini	|Arsonist	|Lover|
+|Evil Guesser	|Nice Guesser	|Jester|	
+|Bounty Hunter	|Detective	|Jackal	|
+|Camouflager	|Engineer	|Sidekick	|
+|Cleaner	|Hacker	|Vulture	|
+|Eraser	|Lighter	|Lawyer	|
+|Godfather (Mafia)	|Mayor	|
 
-|Mafioso (Mafia)	|Medic	
+|Mafioso (Mafia)	|Medic	|
 
-|Janitor (Mafia)	|Security Guard	
+|Janitor (Mafia)	|Security Guard	|
 
-|Morphling	|Seer	
+|Morphling	|Seer	|
 
-|Trickster	|Sheriff	
+|Trickster	|Sheriff	|
 
-|Vampire	|Deputy	
+|Vampire	|Deputy	|
 
-|Warlock	|Shifter	
+|Warlock	|Shifter	|
 
-|Witch	|Snitch	
-
-
-|  |Spy	
+|Witch	|Snitch	|
 
 
-|  |Swapper	
+|  |Spy	|
 
 
-|  |Time Master	
+|  |Swapper	|
 
 
-|  |Tracker	
+|  |Time Master	|
 
 
-|  |Bait	
+|  |Tracker	|
 
 
-|  |Medium
+|  |Bait	|
+
+
+|  |Medium|
 
 
 
