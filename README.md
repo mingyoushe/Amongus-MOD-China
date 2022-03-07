@@ -163,7 +163,7 @@
 
 
 
-| Impostors   | 内鬼职业 | Crewmates      | 船员职业 | Neutrals        | 中立职业 | Rebels        | 叛军   | Modifiers       | 效果设置 |
+| Impostors   | 内鬼 | Crewmates      | 船员 | Neutrals        | 中立 | Rebels        | 叛军   | Modifiers       | 效果 |
 |-------------|------|----------------|------|-----------------|------|---------------|------|-----------------|------|
 | Mimic       | 变形者  | Captain        | 船长   | Joker           | 小丑   | Renegade      | 豺狼   | Lovers          | 恋人   |
 | Painter     | 隐蔽者  | Mechanic       | 工程师  | Role Thief      | 交换师  | Bounty Hunter | 赏金猎人 | Lighter         | 小灯人  |
