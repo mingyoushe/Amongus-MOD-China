@@ -93,18 +93,18 @@
 |-----------------|------|----------------|------|-----------------|------|---------------|------|
 | Mayor           | 市长   | Jester         | 小丑   | Janitor         | 清洁工  | Torch         | 小灯人  |
 | Lovers          | 恋人   | Shifter        | 交换师  | Morphling       | 变形者  | Diseased      | 瘟疫   |
-| Sheriff         | 警长   | The Glitch     |      | Camouflager     | 隐蔽者  | Flash         | 闪现   |
-| Engineer        | 工程师  | Executioner    |      | Miner           | 矿工   | Tiebreaker    |      |
+| Sheriff         | 警长   | The Glitch     |  混沌   | Camouflager     | 隐蔽者  | Flash         | 闪现   |
+| Engineer        | 工程师  | Executioner    |  处决者 | Miner           | 矿工   | Tiebreaker    | 破平者  |
 | Swapper         | 换票师  | Arsonist       | 纵火犯  | Swooper         |      | Drunk         | 醉酒   |
 | Investigator    | 调查员  | Phantom        | 幻影   | Underdog        |      | Giant         | 巨人   |
-| Time Lord       | 时间大师 |                |      | Undertaker      |      | Button Barry  |      |
-| Medic           | 医生   |                |      | Teleporter      |      | Coroner       |      |
+| Time Lord       | 时间大师 |                |      | Undertaker      |      | Button Barry  | 执钮者  |
+| Medic           | 医生   |                |      | Teleporter      |  传送者 | Coroner       |      |
 | Seer            | 灵媒   |                |      | Concealer       |      | Carnivore     |      |
 | Spy             | 间谍   |                |      | Grenadier       |      |               |      |
 | Snitch          | 告密者  |                |      |                 |      |               |      |
-| Altruist        |      |                |      |                 |      |               |      |
-| Prophet         |      |                |      |                 |      |               |      |
-| Covert          |      |                |      |                 |      |               |      |
+| Altruist        | 利他者 |                |      |                 |      |               |      |
+| Prophet         | 先知 |                |      |                 |      |               |      |
+| Covert          | 隐秘者 |                |      |                 |      |               |      |
 
 
 5.我们小镇分支R v2.6.4（支持2022.2.23s）
@@ -299,6 +299,10 @@
 
 16.历代Amongus版本更新
 ====
+Amongus2018.11.14
+链接：https://pan.baidu.com/s/1zyIWzYKfpmdCjsSHc6m2dg?pwd=2xim 
+提取码：2xim 
+
 Amongus2020.12.9
 链接：https://pan.baidu.com/s/156U6CL1e88vyjHgcHxJCrQ?pwd=fhvg 
 提取码：fhvg 
