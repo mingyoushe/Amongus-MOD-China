@@ -8,7 +8,11 @@
 
 原版链接：<font color=red>https://github.com/Eisbison/TheOtherRoles</font>
 
-
+| 水果        | 价格    |  数量  |
+| --------   | -----:   | :----: |
+| 香蕉        | $1      |   5    |
+| 苹果        | $1      |   6    |
+| 草莓        | $1      |   7    |
 Impostors	Crewmates	Neutral	Secondary
 Evil Mini	Nice Mini	Arsonist	Lover
 Evil Guesser	Nice Guesser	Jester	
@@ -53,7 +57,7 @@ Medium
 
 
 2.超多职业GM增强版v3.5.3（超多职业的一个分支）（最新支持2022.2.24）
-
+====
 
 
 原版链接：https://github.com/yukinogatari/TheOtherRoles-GM
@@ -96,7 +100,7 @@ Fortune Teller
 
 
 3.内鬼小镇（最新支持2021.6.15版本）仅私服可玩  
-
+====
 
 
 原版链接：https://github.com/Town-of-Impostors/TownOfImpostors
@@ -144,7 +148,7 @@ Nightowl
 
 
 4.我们小镇v3.00(最新支持2021.12.15)
-
+====
 
 
 原版链接：https://github.com/Anusien/Town-Of-Us
@@ -238,7 +242,7 @@ Coroner
 Carnivore
 
 5.我们小镇分支R v2.6.4（支持2022.2.23s）
-
+====
 
 
 原版链接：https://github.com/eDonnes124/Town-Of-Us-R
@@ -344,7 +348,7 @@ Tiebreaker
 
 
 6.P服 peasmod v3.0.0-pre2（支持2021.12.15s）
-
+====
 
 
 原版链接：https://github.com/Peasplayer/Peasmod
@@ -388,7 +392,7 @@ God Impostor
 
 
 7. LAS MONJAS V1.2.0 （适合2022.2.24s）千年隼号地图
-
+====
 
 
 原版链接：https://github.com/KiraYamato94/LasMonjas
@@ -470,7 +474,7 @@ CaptureTheFlag
 
 
 8.国际象棋模组v1.1.1版本（支持2021.6.30版本）
-
+====
 
 
 原版链接：https://github.com/KyleSmith0905/Among-Chess
@@ -482,7 +486,7 @@ CaptureTheFlag
 
 
 9.挑战者模组4.1.5（支持2022.2.23）
-
+====
 
 
 原版链接：https://github.com/Lunastellia/Challenger-Among-Us
@@ -494,7 +498,7 @@ CaptureTheFlag
 
 
 10.Syyreth ModsAmongUs v3.1.2版本（支持2021.6.30版本）
-
+====
 
 
 原版链接：https://github.com/Syyreth/ModsAmongUs
@@ -550,7 +554,7 @@ Poisoner
 
 
 11.crewlink游戏聊天工具MOD  (支持版本v2021.11.9.2s)
-
+====
 
 
 原版链接：https://github.com/sawa90/AmongUsReplayInWindow
@@ -562,7 +566,7 @@ Poisoner
 
 
 12.游戏重播MOD replay 支持任何版本
-
+====
 
 
 原版链接：https://github.com/sawa90/AmongUsReplayInWindow
@@ -574,7 +578,7 @@ Poisoner
 
 
 13.恶搞模组Cursed-Among-Us v1.1.0 （支持6.30）
-
+====
 
 
 模组链接：https://github.com/Devs-Us/Cursed-Among-Us
