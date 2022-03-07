@@ -7,6 +7,7 @@
 
 
 原版链接：https://github.com/Eisbison/TheOtherRoles
+
 内鬼                |   船员       |  中立     |  次要       
 ：--------          | :-----       | :----:    |  :----:   
 Evil Mini           |Nice Mini	   |Arsonist	|Lover      
@@ -29,7 +30,11 @@ Witch	            |Snitch	      |
                   |Tracker	      |
                    |Bait	         |
                    |Medium        |
-
+| 水果        | 价格    |  数量  |
+| --------   | -----:   | :----: |
+| 香蕉        | $1      |   5    |
+| 苹果        | $1      |   6    |
+| 草莓        | $1      |   7    |
 
 
 2.超多职业GM增强版v3.5.3（超多职业的一个分支）（最新支持2022.2.24）
