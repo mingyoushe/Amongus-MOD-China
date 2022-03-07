@@ -8,41 +8,29 @@
 
 原版链接：https://github.com/Eisbison/TheOtherRoles
 
-内鬼                |   船员       |  中立     |  次要       
-：--------          | :-----       | :----:    |  :----:   
-Evil Mini           |Nice Mini	   |Arsonist	|Lover      
-Evil Guesser	      |Nice Guesser	|Jester     |	
-Bounty Hunter	      |Detective	   |Jackal	   |
-Camouflager	      |Engineer	   |Sidekick	|
-Cleaner	            |Hacker	      |Vulture	   |
-Eraser	            |Lighter	      |Lawyer	   |
-Godfather (Mafia)	|Mayor	      |           |
-Mafioso (Mafia)  	|Medic	      |
-Janitor (Mafia)	   |Security Guard|
-Morphling	         |Seer	         |
-Trickster	         |Sheriff	      |
-Vampire	            |Deputy	      |
-Warlock	            |Shifter	      |
-Witch	            |Snitch	      |
+|内鬼                |   船员       |  中立     |  次要       
+|：--------          | :-----       | :----:    |  :----:   
+|Evil Mini           |Nice Mini	   |Arsonist	|Lover      
+|Evil Guesser        |Nice Guesser	|Jester     |	
+|Bounty Hunter       |Detective	   |Jackal	   |
+|Camouflager         |Engineer	   |Sidekick	|
+|Cleaner	            |Hacker	      |Vulture	   |
+|Eraser	            |Lighter	      |Lawyer	   |
+|Godfather (Mafia)	|Mayor	      |           |
+|Mafioso (Mafia)  	|Medic	      |
+|Janitor (Mafia)	   |Security Guard|
+|Morphling	         |Seer	         |
+|Trickster	         |Sheriff	      |
+|Vampire	            |Deputy	      |
+|Warlock	            |Shifter	      |
+|Witch	            |Snitch	      |
                    |Spy	         |
                   |Swapper	      |
                   |Time Master	|
                   |Tracker	      |
                    |Bait	         |
                    |Medium        |
-| 内鬼        | 船员   |  中立  |
-| --------   | -----:   | :----: |
-| Evil Mini        | $1      |   5    |
-| 苹果        | $1      |   6    |
-| 草莓        | $1      |   7    |
-| 草莓        | $1      |   7    |
-| 草莓        | $1      |   7    |
-| 草莓        | $1      |   7    |
-| 草莓        | $1      |   7    |
-| 草莓        | $1      |   7    |
-| 草莓        | $1      |   7    |
-| 草莓        | $1      |   7    |
-| 草莓        | $1      |   7    |
+
 
 
 2.超多职业GM增强版v3.5.3（超多职业的一个分支）（最新支持2022.2.24）
