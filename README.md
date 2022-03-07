@@ -7,7 +7,7 @@
 
 
 原版链接：https://github.com/Eisbison/TheOtherRoles <br>  
-https://wwi.lanzoul.com/imbgA015ec2f
+汉化版本3.4.4：https://wwi.lanzoul.com/imbgA015ec2f
 
 
 | Impostors         | 内鬼职业     | Crewmates      | 船员职业 | Neutral  | 中立职业 | Secondary | 其他职业 |
