@@ -6,7 +6,10 @@
 ====
 
 
-原版链接：https://github.com/Eisbison/TheOtherRoles
+原版链接：https://github.com/Eisbison/TheOtherRoles <br>  
+https://wwi.lanzoul.com/imbgA015ec2f
+
+
 | Impostors         | 内鬼职业     | Crewmates      | 船员职业 | Neutral  | 中立职业 | Secondary | 其他职业 |
 |:-------------------|:----------|:----------------|:------|:----------|:------|:-----------|:------|
 | Evil Mini         | 坏小人      | Nice Mini      | 好小人  | Arsonist | 纵火犯  | Lover     | 恋人   |
@@ -37,6 +40,8 @@
 
 
 原版链接：https://github.com/yukinogatari/TheOtherRoles-GM
+
+
 | Impostors         | 内鬼职业     | Crewmates      | 船员职业 | Neutral          | 中立职业    | Other  | 其他职业 |
 |-------------------|----------|----------------|------|------------------|---------|--------|------|
 | Evil Mini         | 坏小人      | Nice Mini      | 好小人  | Arsonist         | 纵火犯     | GM     | 管理员  |
@@ -154,7 +159,7 @@
 7.LAS MONJAS V1.2.0 （适合2022.2.24s）千年隼号地图
 ====
 
-原版链接：https://github.com/KiraYamato94/LasMonjas
+原版链接：https://github.com/KiraYamato94/LasMonjas <br>  
 2.23汉化文件https://wwi.lanzoul.com/iGvX0015dvef
 
 | GameModes | CaptureTheFlag | PoliceAndThiefs | KingOfTheHill |
