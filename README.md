@@ -6,7 +6,7 @@
 ====
 
 
-原版链接：<font color=red>https://github.com/Eisbison/TheOtherRoles</font>
+原版链接：<font color=red>https://github.com/Eisbison/TheOtherRoles
 
 |内鬼                |   船员       |  中立     |  次要       |
 |：--------          | :-----       | :----:    |  :----:    |      
