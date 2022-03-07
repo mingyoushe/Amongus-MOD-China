@@ -300,30 +300,62 @@
 16.历代Amongus版本更新
 ====
 Amongus2020.12.9
-链接：https://pan.baidu.com/s/1LUMk-YcXhVE7JwD9eCNhEw?pwd=5ht5 
-提取码：5ht5 
+链接：https://pan.baidu.com/s/156U6CL1e88vyjHgcHxJCrQ?pwd=fhvg 
+提取码：fhvg 
 
-Amongus2021.4.14
+
+Amongus2021.3.5
+链接：https://pan.baidu.com/s/193yZLM55PFpYt0kpGM-Ycw?pwd=g7n7 
+提取码：g7n7 
+
+
+Amongus2021.3.31
+链接：https://pan.baidu.com/s/1ls8WKDP7HO-XOoA9iuFSGA?pwd=whka 
+提取码：whka 
+
+
+Amongus2021.4.1
+链接：https://pan.baidu.com/s/1bmsXM4Pv9Mo5IZnmFbmmug?pwd=navz 
+提取码：navz 
+
 
 Amongus2021.5.10
+链接：https://pan.baidu.com/s/192kJlxfjJ3mIKyKWIp147w?pwd=uw41 
+提取码：uw41 
 
 Amongus2021.5.25
+链接：https://pan.baidu.com/s/1UGoazB9bfwRoIvCj3atFCw?pwd=u9ix 
+提取码：u9ix 
 
 Amongus2021.6.15
+链接：https://pan.baidu.com/s/1dpmA3OXfpOkFZdYqi3qc3A?pwd=xol1 
+提取码：xol1 
 
-Amongus2021.6.16
 
 Amongus2021.6.30
+链接：https://pan.baidu.com/s/13GdzzYaY6omrbeR4Sn0mfA?pwd=nbab 
+提取码：nbab 
+
 
 Amongus2021.12.15
+链接：https://pan.baidu.com/s/1sU-BfRBKeYkcUBzcUlQArw?pwd=8m60 
+提取码：8m60 
 
 Amongus2021.12.16
+链接：https://pan.baidu.com/s/1PR4oHYr3nZNK83-XDr8ojQ?pwd=3sx3 
+提取码：3sx3 
 
 Amongus2022.2.8
+链接：https://pan.baidu.com/s/1aZBgVigyf6ylDn-Hik94nQ?pwd=klki 
+提取码：klki 
 
 Amongus2021.2.23
+链接：https://pan.baidu.com/s/1OQPjC06RFWSCS_f7LY_UhQ?pwd=qdrk 
+提取码：qdrk 
 
 Amongus2021.2.24
+链接：https://pan.baidu.com/s/1DNEvZP94H6c9i12eDDdMcA?pwd=cwdi 
+提取码：cwdi 
 
 
 
