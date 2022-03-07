@@ -69,43 +69,17 @@
 
 
 
-Crewmate Team
-
-Sheriff
-
-Doctor
-
-Agent
-
-Detective
-
-Plumber
-
-Informant
-
-Trickster
-
-Operative
-
-Mayor
-
-Other Teams
-
-Jester
-
-Arsonist
-
-Impostor
-
-Modifiers
-
-Lovers
-
-Giant
-
-Tiny
-
-Nightowl
+| Crewmate Team  | 船员职业 | Impostor  | 内鬼职业 | Other Teams  | 其他职业 | Modifiers  |  其他效果 |
+|----------------|------|-----------|------|--------------|------|------------|-------|
+| Sheriff        | 警长   | Dragger   | 拖拽者  | Jester       | 小丑   | Lovers     | 恋人    |
+| Doctor         | 医生   | Morphling | 变形者  | Arsonist     | 纵火犯  | Giant      | 巨人    |
+| Agent          | 代理人  | Deceiver  | 欺骗者  |              |      | Tiny       | 小人    |
+| Detective      | 调查员  | Viper     | 毒蛇   |              |      | Nightowl   | 小灯人   |
+| Plumber        | 管道工  | Sniper    | 狙击手  |              |      |            |       |
+| Informant      | 告密者  |           |      |              |      |            |       |
+| Trickster      | 诱饵   |           |      |              |      |            |       |
+| Operative      | 特务   |           |      |              |      |            |       |
+| Mayor          | 市长   |           |      |              |      |            |       |
 
 
 
@@ -115,93 +89,23 @@ Nightowl
 
 原版链接：https://github.com/Anusien/Town-Of-Us
 
+| Crewmate Roles  | 船员职业 | Neutral Roles  | 中立职业 | Impostor Roles  | 内鬼职业 | Modifiers     | 效果设置 |
+|-----------------|------|----------------|------|-----------------|------|---------------|------|
+| Mayor           | 市长   | Jester         | 小丑   | Janitor         | 清洁工  | Torch         | 小灯人  |
+| Lovers          | 恋人   | Shifter        | 交换师  | Morphling       | 变形者  | Diseased      | 瘟疫   |
+| Sheriff         | 警长   | The Glitch     |      | Camouflager     | 隐蔽者  | Flash         | 闪现   |
+| Engineer        | 工程师  | Executioner    |      | Miner           | 矿工   | Tiebreaker    |      |
+| Swapper         | 换票师  | Arsonist       | 纵火犯  | Swooper         |      | Drunk         | 醉酒   |
+| Investigator    | 调查员  | Phantom        | 幻影   | Underdog        |      | Giant         | 巨人   |
+| Time Lord       | 时间大师 |                |      | Undertaker      |      | Button Barry  |      |
+| Medic           | 医生   |                |      | Teleporter      |      | Coroner       |      |
+| Seer            | 灵媒   |                |      | Concealer       |      | Carnivore     |      |
+| Spy             | 间谍   |                |      | Grenadier       |      |               |      |
+| Snitch          | 告密者  |                |      |                 |      |               |      |
+| Altruist        |      |                |      |                 |      |               |      |
+| Prophet         |      |                |      |                 |      |               |      |
+| Covert          |      |                |      |                 |      |               |      |
 
-
-Crewmate Roles
-
-Mayor
-
-Lovers
-
-Sheriff
-
-Engineer
-
-Swapper
-
-Investigator
-
-Time Lord
-
-Medic
-
-Seer
-
-Spy
-
-Snitch
-
-Altruist
-
-Prophet
-
-Covert
-
-Neutral Roles
-
-Jester
-
-Shifter
-
-The Glitch
-
-Executioner
-
-Arsonist
-
-Phantom
-
-Impostor Roles
-
-Janitor
-
-Morphling
-
-Camouflager
-
-Miner
-
-Swooper
-
-Underdog
-
-Undertaker
-
-Teleporter
-
-Concealer
-
-Grenadier
-
-Modifiers
-
-Torch
-
-Diseased
-
-Flash
-
-Tiebreaker
-
-Drunk
-
-Giant
-
-Button Barry
-
-Coroner
-
-Carnivore
 
 5.我们小镇分支R v2.6.4（支持2022.2.23s）
 ====
@@ -211,102 +115,24 @@ Carnivore
 
 
 
-Crewmate
-
-Haunter
-
-Investigator
-
-Seer
-
-Snitch
-
-Spy
-
-Tracker
-
-Sheriff
-
-Veteran
-
-Vigilante
-
-Altruist
-
-Medic
-
-Engineer
-
-Mayor
-
-Swapper
-
-Time Lord
-
-Transporter
-
-时间领主
-
-运输车
-
-Neutral
-
-Amnesiac
-
-Executioner
-
-Jester
-
-Phantom
-
-Arsonist
-
-The Glitch
-
-Impostor 
-
-Camouflager
-
-Grenadier
-
-Morphling
-
-Swooper
-
-Poisoner
-
-Traitor
-
-Underdog
-
-Janitor
-
-Miner
-
-Undertaker
-
-Modifiers
-
-Bait
-
-Diseased
-
-Torch
-
-Button Barry
-
-Drunk
-
-Flash
-
-Giant
-
-Lovers
-
-Sleuth
-
-Tiebreaker
-
+| Crewmate Roles | 船员职业 | Neutral Roles | 中立职业 | Impostor Roles | 内鬼职业 | Modifiers     | 效果设置 |
+|----------------|------|---------------|------|----------------|------|---------------|------|
+| Haunter        | 猎人   | Amnesiac      |      | Camouflager    | 隐蔽者  | Bait          |      |
+| Investigator   | 调查员  | Executioner   |      | Grenadier      |      | Diseased      | 疾病   |
+| Seer           | 灵媒   | Jester        | 小丑   | Morphling      | 变形者  | Torch         | 小灯人  |
+| Snitch         | 告密者  | Phantom       |      | Swooper        |      | Button Barry  |      |
+| Spy            | 间谍   | Arsonist      | 纵火犯  | Poisoner       |      | Drunk         | 醉酒   |
+| Tracker        | 追踪者  | The Glitch    |      | Traitor        |      | Flash         |      |
+| Sheriff        | 警长   |               |      | Underdog       |      | Giant         | 巨人   |
+| Veteran        |      |               |      | Janitor        | 清洁工  | Lovers        | 恋人   |
+| Vigilante      |      |               |      | Miner          |      | Sleuth        |      |
+| Altruist       |      |               |      | Undertaker     |      | Tiebreaker    |      |
+| Medic          | 医生   |               |      |                |      |               |      |
+| Engineer       | 工程师  |               |      |                |      |               |      |
+| Mayor          | 市长   |               |      |                |      |               |      |
+| Swapper        | 换票师  |               |      |                |      |               |      |
+| Time Lord      | 时间之主 |               |      |                |      |               |      |
+| Transporter    |      |               |      |                |      |               |      |
 
 
 6.P服 peasmod v3.0.0-pre2（支持2021.12.15s）
@@ -315,42 +141,14 @@ Tiebreaker
 
 原版链接：https://github.com/Peasplayer/Peasmod
 
-
-
-
-Neutral
-Jester
-Troll
-
-Crewmate
-Captain
-
-Demon
-
-Doctor
-
-Inspector
-
-Mayor
-
-Sheriff
-
-Impostor
-Builder
-
-Glaciater
-
-Janitor
-
-Ninja
-
-Undertaker
-
-GameModes
-BattleRoyale
-Hide and Seek
-
-God Impostor
+| Crewmate Roles | 船员职业 | Impostor Roles | 内鬼职业 | Neutral Roles | 中立职业 | GameModes     | 其他模式 |
+|----------------|------|----------------|------|---------------|------|---------------|------|
+| Captain        | 船长   | Builder        | 建筑工  | Jester        | 小丑   | BattleRoyale  | 大乱斗  |
+| Demon          | 恶魔   | Glaciater      | 冷冻人  | Troll         | 小鬼   | Hide and Seek | 躲猫猫  |
+| Doctor         | 医生   | Janitor        | 清理者  |               |      | God Impostor  | 上帝内鬼 |
+| Inspector      | 调查员  | Ninja          | 忍者   |               |      |               |      |
+| Mayor          | 市长   | Undertaker     | 刺客   |               |      |               |      |
+| Sheriff        | 警长   |                |      |               |      |               |      |
 
 
 7. LAS MONJAS V1.2.0 （适合2022.2.24s）千年隼号地图
