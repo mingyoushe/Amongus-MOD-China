@@ -8,47 +8,28 @@
 
 原版链接：<font color=red>https://github.com/Eisbison/TheOtherRoles</font>
 
-|内鬼          |   船员     |  中立     |  次要|
-|：--------      | -----:     | :----:    |  :----: |      
-|Evil Mini	|Nice Mini	|Arsonist	|Lover|
-|Evil Guesser	|Nice Guesser	|Jester|	
-|Bounty Hunter	|Detective	|Jackal	|
-|Camouflager	|Engineer	|Sidekick	|
-|Cleaner	|Hacker	|Vulture	|
-|Eraser	|Lighter	|Lawyer	|
-|Godfather (Mafia)	|Mayor	|
-
-|Mafioso (Mafia)	|Medic	|
-
-|Janitor (Mafia)	|Security Guard	|
-
-|Morphling	|Seer	|
-
-|Trickster	|Sheriff	|
-
-|Vampire	|Deputy	|
-
-|Warlock	|Shifter	|
-
-|Witch	|Snitch	|
-
-
-|  |Spy	|
-
-
-|  |Swapper	|
-
-
-|  |Time Master	|
-
-
-|  |Tracker	|
-
-
-|  |Bait	|
-
-
-|  |Medium|
+|内鬼             |   船员     |  中立     |  次要|
+|：--------      | :-----     | :----:    |  :----: |      
+|Evil Mini           |Nice Mini	   |Arsonist	|Lover|
+|Evil Guesser	      |Nice Guesser	|Jester     |	
+|Bounty Hunter	      |Detective	   |Jackal	   |
+|Camouflager	      |Engineer	   |Sidekick	|
+|Cleaner	            |Hacker	      |Vulture	   |
+|Eraser	            |Lighter	      |Lawyer	   |
+|Godfather (Mafia)	|Mayor	      |
+|Mafioso (Mafia)  	|Medic	      |
+|Janitor (Mafia)	   |Security Guard|
+|Morphling	         |Seer	         |
+|Trickster	         |Sheriff	      |
+|Vampire	            |Deputy	      |
+|Warlock	            |Shifter	      |
+|Witch	            |Snitch	      |
+|                    |Spy	         |
+|                    |Swapper	      |
+|                    |Time Master	|
+|                    |Tracker	      |
+|                    |Bait	         |
+|                    |Medium        |
 
 
 
