@@ -297,8 +297,31 @@
 原版链接：https://github.com/sawa90/AmongUsReplayInWindow
 
 
+16.历代Amongus版本更新
+====
+Amongus2020.12.9
 
+Amongus2021.4.14
 
+Amongus2021.5.10
+
+Amongus2021.5.25
+
+Amongus2021.6.15
+
+Amongus2021.6.16
+
+Amongus2021.6.30
+
+Amongus2021.12.15
+
+Amongus2021.12.16
+
+Amongus2022.2.8
+
+Amongus2021.2.23
+
+Amongus2021.2.24
 
 
 
