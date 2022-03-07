@@ -240,7 +240,7 @@
 | Lovers           | 恋人   |                 |      |                  |      |                |      |
 
 
-11.恶搞模组Cursed-Among-Us v1.1.0 （支持6.30）
+11.恶搞模组Cursed-Among-Us v1.1.0 （支持2021.6.30）
 ====
 
 
@@ -264,7 +264,7 @@
 | Standard       | 标准模式  |
 
 
-13.哈利波特模组
+13.哈利波特模组（最新支持2021.5.10）
 ====
 模组链接：https://github.com/FatherofHeathens/HarryPotterAmongUs
 
