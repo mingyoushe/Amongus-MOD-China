@@ -255,6 +255,7 @@
 
 12.S服skeld.net(最新支持2021.6.30)
 ====
+模组链接：https://skeld.net/
 | GameMOD        | 游戏模式  |
 |----------------|-------|
 | Slenderman     | 瘦长鬼影  |
@@ -285,7 +286,7 @@
 
 
 
-模组链接：https://skeld.net/
+
 
 14.crewlink游戏聊天工具MOD  (支持版本v2021.11.9.2s)
 ====
