@@ -214,6 +214,7 @@
 
 原版链接：https://github.com/Lunastellia/Challenger-Among-Us
 
+![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/%E6%8C%91%E6%88%98%E8%80%85%E6%88%91%E4%BB%AC%E4%B8%AD%E9%97%B44.1.3.png)
 
 
 
