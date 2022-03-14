@@ -304,7 +304,7 @@
 原版链接：https://github.com/sawa90/AmongUsReplayInWindow
 
 
-16.Amongus相关单机小游戏
+16.Amongus相关单机小游戏PC
 ====
 Amongus Dream <br> 
 链接：https://pan.baidu.com/s/1bdQiuRndy_BmgruCjfx8SQ?pwd=14hg 
