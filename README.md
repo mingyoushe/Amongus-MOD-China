@@ -203,8 +203,7 @@
 
 原版链接：https://github.com/KyleSmith0905/Among-Chess
 
-
-
+![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/%E8%B1%A1%E6%A3%8B%E6%A8%A1%E7%BB%84.png)
 
 
 
