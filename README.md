@@ -157,7 +157,7 @@
 | Sheriff        | 警长   |                |      |               |      |               |      |
 
 
-7.LAS MONJAS V1.2.0 （适合2022.2.24s）千年隼号地图
+7.LAS MONJAS V1.2.1 （适合2022.2.24s）千年隼号地图
 ====
 
 原版链接：https://github.com/KiraYamato94/LasMonjas <br>  
@@ -304,7 +304,31 @@
 原版链接：https://github.com/sawa90/AmongUsReplayInWindow
 
 
-16.历代Amongus版本更新
+16.Amongus相关单机小游戏
+====
+Amongus Dream <br> 
+链接：https://pan.baidu.com/s/1bdQiuRndy_BmgruCjfx8SQ?pwd=14hg 
+提取码：14hg 
+
+Amngus You <br> 
+链接：https://pan.baidu.com/s/1yi0U1w86RakI4d1Y2g8NuA?pwd=kn5z 
+提取码：kn5z 
+
+Amongus Them <br> 
+链接：https://pan.baidu.com/s/1vdQvkW10CaNosqGmY4f7jg?pwd=yqnb 
+提取码：yqnb 
+
+Amongus The woods <br> 
+链接：https://pan.baidu.com/s/1rDDHQaifEBoIhDoz1CNs7g?pwd=yvuo 
+提取码：yvuo 
+
+Amongus Me <br> 
+链接：https://pan.baidu.com/s/1A7pXCBbCockC6tryC9DpLw?pwd=fe1w 
+提取码：fe1w 
+
+
+
+17.历代Amongus版本更新
 ====
 Amongus2018.11.14
 链接：https://pan.baidu.com/s/1zyIWzYKfpmdCjsSHc6m2dg?pwd=2xim 
