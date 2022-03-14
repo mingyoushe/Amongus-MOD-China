@@ -227,6 +227,9 @@
 
 原版链接：https://github.com/Syyreth/ModsAmongUs
 
+![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/Syyreth's%20ModsAmongUs%20Roles.jpg.png) <br>
+
+
 
 | Crewmate Roles:  | 船员职业 | Neutral Roles:  | 中立职业 | Impostor Roles:  | 内鬼职业 | Coven Roles:   | 巫师团  |
 |------------------|------|-----------------|------|------------------|------|----------------|------|
