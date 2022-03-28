@@ -146,6 +146,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 6.TheEpicRoles  v1.1.1（支持2022.2.24s）
 ====
+原版链接：https://github.com/LaicosVK/TheEpicRoles
 新特点：
 1.上一场比赛中最先死亡的玩家将在下一场比赛中获得首杀盾。<br> 
 2.就绪状态：当有一个人未准备好时，大厅主持人无法开始游戏。<br> 
@@ -182,23 +183,10 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 
-7.P服 peasmod v3.0.0-pre2.1（支持2021.12.15s）
-====
 
 
-原版链接：https://github.com/Peasplayer/Peasmod
 
-| Crewmate Roles | 船员职业 | Impostor Roles | 内鬼职业 | Neutral Roles | 中立职业 | GameModes     | 其他模式 |
-|----------------|------|----------------|------|---------------|------|---------------|------|
-| Captain        | 船长   | Builder        | 建筑工  | Jester        | 小丑   | BattleRoyale  | 大乱斗  |
-| Demon          | 恶魔   | Glaciater      | 冷冻人  | Troll         | 小鬼   | Hide and Seek | 躲猫猫  |
-| Doctor         | 医生   | Janitor        | 清理者  |               |      | God Impostor  | 上帝内鬼 |
-| Inspector      | 调查员  | Ninja          | 忍者   |               |      |               |      |
-| Mayor          | 市长   | Undertaker     | 刺客   |               |      |               |      |
-| Sheriff        | 警长   |                |      |               |      |               |      |
-
-
-8.LAS MONJAS V1.3.2 （适合2022.2.24s）千年隼号地图
+7.LAS MONJAS V1.3.2 （适合2022.2.24s）千年隼号地图
 ====
 
 原版链接：https://github.com/KiraYamato94/LasMonjas <br>  
@@ -234,11 +222,28 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 |             |      | Jinx           | 倒霉蛋  |                 |      |                |       |
 
 
+8.ExtremeRoles v1.19.0.1 （适合2022.2.24s）日语mod 
+====
+原版链接：https://github.com/yukieiji/ExtremeRoles
 
 
 
+9.P服 peasmod v3.0.0-pre2.1（支持2021.12.15s）
+====
 
-9.国际象棋模组v1.1.1版本（支持2021.6.30版本）
+
+原版链接：https://github.com/Peasplayer/Peasmod
+
+| Crewmate Roles | 船员职业 | Impostor Roles | 内鬼职业 | Neutral Roles | 中立职业 | GameModes     | 其他模式 |
+|----------------|------|----------------|------|---------------|------|---------------|------|
+| Captain        | 船长   | Builder        | 建筑工  | Jester        | 小丑   | BattleRoyale  | 大乱斗  |
+| Demon          | 恶魔   | Glaciater      | 冷冻人  | Troll         | 小鬼   | Hide and Seek | 躲猫猫  |
+| Doctor         | 医生   | Janitor        | 清理者  |               |      | God Impostor  | 上帝内鬼 |
+| Inspector      | 调查员  | Ninja          | 忍者   |               |      |               |      |
+| Mayor          | 市长   | Undertaker     | 刺客   |               |      |               |      |
+| Sheriff        | 警长   |                |      |               |      |               |      |
+
+10.国际象棋模组v1.1.1版本（支持2021.6.30版本）
 ====
 
 
@@ -249,7 +254,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 
-10.挑战者模组4.2.0（支持2022.2.24）
+11.挑战者模组4.2.0（支持2022.2.24）
 ====
 
 
@@ -262,7 +267,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 
-11.Syyreth ModsAmongUs v4.0.0版本（支持2022.2.23版本）
+12.Syyreth ModsAmongUs v4.0.0版本（支持2022.2.23版本）
 ====
 
 
@@ -291,13 +296,13 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 | Lovers           | 恋人   |                 |      |                  |      |                |      |
 
 
-12.恶搞模组Cursed-Among-Us v1.1.0 （支持2021.6.30）
+13.恶搞模组Cursed-Among-Us v1.1.0 （支持2021.6.30）
 ====
 
 
 模组链接：https://github.com/Devs-Us/Cursed-Among-Us
 
-13.S服skeld.net(最新支持2021.6.30)
+14.S服skeld.net(最新支持2021.6.30)
 ====
 模组链接：https://skeld.net/
 | GameMOD        | 游戏模式  |
@@ -316,7 +321,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 | Standard       | 标准模式  |
 
 
-14.哈利波特模组（最新支持2021.5.10）
+15.哈利波特模组（最新支持2021.5.10）
 ====
 模组链接：https://github.com/FatherofHeathens/HarryPotterAmongUs
 
@@ -332,7 +337,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 
-15.crewlink游戏聊天工具MOD v2.0.1  (支持版本v2021.11.9.2s)
+16.crewlink游戏聊天工具MOD v2.0.1  (支持版本v2021.11.9.2s)
 ====
 
 
@@ -342,14 +347,14 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 
-16.游戏重播MOD replay 支持任何版本
+17.游戏重播MOD replay 支持任何版本
 ====
 
 
 原版链接：https://github.com/sawa90/AmongUsReplayInWindow
 
 
-17.Amongus相关单机小游戏PC
+18.Amongus相关单机小游戏PC
 ====
 Amongus Dream <br> 
 链接：https://pan.baidu.com/s/1bdQiuRndy_BmgruCjfx8SQ?pwd=14hg 
@@ -373,7 +378,7 @@ Amongus Me <br>
 
 
 
-18.历代Amongus版本更新
+19.历代Amongus版本更新
 ====
 Amongus2018.11.14
 链接：https://pan.baidu.com/s/1zyIWzYKfpmdCjsSHc6m2dg?pwd=2xim 
