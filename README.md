@@ -2,7 +2,7 @@
 太空狼人杀中文模组
 前提：amongus官方服务器版本最低支持6.30版本，之前版本只能私人服务器才能玩。
 
-   1.超多职业模组V3.4.4（最新支持2022.2.23）
+   1.超多职业模组V3.4.4（最新支持2022.2.24）
 ====
 
 
@@ -35,37 +35,39 @@
 
 
 
-2.超多职业GM增强版v3.5.4（超多职业的一个分支）（最新支持2022.2.24）
+2.超多职业GM增强版v3.5.4（自带汉化超多职业的一个分支）（最新支持2022.2.24）
 ====
 
 
 原版链接：https://github.com/yukinogatari/TheOtherRoles-GM <br> 
 汉化论坛：https://www.amongus-cn.tk <br> 
 
+GM是管理员模式，一般作为裁判存在，
 
-| Impostors         | 内鬼职业     | Crewmates      | 船员职业 | Neutral          | 中立职业    | Other  | 其他职业 |
-|-------------------|----------|----------------|------|------------------|---------|--------|------|
-| Evil Mini         | 坏小人      | Nice Mini      | 好小人  | Arsonist         | 纵火犯     | GM     | 管理员  |
-| Evil Guesser      | 赌怪       | Nice Guesser   | 好赌怪  | Jester           | 小丑      |        |      |
-| Bounty Hunter     | 赏金猎人     | Detective      | 调查员  | Jackal           | 豺狼      |        |      |
-| Camouflager       | 隐蔽者      | Engineer       | 工程师  | Sidekick         | 跟班      |        |      |
-| Cleaner           | 清洁工      | Hacker         | 黑客   | Lover            | 恋人      |        |      |
-| Eraser            | 抹除者      | Lighter        | 小灯人  | Opportunist      | 投机主义    |        |      |
-| Godfather (Mafia) | 教父（黑手党）  | Mayor          | 市长   | Vulture          | 秃鹫      |        |      |
-| Mafioso (Mafia)   | 黑手党（黑手党） | Medic          | 医生   | Lawyer           | 律师      |        |      |
-| Janitor (Mafia)   | 清洁工（黑手党） | Security Guard | 保安   | Chain-Shifter    | 连环交换师   |        |      |
-| Morphling         | 变形者      | Seer           | 灵媒   | Plague Doctor    | 瘟疫医生    |        |      |
-| Trickster         | 骗术师      | Sheriff        | 警长   | Fox & Immoralist | 狐妖&背德者 |        |      |
-| Vampire           | 吸血鬼      | Shifter        | 交换者  |                  |         |        |      |
-| Warlock           | 术士       | Snitch         | 	告密者 |                  |         |        |      |
-| Witch             | 女巫       | Spy            | 间谍   |                  |         |        |      |
-| Ninja             | 忍者       | Nice Swapper   | 好换票师 |                  |         |        |      |
-| Evil Swapper      | 坏换票师     | Time Master    | 时间之主 |                  |         |        |      |
-| Serial Killer     | 嗜血杀手     | Tracker        | 追踪者  |                  |         |        |      |
-| Neko-Kabocha      | 复仇者    | Bait           | 诱饵   |                  |         |        |      |
-| Evil Watcher      | 坏观察者   | Madmate        | 	通灵师 |                  |         |        |      |
-|                   |          | Fortune Teller | 	算命先生 |                  |         |        |      |
-|                   |          | Nice Watcher |  好观察者 |                  |         |        |      |
+| Impostors         | 内鬼职业     | Crewmates      | 船员职业 | Neutral          | 中立职业   |
+|-------------------|----------|----------------|------|------------------|--------|
+| Evil Mini         | 坏小人      | Nice Mini      | 好小人  | Arsonist         | 纵火犯    |
+| Evil Guesser      | 赌怪       | Nice Guesser   | 好赌怪  | Jester           | 小丑     |
+| Bounty Hunter     | 赏金猎人     | Detective      | 调查员  | Jackal           | 豺狼     |
+| Camouflager       | 隐蔽者      | Engineer       | 工程师  | Sidekick         | 跟班     |
+| Cleaner           | 清洁工      | Hacker         | 黑客   | Lover            | 恋人     |
+| Eraser            | 抹除者      | Lighter        | 小灯人  | Opportunist      | 投机主义   |
+| Godfather (Mafia) | 教父（黑手党）  | Mayor          | 市长   | Vulture          | 秃鹫     |
+| Mafioso (Mafia)   | 黑手党（黑手党） | Medic          | 医生   | Lawyer           | 律师     |
+| Janitor (Mafia)   | 清洁工（黑手党） | Security Guard | 保安   | Chain-Shifter    | 连环交换师  |
+| Morphling         | 变形者      | Seer           | 灵媒   | Plague Doctor    | 瘟疫医生   |
+| Trickster         | 骗术师      | Sheriff        | 警长   | Fox & Immoralist | 狐妖&背德者 |
+| Vampire           | 吸血鬼      | Shifter        | 交换者  |                  |        |
+| Warlock           | 术士       | Snitch         | 告密者  |                  |        |
+| Witch             | 女巫       | Spy            | 间谍   |                  |        |
+| Ninja             | 忍者       | Nice Swapper   | 好换票师 |                  |        |
+| Evil Swapper      | 坏换票师     | Time Master    | 时间之主 |                  |        |
+| Serial Killer     | 嗜血杀手     | Tracker        | 追踪者  |                  |        |
+| Neko-Kabocha      | 复仇者      | Bait           | 诱饵   |                  |        |
+| Evil Watcher      | 坏观察者     | Madmate        | 通灵师  |                  |        |
+|                   |          | Fortune Teller | 算命先生 |                  |        |
+|                   |          | Nice Watcher   | 好观察者 |                  |        |
+
 
 
 3.内鬼小镇（最新支持2021.6.15版本）仅私服可玩  
