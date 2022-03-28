@@ -35,12 +35,12 @@
 
 
 
-2.超多职业GM增强版v3.5.3（超多职业的一个分支）（最新支持2022.2.24）
+2.超多职业GM增强版v3.5.4（超多职业的一个分支）（最新支持2022.2.24）
 ====
 
 
 原版链接：https://github.com/yukinogatari/TheOtherRoles-GM <br> 
-超多职业GM3.5.2汉化版：https://wwi.lanzoul.com/imbgA015ec2f <br> 
+汉化论坛：https://www.amongus-cn.tk <br> 
 
 
 | Impostors         | 内鬼职业     | Crewmates      | 船员职业 | Neutral          | 中立职业    | Other  | 其他职业 |
@@ -63,8 +63,9 @@
 | Evil Swapper      | 坏换票师     | Time Master    | 时间之主 |                  |         |        |      |
 | Serial Killer     | 连环杀手     | Tracker        | 追踪者  |                  |         |        |      |
 | Neko-Kabocha      | 南瓜复仇者    | Bait           | 诱饵   |                  |         |        |      |
-|                   |          | Madmate        | 	通灵师 |                  |         |        |      |
+| Evil Watcher      | 坏观察者   | Madmate        | 	通灵师 |                  |         |        |      |
 |                   |          | Fortune Teller | 	算命先生 |                  |         |        |      |
+|                   |          | Nice Watcher |  好观察者 |                  |         |        |      |
 
 
 3.内鬼小镇（最新支持2021.6.15版本）仅私服可玩  
@@ -89,7 +90,7 @@
 
 
 
-4.我们小镇v3.00(最新支持2021.12.15)
+4.我们小镇v3.11(最新支持2021.12.15)
 ====
 
 
@@ -113,7 +114,7 @@
 | Covert          | 隐秘者 |                |      |                 |      |               |      |
 
 
-5.我们小镇分支R v2.6.4（支持2022.2.23s）
+5.我们小镇分支R v2.6.5（支持2022.2.23s）
 ====
 
 
@@ -141,7 +142,7 @@
 | Transporter    |      |               |      |                |      |               |      |
 
 
-6.P服 peasmod v3.0.0-pre2（支持2021.12.15s）LAS
+6.P服 peasmod v3.0.0-pre2.1（支持2021.12.15s）
 ====
 
 
@@ -157,15 +158,15 @@
 | Sheriff        | 警长   |                |      |               |      |               |      |
 
 
-7.LAS MONJAS V1.2.1 （适合2022.2.24s）千年隼号地图
+7.LAS MONJAS V1.3.2 （适合2022.2.24s）千年隼号地图
 ====
 
 原版链接：https://github.com/KiraYamato94/LasMonjas <br>  
-2.23汉化文件https://wwi.lanzoul.com/iGvX0015dvef
+汉化论坛：https://www.amongus-cn.tk/ <br>
 
-| GameModes | CaptureTheFlag | PoliceAndThiefs | KingOfTheHill |
-|-----------|----------------|-----------------|---------------|
-| 游戏模式      | 夺旗模式           | 警察抓小偷           | 山丘之王          |
+| GameModes | CaptureTheFlag | PoliceAndThiefs | KingOfTheHill | Hot Potato |
+|-----------|----------------|-----------------|---------------|---------------|
+| 游戏模式      | 夺旗模式           | 警察抓小偷           | 山丘之王          | 热土豆          |
 
 
 
@@ -208,7 +209,7 @@
 
 
 
-9.挑战者模组4.1.5（支持2022.2.23）
+9.挑战者模组4.2.0（支持2022.2.24）
 ====
 
 
@@ -221,13 +222,13 @@
 
 
 
-10.Syyreth ModsAmongUs v3.1.2版本（支持2021.6.30版本）
+10.Syyreth ModsAmongUs v4.0.0版本（支持2022.2.23版本）
 ====
 
 
 原版链接：https://github.com/Syyreth/ModsAmongUs
 
-![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/Syyreth's%20ModsAmongUs%20Roles.jpg.png) <br>
+![image](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Syyreth's%20ModsAmongUs%20Roles.png) <br>
 
 
 
@@ -291,7 +292,7 @@
 
 
 
-14.crewlink游戏聊天工具MOD  (支持版本v2021.11.9.2s)
+14.crewlink游戏聊天工具MOD v2.0.1  (支持版本v2021.11.9.2s)
 ====
 
 
