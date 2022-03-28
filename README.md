@@ -144,7 +144,45 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 | Transporter    |      |               |      |                |      |               |      |
 
 
-6.P服 peasmod v3.0.0-pre2.1（支持2021.12.15s）
+6.TheEpicRoles  v1.1.1（支持2022.2.24s）
+====
+新特点：
+1.上一场比赛中最先死亡的玩家将在下一场比赛中获得首杀盾。<br> 
+2.就绪状态：当有一个人未准备好时，大厅主持人无法开始游戏。<br> 
+3.定制鼠标光标。<br> 
+4.模组选项类别分类。<br> 
+5.运输船不再抖动。<br> 
+
+
+| Impostors         | 内鬼   | Crewmates      | 船员    | Neutral  | 中立   |   |
+|-------------------|------|----------------|-------|----------|------|---|
+| Evil Mini         | 坏小人  | Nice Mini      |  好小人  | Arsonist |  纵火犯 |   |
+| Evil Guesser      | 坏赌怪  | Nice Guesser   | 好赌怪   | Jester   | 小丑   |   |
+| Bounty Hunter     | 赏金猎人 | Detective      | 调查员   | Jackal   | 豺狼   |   |
+| Camouflager       | 隐蔽者  | Engineer       | 工程师   | Sidekick | 跟班   |   |
+| Cleaner           | 清洁工  | Hacker         | 黑客    | Vulture  | 秃鹫   |   |
+| Eraser            | 抹除者  | Lighter        | 小灯人   | Lawyer   | 律师   |   |
+| Godfahter (Mafia) | 教父   | Mayor          | 市长    | Lover    | 恋人   |   |
+| Mafioso (Mafia)   | 黑手党  | Medic          | 医生    |          |      |   |
+| Janitor (Mafia)   | 清洁工  | Security Guard | 保安    |          |      |   |
+| Morphling         | 变形者  | Seer           | 灵媒    |          |      |   |
+| Trickster         | 骗术师  | Sheriff        | 警长    |          |      |   |
+| Vampire           | 吸血鬼  | Deputy         | 捕快    |          |      |   |
+| Warlock           | 术士   | Shifter        | 交换师   |          |      |   |
+| Witch             | 女巫   | Snitch         | 告密者   |          |      |   |
+| Phaser            |      | Spy            | 间谍    |          |      |   |
+|                   |      | Swapper        | 换票师   |          |      |   |
+|                   |      | Time Master    | 时间之主  |          |      |   |
+|                   |      | Tracker        | 追踪者   |          |      |   |
+|                   |      | Bait           | 诱饵    |          |      |   |
+|                   |      | Medium         | 通灵师   |          |      |   |
+|                   |      | Jumper         |       |          |      |   |
+
+
+
+
+
+7.P服 peasmod v3.0.0-pre2.1（支持2021.12.15s）
 ====
 
 
@@ -160,7 +198,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 | Sheriff        | 警长   |                |      |               |      |               |      |
 
 
-7.LAS MONJAS V1.3.2 （适合2022.2.24s）千年隼号地图
+8.LAS MONJAS V1.3.2 （适合2022.2.24s）千年隼号地图
 ====
 
 原版链接：https://github.com/KiraYamato94/LasMonjas <br>  
@@ -200,7 +238,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 
-8.国际象棋模组v1.1.1版本（支持2021.6.30版本）
+9.国际象棋模组v1.1.1版本（支持2021.6.30版本）
 ====
 
 
@@ -211,7 +249,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 
-9.挑战者模组4.2.0（支持2022.2.24）
+10.挑战者模组4.2.0（支持2022.2.24）
 ====
 
 
@@ -224,7 +262,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 
-10.Syyreth ModsAmongUs v4.0.0版本（支持2022.2.23版本）
+11.Syyreth ModsAmongUs v4.0.0版本（支持2022.2.23版本）
 ====
 
 
@@ -253,13 +291,13 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 | Lovers           | 恋人   |                 |      |                  |      |                |      |
 
 
-11.恶搞模组Cursed-Among-Us v1.1.0 （支持2021.6.30）
+12.恶搞模组Cursed-Among-Us v1.1.0 （支持2021.6.30）
 ====
 
 
 模组链接：https://github.com/Devs-Us/Cursed-Among-Us
 
-12.S服skeld.net(最新支持2021.6.30)
+13.S服skeld.net(最新支持2021.6.30)
 ====
 模组链接：https://skeld.net/
 | GameMOD        | 游戏模式  |
@@ -278,7 +316,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 | Standard       | 标准模式  |
 
 
-13.哈利波特模组（最新支持2021.5.10）
+14.哈利波特模组（最新支持2021.5.10）
 ====
 模组链接：https://github.com/FatherofHeathens/HarryPotterAmongUs
 
@@ -294,7 +332,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 
-14.crewlink游戏聊天工具MOD v2.0.1  (支持版本v2021.11.9.2s)
+15.crewlink游戏聊天工具MOD v2.0.1  (支持版本v2021.11.9.2s)
 ====
 
 
@@ -304,14 +342,14 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 
-15.游戏重播MOD replay 支持任何版本
+16.游戏重播MOD replay 支持任何版本
 ====
 
 
 原版链接：https://github.com/sawa90/AmongUsReplayInWindow
 
 
-16.Amongus相关单机小游戏PC
+17.Amongus相关单机小游戏PC
 ====
 Amongus Dream <br> 
 链接：https://pan.baidu.com/s/1bdQiuRndy_BmgruCjfx8SQ?pwd=14hg 
@@ -335,7 +373,7 @@ Amongus Me <br>
 
 
 
-17.历代Amongus版本更新
+18.历代Amongus版本更新
 ====
 Amongus2018.11.14
 链接：https://pan.baidu.com/s/1zyIWzYKfpmdCjsSHc6m2dg?pwd=2xim 
