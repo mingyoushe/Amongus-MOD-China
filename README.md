@@ -50,19 +50,19 @@
 | Bounty Hunter     | 赏金猎人     | Detective      | 调查员  | Jackal           | 豺狼      |        |      |
 | Camouflager       | 隐蔽者      | Engineer       | 工程师  | Sidekick         | 跟班      |        |      |
 | Cleaner           | 清洁工      | Hacker         | 黑客   | Lover            | 恋人      |        |      |
-| Eraser            | 抹除者      | Lighter        | 小灯人  | Opportunist      | 机会主义    |        |      |
+| Eraser            | 抹除者      | Lighter        | 小灯人  | Opportunist      | 投机主义    |        |      |
 | Godfather (Mafia) | 教父（黑手党）  | Mayor          | 市长   | Vulture          | 秃鹫      |        |      |
 | Mafioso (Mafia)   | 黑手党（黑手党） | Medic          | 医生   | Lawyer           | 律师      |        |      |
-| Janitor (Mafia)   | 清洁工（黑手党） | Security Guard | 保安   | Chain-Shifter    | 恋人交换师   |        |      |
+| Janitor (Mafia)   | 清洁工（黑手党） | Security Guard | 保安   | Chain-Shifter    | 连环交换师   |        |      |
 | Morphling         | 变形者      | Seer           | 灵媒   | Plague Doctor    | 瘟疫医生    |        |      |
-| Trickster         | 骗术师      | Sheriff        | 警长   | Fox & Immoralist | 狐狸&不道德者 |        |      |
+| Trickster         | 骗术师      | Sheriff        | 警长   | Fox & Immoralist | 狐妖&背德者 |        |      |
 | Vampire           | 吸血鬼      | Shifter        | 交换者  |                  |         |        |      |
 | Warlock           | 术士       | Snitch         | 	告密者 |                  |         |        |      |
 | Witch             | 女巫       | Spy            | 间谍   |                  |         |        |      |
 | Ninja             | 忍者       | Nice Swapper   | 好换票师 |                  |         |        |      |
 | Evil Swapper      | 坏换票师     | Time Master    | 时间之主 |                  |         |        |      |
-| Serial Killer     | 连环杀手     | Tracker        | 追踪者  |                  |         |        |      |
-| Neko-Kabocha      | 南瓜复仇者    | Bait           | 诱饵   |                  |         |        |      |
+| Serial Killer     | 嗜血杀手     | Tracker        | 追踪者  |                  |         |        |      |
+| Neko-Kabocha      | 复仇者    | Bait           | 诱饵   |                  |         |        |      |
 | Evil Watcher      | 坏观察者   | Madmate        | 	通灵师 |                  |         |        |      |
 |                   |          | Fortune Teller | 	算命先生 |                  |         |        |      |
 |                   |          | Nice Watcher |  好观察者 |                  |         |        |      |
