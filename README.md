@@ -42,7 +42,7 @@
 原版链接：https://github.com/yukinogatari/TheOtherRoles-GM <br> 
 汉化论坛：https://www.amongus-cn.tk <br> 
 
-GM是管理员模式，一般作为裁判存在，
+GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 | Impostors         | 内鬼职业     | Crewmates      | 船员职业 | Neutral          | 中立职业   |
 |-------------------|----------|----------------|------|------------------|--------|
