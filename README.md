@@ -131,11 +131,11 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 | Seer           | 灵媒   | Jester        | 小丑   | Morphling      | 变形者  | Torch         | 小灯人  |
 | Snitch         | 告密者  | Phantom       |      | Swooper        |      | Button Barry  |      |
 | Spy            | 间谍   | Arsonist      | 纵火犯  | Poisoner       |      | Drunk         | 醉酒   |
-| Tracker        | 追踪者  | The Glitch    |      | Traitor        |      | Flash         |      |
+| Tracker        | 追踪者  | The Glitch    | 混沌 | Traitor        |      | Flash         |      |
 | Sheriff        | 警长   |               |      | Underdog       |      | Giant         | 巨人   |
-| Veteran        |      |               |      | Janitor        | 清洁工  | Lovers        | 恋人   |
-| Vigilante      |      |               |      | Miner          |      | Sleuth        |      |
-| Altruist       |      |               |      | Undertaker     |      | Tiebreaker    |      |
+| Veteran        | 退伍军人 |               |      | Janitor        | 清洁工  | Lovers        | 恋人   |
+| Vigilante      | 自卫队  |               |      | Miner          |      | Sleuth        |      |
+| Altruist       | 利他主义者 |               |      | Undertaker     |      | Tiebreaker    |      |
 | Medic          | 医生   |               |      |                |      |               |      |
 | Engineer       | 工程师  |               |      |                |      |               |      |
 | Mayor          | 市长   |               |      |                |      |               |      |
@@ -341,7 +341,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 ====
 
 
-原版链接：https://github.com/sawa90/AmongUsReplayInWindow
+原版链接：https://github.com/ottomated/CrewLink
 
 
 
@@ -354,7 +354,14 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 原版链接：https://github.com/sawa90/AmongUsReplayInWindow
 
 
-18.Amongus相关单机小游戏PC
+18.模组管理器ModManager
+====
+
+
+原版链接：https://github.com/MatuxGG/ModManager
+
+
+19.Amongus相关单机小游戏PC
 ====
 Amongus Dream <br> 
 链接：https://pan.baidu.com/s/1bdQiuRndy_BmgruCjfx8SQ?pwd=14hg 
@@ -378,7 +385,7 @@ Amongus Me <br>
 
 
 
-19.历代Amongus版本更新
+20.历代Amongus版本更新
 ====
 Amongus2018.11.14
 链接：https://pan.baidu.com/s/1zyIWzYKfpmdCjsSHc6m2dg?pwd=2xim 
