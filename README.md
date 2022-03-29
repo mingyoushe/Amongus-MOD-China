@@ -344,24 +344,28 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 原版链接：https://github.com/ottomated/CrewLink
 
 
+17.crewlink游戏聊天工具MOD v2.0.1  (支持版本v2021.11.9.2s)
+====
 
 
+原版链接：https://github.com/ottomated/CrewLink
 
-17.游戏重播MOD replay 支持任何版本
+
+18.BetterCrewLink更好的crewlink聊天工具MOD v2.9.1  (支持版本v2021.12.14s)
 ====
 
 
 原版链接：https://github.com/sawa90/AmongUsReplayInWindow
 
 
-18.模组管理器ModManager
+19.模组管理器ModManager
 ====
 
 
 原版链接：https://github.com/MatuxGG/ModManager
 
 
-19.Amongus相关单机小游戏PC
+20.Amongus相关单机小游戏PC
 ====
 Amongus Dream <br> 
 链接：https://pan.baidu.com/s/1bdQiuRndy_BmgruCjfx8SQ?pwd=14hg 
@@ -385,7 +389,7 @@ Amongus Me <br>
 
 
 
-20.历代Amongus版本更新
+21.历代Amongus版本更新
 ====
 Amongus2018.11.14
 链接：https://pan.baidu.com/s/1zyIWzYKfpmdCjsSHc6m2dg?pwd=2xim 
