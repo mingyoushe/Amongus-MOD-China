@@ -92,7 +92,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 
-4.我们小镇v3.11(最新支持2021.12.15)
+4.我们小镇v3.1.1(最新支持2021.12.15)
 ====
 
 
@@ -222,7 +222,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 |             |      | Jinx           | 倒霉蛋  |                 |      |                |       |
 
 
-8.ExtremeRoles v1.19.0.1 （适合2022.2.24s）日语mod 
+8.ExtremeRoles v1.19.0.2 （适合2022.2.24s）日语mod 
 ====
 原版链接：https://github.com/yukieiji/ExtremeRoles
 
@@ -344,14 +344,14 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 原版链接：https://github.com/ottomated/CrewLink
 
 
-17.crewlink游戏聊天工具MOD v2.0.1  (支持版本v2021.11.9.2s)
+17.BetterCrewLink更好的crewlink聊天工具MOD v2.9.1  (支持版本v2021.12.14s)
 ====
 
 
-原版链接：https://github.com/ottomated/CrewLink
+原版链接：https://github.com/OhMyGuus/BetterCrewlink
 
 
-18.BetterCrewLink更好的crewlink聊天工具MOD v2.9.1  (支持版本v2021.12.14s)
+18.Among Us回放模组  (支持任意版本)
 ====
 
 
