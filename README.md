@@ -223,10 +223,10 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 |             |      | Hunter         | 猎人   |                 |      |                |       |
 |             |      | Jinx           | 倒霉蛋  |                 |      |                |       |
 
-<br>  
+
 千年隼号地图展示：<br>  
-![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/%E5%8D%83%E5%B9%B4%E9%9A%BC.jpg)
-<br>  
+![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/%E5%8D%83%E5%B9%B4%E9%9A%BC.jpg)  <br>  
+ 
 8.ExtremeRoles v1.19.0.2 （适合2022.2.24s）日语mod 
 ====
 原版链接：https://github.com/yukieiji/ExtremeRoles
