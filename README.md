@@ -234,9 +234,11 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 ====
 原版链接：https://github.com/yukieiji/ExtremeRoles
 
+9.星云舰 Nebula On The Ship （支持2022.3.29s）日语mod（正在汉化）
+====
+原版链接: https://github.com/Dolly1016/Nebula
 
-
-9.P服 peasmod v3.0.0-pre2.1（支持2021.12.15s）
+10.P服 peasmod v3.0.0-pre2.1（支持2021.12.15s）
 ====
 
 ![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/Logo.png)
@@ -252,7 +254,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 | Mayor          | 市长   | Undertaker     | 刺客   |               |      |               |      |
 | Sheriff        | 警长   |                |      |               |      |               |      |
 
-10.国际象棋模组v1.1.1版本（支持2021.6.30版本）
+11.国际象棋模组v1.1.1版本（支持2021.6.30版本）
 ====
 
 
@@ -263,7 +265,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 
-11.挑战者模组4.2.0（支持2022.2.24）
+12.挑战者模组4.2.0（支持2022.2.24）
 ====
 
 
@@ -276,7 +278,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 
-12.Syyreth ModsAmongUs v4.0.0版本（支持2022.2.23版本）
+13.Syyreth ModsAmongUs v4.0.0版本（支持2022.2.23版本）
 ====
 
 
@@ -305,14 +307,14 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 | Lovers           | 恋人   |                 |      |                  |      |                |      |
 
 
-13.恶搞模组Cursed-Among-Us v1.1.0 （支持2021.6.30）
+14.恶搞模组Cursed-Among-Us v1.1.0 （支持2021.6.30）
 ====
 
 
 模组链接：https://github.com/Devs-Us/Cursed-Among-Us
 ![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/icon.png) <br>
 
-14.S服skeld.net(最新支持2021.6.30)
+15.S服skeld.net(最新支持2021.6.30)
 ====
 模组链接：https://skeld.net/
 | GameMOD        | 游戏模式  |
@@ -331,7 +333,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 | Standard       | 标准模式  |
 
 
-15.哈利波特模组（最新支持2021.5.10）
+16.哈利波特模组（最新支持2021.5.10）
 ====
 模组链接：https://github.com/FatherofHeathens/HarryPotterAmongUs
 
@@ -347,35 +349,35 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 
-16.crewlink游戏聊天工具MOD v2.0.1  (支持版本v2021.11.9.2s)
+17.crewlink游戏聊天工具MOD v2.0.1  (支持版本v2021.11.9.2s)
 ====
 
 
 原版链接：https://github.com/ottomated/CrewLink
 
 
-17.BetterCrewLink更好的crewlink聊天工具MOD v2.9.1  (支持版本v2021.12.14s)
+18.BetterCrewLink更好的crewlink聊天工具MOD v2.9.1  (支持版本v2021.12.14s)
 ====
 
 
 原版链接：https://github.com/OhMyGuus/BetterCrewlink
 
 
-18.Among Us回放模组  (支持任意版本)
+19.Among Us回放模组  (支持任意版本)
 ====
 
 
 原版链接：https://github.com/sawa90/AmongUsReplayInWindow
 
 
-19.模组管理器ModManager
+20.模组管理器ModManager
 ====
 
 
 原版链接：https://github.com/MatuxGG/ModManager
 
 
-20.Amongus相关单机小游戏PC
+21.Amongus相关单机小游戏PC
 ====
 Amongus Dream <br> 
 链接：https://pan.baidu.com/s/1bdQiuRndy_BmgruCjfx8SQ?pwd=14hg 
@@ -399,7 +401,7 @@ Amongus Me <br>
 
 
 
-21.历代Amongus版本更新
+22.历代Amongus版本更新
 ====
 Amongus2018.11.14
 链接：https://pan.baidu.com/s/1zyIWzYKfpmdCjsSHc6m2dg?pwd=2xim 
