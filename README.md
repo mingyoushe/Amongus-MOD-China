@@ -192,6 +192,8 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 原版链接：https://github.com/KiraYamato94/LasMonjas <br>  
 汉化论坛：https://www.amongus-cn.tk/ <br>
 
+![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/LasMonjas_banner.png)
+
 | GameModes | CaptureTheFlag | PoliceAndThiefs | KingOfTheHill | Hot Potato |
 |-----------|----------------|-----------------|---------------|---------------|
 | 游戏模式      | 夺旗模式           | 警察抓小偷           | 山丘之王          | 热土豆          |
