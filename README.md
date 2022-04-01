@@ -231,6 +231,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 9.P服 peasmod v3.0.0-pre2.1（支持2021.12.15s）
 ====
 
+![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/Logo.png)
 
 原版链接：https://github.com/Peasplayer/Peasmod
 
