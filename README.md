@@ -76,7 +76,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 原版链接：https://github.com/Town-of-Impostors/TownOfImpostors
 
-
+![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/TOI-Animated.gif) <br> 
 
 | Crewmate Team  | 船员职业 | Impostor  | 内鬼职业 | Other Teams  | 其他职业 | Modifiers  |  其他效果 |
 |----------------|------|-----------|------|--------------|------|------------|-------|
