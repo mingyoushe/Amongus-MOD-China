@@ -310,6 +310,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 模组链接：https://github.com/Devs-Us/Cursed-Among-Us
+![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/icon.png) <br>
 
 14.S服skeld.net(最新支持2021.6.30)
 ====
