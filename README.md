@@ -146,8 +146,8 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 6.TheEpicRoles  v1.1.1（支持2022.2.24s）
 ====
-原版链接：https://github.com/LaicosVK/TheEpicRoles
-新特点：
+原版链接：https://github.com/LaicosVK/TheEpicRoles <br> 
+新特点： <br> 
 1.上一场比赛中最先死亡的玩家将在下一场比赛中获得首杀盾。<br> 
 2.就绪状态：当有一个人未准备好时，大厅主持人无法开始游戏。<br> 
 3.定制鼠标光标。<br> 
