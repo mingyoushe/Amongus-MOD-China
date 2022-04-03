@@ -230,11 +230,11 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 千年隼号地图展示：<br>  
 ![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/%E5%8D%83%E5%B9%B4%E9%9A%BC.jpg)  <br>  
  
-8.ExtremeRoles v1.19.0.2 （适合2022.2.24s）日语mod 
+8.ExtremeRoles v1.99.90.0 （适合2022.3.29s）日语mod 
 ====
 原版链接：https://github.com/yukieiji/ExtremeRoles
 
-9.星云舰 Nebula On The Ship （支持2022.3.29s）日语mod（正在汉化）
+9.星云舰 Nebula On The Ship v1.7.1.1（支持2022.3.29s）日语mod（正在汉化）
 ====
 原版链接: https://github.com/Dolly1016/Nebula
 
@@ -265,7 +265,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 
-12.挑战者模组4.2.0（支持2022.2.24）
+12.挑战者模组4.2.1（支持2022.2.24）
 ====
 
 
