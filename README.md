@@ -1,5 +1,6 @@
 # Amongus-MOD-China
 太空狼人杀中文模组
+汉化论坛置顶帖子就是汉化mod下载的地方
 前提：amongus官方服务器版本最低支持6.30版本，之前版本只能私人服务器才能玩。
 
    1.超多职业模组V3.4.4（最新支持2022.2.24）
@@ -234,9 +235,10 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 ====
 原版链接：https://github.com/yukieiji/ExtremeRoles
 
-9.星云舰 Nebula On The Ship v1.7.2.1（支持2022.3.29s）日语mod（正在汉化）
+9.星云舰 Nebula On The Ship v1.7.2.1（支持2022.3.29s）日语mod
 ====
 原版链接: https://github.com/Dolly1016/Nebula
+汉化论坛：https://www.amongus-cn.tk
 
 10.P服 peasmod v3.0.0-pre2.1（支持2021.12.15s）
 ====
