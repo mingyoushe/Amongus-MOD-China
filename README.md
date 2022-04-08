@@ -190,7 +190,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 
-7.LAS MONJAS V1.3.2 （适合2022.2.24s）千年隼号地图
+7.LAS MONJAS V1.3.3 BETA （适合2022.3.29s）千年隼号地图
 ====
 
 原版链接：https://github.com/KiraYamato94/LasMonjas <br>  
@@ -231,11 +231,11 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 千年隼号地图展示：<br>  
 ![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/%E5%8D%83%E5%B9%B4%E9%9A%BC.jpg)  <br>  
  
-8.ExtremeRoles v1.99.90.2 （适合2022.3.29s）日语mod 
+8.ExtremeRoles v2.0.1.1 （适合2022.3.29s）日语mod 
 ====
 原版链接：https://github.com/yukieiji/ExtremeRoles
 
-9.星云舰 Nebula On The Ship v1.7.2.1（支持2022.3.29s）日语mod
+9.星云舰 Nebula On The Ship v1.7.3（支持2022.3.29s）日语mod
 ====
 原版链接: https://github.com/Dolly1016/Nebula  
 汉化论坛：https://www.amongus-cn.tk
@@ -280,7 +280,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 
-13.Syyreth ModsAmongUs v4.0.0版本（支持2022.2.23版本）
+13.Syyreth ModsAmongUs v4.0.1版本（支持2022.3.29版本）
 ====
 
 
