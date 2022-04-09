@@ -235,7 +235,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 ====
 原版链接：https://github.com/yukieiji/ExtremeRoles
 
-9.星云舰 Nebula On The Ship v1.7.3（支持2022.3.29s）日语mod
+9.星云舰 Nebula On The Ship v1.8.1.1（支持2022.3.29s）日语mod
 ====
 原版链接: https://github.com/Dolly1016/Nebula  
 汉化论坛：https://www.amongus-cn.tk
