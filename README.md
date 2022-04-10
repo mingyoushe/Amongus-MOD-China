@@ -3,7 +3,7 @@
 汉化论坛置顶帖子就是汉化mod下载的地方  
 前提：amongus官方服务器版本最低支持6.30版本，之前版本只能私人服务器才能玩。
 
-   1.超多职业模组V3.4.4（最新支持2022.2.24）
+   1.超多职业模组V3.4.5（最新支持2022.3.29）
 ====
 
 
@@ -190,7 +190,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 
-7.LAS MONJAS V1.3.3 BETA （适合2022.3.29s）千年隼号地图
+7.LAS MONJAS V1.3.3 （适合2022.3.29s）千年隼号地图
 ====
 
 原版链接：https://github.com/KiraYamato94/LasMonjas <br>  
@@ -231,11 +231,11 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 千年隼号地图展示：<br>  
 ![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/%E5%8D%83%E5%B9%B4%E9%9A%BC.jpg)  <br>  
  
-8.ExtremeRoles v2.0.1.1 （适合2022.3.29s）日语mod 
+8.ExtremeRoles v2.0.2.0 （适合2022.3.29s）日语mod 
 ====
 原版链接：https://github.com/yukieiji/ExtremeRoles
 
-9.星云舰 Nebula On The Ship v1.8.1.1（支持2022.3.29s）日语mod
+9.星云舰 Nebula On The Ship v1.8.1.3（支持2022.3.29s）日语mod
 ====
 原版链接: https://github.com/Dolly1016/Nebula  
 汉化论坛：https://www.amongus-cn.tk
