@@ -37,7 +37,7 @@
 
 
 
-2.超多职业GM增强版v3.5.4（自带汉化超多职业的一个分支）（最新支持2022.2.24）
+2.超多职业GM增强版v3.5.5（自带汉化超多职业的一个分支）（最新支持2022.3.29）
 ====
 
 
@@ -72,7 +72,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 
-3.内鬼小镇（最新支持2021.6.15版本）仅私服可玩  
+3.内鬼小镇 v2.0.8（最新支持2021.6.15版本）仅私服可玩  
 ====
 
 
@@ -147,7 +147,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 | Transporter    |      |               |      |                |      |               |      |
 
 
-6.TheEpicRoles  v1.1.1（支持2022.2.24s）
+6.TheEpicRoles  v1.1.2（支持2022.3.29s）
 ====
 原版链接：https://github.com/LaicosVK/TheEpicRoles <br> 
 ![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/TER_banner.png) <br> 
@@ -231,7 +231,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 千年隼号地图展示：<br>  
 ![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/%E5%8D%83%E5%B9%B4%E9%9A%BC.jpg)  <br>  
  
-8.ExtremeRoles v2.0.2.0 （适合2022.3.29s）日语mod 
+8.ExtremeRoles v2.0.3.0 （适合2022.3.29s）日语mod 
 ====
 原版链接：https://github.com/yukieiji/ExtremeRoles
 
@@ -365,14 +365,14 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 原版链接：https://github.com/OhMyGuus/BetterCrewlink
 
 
-19.Among Us回放模组  (支持任意版本)
+19.Among Us回放模组 v2.0.3 (支持任意版本)
 ====
 
 
 原版链接：https://github.com/sawa90/AmongUsReplayInWindow
 
 
-20.模组管理器ModManager
+20.模组管理器 v5.0.7 ModManager
 ====
 
 
