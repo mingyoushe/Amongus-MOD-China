@@ -240,29 +240,26 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 原版链接: https://github.com/Dolly1016/Nebula   <br>
 汉化论坛：https://www.amongus-cn.tk  <br>
 
-| Impostors    | 内鬼   | Crewmates    | 船员 | Neutral     | 中立   | Secondary  | 附带属性 |   |   |
-|--------------|------|--------------|----|-------------|------|------------|------|---|---|
-| Camouflager  | 隐蔽者  | Agent        |    | Arsonist    | 纵火   | Drunk      |      |   |   |
-| Cleaner      | 清理着  | Alien        |    | Avenger     |      | Guesser    |      |   |   |
-| Damned       |      | Bait         |    | Empiric     |      | Lover      | 恋人   |   |   |
-| Disturber    |      | Comet        |    | Jackal      | 豺狼   | Trilemma   |      |   |   |
-| Eraser       | 抹除者  | Doctor       | 医生 | Jester      | 小丑   |            |      |   |   |
-| Evil Ace     |      | Mayor        | 市长 | Opportunist | 投机主义 |            |      |   |   |
-| Evil Guesser | 邪恶赌怪 | Navvy        |    | Sidekick    | 跟班   |            |      |   |   |
-| Evil Trapper |      | Necromancer  |    | Vulture     | 秃鹫   |            |      |   |   |
-| Morphing     | 变形者  | Nice Guesser | 赌怪 |             |      |            |      |   |   |
-| Reaper       |      | Nice Trapper |    |             |      |            |      |   |   |
-| Sniper       |      | Oracle       |    |             |      |            |      |   |   |
-|              |      | Provocateur  |    |             |      |            |      |   |   |
-|              |      | Psychic      |    |             |      |            |      |   |   |
-|              |      | Seer         |    |             |      |            |      |   |   |
-|              |      | Sheriff      | 警长 |             |      |            |      |   |   |
-|              |      | Spy          |    |             |      |            |      |   |   |
-|              |      | Madmate      | 叛徒 |             |      |            |      |   |   |
-|              |      |              |    |             |      |            |      |   |   |
-|              |      |              |    |             |      |            |      |   |   |
-|              |      |              |    |             |      |            |      |   |   |
-|              |      |              |    |             |      |            |      |   |   |
+| Impostors    | 内鬼   | Crewmates    | 船员 | Neutral     | 中立   | Secondary  | 附带属性 |
+|--------------|------|--------------|----|-------------|------|------------|------|
+| Camouflager  | 隐蔽者  | Agent        |    | Arsonist    | 纵火   | Drunk      |      |
+| Cleaner      | 清理着  | Alien        |    | Avenger     |      | Guesser    |      |
+| Damned       |      | Bait         |    | Empiric     |      | Lover      | 恋人   |
+| Disturber    |      | Comet        |    | Jackal      | 豺狼   | Trilemma   |      |
+| Eraser       | 抹除者  | Doctor       | 医生 | Jester      | 小丑   |            |      |
+| Evil Ace     |      | Mayor        | 市长 | Opportunist | 投机主义 |            |      |
+| Evil Guesser | 邪恶赌怪 | Navvy        |    | Sidekick    | 跟班   |            |      |
+| Evil Trapper |      | Necromancer  |    | Vulture     | 秃鹫   |            |      |
+| Morphing     | 变形者  | Nice Guesser | 赌怪 |             |      |            |      |
+| Reaper       |      | Nice Trapper |    |             |      |            |      |
+| Sniper       |      | Oracle       |    |             |      |            |      |
+|              |      | Provocateur  |    |             |      |            |      |
+|              |      | Psychic      |    |             |      |            |      |
+|              |      | Seer         |    |             |      |            |      |
+|              |      | Sheriff      | 警长 |             |      |            |      |
+|              |      | Spy          |    |             |      |            |      |
+|              |      | Madmate      | 叛徒 |             |      |            |      |
+
 
 
 10.P服 peasmod v3.0.0-pre2.1（支持2021.12.15s）
