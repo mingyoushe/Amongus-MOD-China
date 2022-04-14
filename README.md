@@ -3,6 +3,14 @@
 汉化论坛置顶帖子就是汉化mod下载的地方  
 前提：amongus官方服务器版本最低支持6.30版本，之前版本只能私人服务器才能玩。<br> 
 
+
+
+***
+
+
+
+
+
    1.超多职业模组V3.4.5（最新支持2022.3.29）
 ====
 
@@ -35,6 +43,11 @@
 |                   |          | Tracker        | 追踪者  |          |      |           |      |
 |                   |          | Bait           | 诱饵   |          |      |           |      |
 |                   |          | Medium         | 通灵师   |          |      |            |      |  
+
+
+
+***
+
 
 
 
@@ -73,6 +86,11 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 
+***
+
+
+
+
 3.内鬼小镇 v2.0.8（最新支持2021.6.15版本）仅私服可玩  
 ====
 
@@ -92,6 +110,11 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 | Trickster      | 诱饵   |           |      |              |      |            |       |
 | Operative      | 特务   |           |      |              |      |            |       |
 | Mayor          | 市长   |           |      |              |      |            |       |
+
+
+
+***
+
 
 
 
@@ -120,6 +143,12 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 | Covert          | 隐秘者 |                |      |                 |      |               |      |
 
 
+
+***
+
+
+
+
 5.我们小镇分支R v2.6.5（支持2022.2.24s）
 ====
 
@@ -146,6 +175,12 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 | Swapper        | 换票师  |               |      |                |      |               |      |
 | Time Lord      | 时间之主 |               |      |                |      |               |      |
 | Transporter    |      |               |      |                |      |               |      |
+
+
+
+***
+
+
 
 
 6.TheEpicRoles  v1.1.2（支持2022.3.29s）
@@ -186,7 +221,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 
-
+***
 
 
 
@@ -231,10 +266,24 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 千年隼号地图展示：<br>  
 ![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/%E5%8D%83%E5%B9%B4%E9%9A%BC.jpg)  <br>  
- 
+
+
+
+***
+
+
+
+
 8.ExtremeRoles v2.0.3.0 （适合2022.3.29s）日语mod 
 ====
 原版链接：https://github.com/yukieiji/ExtremeRoles
+
+
+
+***
+
+
+
 
 9.星云舰 Nebula On The Ship v1.8.1.3（支持2022.3.29s）日语mod <br>
 ====
@@ -263,6 +312,11 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 
+***
+
+
+
+
 10.P服 peasmod v3.0.0-pre2.1（支持2021.12.15s）
 ====
 
@@ -279,6 +333,13 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 | Mayor          | 市长   | Undertaker     | 刺客   |               |      |               |      |
 | Sheriff        | 警长   |                |      |               |      |               |      |
 
+
+
+***
+
+
+
+
 11.国际象棋模组v1.1.1版本（支持2021.6.30版本）
 ====
 
@@ -286,6 +347,10 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 原版链接：https://github.com/KyleSmith0905/Among-Chess
 
 ![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/%E8%B1%A1%E6%A3%8B%E6%A8%A1%E7%BB%84.png)
+
+
+
+***
 
 
 
@@ -299,6 +364,8 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 ![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/%E6%8C%91%E6%88%98%E8%80%85%E6%88%91%E4%BB%AC%E4%B8%AD%E9%97%B44.1.3.png)
 
 
+
+***
 
 
 
@@ -332,12 +399,25 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 | Lovers           | 恋人   |                 |      |                  |      |                |      |
 
 
+
+***
+
+
+
+
 14.恶搞模组Cursed-Among-Us v1.1.0 （支持2021.6.30）
 ====
 
 
 模组链接：https://github.com/Devs-Us/Cursed-Among-Us
 ![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/icon.png) <br>
+
+
+
+***
+
+
+
 
 15.S服skeld.net(最新支持2021.6.30)
 ====
@@ -358,6 +438,13 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 | Standard       | 标准模式  |
 
 
+
+***
+
+
+
+
+
 16.哈利波特模组（最新支持2021.5.10）
 ====
 模组链接：https://github.com/FatherofHeathens/HarryPotterAmongUs
@@ -373,12 +460,22 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 
+***
+
+
+
 
 17.crewlink游戏聊天工具MOD v2.0.1  (支持版本v2021.11.9.2s)
 ====
 
 
 原版链接：https://github.com/ottomated/CrewLink
+
+
+
+***
+
+
 
 
 18.BetterCrewLink更好的crewlink聊天工具MOD v2.9.7  (支持版本v2022.3.29s)
@@ -388,6 +485,12 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 原版链接：https://github.com/OhMyGuus/BetterCrewlink
 
 
+
+***
+
+
+
+
 19.Among Us回放模组 v2.0.3 (支持任意版本)
 ====
 
@@ -395,11 +498,24 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 原版链接：https://github.com/sawa90/AmongUsReplayInWindow
 
 
+
+***
+
+
+
+
 20.模组管理器 v5.0.7 ModManager
 ====
 
 
 原版链接：https://github.com/MatuxGG/ModManager
+
+
+
+
+***
+
+
 
 
 21.Amongus相关单机小游戏PC
@@ -423,6 +539,11 @@ Amongus The woods <br>
 Amongus Me <br> 
 链接：https://pan.baidu.com/s/1A7pXCBbCockC6tryC9DpLw?pwd=fe1w 
 提取码：fe1w 
+
+
+
+***
+
 
 
 
@@ -489,6 +610,12 @@ Amongus2022.2.23
 Amongus2022.2.24
 链接：https://pan.baidu.com/s/1DNEvZP94H6c9i12eDDdMcA?pwd=cwdi 
 提取码：cwdi 
+
+
+
+***
+
+
 
 
 
