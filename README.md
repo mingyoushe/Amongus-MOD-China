@@ -9,6 +9,7 @@
 
 原版链接：https://github.com/Eisbison/TheOtherRoles <br>  
 汉化版本3.4.4：https://wwi.lanzoul.com/imbgA015ec2f <br> 
+详细汉化职业教程：https://github.com/FFxFc/TheOtherRolesX <br> 
 ![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/TOR_logo.png) <br> 
 
 
