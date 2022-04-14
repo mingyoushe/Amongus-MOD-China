@@ -1,7 +1,7 @@
 # Amongus-MOD-China
 太空狼人杀中文模组  
 汉化论坛置顶帖子就是汉化mod下载的地方  
-前提：amongus官方服务器版本最低支持6.30版本，之前版本只能私人服务器才能玩。
+前提：amongus官方服务器版本最低支持6.30版本，之前版本只能私人服务器才能玩。<br> 
 
    1.超多职业模组V3.4.5（最新支持2022.3.29）
 ====
@@ -492,8 +492,24 @@ Amongus2022.2.24
 
 
 
-
-
-
-
-
+<p align="center">
+这些模组不隶属于 Among Us 或 Innersloth LLC，其包含的内容也未得到 Innersloth LLC 的认可或以其他方式赞助。此处包含的部分材料是Innersloth LLC的财产。
+</p>
+<p align="center">
+Ce mod n'est pas affilié à Among Us ou à Innersloth LLC, et le contenu qu'il contient n'est pas approuvé ou autrement parrainé par Innersloth LLC. Certaines parties des documents contenus dans le présent document sont la propriété d'Innersloth LLC.
+</p>
+<p align="center">
+This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC.
+</p>
+<p align="center">
+これらのモジュールは、Among UsまたはInnersloth LLCと提携しておらず、Innersloth LLCが承認またはその他の形でスポンサーとなっているコンテンツは含まれていません。 ここに含まれる資料の一部は、Innersloth LLCの所有物です。
+</p>
+<p align="center">
+Эти модули не связаны с Among Us или Innersloth LLC и не содержат контента, который был одобрен или иным образом спонсирован Innersloth LLC. Некоторые из содержащихся здесь материалов являются собственностью Innersloth LLC.
+</p>
+<p align="center">
+Diese Module stehen in keiner Verbindung zu Among Us oder Innersloth LLC und enthalten keine Inhalte, die von Innersloth LLC gebilligt oder anderweitig gesponsert wurden. Ein Teil des hier enthaltenen Materials ist Eigentum von Innersloth LLC.
+</p>
+<p align="center">
+Estos módulos no están afiliados a Among Us ni a Innersloth LLC y no contienen contenido que haya sido respaldado o patrocinado de alguna manera por Innersloth LLC. Parte del material aquí contenido es propiedad de Innersloth LLC.
+</p>
