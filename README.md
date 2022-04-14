@@ -124,8 +124,8 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 ====
 
 
-原版链接：https://github.com/eDonnes124/Town-Of-Us-R
-
+原版链接：https://github.com/eDonnes124/Town-Of-Us-R   <br> 
+职业汉化简绍和教程：https://github.com/FFxFc/TownOfUs   <br> 
 
 
 | Crewmate Roles | 船员职业 | Neutral Roles | 中立职业 | Impostor Roles | 内鬼职业 | Modifiers     | 效果设置 |
