@@ -376,7 +376,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 原版链接：https://github.com/Syyreth/ModsAmongUs
 
-![image](https://github.com/Syyreth/ModsAmongUs/blob/main/Images/Syyreth's%20ModsAmongUs%20Roles.png) <br>
+![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/ModsAmongUs Roles.png) <br>
 
 
 
