@@ -87,11 +87,13 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 ***
+3.超多职业GM-Haoming
+====
+https://github.com/haoming37/TheOtherRoles-GM-Haoming
 
 
 
-
-3.内鬼小镇 v2.0.8（最新支持2021.6.15版本）仅私服可玩  
+4.内鬼小镇 v2.0.8（最新支持2021.6.15版本）仅私服可玩  
 ====
 
 
@@ -118,7 +120,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 
-4.我们小镇v3.1.1(最新支持2021.12.15)
+5.我们小镇v3.1.1(最新支持2021.12.15)
 ====
 
 
@@ -149,7 +151,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 
-5.我们小镇分支R v2.6.5（支持2022.2.24s）
+6.我们小镇分支R v2.6.5（支持2022.2.24s）
 ====
 
 
@@ -183,7 +185,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 
-6.TheEpicRoles  v1.1.2（支持2022.3.29s）
+7.TheEpicRoles  v1.1.2（支持2022.3.29s）
 ====
 原版链接：https://github.com/LaicosVK/TheEpicRoles <br> 
 ![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/TER_banner.png) <br> 
@@ -226,7 +228,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 
-7.LAS MONJAS V1.3.3 （适合2022.3.29s）千年隼号地图
+8.LAS MONJAS V1.3.3 （适合2022.3.29s）千年隼号地图
 ====
 
 原版链接：https://github.com/KiraYamato94/LasMonjas <br>  
@@ -274,7 +276,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 
-8.ExtremeRoles v2.0.4.0 （适合2022.3.29s）日语mod 
+9.ExtremeRoles v2.0.4.0 （适合2022.3.29s）日语mod 
 ====
 原版链接：https://github.com/yukieiji/ExtremeRoles
 
@@ -285,7 +287,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 
-9.星云舰 Nebula On The Ship v1.8.2（支持2022.3.29s）日语mod <br>
+10.星云舰 Nebula On The Ship v1.8.2（支持2022.3.29s）日语mod <br>
 ====
 原版链接: https://github.com/Dolly1016/Nebula   <br>
 汉化论坛：https://www.amongus-cn.tk  <br>
@@ -317,7 +319,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 
-10.P服 peasmod v3.0.0-pre2.1（支持2021.12.15s）
+11.P服 peasmod v3.0.0-pre2.1（支持2021.12.15s）
 ====
 
 ![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/Logo.png)
@@ -340,7 +342,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 
-11.国际象棋模组v1.1.1版本（支持2021.6.30版本）
+12.国际象棋模组v1.1.1版本（支持2021.6.30版本）
 ====
 
 
@@ -355,7 +357,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 
-12.挑战者模组4.2.1（支持2022.2.24）
+13.挑战者模组4.2.1（支持2022.2.24）
 ====
 
 
@@ -370,7 +372,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 
-13.Syyreth ModsAmongUs v4.0.1版本（支持2022.3.29版本）
+14.Syyreth ModsAmongUs v4.0.1版本（支持2022.3.29版本）
 ====
 
 
@@ -405,7 +407,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 
-14.恶搞模组Cursed-Among-Us v1.1.0 （支持2021.6.30）
+15.恶搞模组Cursed-Among-Us v1.1.0 （支持2021.6.30）
 ====
 
 
@@ -419,7 +421,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 
-15.S服skeld.net(最新支持2021.6.30)
+16.S服skeld.net(最新支持2021.6.30)
 ====
 模组链接：https://skeld.net/
 | GameMOD        | 游戏模式  |
@@ -445,7 +447,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 
-16.哈利波特模组（最新支持2021.5.10）
+17.哈利波特模组（最新支持2021.5.10）
 ====
 模组链接：https://github.com/FatherofHeathens/HarryPotterAmongUs
 
@@ -465,7 +467,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 
-17.crewlink游戏聊天工具MOD v2.0.1  (支持版本v2021.11.9.2s)
+18.crewlink游戏聊天工具MOD v2.0.1  (支持版本v2021.11.9.2s)
 ====
 
 
@@ -478,7 +480,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 
-18.BetterCrewLink更好的crewlink聊天工具MOD v2.9.7  (支持版本v2022.3.29s)
+19.BetterCrewLink更好的crewlink聊天工具MOD v2.9.7  (支持版本v2022.3.29s)
 ====
 
 
@@ -491,7 +493,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 
-19.Among Us回放模组 v2.0.3 (支持任意版本)
+20.Among Us回放模组 v2.0.3 (支持任意版本)
 ====
 
 
@@ -504,7 +506,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 
-20.模组管理器 v5.0.7 ModManager
+21.模组管理器 v5.0.7 ModManager
 ====
 
 
@@ -518,7 +520,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 
-21.Amongus相关单机小游戏PC
+22.Amongus相关单机小游戏PC
 ====
 Amongus Dream <br> 
 链接：https://pan.baidu.com/s/1bdQiuRndy_BmgruCjfx8SQ?pwd=14hg 
@@ -547,7 +549,7 @@ Amongus Me <br>
 
 
 
-22.历代Amongus版本更新
+23.历代Amongus版本更新
 ====
 Amongus2018.11.14
 链接：https://pan.baidu.com/s/1zyIWzYKfpmdCjsSHc6m2dg?pwd=2xim 
