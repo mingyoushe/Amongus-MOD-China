@@ -87,7 +87,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 ***
-3.超多职业GM-Haoming
+3.超多职业GM-Haoming v2.0.6  GM版本v3.5.4  （最新支持2022.3.29）
 ====
 https://github.com/haoming37/TheOtherRoles-GM-Haoming <br> 
 
