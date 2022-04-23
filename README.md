@@ -51,7 +51,7 @@
 
 
 
-2.超多职业GM增强版v3.5.5（自带汉化超多职业的一个分支）（最新支持2022.3.29）
+2.超多职业GM增强版v3.5.5.1（自带汉化超多职业的一个分支）（最新支持2022.3.29）
 ====
 
 
@@ -166,7 +166,7 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-6.我们小镇分支R v2.6.5（支持2022.2.24s）
+6.我们小镇分支R v3.0.1 (支持2022.3.29s）
 ====
 
 
@@ -243,7 +243,7 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-8.LAS MONJAS V1.3.3 （适合2022.3.29s）千年隼号地图
+8.LAS MONJAS V1.4.0 （适合2022.3.29s）千年隼号地图
 ====
 
 原版链接：https://github.com/KiraYamato94/LasMonjas <br>  
@@ -291,7 +291,7 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-9.ExtremeRoles v2.0.4.0 （适合2022.3.29s）日语mod 
+9.ExtremeRoles v2.0.5.0 （适合2022.4.19s）日语mod 
 ====
 原版链接：https://github.com/yukieiji/ExtremeRoles
 
@@ -302,7 +302,7 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-10.星云舰 Nebula On The Ship v1.8.2（支持2022.3.29s）日语mod <br>
+10.星云舰 Nebula On The Ship v1.8.3（支持2022.3.29s）日语mod <br>
 ====
 原版链接: https://github.com/Dolly1016/Nebula   <br>
 汉化论坛：https://www.amongus-cn.tk  <br>
