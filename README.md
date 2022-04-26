@@ -291,7 +291,7 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-9.ExtremeRoles v2.0.5.0 （适合2022.4.19s）日语mod 
+9.ExtremeRoles v2.0.5.1 （适合2022.3.29s和2022.04.19e）日语mod 
 ====
 原版链接：https://github.com/yukieiji/ExtremeRoles
 
@@ -334,7 +334,7 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-11.P服 peasmod v3.0.0-pre2.1（支持2021.12.15s）
+11.P服 peasmod v3.0.0-pre2.2（支持2022.3.29s）
 ====
 
 ![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/Logo.png)
