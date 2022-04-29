@@ -291,7 +291,7 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-9.ExtremeRoles v2.0.5.1 （适合2022.3.29s和2022.04.19e）日语mod 
+9.ExtremeRoles v2.0.5.2 （适合2022.3.29s和2022.04.19e）日语mod 
 ====
 原版链接：https://github.com/yukieiji/ExtremeRoles
 
