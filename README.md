@@ -251,9 +251,9 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 ![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/LasMonjas_banner.png)
 
-| GameModes | CaptureTheFlag | PoliceAndThiefs | KingOfTheHill | Hot Potato |
-|-----------|----------------|-----------------|---------------|---------------|
-| 游戏模式      | 夺旗模式           | 警察抓小偷           | 山丘之王          | 热土豆          |
+| GameModes | CaptureTheFlag | PoliceAndThiefs | KingOfTheHill | Hot Potato |Zombie Laboratory |
+|-----------|----------------|-----------------|---------------|---------------|---------------|
+| 游戏模式      | 夺旗模式           | 警察抓小偷           | 山丘之王          | 热土豆          |僵尸实验室         |
 
 
 
