@@ -14,7 +14,7 @@
    1.超多职业模组V4.1.0（最新支持2022.3.29）
 ====
 
-支持与潜艇地图融合游玩！
+支持与潜艇地图融合游玩！  
 原版链接：https://github.com/Eisbison/TheOtherRoles <br>  
 详细汉化职业教程：https://github.com/FFxFc/TheOtherRolesX <br> 
 ![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/TOR_logo.png) <br> 
