@@ -11,10 +11,10 @@
 
 
 
-   1.超多职业模组V4.0.0（最新支持2022.3.29）
+   1.超多职业模组V4.1.0（最新支持2022.3.29）
 ====
 
-
+支持与潜艇地图融合游玩！
 原版链接：https://github.com/Eisbison/TheOtherRoles <br>  
 汉化版本3.4.4：https://wwi.lanzoul.com/imbgA015ec2f <br> 
 详细汉化职业教程：https://github.com/FFxFc/TheOtherRolesX <br> 
@@ -87,10 +87,11 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 ***
-3.超多职业GM-Haoming v2.0.7  GM版本v3.5.4  （最新支持2022.3.29）
+3.超多职业GM-Haoming v2.0.10  GM版本v3.5.4  （最新支持2022.3.29）
 ====
 https://github.com/haoming37/TheOtherRoles-GM-Haoming <br> 
 
+与潜艇地图兼容
 地图改动(Polus) ：<br>
 你可以设置随机重生地点<br>
 附加额外通风口（出生点-脉搏室-右下角标本室）<br>
@@ -243,7 +244,7 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-8.LAS MONJAS V1.4.0 （适合2022.3.29s）千年隼号地图
+8.LAS MONJAS V1.5.1 （适合2022.3.29s）千年隼号地图
 ====
 
 原版链接：https://github.com/KiraYamato94/LasMonjas <br>  
@@ -372,7 +373,7 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-13.挑战者模组4.2.1（支持2022.2.24）
+13.挑战者模组4.3.0（支持2022.3.29s）
 ====
 
 
@@ -635,7 +636,10 @@ Amongus2022.2.24
 
 
 
-
+24.潜艇地图Submerged (2022.5.2)
+====
+原版链接:https://github.com/SubmergedAmongUs/Submerged
+![image](https://github.com/SubmergedAmongUs/Submerged/blob/main/Images/Icon.png) <br>
 <p align="center">
 这些模组不隶属于 Among Us 或 Innersloth LLC，其包含的内容也未得到 Innersloth LLC 的认可或以其他方式赞助。此处包含的部分材料是Innersloth LLC的财产。
 </p>
