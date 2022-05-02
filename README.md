@@ -90,7 +90,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 ====
 https://github.com/haoming37/TheOtherRoles-GM-Haoming <br> 
 
-与潜艇地图兼容
+与潜艇地图兼容  
 地图改动(Polus) ：<br>
 你可以设置随机重生地点<br>
 附加额外通风口（出生点-脉搏室-右下角标本室）<br>
@@ -246,6 +246,7 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 8.LAS MONJAS V1.5.1 （适合2022.3.29s）千年隼号地图
 ====
 
+与潜艇地图兼容  
 原版链接：https://github.com/KiraYamato94/LasMonjas <br>  
 汉化论坛：https://www.amongus-cn.tk/ <br>
 
