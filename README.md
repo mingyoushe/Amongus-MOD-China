@@ -11,10 +11,10 @@
 
 
 
-   1.超多职业模组V4.1.0（最新支持2022.3.29）
+1.超多职业模组V4.1.1（最新支持2022.3.29）
 ====
 
-支持与潜艇地图融合游玩！  
+支持与潜艇地图融合游玩！ <br> 
 原版链接：https://github.com/Eisbison/TheOtherRoles <br>  
 详细汉化职业教程：https://github.com/FFxFc/TheOtherRolesX <br> 
 ![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/TOR_logo.png) <br> 
@@ -55,7 +55,6 @@
 
 
 原版链接：https://github.com/yukinogatari/TheOtherRoles-GM <br> 
-汉化论坛：https://www.amongus-cn.tk <br> 
 
 GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
@@ -86,11 +85,11 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 ***
-3.超多职业GM-Haoming v2.0.10  GM版本v3.5.4  （最新支持2022.3.29）
+3.超多职业GM-Haoming v2.0.11（自带汉化超多职业的一个分支） GM版本v3.5.4  （最新支持2022.3.29）
 ====
 https://github.com/haoming37/TheOtherRoles-GM-Haoming <br> 
 
-与潜艇地图兼容  
+与潜艇地图兼容 <br> 
 地图改动(Polus) ：<br>
 你可以设置随机重生地点<br>
 附加额外通风口（出生点-脉搏室-右下角标本室）<br>
@@ -246,7 +245,7 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 8.LAS MONJAS V1.5.1 （适合2022.3.29s）千年隼号地图
 ====
 
-与潜艇地图兼容  
+与潜艇地图兼容 <br>  
 原版链接：https://github.com/KiraYamato94/LasMonjas <br>  
 汉化论坛：https://www.amongus-cn.tk/ <br>
 
@@ -463,7 +462,7 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-17.哈利波特模组（最新支持2021.5.10）
+17.哈利波特模组 v1.2.0（最新支持2021.5.10）
 ====
 模组链接：https://github.com/FatherofHeathens/HarryPotterAmongUs
 
@@ -636,9 +635,10 @@ Amongus2022.2.24
 
 
 
-24.潜艇地图Submerged (2022.5.2)
+24.潜艇地图Submerged v2022.5.2 (支持2022.3.29s)
 ====
-原版链接:https://github.com/SubmergedAmongUs/Submerged
+支持潜艇地图的模组作者已将潜艇地图放入模组文件直接下载支持的模组即可 <br>
+原版链接:https://github.com/SubmergedAmongUs/Submerged <br>
 ![image](https://github.com/SubmergedAmongUs/Submerged/blob/main/Images/Icon.png) <br>
 
 
