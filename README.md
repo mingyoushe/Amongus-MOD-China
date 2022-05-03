@@ -637,7 +637,7 @@ Amongus2022.2.24
 
 24.潜艇地图Submerged v2022.5.2 (支持2022.3.29s)
 ====
-支持潜艇地图的模组作者已将潜艇地图放入模组文件直接下载支持的模组即可 <br>
+支持潜艇地图的模组的模组作者已将潜艇地图放入模组文件直接下载支持的模组即可 <br>
 原版链接:https://github.com/SubmergedAmongUs/Submerged <br>
 ![image](https://github.com/SubmergedAmongUs/Submerged/blob/main/Images/Icon.png) <br>
 
