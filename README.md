@@ -85,7 +85,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 ***
-3.超多职业GM-Haoming v2.0.11（自带汉化超多职业的一个分支） GM版本v3.5.4  （最新支持2022.3.29）
+3.超多职业GM-Haoming v2.0.51（自带汉化超多职业的一个分支） GM版本v3.5.4  （最新支持2022.3.29）
 ====
 https://github.com/haoming37/TheOtherRoles-GM-Haoming <br> 
 
@@ -242,10 +242,10 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-8.LAS MONJAS V1.5.1 （适合2022.3.29s）千年隼号地图
+8.LAS MONJAS V1.5.5 （适合2022.3.29s）千年隼号地图
 ====
 
-与潜艇地图兼容 <br>  
+与潜艇地图强行兼容(里面自带潜艇地图mod无法删除) <br>  
 原版链接：https://github.com/KiraYamato94/LasMonjas <br>  
 汉化论坛：https://www.amongus-cn.tk/ <br>
 
@@ -291,7 +291,7 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-9.ExtremeRoles v2.0.5.2 （适合2022.3.29s和2022.04.19e）日语mod 
+9.ExtremeRoles v2.1.0.0 （适合2022.3.29s和2022.04.19e）日语mod 
 ====
 原版链接：https://github.com/yukieiji/ExtremeRoles
 
@@ -302,7 +302,7 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-10.星云舰 Nebula On The Ship v1.8.3（支持2022.3.29s）日语mod <br>
+10.星云舰 Nebula On The Ship v1.9.3（支持2022.3.29s）日语mod <br>
 ====
 原版链接: https://github.com/Dolly1016/Nebula   <br>
 汉化论坛：https://www.amongus-cn.tk  <br>
@@ -372,7 +372,7 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-13.挑战者模组4.3.0（支持2022.3.29s）
+13.挑战者模组4.3.1（支持2022.3.29s）
 ====
 
 
@@ -387,7 +387,7 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-14.Syyreth ModsAmongUs v4.0.1版本（支持2022.3.29版本）
+14.Syyreth ModsAmongUs v4.0.2版本（支持2022.3.29版本）
 ====
 
 
@@ -635,9 +635,9 @@ Amongus2022.2.24
 
 
 
-24.潜艇地图Submerged v2022.5.2 (支持2022.3.29s)
+24.潜艇地图Submerged v2022.5.8 (支持2022.3.29s)
 ====
-支持潜艇地图的模组的模组作者已将潜艇地图放入模组文件直接下载支持的模组即可 <br>
+支持潜艇地图的模组的模组作者已将潜艇地图放入模组文件直接下载支持的模组即可(las强行加入潜艇地图搞得我都打不开了(我不是叨叨)) <br>
 原版链接:https://github.com/SubmergedAmongUs/Submerged <br>
 ![image](https://github.com/SubmergedAmongUs/Submerged/blob/main/Images/Icon.png) <br>
 
