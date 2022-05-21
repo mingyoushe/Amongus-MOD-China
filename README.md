@@ -1,6 +1,5 @@
 # Amongus-MOD-China
 太空狼人杀中文模组  
-汉化论坛置顶帖子就是汉化mod下载的地方  
 前提：amongus官方服务器版本最低支持6.30版本，之前版本只能私人服务器才能玩。<br> 
 
 
@@ -11,7 +10,7 @@
 
 
 
-1.超多职业模组V4.1.1（最新支持2022.3.29）
+1.超多职业模组V4.1.3（最新支持2022.3.29）
 ====
 
 支持与潜艇地图融合游玩！ <br> 
@@ -85,7 +84,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 ***
-3.超多职业GM-Haoming v2.0.51（自带汉化超多职业的一个分支） GM版本v3.5.4  （最新支持2022.3.29）
+3.超多职业GM-Haoming v2.0.53（自带汉化超多职业的一个分支） GM版本v3.5.4  （最新支持2022.3.29）
 ====
 https://github.com/haoming37/TheOtherRoles-GM-Haoming <br> 
 
@@ -242,7 +241,7 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-8.LAS MONJAS V1.5.5 （适合2022.3.29s）千年隼号地图
+8.LAS MONJAS V1.5.7 （适合2022.3.29s）千年隼号地图
 ====
 
 与潜艇地图强行兼容(里面自带潜艇地图mod无法删除) <br>  
@@ -291,7 +290,7 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-9.ExtremeRoles v2.1.0.0 （适合2022.3.29s和2022.04.19e）日语mod 
+9.ExtremeRoles v2.1.1.1 （适合2022.3.29s和2022.04.19e）日语mod 
 ====
 原版链接：https://github.com/yukieiji/ExtremeRoles
 
@@ -302,7 +301,7 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-10.星云舰 Nebula On The Ship v1.9.3（支持2022.3.29s）日语mod <br>
+10.星云舰 Nebula On The Ship v1.9.4（支持2022.3.29s）日语mod <br>
 ====
 原版链接: https://github.com/Dolly1016/Nebula   <br>
 汉化论坛：https://www.amongus-cn.tk  <br>
@@ -635,9 +634,9 @@ Amongus2022.2.24
 
 
 
-24.潜艇地图Submerged v2022.5.8 (支持2022.3.29s)
+24.潜艇地图Submerged v2022.5.20 (支持2022.3.29s)
 ====
-支持潜艇地图的模组的模组作者已将潜艇地图放入模组文件直接下载支持的模组即可(las强行加入潜艇地图搞得我都打不开了(我不是叨叨)) <br>
+支持潜艇地图的模组的模组作者已将潜艇地图放入模组文件直接下载支持的模组即可 <br>
 原版链接:https://github.com/SubmergedAmongUs/Submerged <br>
 ![image](https://github.com/SubmergedAmongUs/Submerged/blob/main/Images/Icon.png) <br>
 
