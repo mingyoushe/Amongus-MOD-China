@@ -10,7 +10,7 @@
 
 
 
-1.超多职业模组V4.1.3（最新支持2022.3.29）
+1.超多职业模组V4.1.4（最新支持2022.3.29）
 ====
 
 支持与潜艇地图融合游玩！ <br> 
@@ -84,7 +84,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 ***
-3.超多职业GM-Haoming v2.0.53（自带汉化超多职业的一个分支） GM版本v3.5.4  （最新支持2022.3.29）
+3.超多职业GM-Haoming v2.1.56（自带汉化超多职业的一个分支） GM版本v3.5.4  （最新支持2022.3.29）
 ====
 https://github.com/haoming37/TheOtherRoles-GM-Haoming <br> 
 
@@ -164,10 +164,10 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-6.我们小镇分支R v3.0.1 (支持2022.3.29s）
+6.我们小镇分支R v3.1.0 (支持2022.3.29s & 2022.3.29e & 2022.4.19e）
 ====
 
-
+已支持潜艇地图
 原版链接：https://github.com/eDonnes124/Town-Of-Us-R   <br> 
 职业汉化简绍和教程：https://github.com/FFxFc/TownOfUs   <br> 
 
@@ -198,7 +198,7 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-7.TheEpicRoles  v1.1.2（支持2022.3.29s）
+7.TheEpicRoles  v1.1.2（支持2022.2.24s）
 ====
 原版链接：https://github.com/LaicosVK/TheEpicRoles <br> 
 ![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/TER_banner.png) <br> 
@@ -241,10 +241,10 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-8.LAS MONJAS V1.5.7 （适合2022.3.29s）千年隼号地图
+8.LAS MONJAS V2.0 （适合2022.3.29s）千年隼号地图
 ====
 
-与潜艇地图强行兼容(里面自带潜艇地图mod无法删除) <br>  
+与潜艇地图兼容 <br>  
 原版链接：https://github.com/KiraYamato94/LasMonjas <br>  
 汉化论坛：https://www.amongus-cn.tk/ <br>
 
@@ -263,21 +263,24 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 | Demon       | 吸血鬼  | Sheriff        | 警长   | Pyromaniac      | 纵火犯  | Blind          | 失明者   |
 | Janitor     | 清理者  | Detective      | 侦探   | Treasure Hunter | 寻宝猎人 | Flash          | 闪电侠   |
 | Ilusionist  | 骗术师  | Forensic       | 法医   | Devourer        | 秃鹫   | Big Chungus    | 巨人    |
-| Manipulator | 术士   | Time Traveler  | 时间之主 |                 |      | The Chosen One | 天选之子  |
-| Bomberman   | 爆破者  | Squire         | 医生   |                 |      | Performer      | 演员    |
-| Chameleon   | 隐形人  | Cheater        | 换票师  | Rebels          | 叛军职业 |                |       |
+| Manipulator | 术士   | Time Traveler  | 时间之主 | Poisoner        |      | The Chosen One | 天选之子  |
+| Bomberman   | 爆破者  | Squire         | 医生   |  Puppeteer      |      | Performer      | 演员    |
+| Chameleon   | 隐形人  | Cheater        | 换票师  | Rebels          | 叛军职业 | Pro            |       |
 | Gambler     | 赌徒   | Fortune Teller | 预言家  | Renegade        | 豺狼   |                |       |
 | Sorcerer    | 女巫   | Hacker         | 黑客   | Bounty Hunter   | 赏金猎人 |                |       |
-|             |      | Sleuth         | 追踪者  | Trapper         | 陷阱师  |                |       |
-|             |      | Fink           | 告密者  | Yinyanger       | 阴阳师  |                |       |
-|             |      | Kid            | 小孩   | Challenger      | 挑战者  |                |       |
-|             |      | Welder         | 焊接工  |                 |      |                |       |
-|             |      | Spiritualist   | 殉道者  |                 |      |                |       |
-|             |      | Coward         | 诱饵   |                 |      |                |       |
-|             |      | Vigilant       | 保安   |                 |      |                |       |
-|             |      | Medusa         | 广播员  |                 |      |                |       |
+| Medusa      | 美杜莎  | Sleuth         | 追踪者  | Trapper         | 陷阱师  |                |       |
+| Hypnotist   |      | Fink           | 告密者  | Yinyanger       | 阴阳师  |                |       |
+| Archer      |      | Kid            | 小孩   | Challenger      | 挑战者  |                |       |
+|             |      | Welder         | 焊接工  | Ninja           |      |                |       |
+|             |      | Spiritualist   | 殉道者  | Berserker       |      |                |       |
+|             |      | Vigilant         | 保安   |                 |      |                |       |
+|             |      | Coward        | 诱饵   |                 |      |                |       |
+|             |      | Bat         |      |                 |      |                |       |
 |             |      | Hunter         | 猎人   |                 |      |                |       |
 |             |      | Jinx           | 倒霉蛋  |                 |      |                |       |
+|             |      | Necromancer     |      |                 |      |                |       |
+|             |      | Engineer       |      |                 |      |                |       |
+|             |      | Shy            |      |                 |      |                |       |
 
 
 千年隼号地图展示：<br>  
@@ -290,7 +293,7 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-9.ExtremeRoles v2.1.1.1 （适合2022.3.29s和2022.04.19e）日语mod 
+9.ExtremeRoles v2.1.1.5 （适合2022.3.29s和2022.04.19e）日语mod 
 ====
 原版链接：https://github.com/yukieiji/ExtremeRoles
 
@@ -371,7 +374,7 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-13.挑战者模组4.3.1（支持2022.3.29s）
+13.挑战者模组4.3.1（支持2020.6.15s）
 ====
 
 
@@ -386,7 +389,7 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-14.Syyreth ModsAmongUs v4.0.2版本（支持2022.3.29版本）
+14.Syyreth ModsAmongUs v4.0.3版本（支持2022.3.29s）
 ====
 
 
@@ -435,7 +438,7 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-16.S服skeld.net(最新支持2021.6.30)
+16.S服skeld.net(最新支持2022.3.29s)
 ====
 模组链接：https://skeld.net/
 | GameMOD        | 游戏模式  |
@@ -461,7 +464,7 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-17.哈利波特模组 v1.2.0（最新支持2021.5.10）
+17.哈利波特模组 v1.2.0（最新支持2021.5.10s）
 ====
 模组链接：https://github.com/FatherofHeathens/HarryPotterAmongUs
 
@@ -494,7 +497,7 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-19.BetterCrewLink更好的crewlink聊天工具MOD v2.9.7  (支持版本v2022.3.29s)
+19.BetterCrewLink更好的crewlink聊天工具MOD v3.0.1  (支持版本v2022.3.29s)
 ====
 
 
@@ -520,7 +523,7 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-21.模组管理器 v5.0.7 ModManager
+21.模组管理器 v5.0.9 ModManager
 ====
 
 
@@ -639,7 +642,14 @@ Amongus2022.2.24
 支持潜艇地图的模组的模组作者已将潜艇地图放入模组文件直接下载支持的模组即可 <br>
 原版链接:https://github.com/SubmergedAmongUs/Submerged <br>
 ![image](https://github.com/SubmergedAmongUs/Submerged/blob/main/Images/Icon.png) <br>
-
+| Mod | ❔ | Status |
+|-|:-:|:-:|
+| [Las Monjas](https://github.com/KiraYamato94/LasMonjas/) | ✅ | Supported<br>(as of [v1.5.0](https://github.com/KiraYamato94/LasMonjas/releases/tag/1.5.0)) |
+| [The Other Roles](https://github.com/Eisbison/TheOtherRoles) | ✅ | Supported<br>(as of [v4.1.0](https://github.com/Eisbison/TheOtherRoles/releases/tag/v4.1.0)) |
+| [BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink) | 🟢 | Compatible<br>(Partially Supported) |
+| [Reactor](https://github.com/nuclearpowered/reactor) | 🟢 | Compatible |
+| [Region Install](https://github.com/miniduikboot/Mini.RegionInstall) | 🟢 | Compatible |
+| [Town of Us Reactivated](https://github.com/eDonnes124/Town-Of-Us-R) | 🕓 | In Progress |
 
 
 ***
