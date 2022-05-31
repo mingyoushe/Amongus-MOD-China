@@ -304,7 +304,7 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-10.星云舰 Nebula On The Ship v1.9.4（支持2022.3.29s）日语mod <br>
+10.星云舰 Nebula On The Ship v1.9.5.1（支持2022.3.29s）日语mod <br>
 ====
 原版链接: https://github.com/Dolly1016/Nebula   <br>
 汉化论坛：https://www.amongus-cn.tk  <br>
@@ -650,6 +650,13 @@ Amongus2022.2.24
 | [Reactor](https://github.com/nuclearpowered/reactor) | 🟢 | Compatible |
 | [Region Install](https://github.com/miniduikboot/Mini.RegionInstall) | 🟢 | Compatible |
 | [Town of Us Reactivated](https://github.com/eDonnes124/Town-Of-Us-R) | 🕓 | In Progress |
+# Compatibility With Servers
+
+| Server | ❔ | Status |
+|-|:-:|:-:|
+| Officials | ✅ | Supported |
+| [Impostor](https://github.com/Impostor/Impostor/) | ✅ | Supported<br>(as of [v1.7.0-ci.253](https://ci.appveyor.com/project/Impostor/Impostor/builds/43291915/artifacts)) |
+| [Hindenburg](https://github.com/SkeldJS/Hindenburg/) | ❌ | Not Supported |
 
 
 ***
