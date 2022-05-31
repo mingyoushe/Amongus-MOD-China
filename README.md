@@ -644,19 +644,19 @@ Amongus2022.2.24
 ![image](https://github.com/SubmergedAmongUs/Submerged/blob/main/Images/Icon.png) <br>
 | 模组 | ❔ | 支持版本 |
 |-|:-:|:-:|
-| [Las Monjas](https://github.com/KiraYamato94/LasMonjas/) | ✅ | Supported<br>(as of [v1.5.0](https://github.com/KiraYamato94/LasMonjas/releases/tag/1.5.0)) |
-| [The Other Roles](https://github.com/Eisbison/TheOtherRoles) | ✅ | Supported<br>(as of [v4.1.0](https://github.com/Eisbison/TheOtherRoles/releases/tag/v4.1.0)) |
-| [BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink) | 🟢 | Compatible<br>(Partially Supported) |
-| [Reactor](https://github.com/nuclearpowered/reactor) | 🟢 | Compatible |
-| [Region Install](https://github.com/miniduikboot/Mini.RegionInstall) | 🟢 | Compatible |
-| [Town of Us Reactivated](https://github.com/eDonnes124/Town-Of-Us-R) | 🕓 | In Progress |
+| [Las Monjas](https://github.com/KiraYamato94/LasMonjas/) | ✅ | 已支持<br>(as of [v1.5.0](https://github.com/KiraYamato94/LasMonjas/releases/tag/1.5.0)) |
+| [The Other Roles](https://github.com/Eisbison/TheOtherRoles) | ✅ | 已支持<br>(as of [v4.1.0](https://github.com/Eisbison/TheOtherRoles/releases/tag/v4.1.0)) |
+| [BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink) | 🟢 | 兼容<br>(完全兼容) |
+| [Reactor](https://github.com/nuclearpowered/reactor) | 🟢 | 兼容 |
+| [Region Install](https://github.com/miniduikboot/Mini.RegionInstall) | 🟢 | 兼容 |
+| [Town of Us Reactivated](https://github.com/eDonnes124/Town-Of-Us-R) | 🕓 | 正在兼容 |
 # 与服务器的兼容
 
 | 服务器 | ❔ | 支持版本 |
 |-|:-:|:-:|
-| Officials | ✅ | Supported |
-| [Impostor](https://github.com/Impostor/Impostor/) | ✅ | Supported<br>(as of [v1.7.0-ci.253](https://ci.appveyor.com/project/Impostor/Impostor/builds/43291915/artifacts)) |
-| [Hindenburg](https://github.com/SkeldJS/Hindenburg/) | ❌ | Not Supported |
+| 官方 | ✅ | 支持 |
+| [Impostor](https://github.com/Impostor/Impostor/) | ✅ | 支持<br>(as of [v1.7.0-ci.253](https://ci.appveyor.com/project/Impostor/Impostor/builds/43291915/artifacts)) |
+| [Hindenburg](https://github.com/SkeldJS/Hindenburg/) | ❌ | 不支持 |
 
 
 ***
