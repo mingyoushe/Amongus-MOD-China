@@ -642,7 +642,7 @@ Amongus2022.2.24
 支持潜艇地图的模组的模组作者已将潜艇地图放入模组文件直接下载支持的模组即可 <br>
 原版链接:https://github.com/SubmergedAmongUs/Submerged <br>
 ![image](https://github.com/SubmergedAmongUs/Submerged/blob/main/Images/Icon.png) <br>
-| Mod | ❔ | Status |
+| 模组 | ❔ | 支持版本 |
 |-|:-:|:-:|
 | [Las Monjas](https://github.com/KiraYamato94/LasMonjas/) | ✅ | Supported<br>(as of [v1.5.0](https://github.com/KiraYamato94/LasMonjas/releases/tag/1.5.0)) |
 | [The Other Roles](https://github.com/Eisbison/TheOtherRoles) | ✅ | Supported<br>(as of [v4.1.0](https://github.com/Eisbison/TheOtherRoles/releases/tag/v4.1.0)) |
@@ -650,9 +650,9 @@ Amongus2022.2.24
 | [Reactor](https://github.com/nuclearpowered/reactor) | 🟢 | Compatible |
 | [Region Install](https://github.com/miniduikboot/Mini.RegionInstall) | 🟢 | Compatible |
 | [Town of Us Reactivated](https://github.com/eDonnes124/Town-Of-Us-R) | 🕓 | In Progress |
-# Compatibility With Servers
+# 与服务器的兼容
 
-| Server | ❔ | Status |
+| 服务器 | ❔ | 支持版本 |
 |-|:-:|:-:|
 | Officials | ✅ | Supported |
 | [Impostor](https://github.com/Impostor/Impostor/) | ✅ | Supported<br>(as of [v1.7.0-ci.253](https://ci.appveyor.com/project/Impostor/Impostor/builds/43291915/artifacts)) |
