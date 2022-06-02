@@ -84,7 +84,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 ***
-3.超多职业GM-Haoming v2.1.56（自带汉化超多职业的一个分支） GM版本v3.5.4  （最新支持2022.3.29）
+3.超多职业GM-Haoming v2.1.58（自带汉化超多职业的一个分支） GM版本v3.5.4  （最新支持2022.3.29）
 ====
 https://github.com/haoming37/TheOtherRoles-GM-Haoming <br> 
 
@@ -293,7 +293,7 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-9.ExtremeRoles v2.1.1.5 （适合2022.3.29s和2022.04.19e）日语mod 
+9.ExtremeRoles v2.1.1.6 （适合2022.3.29s和2022.04.19e）日语mod 
 ====
 原版链接：https://github.com/yukieiji/ExtremeRoles
 
