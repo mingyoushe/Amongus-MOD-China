@@ -241,7 +241,7 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-8.LAS MONJAS V2.0 （适合2022.3.29s）千年隼号地图
+8.LAS MONJAS V2.0.1 （适合2022.3.29s）千年隼号地图
 ====
 
 与潜艇地图兼容 <br>  
