@@ -241,7 +241,7 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-8.LAS MONJAS V2.0.1 （适合2022.3.29s）千年隼号地图
+8.LAS MONJAS V2.0.3 （适合2022.3.29s）千年隼号地图
 ====
 
 与潜艇地图兼容 <br>  
@@ -293,7 +293,7 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-9.ExtremeRoles v2.1.1.6 （适合2022.3.29s和2022.04.19e）日语mod 
+9.ExtremeRoles v2.2.0.2 （适合2022.3.29s和2022.04.19e）日语mod 
 ====
 原版链接：https://github.com/yukieiji/ExtremeRoles
 
@@ -374,7 +374,7 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-13.挑战者模组4.3.1（支持2020.6.15s）
+13.挑战者模组4.3.2（支持2020.6.15s）
 ====
 
 
@@ -389,7 +389,7 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-14.Syyreth ModsAmongUs v4.0.3版本（支持2022.3.29s）
+14.Syyreth ModsAmongUs v4.0.4版本（支持2022.3.29s）
 ====
 
 
@@ -523,7 +523,7 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-21.模组管理器 v5.0.9 ModManager
+21.模组管理器 v5.1.0 ModManager
 ====
 
 
@@ -637,7 +637,7 @@ Amongus2022.2.24
 
 
 
-24.潜艇地图Submerged v2022.5.20 (支持2022.3.29s)
+24.潜艇地图Submerged v2022.6.12 (支持2022.3.29s)
 ====
 支持潜艇地图的模组的模组作者已将潜艇地图放入模组文件直接下载支持的模组即可 <br>
 原版链接:https://github.com/SubmergedAmongUs/Submerged <br>
@@ -649,7 +649,7 @@ Amongus2022.2.24
 | [BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink) | 🟢 | 兼容<br>(完全兼容) |
 | [Reactor](https://github.com/nuclearpowered/reactor) | 🟢 | 兼容 |
 | [Region Install](https://github.com/miniduikboot/Mini.RegionInstall) | 🟢 | 兼容 |
-| [Town of Us Reactivated](https://github.com/eDonnes124/Town-Of-Us-R) | 🕓 | 正在兼容 |
+| [Town of Us Reactivated](https://github.com/eDonnes124/Town-Of-Us-R) | 🟢 | 兼容 |
 # 与服务器的兼容
 
 | 服务器 | ❔ | 支持版本 |
