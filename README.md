@@ -10,7 +10,7 @@
 
 
 
-1.超多职业模组V4.1.4（最新支持2022.3.29）
+1.超多职业模组V4.1.5（最新支持2022.3.29）
 ====
 
 支持与潜艇地图融合游玩！ <br> 
@@ -241,7 +241,7 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-8.LAS MONJAS V2.0.3 （适合2022.3.29s）千年隼号地图
+8.LAS MONJAS V2.0.5 （适合2022.3.29s）千年隼号地图
 ====
 
 与潜艇地图兼容 <br>  
@@ -293,7 +293,7 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-9.ExtremeRoles v2.2.0.2 （适合2022.3.29s和2022.04.19e）日语mod 
+9.ExtremeRoles v3.1.0.0 （适合2022.3.29s和2022.04.19e）日语mod 
 ====
 原版链接：https://github.com/yukieiji/ExtremeRoles
 
@@ -523,7 +523,7 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-21.模组管理器 v5.1.0 ModManager
+21.模组管理器 v5.1.2 ModManager
 ====
 
 
@@ -637,7 +637,7 @@ Amongus2022.2.24
 
 
 
-24.潜艇地图Submerged v2022.6.12 (支持2022.3.29s)
+24.潜艇地图Submerged v2022.6.23 (支持2022.3.29s)
 ====
 支持潜艇地图的模组的模组作者已将潜艇地图放入模组文件直接下载支持的模组即可 <br>
 原版链接:https://github.com/SubmergedAmongUs/Submerged <br>
@@ -646,17 +646,18 @@ Amongus2022.2.24
 |-|:-:|:-:|
 | [Las Monjas](https://github.com/KiraYamato94/LasMonjas/) | ✅ | 已支持<br>(as of [v1.5.0](https://github.com/KiraYamato94/LasMonjas/releases/tag/1.5.0)) |
 | [The Other Roles](https://github.com/Eisbison/TheOtherRoles) | ✅ | 已支持<br>(as of [v4.1.0](https://github.com/Eisbison/TheOtherRoles/releases/tag/v4.1.0)) |
+| [TheOtherRoles-GM-Haoming](https://github.com/haoming37/TheOtherRoles-GM-Haoming) | ✅ | 已支持<br>(as of [v2.0.10](https://github.com/haoming37/TheOtherRoles-GM-Haoming/releases/tag/v2.0.10)) |
+| [Town-of-Us-R](https://github.com/eDonnes124/Town-Of-Us-R) | 🟢 | 兼容 |
 | [BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink) | 🟢 | 兼容<br>(完全兼容) |
 | [Reactor](https://github.com/nuclearpowered/reactor) | 🟢 | 兼容 |
 | [Region Install](https://github.com/miniduikboot/Mini.RegionInstall) | 🟢 | 兼容 |
-| [Town of Us Reactivated](https://github.com/eDonnes124/Town-Of-Us-R) | 🟢 | 兼容 |
 # 与服务器的兼容
 
 | 服务器 | ❔ | 支持版本 |
 |-|:-:|:-:|
 | 官方 | ✅ | 支持 |
 | [Impostor](https://github.com/Impostor/Impostor/) | ✅ | 支持<br>(as of [v1.7.0-ci.253](https://ci.appveyor.com/project/Impostor/Impostor/builds/43291915/artifacts)) |
-| [Hindenburg](https://github.com/SkeldJS/Hindenburg/) | ❌ | 不支持 |
+| [Hindenburg](https://github.com/SkeldJS/Hindenburg/) | 🕓 | 正在兼容 |
 
 
 ***
