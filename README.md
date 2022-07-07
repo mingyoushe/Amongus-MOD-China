@@ -84,7 +84,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 ***
-3.超多职业GM-Haoming v2.1.58（自带汉化超多职业的一个分支） GM版本v3.5.4  （最新支持2022.3.29）
+3.超多职业GM-Haoming v2.1.77（自带汉化超多职业的一个分支） GM版本v3.5.4  （最新支持2022.6.21s）
 ====
 https://github.com/haoming37/TheOtherRoles-GM-Haoming <br> 
 
@@ -164,7 +164,7 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-6.我们小镇分支R v3.1.0 (支持2022.3.29s & 2022.3.29e & 2022.4.19e）
+6.我们小镇分支R v3.2.0 (支持2022.6.21s & 2022.6.21e）
 ====
 
 已支持潜艇地图
@@ -241,7 +241,7 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-8.LAS MONJAS V2.0.5 （适合2022.3.29s）千年隼号地图
+8.LAS MONJAS V2.0.6 （适合2022.6.21s）千年隼号地图
 ====
 
 与潜艇地图兼容 <br>  
@@ -293,7 +293,7 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-9.ExtremeRoles v3.1.0.0 （适合2022.3.29s和2022.04.19e）日语mod 
+9.ExtremeRoles v3.1.3.0 （适合2022.06.21s/v2022.06.22e）日语mod 
 ====
 原版链接：https://github.com/yukieiji/ExtremeRoles
 
@@ -304,7 +304,7 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-10.星云舰 Nebula On The Ship v1.9.5.1（支持2022.3.29s）日语mod <br>
+10.星云舰 Nebula On The Ship v1.9.7（支持2022.06.21s）日语mod <br>
 ====
 原版链接: https://github.com/Dolly1016/Nebula   <br>
 汉化论坛：https://www.amongus-cn.tk  <br>
@@ -497,7 +497,7 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-19.BetterCrewLink更好的crewlink聊天工具MOD v3.0.1  (支持版本v2022.3.29s)
+19.BetterCrewLink更好的crewlink聊天工具MOD v3.0.3  (支持版本v2022.6.21s)
 ====
 
 
@@ -523,7 +523,7 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-21.模组管理器 v5.1.2 ModManager
+21.模组管理器 v5.1.3 ModManager
 ====
 
 
@@ -647,7 +647,7 @@ Amongus2022.2.24
 | [Las Monjas](https://github.com/KiraYamato94/LasMonjas/) | ✅ | 已支持<br>(as of [v1.5.0](https://github.com/KiraYamato94/LasMonjas/releases/tag/1.5.0)) |
 | [The Other Roles](https://github.com/Eisbison/TheOtherRoles) | ✅ | 已支持<br>(as of [v4.1.0](https://github.com/Eisbison/TheOtherRoles/releases/tag/v4.1.0)) |
 | [TheOtherRoles-GM-Haoming](https://github.com/haoming37/TheOtherRoles-GM-Haoming) | ✅ | 已支持<br>(as of [v2.0.10](https://github.com/haoming37/TheOtherRoles-GM-Haoming/releases/tag/v2.0.10)) |
-| [Town-of-Us-R](https://github.com/eDonnes124/Town-Of-Us-R) | 🟢 | 兼容 |
+| [Town-of-Us-R](https://github.com/eDonnes124/Town-Of-Us-R) | ✅ | 兼容<br>(as of [v3.1.0](https://github.com/eDonnes124/Town-Of-Us-R/releases/tag/v3.1.0)) |
 | [BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink) | 🟢 | 兼容<br>(完全兼容) |
 | [Reactor](https://github.com/nuclearpowered/reactor) | 🟢 | 兼容 |
 | [Region Install](https://github.com/miniduikboot/Mini.RegionInstall) | 🟢 | 兼容 |
@@ -656,9 +656,27 @@ Amongus2022.2.24
 | 服务器 | ❔ | 支持版本 |
 |-|:-:|:-:|
 | 官方 | ✅ | 支持 |
-| [Impostor](https://github.com/Impostor/Impostor/) | ✅ | 支持<br>(as of [v1.7.0-ci.253](https://ci.appveyor.com/project/Impostor/Impostor/builds/43291915/artifacts)) |
+| [Impostor](https://github.com/Impostor/Impostor/) | ✅ | 支持<br>(as of [v1.7.0-ci.255](https://ci.appveyor.com/project/Impostor/Impostor/builds/43660970/artifacts)) |
 | [Hindenburg](https://github.com/SkeldJS/Hindenburg/) | 🕓 | 正在兼容 |
-
+# 兼容语言
+| 语言 | ❔ | 状态 |
+|-|:-:|:-:|
+| English | ✅ | - |
+| Deutsch | ✅ | 完整翻译 |
+| Español | ✅ | 完整翻译 |
+| Français | ✅ | 完整翻译 |
+| Nederlands | ✅ | 完整翻译 |
+| Português (Brasil) | ✅ | 完整翻译 |
+| Русский | ✅ | 完整翻译 |
+| 简体中文 | ✅ | 完整翻译 |
+| 繁體中文 | ✅ | 完整翻译 |
+| 日本語 | 🟡 | 大部分已翻译 |
+| Bisaya | ❌ | 未翻译 |
+| Español (Latinoamérica) | ❌ | 未翻译<br>(用Español) |
+| Gaeilge | ❌ | 未翻译 |
+| Italiano | ❌ | 未翻译 |
+| Português | ❌ | 未翻译 |
+| 한국어 | ❌ | 未翻译 |
 
 ***
 
