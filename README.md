@@ -10,38 +10,35 @@
 
 
 
-1.超多职业模组V4.1.5（最新支持2022.3.29）
+1.超多职业模组V4.1.7（最新支持2022.8.24）
 ====
 
 支持与潜艇地图融合游玩！ <br> 
-原版链接：https://github.com/Eisbison/TheOtherRoles <br>  
-详细汉化职业教程：https://github.com/FFxFc/TheOtherRolesX <br> 
-![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/TOR_logo.png) <br> 
+[github地址（点这）](https://github.com/Eisbison/TheOtherRoles) <br>  
+![image](./Image/TOR_logo.png) <br> 
 
 
 | Impostors         | 内鬼职业     | Crewmates      | 船员职业 | Neutral  | 中立职业 | Secondary | 其他职业 |
 |:-------------------|:----------|:----------------|:------|:----------|:------|:-----------|:------|
-| Evil Mini         | 坏小人      | Nice Mini      | 好小人  | Arsonist | 纵火犯  | Lover     | 恋人   |
-| Evil Guesser      | 坏堵怪      | Nice Guesser   | 好赌怪  | Jester   | 小丑   |           |      |
-| Bounty Hunter     | 赏金猎人     | Detective      | 调查员  | Jackal   | 豺狼   |           |      |
-| Camouflager       | 隐蔽者      | Engineer       | 工程师  | Sidekick | 跟班   |           |      |
-| Cleaner           | 清洁工      | Hacker         | 黑客   | Vulture  | 秃鹫   |           |      |
-| Eraser            | 抹除者      | Lighter        | 小灯人  | Lawyer   | 律师   |           |      |
-| Godfather (Mafia) | 教父（黑手党）  | Mayor          | 市长   |          |      |           |      |
-| Mafioso (Mafia)   | 黑手党（黑手党） | Medic          | 医生   |          |      |           |      |
-| Janitor (Mafia)   | 清洁工（黑手党） | Security Guard | 保安   |          |      |           |      |
+| Evil Guesser      | 坏堵怪      | Nice Guesser   | 好赌怪  | Jester   | 小丑   | Lover      |   恋人   |
+| Bounty Hunter     | 赏金猎人     | Detective      | 调查员  | Jackal   | 豺狼   | Mini         | 小人     |
+| Camouflager       | 隐蔽者      | Engineer       | 工程师  | Sidekick | 跟班   | VIP          | VIP     |
+| Cleaner           | 清洁工      | Hacker         | 黑客   | Vulture  | 秃鹫   | Bloody          | 溅血者     |
+| Eraser            | 抹除者      | Lighter        | 小灯人  | Lawyer   | 律师   | Anti Teleport         | 醉鬼    |
+| Godfather (Mafia) | 教父（黑手党）  | Mayor          | 市长   | Arsonist       | 纵火犯    | Tie Breaker          | 通讯兵     |
+| Mafioso (Mafia)   | 黑手党（黑手党） | Medic          | 医生   |          |      | Sunglasse          | 太阳镜     |
+| Janitor (Mafia)   | 清洁工（黑手党） | Security Guard | 保安   |          |      | Invert          | 破平者     |
 | Morphling         | 变形者      | Seer           | 灵媒   |          |      |           |      |
 | Trickster         | 骗术师      | Sheriff        | 警长   |          |      |           |      |
 | Vampire           | 吸血鬼      | Deputy         | 捕快   |          |      |           |      |
 | Warlock           | 术士       | Shifter        | 交换者  |          |      |           |      |
 | Witch             | 女巫       | Snitch         | 告密者  |          |      |           |      |
-|                   |          | Spy            | 间谍   |          |      |           |      |
+| Ninja             | 忍者       | Spy            | 间谍   |          |      |           |      |
 |                   |          | Swapper        | 换票师  |          |      |           |      |
 |                   |          | Time Master    | 时间之主 |          |      |           |      |
 |                   |          | Tracker        | 追踪者  |          |      |           |      |
-|                   |          | Bait           | 诱饵   |          |      |           |      |
 |                   |          | Medium         | 通灵师   |          |      |            |      |  
-
+|                   |          | Portalmaker    | 传送师         |          |      |            |      |
 
 
 ***
@@ -49,11 +46,11 @@
 
 
 
-2.超多职业GM增强版v3.5.5.1（自带汉化超多职业的一个分支）（最新支持2022.3.29）
+2.超多职业GM增强版v3.5.5.1（最新支持2022.3.29）（断更）
 ====
 
 
-原版链接：https://github.com/yukinogatari/TheOtherRoles-GM <br> 
+[github地址（点这）](https://github.com/yukinogatari/TheOtherRoles-GM) <br>
 
 GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
@@ -84,9 +81,9 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 
 ***
-3.超多职业GM-Haoming v2.1.58（自带汉化超多职业的一个分支） GM版本v3.5.4  （最新支持2022.3.29）
+3.超多职业GM-Haoming v2.2.106（最新支持2022.8.24）(持续更新中)
 ====
-https://github.com/haoming37/TheOtherRoles-GM-Haoming <br> 
+[github地址（点这）](https://github.com/haoming37/TheOtherRoles-GM-Haoming)<br> 
 
 与潜艇地图兼容 <br> 
 地图改动(Polus) ：<br>
@@ -106,13 +103,13 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 | 邪恶追踪者    |     | 化身博士|
 
 
-4.内鬼小镇 v2.0.8（最新支持2021.6.15版本）仅私服可玩  
+4.内鬼小镇 v2.0.8（最新支持2021.6.15版本）仅私服可玩 (断更) 
 ====
 
 
-原版链接：https://github.com/Town-of-Impostors/TownOfImpostors
+[github地址（点这）](https://github.com/Town-of-Impostors/TownOfImpostors)
 
-![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/TOI-Animated.gif) <br> 
+![image](./Image/TOI-Animated.gif) <br> 
 
 | Crewmate Team  | 船员职业 | Impostor  | 内鬼职业 | Other Teams  | 其他职业 | Modifiers  |  其他效果 |
 |----------------|------|-----------|------|--------------|------|------------|-------|
@@ -133,12 +130,13 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-5.我们小镇v3.1.1(最新支持2021.12.15)
+5.我们小镇v3.1.1(非官方延续)(最新支持2021.12.15)
 ====
 
 
-原版链接：https://github.com/Anusien/Town-Of-Us <br> 
-![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/TOU-logo.png) <br> 
+[github地址（点这）](https://github.com/Anusien/Town-Of-Us)<br>
+[最开始的我们的小镇](https://github.com/slushiegoose/Town-Of-Us)<br>
+![image](./Image/TOU-logo.png) <br> 
 
 | Crewmate Roles  | 船员职业 | Neutral Roles  | 中立职业 | Impostor Roles  | 内鬼职业 | Modifiers     | 效果设置 |
 |-----------------|------|----------------|------|-----------------|------|---------------|------|
@@ -164,12 +162,11 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-6.我们小镇分支R v3.1.0 (支持2022.3.29s & 2022.3.29e & 2022.4.19e）
+6.我们小镇分支R v3.1.0 (支持2022.8.24）
 ====
 
 已支持潜艇地图
-原版链接：https://github.com/eDonnes124/Town-Of-Us-R   <br> 
-职业汉化简绍和教程：https://github.com/FFxFc/TownOfUs   <br> 
+[github地址（点这）](https://github.com/eDonnes124/Town-Of-Us-R)<br> 
 
 
 | Crewmate Roles | 船员职业 | Neutral Roles | 中立职业 | Impostor Roles | 内鬼职业 | Modifiers     | 效果设置 |
@@ -198,10 +195,10 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-7.TheEpicRoles  v1.1.2（支持2022.2.24s）
+7.TheEpicRoles  v1.1.2（支持2022.2.24s）(断更)
 ====
-原版链接：https://github.com/LaicosVK/TheEpicRoles <br> 
-![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/TER_banner.png) <br> 
+[github地址（点这）](https://github.com/LaicosVK/TheEpicRoles) <br>
+![image](./Image/TER_banner.png) <br> 
 新特点： <br> 
 1.上一场比赛中最先死亡的玩家将在下一场比赛中获得首杀盾。<br> 
 2.就绪状态：当有一个人未准备好时，大厅主持人无法开始游戏。<br> 
@@ -241,14 +238,13 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-8.LAS MONJAS V2.0.5 （适合2022.3.29s）千年隼号地图
+8.LAS MONJAS V2.1.3（适合2022.8.24）千年隼号地图
 ====
 
 与潜艇地图兼容 <br>  
-原版链接：https://github.com/KiraYamato94/LasMonjas <br>  
-汉化论坛：https://www.amongus-cn.tk/ <br>
+[github地址（点这）](https://github.com/KiraYamato94/LasMonjas) <br>  
 
-![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/LasMonjas_banner.png)
+![image](./Image/LasMonjas_banner.png)
 
 | GameModes | CaptureTheFlag | PoliceAndThiefs | KingOfTheHill | Hot Potato |Zombie Laboratory |
 |-----------|----------------|-----------------|---------------|---------------|---------------|
@@ -284,7 +280,7 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 千年隼号地图展示：<br>  
-![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/%E5%8D%83%E5%B9%B4%E9%9A%BC.jpg)  <br>  
+![image](./Image/%E5%8D%83%E5%B9%B4%E9%9A%BC.jpg)  <br>  
 
 
 
@@ -293,9 +289,9 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-9.ExtremeRoles v3.1.0.0 （适合2022.3.29s和2022.04.19e）日语mod 
+9.ExtremeRoles v3.2.2.5 （最新支持2022.8.24) 
 ====
-原版链接：https://github.com/yukieiji/ExtremeRoles
+[github地址（点这）](https://github.com/yukieiji/ExtremeRoles)
 
 
 
@@ -304,10 +300,9 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-10.星云舰 Nebula On The Ship v1.9.5.1（支持2022.3.29s）日语mod <br>
+10.星云舰 Nebula On The Ship v1.14.1（支持2022.8.24） <br>
 ====
 原版链接: https://github.com/Dolly1016/Nebula   <br>
-汉化论坛：https://www.amongus-cn.tk  <br>
 
 | Impostors    | 内鬼   | Crewmates    | 船员 | Neutral     | 中立   | Secondary  | 附带属性 |
 |--------------|------|--------------|----|-------------|------|------------|------|
@@ -338,10 +333,10 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 11.P服 peasmod v3.0.0-pre2.2（支持2022.3.29s）
 ====
+[github地址（点这）](https://github.com/Dolly1016/Nebula)
+![image](./Image/Logo.png)
 
-![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/Logo.png)
 
-原版链接：https://github.com/Peasplayer/Peasmod
 
 | Crewmate Roles | 船员职业 | Impostor Roles | 内鬼职业 | Neutral Roles | 中立职业 | GameModes     | 其他模式 |
 |----------------|------|----------------|------|---------------|------|---------------|------|
@@ -363,9 +358,9 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 ====
 
 
-原版链接：https://github.com/KyleSmith0905/Among-Chess
+[github地址（点这）]<https://github.com/KyleSmith0905/Among-Chess>
 
-![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/%E8%B1%A1%E6%A3%8B%E6%A8%A1%E7%BB%84.png)
+![image](./Image/%E8%B1%A1%E6%A3%8B%E6%A8%A1%E7%BB%84.png)
 
 
 
@@ -378,9 +373,9 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 ====
 
 
-原版链接：https://github.com/Lunastellia/Challenger-Among-Us
+[github地址（点这）](https://github.com/Lunastellia/Challenger-Among-Us)
 
-![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/%E6%8C%91%E6%88%98%E8%80%85%E6%88%91%E4%BB%AC%E4%B8%AD%E9%97%B44.1.3.png)
+![image](./Image/%E6%8C%91%E6%88%98%E8%80%85%E6%88%91%E4%BB%AC%E4%B8%AD%E9%97%B44.1.3.png)
 
 
 
@@ -389,13 +384,13 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 
-14.Syyreth ModsAmongUs v4.0.4版本（支持2022.3.29s）
+14.Syyreth ModsAmongUs v4.0.6版本（支持2022.8.24）
 ====
 
 
-原版链接：https://github.com/Syyreth/ModsAmongUs
+[github地址（点这）](https://github.com/Syyreth/ModsAmongUs)
 
-![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/ModsAmongUs%20Roles.png) <br>
+![image](./Image/Syyreth's%20ModsAmongUs%20Roles.jpg.png) <br>
 
 
 
@@ -533,107 +528,6 @@ https://github.com/haoming37/TheOtherRoles-GM-Haoming <br>
 
 
 ***
-
-
-
-
-22.Amongus相关单机小游戏PC
-====
-Amongus Dream <br> 
-链接：https://pan.baidu.com/s/1bdQiuRndy_BmgruCjfx8SQ?pwd=14hg 
-提取码：14hg 
-
-Amngus You <br> 
-链接：https://pan.baidu.com/s/1yi0U1w86RakI4d1Y2g8NuA?pwd=kn5z 
-提取码：kn5z 
-
-Amongus Them <br> 
-链接：https://pan.baidu.com/s/1vdQvkW10CaNosqGmY4f7jg?pwd=yqnb 
-提取码：yqnb 
-
-Amongus The woods <br> 
-链接：https://pan.baidu.com/s/1rDDHQaifEBoIhDoz1CNs7g?pwd=yvuo 
-提取码：yvuo 
-
-Amongus Me <br> 
-链接：https://pan.baidu.com/s/1A7pXCBbCockC6tryC9DpLw?pwd=fe1w 
-提取码：fe1w 
-
-
-
-***
-
-
-
-
-23.历代Amongus版本更新
-====
-Amongus2018.11.14
-链接：https://pan.baidu.com/s/1zyIWzYKfpmdCjsSHc6m2dg?pwd=2xim 
-提取码：2xim 
-
-Amongus2020.12.9
-链接：https://pan.baidu.com/s/156U6CL1e88vyjHgcHxJCrQ?pwd=fhvg 
-提取码：fhvg 
-
-
-Amongus2021.3.5
-链接：https://pan.baidu.com/s/193yZLM55PFpYt0kpGM-Ycw?pwd=g7n7 
-提取码：g7n7 
-
-
-Amongus2021.3.31
-链接：https://pan.baidu.com/s/1ls8WKDP7HO-XOoA9iuFSGA?pwd=whka 
-提取码：whka 
-
-
-Amongus2021.4.1
-链接：https://pan.baidu.com/s/1bmsXM4Pv9Mo5IZnmFbmmug?pwd=navz 
-提取码：navz 
-
-
-Amongus2021.5.10
-链接：https://pan.baidu.com/s/192kJlxfjJ3mIKyKWIp147w?pwd=uw41 
-提取码：uw41 
-
-Amongus2021.5.25
-链接：https://pan.baidu.com/s/1UGoazB9bfwRoIvCj3atFCw?pwd=u9ix 
-提取码：u9ix 
-
-Amongus2021.6.15
-链接：https://pan.baidu.com/s/1dpmA3OXfpOkFZdYqi3qc3A?pwd=xol1 
-提取码：xol1 
-
-
-Amongus2021.6.30
-链接：https://pan.baidu.com/s/13GdzzYaY6omrbeR4Sn0mfA?pwd=nbab 
-提取码：nbab 
-
-
-Amongus2021.12.15
-链接：https://pan.baidu.com/s/1sU-BfRBKeYkcUBzcUlQArw?pwd=8m60 
-提取码：8m60 
-
-Amongus2021.12.16
-链接：https://pan.baidu.com/s/1PR4oHYr3nZNK83-XDr8ojQ?pwd=3sx3 
-提取码：3sx3 
-
-Amongus2022.2.8
-链接：https://pan.baidu.com/s/1aZBgVigyf6ylDn-Hik94nQ?pwd=klki 
-提取码：klki 
-
-Amongus2022.2.23
-链接：https://pan.baidu.com/s/1OQPjC06RFWSCS_f7LY_UhQ?pwd=qdrk 
-提取码：qdrk 
-
-Amongus2022.2.24
-链接：https://pan.baidu.com/s/1DNEvZP94H6c9i12eDDdMcA?pwd=cwdi 
-提取码：cwdi 
-
-
-
-***
-
 
 
 
