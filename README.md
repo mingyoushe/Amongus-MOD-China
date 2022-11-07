@@ -9,9 +9,9 @@
 1.超多职业模组V4.2.0（最新支持2022.10.25）
 ==========================================
 
-支持与潜艇地图融合游玩！ `<br>`
-[github地址（点这）](https://github.com/TheOtherRolesAU/TheOtherRoles) `<br>`
-![image](./Image/TOR_logo.png) `<br>`
+支持与潜艇地图融合游玩！ <br>
+[github地址（点这）](https://github.com/TheOtherRolesAU/TheOtherRoles) <br>
+![image](./Image/TOR_logo.png) <br>
 
 | Impostors         | 内鬼职业         | Crewmates      | 船员职业 | Neutral    | 中立职业 | Secondary     | 其他职业 | Gamemode     | 游戏模式 |
 | :---------------- | :--------------- | :------------- | :------- | :--------- | :------- | :------------ | :------- | :----------- | :------- |
@@ -35,11 +35,10 @@
 |                   |                  | Medium         | 通灵师   |            |          |               |          |              |          |
 |                   |                  | Portalmaker    | 传送师   |            |          |               |          |              |          |
 
-
 2.超多职业GM增强版v3.5.5.1（最新支持2022.3.29）（断更）
 =======================================================
 
-[github地址（点这）](https://github.com/yukinogatari/TheOtherRoles-GM) `<br>`
+[github地址（点这）](https://github.com/yukinogatari/TheOtherRoles-GM) <br>
 
 GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
@@ -72,15 +71,15 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 3.超多职业GM-Haoming v2.2.106（最新支持2022.8.24）(持续更新中)
 ==============================================================
 
-[github地址（点这）](https://github.com/haoming37/TheOtherRoles-GM-Haoming)`<br>`
+[github地址（点这）](https://github.com/haoming37/TheOtherRoles-GM-Haoming)<br>
 
-与潜艇地图兼容 `<br>`
-地图改动(Polus) ：`<br>`
-你可以设置随机重生地点 `<br>`
-附加额外通风口（出生点-脉搏室-右下角标本室）`<br>`
-可以设置心电图在右下角标本室 `<br>`
-地图改动（airship）`<br>`
-在任务中增加墙壁检查(飞艇)#来自AuShipMod的创意 `<br>`
+与潜艇地图兼容 <br>
+地图改动(Polus) ：<br>
+你可以设置随机重生地点 <br>
+附加额外通风口（出生点-脉搏室-右下角标本室）<br>
+可以设置心电图在右下角标本室 <br>
+地图改动（airship）<br>
+在任务中增加墙壁检查(飞艇)#来自AuShipMod的创意 <br>
 
 在GM版本基础上新增职业如下：`<br>`
 
