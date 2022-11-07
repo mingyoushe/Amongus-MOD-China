@@ -25,20 +25,20 @@
 - [地图](#地图)
   - [１.潜艇地图Submerged v2022.10.26 (支持2022.10.25) (持续更新中)](#１潜艇地图submerged-v20221026-支持20221025-持续更新中)
 - [多语言样式声明](#多语言样式声明)
-          - [简体中文（SChinese）](#简体中文schinese)
-          - [繁體中文（TChinese）](#繁體中文tchinese)
-          - [Français（French）](#françaisfrench)
-          - [English](#english)
-          - [日本語（Japanese）](#日本語japanese)
-          - [Русский（Russian）](#русскийrussian)
-          - [Deutsch（German）](#deutschgerman)
-          - [Español（Spanish）](#españolspanish)
+  - [简体中文（SChinese）](#简体中文schinese)
+  - [繁體中文（TChinese）](#繁體中文tchinese)
+  - [Français（French）](#françaisfrench)
+  - [English](#english)
+  - [日本語（Japanese）](#日本語japanese)
+  - [Русский（Russian）](#русскийrussian)
+  - [Deutsch（German）](#deutschgerman)
+  - [Español（Spanish）](#españolspanish)
+
 # 前言
 
 这是关于Among Us(中文译名：我们之间 俗称：太空狼人杀)这款游戏的中文模组指南
 
 提醒：随着Among Us版本更新官方服务器所支持的服务器也在更新，过老版本只能使用私服才可游玩。
-
 
 # 模组
 
