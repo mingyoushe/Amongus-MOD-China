@@ -14,7 +14,7 @@
 ====
 
 支持与潜艇地图融合游玩！ <br> 
-[github地址（点这）](https://github.com/Eisbison/TheOtherRoles) <br>  
+[github地址（点这）](https://github.com/TheOtherRolesAU/TheOtherRoles) <br>  
 ![image](./Image/TOR_logo.png) <br> 
 
 
