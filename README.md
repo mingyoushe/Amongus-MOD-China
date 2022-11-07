@@ -35,7 +35,46 @@
 |                   |                  | Medium         | 通灵师   |            |          |               |          |
 |                   |                  | Portalmaker    | 传送师   |            |          |               |          |
 
+<<<<<<< HEAD
 ---
+=======
+
+1.超多职业模组V4.1.7（最新支持2022.8.24）
+====
+
+支持与潜艇地图融合游玩！ <br> 
+[github地址（点这）](https://github.com/TheOtherRolesAU/TheOtherRoles)https://github.com/TheOtherRolesAU/TheOtherRoles <br>  
+![image](./Image/TOR_logo.png) <br> 
+
+
+| Impostors         | 内鬼职业     | Crewmates      | 船员职业 | Neutral  | 中立职业 | Secondary | 其他职业 |
+|:-------------------|:----------|:----------------|:------|:----------|:------|:-----------|:------|
+| Evil Guesser      | 坏堵怪      | Nice Guesser   | 好赌怪  | Jester   | 小丑   | Lover      |   恋人   |
+| Bounty Hunter     | 赏金猎人     | Detective      | 调查员  | Jackal   | 豺狼   | Mini         | 小人     |
+| Camouflager       | 隐蔽者      | Engineer       | 工程师  | Sidekick | 跟班   | VIP          | VIP     |
+| Cleaner           | 清洁工      | Hacker         | 黑客   | Vulture  | 秃鹫   | Bloody          | 溅血者     |
+| Eraser            | 抹除者      | Lighter        | 小灯人  | Lawyer   | 律师   | Anti Teleport         | 醉鬼    |
+| Godfather (Mafia) | 教父（黑手党）  | Mayor          | 市长   | Arsonist       | 纵火犯    | Tie Breaker          | 通讯兵     |
+| Mafioso (Mafia)   | 黑手党（黑手党） | Medic          | 医生   |          |      | Sunglasse          | 太阳镜     |
+| Janitor (Mafia)   | 清洁工（黑手党） | Security Guard | 保安   |          |      | Invert          | 破平者     |
+| Morphling         | 变形者      | Seer           | 灵媒   |          |      |           |      |
+| Trickster         | 骗术师      | Sheriff        | 警长   |          |      |           |      |
+| Vampire           | 吸血鬼      | Deputy         | 捕快   |          |      |           |      |
+| Warlock           | 术士       | Shifter        | 交换者  |          |      |           |      |
+| Witch             | 女巫       | Snitch         | 告密者  |          |      |           |      |
+| Ninja             | 忍者       | Spy            | 间谍   |          |      |           |      |
+|                   |          | Swapper        | 换票师  |          |      |           |      |
+|                   |          | Time Master    | 时间之主 |          |      |           |      |
+|                   |          | Tracker        | 追踪者  |          |      |           |      |
+|                   |          | Medium         | 通灵师   |          |      |            |      |  
+|                   |          | Portalmaker    | 传送师         |          |      |            |      |
+
+
+***
+
+
+
+>>>>>>> 56dd71621cb79abaf8a1def396ebecc181bfe7ed
 
 2.超多职业GM增强版v3.5.5.1（最新支持2022.3.29）（断更）
 =======================================================
