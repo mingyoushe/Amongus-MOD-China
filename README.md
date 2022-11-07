@@ -429,7 +429,6 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 原版链接：https://github.com/sawa90/AmongUsReplayInWindow
 
-[返回目录](#目录)
 ## ４.模组管理器 v5.1.2 ModManager (持续更新中)
 
 原版链接：https://github.com/MatuxGG/ModManager
