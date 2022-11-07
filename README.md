@@ -4,8 +4,9 @@
 
 随着Among Us版本更新官方服务器所支持的服务器也在更新，过老版本只能使用私服才可游玩。
 
+[TOC]
 
-# 模组列表
+# 模组
 
 ## 1.超多职业模组V4.2.0（最新支持2022.10.25）
 
@@ -42,7 +43,7 @@
 | Pursuer    | 陷阱师   | Invert        | 破平者   |              |          |
 | Prosecutor | 检察官   |               |          |              |          |
 
-## 　2.超多职业GM增强版v3.5.5.1（最新支持2022.3.29）（断更）
+## 2.超多职业GM增强版v3.5.5.1（最新支持2022.3.29）（断更）
 
 [github地址（点这）](https://github.com/yukinogatari/TheOtherRoles-GM)
 
@@ -96,7 +97,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 | 嗜血杀手            |          | 莫里亚蒂     |
 | 绝境者              |          | 丘比特       |
 
-4.内鬼小镇 v2.0.8（最新支持2021.6.15版本）仅私服可玩 (断更)
+## 4.内鬼小镇 v2.0.8（最新支持2021.6.15版本）仅私服可玩 (断更)
 
 [github地址（点这）](https://github.com/Town-of-Impostors/TownOfImpostors)
 
@@ -114,7 +115,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 | Operative     | 特务     |           |          |             |          |           |          |
 | Mayor         | 市长     |           |          |             |          |           |          |
 
-5.我们小镇v3.1.1(非官方延续)(最新支持2021.12.15)
+## 5.我们小镇v3.1.1(非官方延续)(最新支持2021.12.15)
 
 [github地址（点这）](https://github.com/Anusien/Town-Of-Us)`<br>`
 [最开始的我们的小镇](https://github.com/slushiegoose/Town-Of-Us) `<br>`
@@ -137,7 +138,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 | Prophet        | 先知     |               |          |                |          |              |          |
 | Covert         | 隐秘者   |               |          |                |          |              |          |
 
-6.我们小镇分支R v3.1.0 (支持2022.8.24）
+## 6.我们小镇分支R v3.1.0 (支持2022.8.24）
 
 已支持潜艇地图
 [github地址（点这）](https://github.com/eDonnes124/Town-Of-Us-R)`<br>`
@@ -161,7 +162,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 | Time Lord      | 时间之主   |               |          |                |          |              |          |
 | Transporter    |            |               |          |                |          |              |          |
 
-7.TheEpicRoles  v1.1.2（支持2022.2.24s）(断更)
+## 7.TheEpicRoles  v1.1.2（支持2022.2.24s）(断更)
 
 [github地址（点这）](https://github.com/LaicosVK/TheEpicRoles) `<br>`
 ![image](./Image/TER_banner.png) `<br>`
@@ -196,7 +197,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 |                   |          | Medium         | 通灵师   |          |        |  |
 |                   |          | Jumper         |          |          |        |  |
 
-8.LAS MONJAS V2.1.3（适合2022.8.24）千年隼号地图
+## 8.LAS MONJAS V2.1.3（适合2022.8.24）
 
 与潜艇地图兼容 `<br>`
 [github地址（点这）](https://github.com/KiraYamato94/LasMonjas) `<br>`
@@ -236,13 +237,11 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 千年隼号地图展示：
 ![image](./Image/%E5%8D%83%E5%B9%B4%E9%9A%BC.jpg)
 
-9.ExtremeRoles v3.2.2.5 （最新支持2022.8.24)
+## 9.ExtremeRoles v3.2.2.5 （最新支持2022.8.24)
 
 [github地址（点这）](https://github.com/yukieiji/ExtremeRoles)
 
----
-
-10.星云舰 Nebula On The Ship v1.14.1（支持2022.8.24）
+## 10.星云舰 Nebula On The Ship v1.14.1（支持2022.8.24）
 
 原版链接: https://github.com/Dolly1016/Nebula
 
@@ -266,9 +265,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 |              |          | Spy          |      |             |          |           |          |
 |              |          | Madmate      | 叛徒 |             |          |           |          |
 
----
-
-11.P服 peasmod v3.0.0-pre2.2（支持2022.3.29s）
+## 11.P服 peasmod v3.0.0-pre2.2（支持2022.3.29s）
 
 [github地址（点这）](https://github.com/Dolly1016/Nebula)
 ![image](./Image/Logo.png)
@@ -282,28 +279,19 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 | Mayor          | 市长     | Undertaker     | 刺客     |               |          |               |          |
 | Sheriff        | 警长     |                |          |               |          |               |          |
 
----
-
-12.国际象棋模组v1.1.1版本（支持2021.6.30版本）
-==============================================
+## 12.国际象棋模组v1.1.1版本（支持2021.6.30版本）
 
 [github地址（点这）][https://github.com/KyleSmith0905/Among-Chess](https://github.com/KyleSmith0905/Among-Chess)
 
 ![image](./Image/%E8%B1%A1%E6%A3%8B%E6%A8%A1%E7%BB%84.png)
 
----
-
-13.挑战者模组4.3.2（支持2020.6.15s）
-====================================
+## 13.挑战者模组4.3.2（支持2020.6.15s）
 
 [github地址（点这）](https://github.com/Lunastellia/Challenger-Among-Us)
 
 ![image](./Image/%E6%8C%91%E6%88%98%E8%80%85%E6%88%91%E4%BB%AC%E4%B8%AD%E9%97%B44.1.3.png)
 
----
-
-14.Syyreth ModsAmongUs v4.0.6版本（支持2022.8.24）
-==================================================
+## 14.Syyreth ModsAmongUs v4.0.6版本（支持2022.8.24）
 
 [github地址（点这）](https://github.com/Syyreth/ModsAmongUs)
 
@@ -327,18 +315,12 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 | Drainer         |          |                |          |                 |          |               |          |
 | Lovers          | 恋人     |                |          |                 |          |               |          |
 
----
-
-15.恶搞模组Cursed-Among-Us v1.1.0 （支持2021.6.30）
-===================================================
+## 15.恶搞模组Cursed-Among-Us v1.1.0 （支持2021.6.30）
 
 模组链接：https://github.com/Devs-Us/Cursed-Among-Us
 ![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/icon.png) `<br>`
 
----
-
-16.S服skeld.net(最新支持2022.3.29s)
-===================================
+## 16.S服skeld.net(最新支持2022.3.29s)
 
 模组链接：https://skeld.net/
 
@@ -357,10 +339,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 | Escalation     | 加速       |
 | Standard       | 标准模式   |
 
----
-
-17.哈利波特模组 v1.2.0（最新支持2021.5.10s） (断更)
-===================================================
+## 17.哈利波特模组 v1.2.0（最新支持2021.5.10s） (断更)
 
 点评：好玩但由于版本过于老旧，不推荐游玩。
 
@@ -426,13 +405,13 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 # 多语言样式声明
 
-###### 简体中文（Ｓｈｉｎｅｓｅ）
+###### 简体中文（SChinese）
 
 <p align="center">
 这些模组不隶属于 Among Us 或 Innersloth LLC，其包含的内容也未得到 Innersloth LLC 的认可或以其他方式赞助。此处包含的部分材料是Innersloth LLC的财产。
 </p>
 
-###### 繁體中文（ＴＣｈｉｎｓｅ）
+###### 繁體中文（TChinese）
 
 <p align="center">
 這些模組不隸屬於 Among Us 或 Innersloth LLC，其包含的內容也未得到 Innersloth LLC 的認可或以其他方式贊助。此處包含的部分材料是Innersloth LLC的財產。
@@ -444,7 +423,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 Ce mod n'est pas affilié à Among Us ou à Innersloth LLC, et le contenu qu'il contient n'est pas approuvé ou autrement parrainé par Innersloth LLC. Certaines parties des documents contenus dans le présent document sont la propriété d'Innersloth LLC.
 </p>
 
-###### Ｅｎｇｌｉｓｈ
+###### English
 
 <p align="center">
 This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC.
