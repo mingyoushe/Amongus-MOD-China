@@ -417,7 +417,6 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 断更如有需要请使用BetterCrewLink更好的近距离聊天工具
 
-[返回目录](#目录)
 ## ２.BetterCrewLink更好的近距离聊天工具 v3.0.5  (支持大部分Among Us版本)
 
 原版链接：https://github.com/OhMyGuus/BetterCrewlink
@@ -426,7 +425,6 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 注：服务器有问题，需自行搭建语音服务器
 
-[返回目录](#目录)
 ## ３.Among Us回放模组 v2.0.3 (支持任意版本) (断更)
 
 原版链接：https://github.com/sawa90/AmongUsReplayInWindow
@@ -437,6 +435,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 原版链接：https://github.com/MatuxGG/ModManager
 
 [返回目录](#目录)
+
 # 地图
 
 ## １.潜艇地图Submerged v2022.10.26 (支持2022.10.25) (持续更新中)
