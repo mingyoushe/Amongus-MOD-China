@@ -2,16 +2,17 @@
 
 太空狼人杀中文模组
 
-随着Among Us版本更新官方服务器所支持的服务器也在更新，过老版本只能使用私服才可游玩。<br>
+
+随着Among Us版本更新官方服务器所支持的服务器也在更新，过老版本只能使用私服才可游玩。
 
 ---
 
 1.超多职业模组V4.2.0（最新支持2022.10.25）
 ==========================================
 
-支持与潜艇地图融合游玩！ <br>
-[github地址（点这）](https://github.com/TheOtherRolesAU/TheOtherRoles) <br>
-![image](./Image/TOR_logo.png) <br>
+支持与潜艇地图融合游玩！ 
+[github地址（点这）](https://github.com/TheOtherRolesAU/TheOtherRoles)
+![image](./Image/TOR_logo.png)
 
 | Impostors         | 内鬼职业     | Crewmates      | 船员职业 | Crewmates   | 船员职业 | Neutral    | 中立职业 |
 |-------------------|----------|----------------|------|-------------|------|------------|------|
@@ -47,7 +48,7 @@
 2.超多职业GM增强版v3.5.5.1（最新支持2022.3.29）（断更）
 =======================================================
 
-[github地址（点这）](https://github.com/yukinogatari/TheOtherRoles-GM) <br>
+[github地址（点这）](https://github.com/yukinogatari/TheOtherRoles-GM) 
 
 GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
@@ -80,17 +81,17 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 3.超多职业GM-Haoming v2.2.106（最新支持2022.8.24）(持续更新中)
 ==============================================================
 
-[github地址（点这）](https://github.com/haoming37/TheOtherRoles-GM-Haoming)<br>
+[github地址（点这）](https://github.com/haoming37/TheOtherRoles-GM-Haoming)
 
-与潜艇地图兼容 <br>
-地图改动(Polus) ：<br>
-你可以设置随机重生地点 <br>
-附加额外通风口（出生点-脉搏室-右下角标本室）<br>
-可以设置心电图在右下角标本室 <br>
-地图改动（airship）<br>
-在任务中增加墙壁检查(飞艇)#来自AuShipMod的创意 <br>
+与潜艇地图兼容 
+地图改动(Polus) ：
+你可以设置随机重生地点 
+附加额外通风口（出生点-脉搏室-右下角标本室）
+可以设置心电图在右下角标本室 
+地图改动（airship）
+在任务中增加墙壁检查(飞艇)#来自AuShipMod的创意
 
-在GM版本基础上新增职业如下：`<br>`
+在GM版本基础上新增职业如下：
 
 | 内鬼          | 船员   | 中立       |
 | ------------- | ------ | ---------- |
@@ -105,7 +106,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 [github地址（点这）](https://github.com/Town-of-Impostors/TownOfImpostors)
 
-![image](./Image/TOI-Animated.gif) `<br>`
+![image](./Image/TOI-Animated.gif)
 
 | Crewmate Team | 船员职业 | Impostor  | 内鬼职业 | Other Teams | 其他职业 | Modifiers | 其他效果 |
 | ------------- | -------- | --------- | -------- | ----------- | -------- | --------- | -------- |
@@ -381,8 +382,10 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 ---
 
-17.哈利波特模组 v1.2.0（最新支持2021.5.10s）
+17.哈利波特模组 v1.2.0（最新支持2021.5.10s） (断更)
 ============================================
+
+点评：好玩但由于版本过于老旧，不推荐游玩。
 
 模组链接：https://github.com/FatherofHeathens/HarryPotterAmongUs
 
@@ -396,43 +399,50 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 ---
 
-18.crewlink游戏聊天工具MOD v2.0.1  (支持版本v2021.11.9.2s)
+18.crewlink游戏聊天工具 v2.0.1  (支持版本v2021.11.9.2s)
 ==========================================================
 
 原版链接：https://github.com/ottomated/CrewLink
 
+断更如有需要请使用BetterCrewLink更好的近距离聊天工具
+
 ---
 
-19.BetterCrewLink更好的crewlink聊天工具MOD v3.0.1  (支持版本v2022.3.29s)
+19.BetterCrewLink更好的近距离聊天工具 v3.0.5  (支持大部分Among Us版本)
 ========================================================================
 
 原版链接：https://github.com/OhMyGuus/BetterCrewlink
 
+已支持中文
+
+注：服务器有问题，需自行搭建语音服务器
+
+
 ---
 
-20.Among Us回放模组 v2.0.3 (支持任意版本)
+20.Among Us回放模组 v2.0.3 (支持任意版本) (断更)
 =========================================
 
 原版链接：https://github.com/sawa90/AmongUsReplayInWindow
 
 ---
 
-21.模组管理器 v5.1.2 ModManager
+21.模组管理器 v5.1.2 ModManager (持续更新中)
 ===============================
 
 原版链接：https://github.com/MatuxGG/ModManager
 
 ---
 
-24.潜艇地图Submerged v2022.10.26 (支持2022.10.25)
-================================================
+24.潜艇地图Submerged v2022.10.26 (支持2022.10.25) (持续更新中)
+=================================================
 
-支持潜艇地图的模组的模组作者已将潜艇地图放入模组文件直接下载支持的模组即可 
+支持潜艇地图的模组的模组作者已将潜艇地图放入模组文件直接下载支持的模组即可
 原版链接:https://github.com/SubmergedAmongUs/Submerged
 ![image](https://github.com/SubmergedAmongUs/Submerged/blob/main/Images/Icon.png)
 
-| 模组                                                                              | ❔ | 程度  |
-| -----------------------------------------------------------------------------     |  - | ---- |
+| 模组                                                                           | ❔ | 程度 |
+| ------------------------------------------------------------------------------ | -- | ---- |
 | [Las Monjas](https://github.com/KiraYamato94/LasMonjas/)                          | ✅ | 支持 |
 | [The Other Roles](https://github.com/TheOtherRoleAU/TheOtherRoles)                | ✅ | 支持 |
 | [TheOtherRoles-GM-Haoming](https://github.com/haoming37/TheOtherRoles-GM-Haoming) | ✅ | 支持 |
@@ -444,11 +454,10 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 # 与服务器的兼容
 
-| 服务器                                             | ❔ | 支持版本 |
-| ------------------------------------------------  | :-: | :---:|
-| 官方                                              | ✅ | 支持 |
-| [Impostor](https://github.com/Impostor/Impostor/) | ✅ | 支持 |
-
+| 服务器                                         | ❔ | 支持版本 |
+| ---------------------------------------------- | :-: | :------: |
+| 官方                                           | ✅ |   支持   |
+| [Impostor](https://github.com/Impostor/Impostor/) | ✅ |   支持   |
 
 ---
 
