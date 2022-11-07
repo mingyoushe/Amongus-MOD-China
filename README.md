@@ -2,16 +2,16 @@
 
 太空狼人杀中文模组
 
-随着Among Us版本更新官方服务器所支持的服务器也在更新，过老版本只能使用私服才可游玩。`<br>`
+随着Among Us版本更新官方服务器所支持的服务器也在更新，过老版本只能使用私服才可游玩。
 
 ---
 
 1.超多职业模组V4.2.0（最新支持2022.10.25）
 ==========================================
 
-支持与潜艇地图融合游玩！ `<br>`
-[github地址（点这）](https://github.com/TheOtherRolesAU/TheOtherRoles) `<br>`
-![image](./Image/TOR_logo.png) `<br>`
+支持与潜艇地图融合游玩！ 
+[github地址（点这）](https://github.com/TheOtherRolesAU/TheOtherRoles)
+![image](./Image/TOR_logo.png)
 
 | Impostors         | 内鬼职业         | Crewmates      | 船员职业 | Neutral    | 中立职业 | Secondary     | 其他职业 | Gamemode     | 游戏模式 |
 | :---------------- | :--------------- | :------------- | :------- | :--------- | :------- | :------------ | :------- | :----------- | :------- |
@@ -38,7 +38,7 @@
 2.超多职业GM增强版v3.5.5.1（最新支持2022.3.29）（断更）
 =======================================================
 
-[github地址（点这）](https://github.com/yukinogatari/TheOtherRoles-GM) `<br>`
+[github地址（点这）](https://github.com/yukinogatari/TheOtherRoles-GM) 
 
 GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
@@ -71,17 +71,17 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 3.超多职业GM-Haoming v2.2.106（最新支持2022.8.24）(持续更新中)
 ==============================================================
 
-[github地址（点这）](https://github.com/haoming37/TheOtherRoles-GM-Haoming)`<br>`
+[github地址（点这）](https://github.com/haoming37/TheOtherRoles-GM-Haoming)
 
-与潜艇地图兼容 `<br>`
-地图改动(Polus) ：`<br>`
-你可以设置随机重生地点 `<br>`
-附加额外通风口（出生点-脉搏室-右下角标本室）`<br>`
-可以设置心电图在右下角标本室 `<br>`
-地图改动（airship）`<br>`
-在任务中增加墙壁检查(飞艇)#来自AuShipMod的创意 `<br>`
+与潜艇地图兼容 
+地图改动(Polus) ：
+你可以设置随机重生地点 
+附加额外通风口（出生点-脉搏室-右下角标本室）
+可以设置心电图在右下角标本室 
+地图改动（airship）
+在任务中增加墙壁检查(飞艇)#来自AuShipMod的创意
 
-在GM版本基础上新增职业如下：`<br>`
+在GM版本基础上新增职业如下：
 
 | 内鬼          | 船员   | 中立       |
 | ------------- | ------ | ---------- |
@@ -96,7 +96,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 [github地址（点这）](https://github.com/Town-of-Impostors/TownOfImpostors)
 
-![image](./Image/TOI-Animated.gif) `<br>`
+![image](./Image/TOI-Animated.gif)
 
 | Crewmate Team | 船员职业 | Impostor  | 内鬼职业 | Other Teams | 其他职业 | Modifiers | 其他效果 |
 | ------------- | -------- | --------- | -------- | ----------- | -------- | --------- | -------- |
