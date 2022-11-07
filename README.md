@@ -13,68 +13,28 @@
 [github地址（点这）](https://github.com/TheOtherRolesAU/TheOtherRoles) `<br>`
 ![image](./Image/TOR_logo.png) `<br>`
 
-| Impostors         | 内鬼职业         | Crewmates      | 船员职业 | Neutral    | 中立职业 | Secondary     | 其他职业 |  Gamemode  |  游戏模式  |
-| :---------------- | :--------------- | :------------- | :------- | :--------- | :------- | :------------ | :------- | :------- | :------- |
-| Evil Guesser      | 坏堵怪           | Nice Guesser   | 好赌怪   | Jester     | 小丑     | Lover         | 恋人     |  Classic  |  诸神之战  |
-| Bounty Hunter     | 赏金猎人         | Detective      | 调查员   | Jackal     | 豺狼     | Mini          | 小人     |  Guesser  |  赌怪模式  |
-| Camouflager       | 隐蔽者           | Engineer       | 工程师   | Sidekick   | 跟班     | VIP           | VIP      | Hide 'n Seek  |  躲猫猫  |
-| Cleaner           | 清洁工           | Hacker         | 黑客     | Vulture    | 秃鹫     | Bloody        | 溅血者   |
-| Eraser            | 抹除者           | Lighter        | 小灯人   | Lawyer     | 律师     | Anti Teleport | 醉鬼     |
-| Godfather (Mafia) | 教父（黑手党）   | Mayor          | 市长     | Arsonist   | 纵火犯   | Tie Breaker   | 通讯兵   |
-| Mafioso (Mafia)   | 黑手党（黑手党） | Medic          | 医生     | Thier      | 小偷     | Sunglasse     | 太阳镜   |
-| Janitor (Mafia)   | 清洁工（黑手党） | Security Guard | 保安     | Pursuer    | 陷阱师   | Invert        | 破平者   |
-| Morphling         | 变形者           | Seer           | 灵媒     | Prosecutor | 检察官   |               |          |
-| Trickster         | 骗术师           | Sheriff        | 警长     |            |          |               |          |
-| Vampire           | 吸血鬼           | Deputy         | 捕快     |            |          |               |          |
-| Warlock           | 术士             | Shifter        | 交换者   |            |          |               |          |
-| Witch             | 女巫             | Snitch         | 告密者   |            |          |               |          |
-| Ninja             | 忍者             | Spy            | 间谍     |            |          |               |          |
-|                   |                  | Swapper        | 换票师   |            |          |               |          |
-|                   |                  | Time Master    | 时间之主 |            |          |               |          |
-|                   |                  | Tracker        | 追踪者   |            |          |               |          |
-|                   |                  | Medium         | 通灵师   |            |          |               |          |
-|                   |                  | Portalmaker    | 传送师   |            |          |               |          |
+| Impostors         | 内鬼职业         | Crewmates      | 船员职业 | Neutral    | 中立职业 | Secondary     | 其他职业 | Gamemode     | 游戏模式 |
+| :---------------- | :--------------- | :------------- | :------- | :--------- | :------- | :------------ | :------- | :----------- | :------- |
+| Evil Guesser      | 坏堵怪           | Nice Guesser   | 好赌怪   | Jester     | 小丑     | Lover         | 恋人     | Classic      | 诸神之战 |
+| Bounty Hunter     | 赏金猎人         | Detective      | 调查员   | Jackal     | 豺狼     | Mini          | 小人     | Guesser      | 赌怪模式 |
+| Camouflager       | 隐蔽者           | Engineer       | 工程师   | Sidekick   | 跟班     | VIP           | VIP      | Hide 'n Seek | 躲猫猫   |
+| Cleaner           | 清洁工           | Hacker         | 黑客     | Vulture    | 秃鹫     | Bloody        | 溅血者   |              |          |
+| Eraser            | 抹除者           | Lighter        | 小灯人   | Lawyer     | 律师     | Anti Teleport | 醉鬼     |              |          |
+| Godfather (Mafia) | 教父（黑手党）   | Mayor          | 市长     | Arsonist   | 纵火犯   | Tie Breaker   | 通讯兵   |              |          |
+| Mafioso (Mafia)   | 黑手党（黑手党） | Medic          | 医生     | Thier      | 小偷     | Sunglasse     | 太阳镜   |              |          |
+| Janitor (Mafia)   | 清洁工（黑手党） | Security Guard | 保安     | Pursuer    | 陷阱师   | Invert        | 破平者   |              |          |
+| Morphling         | 变形者           | Seer           | 灵媒     | Prosecutor | 检察官   |               |          |              |          |
+| Trickster         | 骗术师           | Sheriff        | 警长     |            |          |               |          |              |          |
+| Vampire           | 吸血鬼           | Deputy         | 捕快     |            |          |               |          |              |          |
+| Warlock           | 术士             | Shifter        | 交换者   |            |          |               |          |              |          |
+| Witch             | 女巫             | Snitch         | 告密者   |            |          |               |          |              |          |
+| Ninja             | 忍者             | Spy            | 间谍     |            |          |               |          |              |          |
+|                   |                  | Swapper        | 换票师   |            |          |               |          |              |          |
+|                   |                  | Time Master    | 时间之主 |            |          |               |          |              |          |
+|                   |                  | Tracker        | 追踪者   |            |          |               |          |              |          |
+|                   |                  | Medium         | 通灵师   |            |          |               |          |              |          |
+|                   |                  | Portalmaker    | 传送师   |            |          |               |          |              |          |
 
-<<<<<<< HEAD
----
-=======
-
-1.超多职业模组V4.1.7（最新支持2022.8.24）
-====
-
-支持与潜艇地图融合游玩！ <br> 
-[github地址（点这）](https://github.com/TheOtherRolesAU/TheOtherRoles)https://github.com/TheOtherRolesAU/TheOtherRoles <br>  
-![image](./Image/TOR_logo.png) <br> 
-
-
-| Impostors         | 内鬼职业     | Crewmates      | 船员职业 | Neutral  | 中立职业 | Secondary | 其他职业 |
-|:-------------------|:----------|:----------------|:------|:----------|:------|:-----------|:------|
-| Evil Guesser      | 坏堵怪      | Nice Guesser   | 好赌怪  | Jester   | 小丑   | Lover      |   恋人   |
-| Bounty Hunter     | 赏金猎人     | Detective      | 调查员  | Jackal   | 豺狼   | Mini         | 小人     |
-| Camouflager       | 隐蔽者      | Engineer       | 工程师  | Sidekick | 跟班   | VIP          | VIP     |
-| Cleaner           | 清洁工      | Hacker         | 黑客   | Vulture  | 秃鹫   | Bloody          | 溅血者     |
-| Eraser            | 抹除者      | Lighter        | 小灯人  | Lawyer   | 律师   | Anti Teleport         | 醉鬼    |
-| Godfather (Mafia) | 教父（黑手党）  | Mayor          | 市长   | Arsonist       | 纵火犯    | Tie Breaker          | 通讯兵     |
-| Mafioso (Mafia)   | 黑手党（黑手党） | Medic          | 医生   |          |      | Sunglasse          | 太阳镜     |
-| Janitor (Mafia)   | 清洁工（黑手党） | Security Guard | 保安   |          |      | Invert          | 破平者     |
-| Morphling         | 变形者      | Seer           | 灵媒   |          |      |           |      |
-| Trickster         | 骗术师      | Sheriff        | 警长   |          |      |           |      |
-| Vampire           | 吸血鬼      | Deputy         | 捕快   |          |      |           |      |
-| Warlock           | 术士       | Shifter        | 交换者  |          |      |           |      |
-| Witch             | 女巫       | Snitch         | 告密者  |          |      |           |      |
-| Ninja             | 忍者       | Spy            | 间谍   |          |      |           |      |
-|                   |          | Swapper        | 换票师  |          |      |           |      |
-|                   |          | Time Master    | 时间之主 |          |      |           |      |
-|                   |          | Tracker        | 追踪者  |          |      |           |      |
-|                   |          | Medium         | 通灵师   |          |      |            |      |  
-|                   |          | Portalmaker    | 传送师         |          |      |            |      |
-
-
-***
-
-
-
->>>>>>> 56dd71621cb79abaf8a1def396ebecc181bfe7ed
 
 2.超多职业GM增强版v3.5.5.1（最新支持2022.3.29）（断更）
 =======================================================
@@ -456,30 +416,31 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 ---
 
-24.潜艇地图Submerged v2022.6.23 (支持2022.3.29s)
+24.潜艇地图Submerged v2022.10.26 (支持2022.10.25)
 ================================================
 
-支持潜艇地图的模组的模组作者已将潜艇地图放入模组文件直接下载支持的模组即可 `<br>`
-原版链接:https://github.com/SubmergedAmongUs/Submerged `<br>`
-![image](https://github.com/SubmergedAmongUs/Submerged/blob/main/Images/Icon.png) `<br>`
+支持潜艇地图的模组的模组作者已将潜艇地图放入模组文件直接下载支持的模组即可 
+原版链接:https://github.com/SubmergedAmongUs/Submerged
+![image](https://github.com/SubmergedAmongUs/Submerged/blob/main/Images/Icon.png)
 
-| 模组                                                                           | ❔ |                                                 支持版本                                                 |
-| ------------------------------------------------------------------------------ | :-: | :-------------------------------------------------------------------------------------------------------: |
-| [Las Monjas](https://github.com/KiraYamato94/LasMonjas/)                          | ✅ |        已支持 `<br>`(as of [v1.5.0](https://github.com/KiraYamato94/LasMonjas/releases/tag/1.5.0))        |
-| [The Other Roles](https://github.com/Eisbison/TheOtherRoles)                      | ✅ |        已支持 `<br>`(as of [v4.1.0](https://github.com/Eisbison/TheOtherRoles/releases/tag/v4.1.0))        |
-| [TheOtherRoles-GM-Haoming](https://github.com/haoming37/TheOtherRoles-GM-Haoming) | ✅ | 已支持 `<br>`(as of [v2.0.10](https://github.com/haoming37/TheOtherRoles-GM-Haoming/releases/tag/v2.0.10)) |
-| [Town-of-Us-R](https://github.com/eDonnes124/Town-Of-Us-R)                        | 🟢 |                                                   兼容                                                   |
-| [BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink)                      | 🟢 |                                          兼容 `<br>`(完全兼容)                                          |
-| [Reactor](https://github.com/nuclearpowered/reactor)                              | 🟢 |                                                   兼容                                                   |
-| [Region Install](https://github.com/miniduikboot/Mini.RegionInstall)              | 🟢 |                                                   兼容                                                   |
+| 模组                                                                              | ❔ | 程度  |
+| -----------------------------------------------------------------------------     |  - | ---- |
+| [Las Monjas](https://github.com/KiraYamato94/LasMonjas/)                          | ✅ | 支持 |
+| [The Other Roles](https://github.com/TheOtherRoleAU/TheOtherRoles)                | ✅ | 支持 |
+| [TheOtherRoles-GM-Haoming](https://github.com/haoming37/TheOtherRoles-GM-Haoming) | ✅ | 支持 |
+| [Town-of-Us-R](https://github.com/eDonnes124/Town-Of-Us-R)                        | ✅ | 支持 |
+| [ExtremeRoles](https://github.com/yukieiji/ExtremeRoles/)                         | ✅ | 支持 |
+| [BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink)                      | 🟢 | 兼容 |
+| [Reactor](https://github.com/nuclearpowered/reactor)                              | 🔗 | 必备 |
+| [Region Install](https://github.com/miniduikboot/Mini.RegionInstall)              | 🟢 | 兼容 |
 
 # 与服务器的兼容
 
-| 服务器                                            | ❔ |                                                    支持版本                                                    |
-| ------------------------------------------------- | :-: | :------------------------------------------------------------------------------------------------------------: |
-| 官方                                              | ✅ |                                                      支持                                                      |
-| [Impostor](https://github.com/Impostor/Impostor/)    | ✅ | 支持 `<br>`(as of [v1.7.0-ci.253](https://ci.appveyor.com/project/Impostor/Impostor/builds/43291915/artifacts)) |
-| [Hindenburg](https://github.com/SkeldJS/Hindenburg/) | 🕓 |                                                    正在兼容                                                    |
+| 服务器                                             | ❔ | 支持版本 |
+| ------------------------------------------------  | :-: | :---:|
+| 官方                                              | ✅ | 支持 |
+| [Impostor](https://github.com/Impostor/Impostor/) | ✅ | 支持 |
+
 
 ---
 
