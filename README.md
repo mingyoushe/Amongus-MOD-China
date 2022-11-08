@@ -1,7 +1,8 @@
 # 目录
+
 - [前言](#前言)
-    - [Among Us](#among-us)
-    - [提醒](#提醒)
+  - [Among Us](#among-us)
+  - [提醒](#提醒)
 - [模组](#模组)
   - [1.TheOtherRoles V4.2.0（最新支持2022.10.25）(持续更新中)](#1theotherroles-v420最新支持20221025持续更新中)
   - [2.TheOtherRoles GM v3.5.5.1（最新支持2022.3.29）（断更）](#2theotherroles-gm-v3551最新支持2022329断更)
@@ -28,14 +29,14 @@
 - [地图](#地图)
   - [１.潜艇地图Submerged v2022.10.26 (支持2022.10.25) (持续更新中)](#１潜艇地图submerged-v20221026-支持20221025-持续更新中)
 - [多语言样式声明](#多语言样式声明)
-    - [简体中文（SChinese）](#简体中文schinese)
-    - [繁體中文（TChinese）](#繁體中文tchinese)
-    - [Français（French）](#françaisfrench)
-    - [English](#english)
-    - [日本語（Japanese）](#日本語japanese)
-    - [Русский（Russian）](#русскийrussian)
-    - [Deutsch（German）](#deutschgerman)
-    - [Español（Spanish）](#españolspanish)
+  - [简体中文（SChinese）](#简体中文schinese)
+  - [繁體中文（TChinese）](#繁體中文tchinese)
+  - [Français（French）](#françaisfrench)
+  - [English](#english)
+  - [日本語（Japanese）](#日本語japanese)
+  - [Русский（Russian）](#русскийrussian)
+  - [Deutsch（German）](#deutschgerman)
+  - [Español（Spanish）](#españolspanish)
 
 # 前言
 
@@ -138,15 +139,15 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 在GM版本基础上新增职业如下：
 
-| 内鬼                | 船员     | 中立         |
-| ------------------- | -------- | ------------ |
-| 邪恶的黑客          | 占卜师   | 狐妖         |
-| 邪恶的追踪者        | 幻视者   | 背德者       |
-| 设陷者              | 福尔摩斯 | 薛定谔的猫   |
-| 模仿者（杀手/助手） |          | 傀儡师       |
-| 双子爆破者A/B       |          | 杰基尔和海德 |
-| 嗜血杀手            |          | 莫里亚蒂     |
-| 绝境者              |          | 丘比特       |
+| 内鬼                | 船员     | 中立       |
+| ------------------- | -------- | ---------- |
+| 邪恶的黑客          | 占卜师   | 狐妖       |
+| 邪恶的追踪者        | 幻视者   | 背德者     |
+| 设陷者              | 福尔摩斯 | 薛定谔的猫 |
+| 模仿者（杀手/助手） |          | 傀儡师     |
+| 双子爆破者A/B       |          | 魅魔       |
+| 嗜血杀手            |          | 莫里亚蒂   |
+| 绝境者              |          | 丘比特     |
 
 [返回目录](#目录)
 
@@ -202,12 +203,12 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 | Crewmate Roles | 船员职业   | Neutral Roles | 中立职业 | Impostor Roles | 内鬼职业 | Modifiers    | 效果设置 |
 | -------------- | ---------- | ------------- | -------- | -------------- | -------- | ------------ | -------- |
-| Haunter        | 猎人       | Amnesiac      |          | Camouflager    | 隐蔽者   | Bait         |          |
+| Haunter        | 猎人       | Amnesiac      |          | Camouflager    | 隐蔽者   | Bait         | 诱饵     |
 | Investigator   | 调查员     | Executioner   |          | Grenadier      |          | Diseased     | 疾病     |
 | Seer           | 灵媒       | Jester        | 小丑     | Morphling      | 变形者   | Torch        | 执灯人   |
-| Snitch         | 告密者     | Phantom       |          | Swooper        |          | Button Barry |          |
+| Snitch         | 告密者     | Phantom       |          | Swooper        |          | Button Barry | 赏金猎人 |
 | Spy            | 间谍       | Arsonist      | 纵火犯   | Poisoner       |          | Drunk        | 醉酒     |
-| Tracker        | 追踪者     | The Glitch    | 混沌     | Traitor        |          | Flash        |          |
+| Tracker        | 追踪者     | The Glitch    | 混沌     | Traitor        |          | Flash        | 闪电侠   |
 | Sheriff        | 警长       |               |          | Underdog       |          | Giant        | 巨人     |
 | Veteran        | 退伍军人   |               |          | Janitor        | 清洁工   | Lovers       | 恋人     |
 | Vigilante      | 自卫队     |               |          | Miner          |          | Sleuth       |          |
@@ -284,7 +285,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 | Medusa      | 美杜莎   | Sleuth         | 追踪者   | Trapper         | 陷阱师   |                |          |
 | Hypnotist   |          | Fink           | 告密者   | Yinyanger       | 阴阳师   |                |          |
 | Archer      |          | Kid            | 小孩     | Challenger      | 挑战者   |                |          |
-|             |          | Welder         | 焊接工   | Ninja           |          |                |          |
+|             |          | Welder         | 焊接工   | Ninja           | 忍者     |                |          |
 |             |          | Spiritualist   | 殉道者   | Berserker       |          |                |          |
 |             |          | Vigilant       | 保安     |                 |          |                |          |
 |             |          | Coward         | 诱饵     |                 |          |                |          |
