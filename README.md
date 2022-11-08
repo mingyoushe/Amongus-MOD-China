@@ -21,13 +21,23 @@
   - [15.Cursed-Among-Us v1.1.0 （支持2021.6.30）（断更）](#15cursed-among-us-v110-支持2021630断更)
   - [16.skeld.net (支持大部分版本)](#16skeldnet-支持大部分版本)
   - [17.哈利波特模组 v1.2.0（最新支持2021.5.10s） (断更)](#17哈利波特模组-v120最新支持2021510s-断更)
+  - [18.SuperNewRoles](#18supernewroles)
+  - [19.TheOtheRoles CE](#19theotherroles-ce)
+  - [20.TheOtherRoles MR](#20theotherroles-mr)
+  - [21.TownOfHost](#21townofhost)
+  - [22.TownOfHost-TheOtherRoles](#22townofhost--theotherroles)
+  - [23.BetterTownOfUS](#23bettertownofus)
+  - [24.UltimateMods](#24ultimatemods)
+  - [25.PropHunt](#25prophunt)
 - [工具](#工具)
   - [１.crewlink游戏聊天工具 v2.0.1  (支持版本v2021.11.9.2s)（断更）](#１crewlink游戏聊天工具-v201--支持版本v20211192s断更)
   - [２.BetterCrewLink更好的近距离聊天工具 v3.0.5  (支持大部分Among Us版本) （持续更新中）](#２bettercrewlink更好的近距离聊天工具-v305--支持大部分among-us版本-持续更新中)
   - [３.Among Us回放模组 v2.0.3 (支持任意版本) (断更)](#３among-us回放模组-v203-支持任意版本-断更)
   - [４.模组管理器 v5.1.2 ModManager (持续更新中)](#４模组管理器-v512-modmanager-持续更新中)
+  - [5.levelimposter-editor](#5levelimposter-editor)
 - [地图](#地图)
   - [１.潜艇地图Submerged v2022.10.26 (支持2022.10.25) (持续更新中)](#１潜艇地图submerged-v20221026-支持20221025-持续更新中)
+  - [2.levelimposter](#2levelimposter)
 - [多语言样式声明](#多语言样式声明)
   - [简体中文（SChinese）](#简体中文schinese)
   - [繁體中文（TChinese）](#繁體中文tchinese)
@@ -152,6 +162,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 | 双子爆破者A/B       |          | 魅魔       |
 | 嗜血杀手            |          | 莫里亚蒂   |
 | 绝境者              |          | 丘比特     |
+|                     |          | 化身博士   |
 
 [返回目录](#目录)
 
@@ -447,6 +458,21 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 [返回目录](#目录)
 
+## 18.SuperNewRoles 
+
+## 19.TheOtherRoles CE
+
+## 20.TheOtherRoles MR
+
+## 21.TownOfHost
+
+## 22.TownOfHost -TheOtherRoles
+
+## 23.BetterTownOfUS
+
+## 24.UltimateMods
+
+## 25.PropHunt
 # 工具
 
 ## １.crewlink游戏聊天工具 v2.0.1  (支持版本v2021.11.9.2s)（断更）
@@ -472,6 +498,8 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 原版链接：https://github.com/MatuxGG/ModManager
 
 [返回目录](#目录)
+
+## 5.LevelImposter-Editor
 
 # 地图
 
@@ -500,6 +528,8 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 | [Impostor](https://github.com/Impostor/Impostor/) | ✅ |   支持   |
 
 [返回目录](#目录)
+
+## 2.LevelImposter
 
 # 多语言样式声明
 
