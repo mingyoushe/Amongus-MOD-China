@@ -160,13 +160,13 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 [返回目录](#目录)
 ## 5.我们小镇v3.1.1(非官方延续)(最新支持2021.12.15)
 
-[github地址（点这）](https://github.com/Anusien/Town-Of-Us)`<br>`
-[最开始的我们的小镇](https://github.com/slushiegoose/Town-Of-Us) `<br>`
-![image](./Image/TOU-logo.png) `<br>`
+[github地址（点这）](https://github.com/Anusien/Town-Of-Us) <br>
+[最开始的我们的小镇](https://github.com/slushiegoose/Town-Of-Us) <br>
+![image](./Image/TOU-logo.png) <br>
 
 | Crewmate Roles | 船员职业 | Neutral Roles | 中立职业 | Impostor Roles | 内鬼职业 | Modifiers    | 效果设置 |
 | -------------- | -------- | ------------- | -------- | -------------- | -------- | ------------ | -------- |
-| Mayor          | 市长     | Jester        | 小丑     | Janitor        | 清洁工   | Torch        | 小灯人   |
+| Mayor          | 市长     | Jester        | 小丑     | Janitor        | 清洁工   | Torch        | 执灯人   |
 | Lovers         | 恋人     | Shifter       | 交换师   | Morphling      | 变形者   | Diseased     | 瘟疫     |
 | Sheriff        | 警长     | The Glitch    | 混沌     | Camouflager    | 隐蔽者   | Flash        | 闪现     |
 | Engineer       | 工程师   | Executioner   | 处决者   | Miner          | 矿工     | Tiebreaker   | 破平者   |
@@ -185,13 +185,13 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 ## 6.我们小镇分支R v3.1.0 (支持2022.8.24）
 
 已支持潜艇地图
-[github地址（点这）](https://github.com/eDonnes124/Town-Of-Us-R)`<br>`
+[github地址（点这）](https://github.com/eDonnes124/Town-Of-Us-R) <br>
 
 | Crewmate Roles | 船员职业   | Neutral Roles | 中立职业 | Impostor Roles | 内鬼职业 | Modifiers    | 效果设置 |
 | -------------- | ---------- | ------------- | -------- | -------------- | -------- | ------------ | -------- |
 | Haunter        | 猎人       | Amnesiac      |          | Camouflager    | 隐蔽者   | Bait         |          |
 | Investigator   | 调查员     | Executioner   |          | Grenadier      |          | Diseased     | 疾病     |
-| Seer           | 灵媒       | Jester        | 小丑     | Morphling      | 变形者   | Torch        | 小灯人   |
+| Seer           | 灵媒       | Jester        | 小丑     | Morphling      | 变形者   | Torch        | 执灯人   |
 | Snitch         | 告密者     | Phantom       |          | Swooper        |          | Button Barry |          |
 | Spy            | 间谍       | Arsonist      | 纵火犯   | Poisoner       |          | Drunk        | 醉酒     |
 | Tracker        | 追踪者     | The Glitch    | 混沌     | Traitor        |          | Flash        |          |
@@ -209,14 +209,14 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 [返回目录](#目录)
 ## 7.TheEpicRoles  v1.1.2（支持2022.2.24s）(断更)
 
-[github地址（点这）](https://github.com/LaicosVK/TheEpicRoles) `<br>`
-![image](./Image/TER_banner.png) `<br>`
-新特点： `<br>`
-1.上一场比赛中最先死亡的玩家将在下一场比赛中获得首杀盾。`<br>`
-2.就绪状态：当有一个人未准备好时，大厅主持人无法开始游戏。`<br>`
-3.定制鼠标光标。`<br>`
-4.模组选项类别分类。`<br>`
-5.运输船不再抖动。`<br>`
+[github地址（点这）](https://github.com/LaicosVK/TheEpicRoles) <br>
+![image](./Image/TER_banner.png) <br>
+新特点： <br>
+1.上一场比赛中最先死亡的玩家将在下一场比赛中获得首杀盾。<br>
+2.就绪状态：当有一个人未准备好时，大厅主持人无法开始游戏。
+3.定制鼠标光标。<br>
+4.模组选项类别分类。<br>
+5.运输船不再抖动。<br>
 
 | Impostors         | 内鬼     | Crewmates      | 船员     | Neutral  | 中立   |  |
 | ----------------- | -------- | -------------- | -------- | -------- | ------ | - |
