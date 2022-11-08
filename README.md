@@ -68,11 +68,11 @@
 # 模组
 
 ## 1.TheOtherRoles
-![image](./Image/TOR_logo.png)
-[ GitHub仓库 ( 点这 ) ](https://github.com/TheOtherRolesAU/TheOtherRoles)
-最新版本：v4.2.0
-Among Us支持版本：2022.10.25
-更新状况：持续更新中
+![image](./Image/TOR_logo.png)  
+[ GitHub仓库 ( 点这 ) ](https://github.com/TheOtherRolesAU/TheOtherRoles)  
+最新版本：v4.2.0  
+Among Us支持版本：2022.10.25  
+更新状况：持续更新中  
 
 ### 职业
 
@@ -109,10 +109,10 @@ Among Us支持版本：2022.10.25
 
 ## 2.TheOtherRoles GM
 
-[ GitHub仓库 ( 点这 ) ](https://github.com/yukinogatari/TheOtherRoles-GM)
-最新版本：v3.5.5.1
-Among Us支持版本：2022.3.29
-更新状况：断更
+[ GitHub仓库 ( 点这 ) ](https://github.com/yukinogatari/TheOtherRoles-GM)  
+最新版本：v3.5.5.1  
+Among Us支持版本：2022.3.29  
+更新状况：断更  
 
 ### 职业
 
@@ -146,18 +146,18 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 ## 3.TheOtherRoles GM-Haoming
 
-[ GitHub仓库 ( 点这 ) ](https://github.com/haoming37/TheOtherRoles-GM-Haoming)
-最新版本：v2.3.133
-Among Us支持版本：2022.10.25
-更新状况：持续更新中
+[ GitHub仓库 ( 点这 ) ](https://github.com/haoming37/TheOtherRoles-GM-Haoming)  
+最新版本：v2.3.133  
+Among Us支持版本：2022.10.25  
+更新状况：持续更新中  
 ### 介绍
-与潜艇地图兼容 
-地图改动(Polus) ： 
-你可以设置随机重生地点 
-附加额外通风口（出生点-脉搏室-右下角样本室）
-可以设置心电图在右下角样本室 
-地图改动（airship）
-在任务中增加墙壁检查(飞艇)#来自AuShipMod的创意
+与潜艇地图兼容  
+地图改动(Polus) ：   
+你可以设置随机重生地点   
+附加额外通风口（出生点-脉搏室-右下角样本室）  
+可以设置心电图在右下角样本室   
+地图改动（airship）  
+在任务中增加墙壁检查(飞艇)#来自AuShipMod的创意  
 
 ### 职业
 在GM版本基础上新增职业如下：
@@ -176,10 +176,10 @@ Among Us支持版本：2022.10.25
 [返回目录](#目录)
 
 ## 4.TownOfUs-R 
-[ GitHub仓库 ( 点这 ) ](https://github.com/eDonnes124/Town-Of-Us-R) 
-最新版本：v3.4.0
-Among Us支持版本：2022.10.25
-更新状况：持续更新中
+[ GitHub仓库 ( 点这 ) ](https://github.com/eDonnes124/Town-Of-Us-R)   
+最新版本：v3.4.0  
+Among Us支持版本：2022.10.25  
+更新状况：持续更新中  
 
 ### 职业
 
