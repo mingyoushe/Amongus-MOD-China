@@ -1,52 +1,61 @@
 # 目录
 - [前言](#前言)
+    - [Among Us](#among-us)
+    - [提醒](#提醒)
 - [模组](#模组)
-  - [1.超多职业模组V4.2.0（最新支持2022.10.25）](#1超多职业模组v420最新支持20221025)
-  - [2.超多职业GM增强版v3.5.5.1（最新支持2022.3.29）（断更）](#2超多职业gm增强版v3551最新支持2022329断更)
-  - [3.超多职业GM-Haoming v2.3.133（最新支持2022.10.18）(持续更新中)](#3超多职业gm-haoming-v23133最新支持20221018持续更新中)
-  - [4.内鬼小镇 v2.0.8（最新支持2021.6.15版本）仅私服可玩 (断更)](#4内鬼小镇-v208最新支持2021615版本仅私服可玩-断更)
-  - [5.我们小镇v3.1.1(非官方延续)(最新支持2021.12.15)](#5我们小镇v311非官方延续最新支持20211215)
-  - [6.我们小镇分支R v3.1.0 (支持2022.8.24）](#6我们小镇分支r-v310-支持2022824)
+  - [1.TheOtherRoles V4.2.0（最新支持2022.10.25）(持续更新中)](#1theotherroles-v420最新支持20221025持续更新中)
+  - [2.TheOtherRoles GM v3.5.5.1（最新支持2022.3.29）（断更）](#2theotherroles-gm-v3551最新支持2022329断更)
+  - [3.TheOtherRoles GM-Haoming v2.3.133（最新支持2022.10.25）(持续更新中)](#3theotherroles-gm-haoming-v23133最新支持20221025持续更新中)
+  - [4.TownOfImpostors v2.0.8（最新支持2021.6.15版本）(断更)](#4townofimpostors-v208最新支持2021615版本断更)
+  - [5.TownOfUs v3.1.1 (非官方延续) (最新支持2021.12.15) (断更)](#5townofus-v311-非官方延续-最新支持20211215-断更)
+  - [6.TownOfUs-R v3.4.0  (支持2022.10.25）](#6townofus-r-v340--支持20221025)
   - [7.TheEpicRoles  v1.1.2（支持2022.2.24s）(断更)](#7theepicroles--v112支持2022224s断更)
-  - [8.LAS MONJAS V2.1.3（适合2022.8.24）](#8las-monjas-v213适合2022824)
-  - [9.ExtremeRoles v3.2.2.5 （最新支持2022.8.24)](#9extremeroles-v3225-最新支持2022824)
-  - [10.星云舰 Nebula On The Ship v1.14.1（支持2022.8.24）](#10星云舰-nebula-on-the-ship-v1141支持2022824)
-  - [11.P服 peasmod v3.0.0-pre2.2（支持2022.3.29s）](#11p服-peasmod-v300-pre22支持2022329s)
-  - [12.国际象棋模组v1.1.1版本（支持2021.6.30版本）](#12国际象棋模组v111版本支持2021630版本)
-  - [13.挑战者模组4.3.2（支持2020.6.15s）](#13挑战者模组432支持2020615s)
-  - [14.Syyreth ModsAmongUs v4.0.6版本（支持2022.8.24）](#14syyreth-modsamongus-v406版本支持2022824)
-  - [15.恶搞模组Cursed-Among-Us v1.1.0 （支持2021.6.30）](#15恶搞模组cursed-among-us-v110-支持2021630)
-  - [16.S服skeld.net(最新支持2022.3.29s)](#16s服skeldnet最新支持2022329s)
+  - [8.Las Monjas V3.0.1（适合2022.10.25）(持续更新中)](#8las-monjas-v301适合20221025持续更新中)
+  - [9.ExtremeRoles v4.0.0.2 （最新支持2022.10.25) (持续更新中)](#9extremeroles-v4002-最新支持20221025-持续更新中)
+  - [10.Nebula On The Ship v1.16.1（支持2022.10.25）(持续更新中)](#10nebula-on-the-ship-v1161支持20221025持续更新中)
+  - [11.Peasmod v3.0.0-pre2.2（支持2022.3.29s）（断更）](#11peasmod-v300-pre22支持2022329s断更)
+  - [12.国际象棋模组v1.1.1版本（支持2021.6.30版本）（断更)](#12国际象棋模组v111版本支持2021630版本断更)
+  - [13.挑战者模组4.3.2（支持2020.6.15s）（断更）](#13挑战者模组432支持2020615s断更)
+  - [14.Syyreth ModsAmongUs v4.0.6版本（支持2022.8.24）（断更）](#14syyreth-modsamongus-v406版本支持2022824断更)
+  - [15.Cursed-Among-Us v1.1.0 （支持2021.6.30）（断更）](#15cursed-among-us-v110-支持2021630断更)
+  - [16.skeld.net (支持大部分版本)](#16skeldnet-支持大部分版本)
   - [17.哈利波特模组 v1.2.0（最新支持2021.5.10s） (断更)](#17哈利波特模组-v120最新支持2021510s-断更)
 - [工具](#工具)
-  - [１.crewlink游戏聊天工具 v2.0.1  (支持版本v2021.11.9.2s)](#１crewlink游戏聊天工具-v201--支持版本v20211192s)
-  - [２.BetterCrewLink更好的近距离聊天工具 v3.0.5  (支持大部分Among Us版本)](#２bettercrewlink更好的近距离聊天工具-v305--支持大部分among-us版本)
+  - [１.crewlink游戏聊天工具 v2.0.1  (支持版本v2021.11.9.2s)（断更）](#１crewlink游戏聊天工具-v201--支持版本v20211192s断更)
+  - [２.BetterCrewLink更好的近距离聊天工具 v3.0.5  (支持大部分Among Us版本) （持续更新中）](#２bettercrewlink更好的近距离聊天工具-v305--支持大部分among-us版本-持续更新中)
   - [３.Among Us回放模组 v2.0.3 (支持任意版本) (断更)](#３among-us回放模组-v203-支持任意版本-断更)
   - [４.模组管理器 v5.1.2 ModManager (持续更新中)](#４模组管理器-v512-modmanager-持续更新中)
 - [地图](#地图)
   - [１.潜艇地图Submerged v2022.10.26 (支持2022.10.25) (持续更新中)](#１潜艇地图submerged-v20221026-支持20221025-持续更新中)
 - [多语言样式声明](#多语言样式声明)
-  - [简体中文（SChinese）](#简体中文schinese)
-  - [繁體中文（TChinese）](#繁體中文tchinese)
-  - [Français（French）](#françaisfrench)
-  - [English](#english)
-  - [日本語（Japanese）](#日本語japanese)
-  - [Русский（Russian）](#русскийrussian)
-  - [Deutsch（German）](#deutschgerman)
-  - [Español（Spanish）](#españolspanish)
+    - [简体中文（SChinese）](#简体中文schinese)
+    - [繁體中文（TChinese）](#繁體中文tchinese)
+    - [Français（French）](#françaisfrench)
+    - [English](#english)
+    - [日本語（Japanese）](#日本語japanese)
+    - [Русский（Russian）](#русскийrussian)
+    - [Deutsch（German）](#deutschgerman)
+    - [Español（Spanish）](#españolspanish)
 
 # 前言
 
-
 这是关于Among Us(中文译名：我们之间 俗称：太空狼人杀)这款游戏的中文模组指南
 
-提醒：随着Among Us版本更新官方服务器所支持的服务器也在更新，过老版本只能使用私服才可游玩。
+###### Among Us
+
+《Among Us》是一款由Innersloth制作发行的策略休闲游戏。
+
+当您在飞船上前往您要去的地方时，可与4-15名玩家一起在线或通过局域网联机。但是要当心……因为船上可能有伪装者。一到三名船员已被伪装者所取代（内鬼）。他们的目标是在船返航前消灭其余船员。伪装者将破坏船只，潜入通风管道，欺骗其他人以保持自己安全并杀死船员。当每个人都在修理设施时，没有人可以保持匿名。一旦报告了尸体，幸存的船员将公开辩论他们认为“伪装者”是谁。伪装者的目的是假装他们是船员。如果不投票，则每个人都将继续维护该船，直到找到另一具尸体或召开紧急会议为止。如果伪装者被投票投出，那么船员将获胜
+
+###### 提醒
+
+随着Among Us版本更新官方服务器所支持的服务器也在更新，过老版本只能使用私服才可游玩。
 
 [返回目录](#目录)
 
 # 模组
 
-## 1.超多职业模组V4.2.0（最新支持2022.10.25）
+## 1.TheOtherRoles V4.2.0（最新支持2022.10.25）(持续更新中)
 
 支持与潜艇地图融合游玩！
 [github地址（点这）](https://github.com/TheOtherRolesAU/TheOtherRoles)
@@ -82,7 +91,8 @@
 | Prosecutor | 检察官   |               |          |              |          |
 
 [返回目录](#目录)
-## 2.超多职业GM增强版v3.5.5.1（最新支持2022.3.29）（断更）
+
+## 2.TheOtherRoles GM v3.5.5.1（最新支持2022.3.29）（断更）
 
 [github地址（点这）](https://github.com/yukinogatari/TheOtherRoles-GM)
 
@@ -113,7 +123,8 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 |                   |                  | Nice Watcher   | 好观察者 |                  |             |
 
 [返回目录](#目录)
-## 3.超多职业GM-Haoming v2.3.133（最新支持2022.10.18）(持续更新中)
+
+## 3.TheOtherRoles GM-Haoming v2.3.133（最新支持2022.10.25）(持续更新中)
 
 [github地址（点这）](https://github.com/haoming37/TheOtherRoles-GM-Haoming)
 
@@ -129,8 +140,8 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 | 内鬼                | 船员     | 中立         |
 | ------------------- | -------- | ------------ |
-| 邪恶的黑客           | 占卜师   | 狐妖         |
-| 邪恶的追踪者         | 幻视者   | 背德者       |
+| 邪恶的黑客          | 占卜师   | 狐妖         |
+| 邪恶的追踪者        | 幻视者   | 背德者       |
 | 设陷者              | 福尔摩斯 | 薛定谔的猫   |
 | 模仿者（杀手/助手） |          | 傀儡师       |
 | 双子爆破者A/B       |          | 杰基尔和海德 |
@@ -139,7 +150,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 [返回目录](#目录)
 
-## 4.内鬼小镇 v2.0.8（最新支持2021.6.15版本）仅私服可玩 (断更)
+## 4.TownOfImpostors v2.0.8（最新支持2021.6.15版本）(断更)
 
 [github地址（点这）](https://github.com/Town-of-Impostors/TownOfImpostors)
 
@@ -158,11 +169,12 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 | Mayor         | 市长     |           |          |             |          |           |          |
 
 [返回目录](#目录)
-## 5.我们小镇v3.1.1(非官方延续)(最新支持2021.12.15)
 
-[github地址（点这）](https://github.com/Anusien/Town-Of-Us) <br>
-[最开始的我们的小镇](https://github.com/slushiegoose/Town-Of-Us) <br>
-![image](./Image/TOU-logo.png) <br>
+## 5.TownOfUs v3.1.1 (非官方延续) (最新支持2021.12.15) (断更)
+
+[github地址（点这）](https://github.com/Anusien/Town-Of-Us) `<br>`
+[最开始的我们的小镇](https://github.com/slushiegoose/Town-Of-Us) `<br>`
+![image](./Image/TOU-logo.png) `<br>`
 
 | Crewmate Roles | 船员职业 | Neutral Roles | 中立职业 | Impostor Roles | 内鬼职业 | Modifiers    | 效果设置 |
 | -------------- | -------- | ------------- | -------- | -------------- | -------- | ------------ | -------- |
@@ -182,10 +194,11 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 | Covert         | 隐秘者   |               |          |                |          |              |          |
 
 [返回目录](#目录)
-## 6.我们小镇分支R v3.1.0 (支持2022.8.24）
+
+## 6.TownOfUs-R v3.4.0  (支持2022.10.25）
 
 已支持潜艇地图
-[github地址（点这）](https://github.com/eDonnes124/Town-Of-Us-R) <br>
+[github地址（点这）](https://github.com/eDonnes124/Town-Of-Us-R) `<br>`
 
 | Crewmate Roles | 船员职业   | Neutral Roles | 中立职业 | Impostor Roles | 内鬼职业 | Modifiers    | 效果设置 |
 | -------------- | ---------- | ------------- | -------- | -------------- | -------- | ------------ | -------- |
@@ -207,16 +220,17 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 | Transporter    |            |               |          |                |          |              |          |
 
 [返回目录](#目录)
+
 ## 7.TheEpicRoles  v1.1.2（支持2022.2.24s）(断更)
 
-[github地址（点这）](https://github.com/LaicosVK/TheEpicRoles) <br>
-![image](./Image/TER_banner.png) <br>
-新特点： <br>
-1.上一场比赛中最先死亡的玩家将在下一场比赛中获得首杀盾。<br>
-2.就绪状态：当有一个人未准备好时，大厅主持人无法开始游戏。<br>
-3.定制鼠标光标。<br>
-4.模组选项类别分类。<br>
-5.运输船不再抖动。<br>
+[github地址（点这）](https://github.com/LaicosVK/TheEpicRoles) `<br>`
+![image](./Image/TER_banner.png) `<br>`
+新特点： `<br>`
+1.上一场比赛中最先死亡的玩家将在下一场比赛中获得首杀盾。`<br>`
+2.就绪状态：当有一个人未准备好时，大厅主持人无法开始游戏。`<br>`
+3.定制鼠标光标。`<br>`
+4.模组选项类别分类。`<br>`
+5.运输船不再抖动。`<br>`
 
 | Impostors         | 内鬼     | Crewmates      | 船员     | Neutral  | 中立   |  |
 | ----------------- | -------- | -------------- | -------- | -------- | ------ | - |
@@ -243,10 +257,11 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 |                   |          | Jumper         |          |          |        |  |
 
 [返回目录](#目录)
-## 8.LAS MONJAS V2.1.3（适合2022.8.24）
 
-与潜艇地图兼容 <br>
-[github地址（点这）](https://github.com/KiraYamato94/LasMonjas) <br>
+## 8.Las Monjas V3.0.1（适合2022.10.25）(持续更新中)
+
+与潜艇地图兼容 `<br>`
+[github地址（点这）](https://github.com/KiraYamato94/LasMonjas) `<br>`
 
 ![image](./Image/LasMonjas_banner.png)
 
@@ -284,12 +299,14 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 ![image](./Image/%E5%8D%83%E5%B9%B4%E9%9A%BC.jpg)
 
 [返回目录](#目录)
-## 9.ExtremeRoles v3.2.2.5 （最新支持2022.8.24)
+
+## 9.ExtremeRoles v4.0.0.2 （最新支持2022.10.25) (持续更新中)
 
 [github地址（点这）](https://github.com/yukieiji/ExtremeRoles)
 
 [返回目录](#目录)
-## 10.星云舰 Nebula On The Ship v1.14.1（支持2022.8.24）
+
+## 10.Nebula On The Ship v1.16.1（支持2022.10.25）(持续更新中)
 
 原版链接: https://github.com/Dolly1016/Nebula
 
@@ -314,7 +331,8 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 |              |          | Madmate      | 叛徒 |             |          |           |          |
 
 [返回目录](#目录)
-## 11.P服 peasmod v3.0.0-pre2.2（支持2022.3.29s）
+
+## 11.Peasmod v3.0.0-pre2.2（支持2022.3.29s）（断更）
 
 [github地址（点这）](https://github.com/Dolly1016/Nebula)
 ![image](./Image/Logo.png)
@@ -329,25 +347,28 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 | Sheriff        | 警长     |                |          |               |          |               |          |
 
 [返回目录](#目录)
-## 12.国际象棋模组v1.1.1版本（支持2021.6.30版本）
+
+## 12.国际象棋模组v1.1.1版本（支持2021.6.30版本）（断更)
 
 [github地址（点这）][https://github.com/KyleSmith0905/Among-Chess](https://github.com/KyleSmith0905/Among-Chess)
 
 ![image](./Image/%E8%B1%A1%E6%A3%8B%E6%A8%A1%E7%BB%84.png)
 
 [返回目录](#目录)
-## 13.挑战者模组4.3.2（支持2020.6.15s）
+
+## 13.挑战者模组4.3.2（支持2020.6.15s）（断更）
 
 [github地址（点这）](https://github.com/Lunastellia/Challenger-Among-Us)
 
 ![image](./Image/%E6%8C%91%E6%88%98%E8%80%85%E6%88%91%E4%BB%AC%E4%B8%AD%E9%97%B44.1.3.png)
 
 [返回目录](#目录)
-## 14.Syyreth ModsAmongUs v4.0.6版本（支持2022.8.24）
+
+## 14.Syyreth ModsAmongUs v4.0.6版本（支持2022.8.24）（断更）
 
 [github地址（点这）](https://github.com/Syyreth/ModsAmongUs)
 
-![image](./Image/Syyreth's%20ModsAmongUs%20Roles.jpg.png) <br>
+![image](./Image/Syyreth's%20ModsAmongUs%20Roles.jpg.png) `<br>`
 
 | Crewmate Roles: | 船员职业 | Neutral Roles: | 中立职业 | Impostor Roles: | 内鬼职业 | Coven Roles:  | 巫师团   |
 | --------------- | -------- | -------------- | -------- | --------------- | -------- | ------------- | -------- |
@@ -368,13 +389,15 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 | Lovers          | 恋人     |                |          |                 |          |               |          |
 
 [返回目录](#目录)
-## 15.恶搞模组Cursed-Among-Us v1.1.0 （支持2021.6.30）
+
+## 15.Cursed-Among-Us v1.1.0 （支持2021.6.30）（断更）
 
 模组链接：https://github.com/Devs-Us/Cursed-Among-Us
-![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/icon.png) <br>
+![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/icon.png) `<br>`
 
 [返回目录](#目录)
-## 16.S服skeld.net(最新支持2022.3.29s)
+
+## 16.skeld.net (支持大部分版本)
 
 模组链接：https://skeld.net/
 
@@ -394,6 +417,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 | Standard       | 标准模式   |
 
 [返回目录](#目录)
+
 ## 17.哈利波特模组 v1.2.0（最新支持2021.5.10s） (断更)
 
 点评：好玩但由于版本过于老旧，不推荐游玩。
@@ -409,15 +433,16 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 | Bellatrix | 贝拉   | None.                                   | 无                     | Can shoot a spell that temporarily blinds and freezes any player it connects with.                                                                   | 失明和冻结，钻心咒：心灵控制 |
 
 [返回目录](#目录)
+
 # 工具
 
-## １.crewlink游戏聊天工具 v2.0.1  (支持版本v2021.11.9.2s)
+## １.crewlink游戏聊天工具 v2.0.1  (支持版本v2021.11.9.2s)（断更）
 
 原版链接：https://github.com/ottomated/CrewLink
 
 断更如有需要请使用BetterCrewLink更好的近距离聊天工具
 
-## ２.BetterCrewLink更好的近距离聊天工具 v3.0.5  (支持大部分Among Us版本)
+## ２.BetterCrewLink更好的近距离聊天工具 v3.0.5  (支持大部分Among Us版本) （持续更新中）
 
 原版链接：https://github.com/OhMyGuus/BetterCrewlink
 
@@ -462,6 +487,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 | [Impostor](https://github.com/Impostor/Impostor/) | ✅ |   支持   |
 
 [返回目录](#目录)
+
 # 多语言样式声明
 
 ###### 简体中文（SChinese）
