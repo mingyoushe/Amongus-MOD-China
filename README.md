@@ -7,28 +7,29 @@
   - [1.TheOtherRoles V4.2.0（最新支持2022.10.25）(持续更新中)](#1theotherroles-v420最新支持20221025持续更新中)
   - [2.TheOtherRoles GM v3.5.5.1（最新支持2022.3.29）（断更）](#2theotherroles-gm-v3551最新支持2022329断更)
   - [3.TheOtherRoles GM-Haoming v2.3.133（最新支持2022.10.25）(持续更新中)](#3theotherroles-gm-haoming-v23133最新支持20221025持续更新中)
-  - [4.TownOfImpostors v2.0.8（最新支持2021.6.15版本）(断更)](#4townofimpostors-v208最新支持2021615版本断更)
-  - [5.TownOfUs v3.1.1 (非官方延续) (最新支持2021.12.15) (断更)](#5townofus-v311-非官方延续-最新支持20211215-断更)
-  - [6.TownOfUs-R v3.4.0  (支持2022.10.25）](#6townofus-r-v340--支持20221025)
-  - [7.TheEpicRoles  v1.1.2（支持2022.2.24s）(断更)](#7theepicroles--v112支持2022224s断更)
-  - [8.Las Monjas V3.0.1（适合2022.10.25）(持续更新中)](#8las-monjas-v301适合20221025持续更新中)
-  - [9.ExtremeRoles v4.0.0.2 （最新支持2022.10.25) (持续更新中)](#9extremeroles-v4002-最新支持20221025-持续更新中)
-  - [10.Nebula On The Ship v1.16.1（支持2022.10.25）(持续更新中)](#10nebula-on-the-ship-v1161支持20221025持续更新中)
-  - [11.Peasmod v3.0.0-pre2.2（支持2022.3.29s）（断更）](#11peasmod-v300-pre22支持2022329s断更)
-  - [12.国际象棋模组v1.1.1版本（支持2021.6.30版本）（断更)](#12国际象棋模组v111版本支持2021630版本断更)
-  - [13.挑战者模组4.3.2（支持2020.6.15s）（断更）](#13挑战者模组432支持2020615s断更)
-  - [14.Syyreth ModsAmongUs v4.0.6版本（支持2022.8.24）（断更）](#14syyreth-modsamongus-v406版本支持2022824断更)
-  - [15.Cursed-Among-Us v1.1.0 （支持2021.6.30）（断更）](#15cursed-among-us-v110-支持2021630断更)
-  - [16.skeld.net (支持大部分版本)](#16skeldnet-支持大部分版本)
-  - [17.哈利波特模组 v1.2.0（最新支持2021.5.10s） (断更)](#17哈利波特模组-v120最新支持2021510s-断更)
-  - [18.SuperNewRoles](#18supernewroles)
-  - [19.TheOtheRoles CE](#19theotherroles-ce)
-  - [20.TheOtherRoles MR](#20theotherroles-mr)
-  - [21.TownOfHost](#21townofhost)
-  - [22.TownOfHost-TheOtherRoles](#22townofhost--theotherroles)
-  - [23.BetterTownOfUS](#23bettertownofus)
-  - [24.UltimateMods](#24ultimatemods)
-  - [25.PropHunt](#25prophunt)
+  - [4.TownOfUs-R v3.4.0  (支持2022.10.25）](#4townofus-r-v340--支持20221025)
+  - [5.TheEpicRoles  v1.1.2（支持2022.2.24s）(断更)](#5theepicroles--v112支持2022224s断更)
+  - [6.Las Monjas V3.0.1（适合2022.10.25）(持续更新中)](#6las-monjas-v301适合20221025持续更新中)
+  - [7.ExtremeRoles v4.0.0.2 （最新支持2022.10.25) (持续更新中)](#7extremeroles-v4002-最新支持20221025-持续更新中)
+  - [8.Nebula On The Ship v1.16.1（支持2022.10.25）(持续更新中)](#8nebula-on-the-ship-v1161支持20221025持续更新中)
+  - [9.Peasmod v3.0.0-pre2.2（支持2022.3.29s）（断更）](#9peasmod-v300-pre22支持2022329s断更)
+  - [10.Syyreth ModsAmongUs v4.0.6版本（支持2022.8.24）（断更）](#10syyreth-modsamongus-v406版本支持2022824断更)
+  - [11.SuperNewRoles](#11supernewroles)
+  - [12.TheOtheRoles CE](#12theotherroles-ce)
+  - [13.TheOtherRoles MR](#13theotherroles-mr)
+  - [14.TownOfHost](#14townofhost)
+  - [15.TownOfHost-TheOtherRoles](#15townofhost--theotherroles)
+  - [16.BetterTownOfUS](#16bettertownofus)
+  - [17.UltimateMods](#17ultimatemods)
+  - [18.PropHunt](#18prophunt)
+- [旧模组](#旧模组)
+  - [1.TownOfImpostors v2.0.8（最新支持2021.6.15版本）(断更)](#1townofimpostors-v208最新支持2021615版本断更) 
+  - [2.TownOfUs v3.1.1 (非官方延续) (最新支持2021.12.15) (断更)](#2townofus-v311-非官方延续-最新支持20211215-断更)
+  - [3.国际象棋模组v1.1.1版本（支持2021.6.30版本）（断更)](#3国际象棋模组v111版本支持2021630版本断更)
+  - [4.挑战者模组4.3.2（支持2020.6.15s）（断更）](#4挑战者模组432支持2020615s断更)
+  - [5.Cursed-Among-Us v1.1.0 （支持2021.6.30）（断更）](#5cursed-among-us-v110-支持2021630断更)
+  - [6.skeld.net (支持大部分版本)](#6skeldnet-支持大部分版本)
+  - [7.哈利波特模组 v1.2.0（最新支持2021.5.10s） (断更)](#7哈利波特模组-v120最新支持2021510s-断更)
 - [工具](#工具)
   - [１.crewlink游戏聊天工具 v2.0.1  (支持版本v2021.11.9.2s)（断更）](#１crewlink游戏聊天工具-v201--支持版本v20211192s断更)
   - [２.BetterCrewLink更好的近距离聊天工具 v3.0.5  (支持大部分Among Us版本) （持续更新中）](#２bettercrewlink更好的近距离聊天工具-v305--支持大部分among-us版本-持续更新中)
@@ -69,7 +70,7 @@
 ## 1.TheOtherRoles V4.2.0（最新支持2022.10.25）(持续更新中)
 
 支持与潜艇地图融合游玩！<br>
-[github地址（点这）](https://github.com/TheOtherRolesAU/TheOtherRoles)
+[ GitHub仓库 ( 点这 ) ](https://github.com/TheOtherRolesAU/TheOtherRoles)
 ![image](./Image/TOR_logo.png)
 
 | Impostors         | 内鬼职业         | Crewmates      | 船员职业 | Crewmates   | 船员职业 |
@@ -103,11 +104,10 @@
 
 [返回目录](#目录)
 
-***
 
 ## 2.TheOtherRoles GM v3.5.5.1（最新支持2022.3.29）（断更）
 
-[github地址（点这）](https://github.com/yukinogatari/TheOtherRoles-GM)
+[ GitHub仓库 ( 点这 ) ](https://github.com/yukinogatari/TheOtherRoles-GM)
 
 GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
@@ -137,11 +137,10 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 [返回目录](#目录)
 
-***
 
 ## 3.TheOtherRoles GM-Haoming v2.3.133（最新支持2022.10.25）(持续更新中)
 
-[github地址（点这）](https://github.com/haoming37/TheOtherRoles-GM-Haoming)
+[ GitHub仓库 ( 点这 ) ](https://github.com/haoming37/TheOtherRoles-GM-Haoming)
 
 与潜艇地图兼容 <br>
 地图改动(Polus) ： <br>
@@ -166,63 +165,11 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 [返回目录](#目录)
 
-***
 
-## 4.TownOfImpostors v2.0.8（最新支持2021.6.15版本）(断更)
-
-[github地址（点这）](https://github.com/Town-of-Impostors/TownOfImpostors)
-
-![image](./Image/TOI-Animated.gif)
-
-| Crewmate Team | 船员职业 | Impostor  | 内鬼职业 | Other Teams | 其他职业 | Modifiers | 其他效果 |
-| ------------- | -------- | --------- | -------- | ----------- | -------- | --------- | -------- |
-| Sheriff       | 警长     | Dragger   | 拖拽者   | Jester      | 小丑     | Lovers    | 恋人     |
-| Doctor        | 医生     | Morphling | 变形者   | Arsonist    | 纵火犯   | Giant     | 巨人     |
-| Agent         | 代理人   | Deceiver  | 欺骗者   |             |          | Tiny      | 迷你船员   |
-| Detective     | 调查员   | Viper     | 毒蛇     |             |          | Nightowl  | 执灯人   |
-| Plumber       | 管道工   | Sniper    | 狙击手   |             |          |           |          |
-| Informant     | 告密者   |           |          |             |          |           |          |
-| Trickster     | 诱饵     |           |          |             |          |           |          |
-| Operative     | 特务     |           |          |             |          |           |          |
-| Mayor         | 市长     |           |          |             |          |           |          |
-
-[返回目录](#目录)
-
-***
-
-## 5.TownOfUs v3.1.1 (非官方延续) (最新支持2021.12.15) (断更)
-
-[github地址（点这）](https://github.com/Anusien/Town-Of-Us) <br>
-[最开始的我们的小镇](https://github.com/slushiegoose/Town-Of-Us) <br>
-![image](./Image/TOU-logo.png) <br>
-
-| Crewmate Roles | 船员职业 | Neutral Roles | 中立职业 | Impostor Roles | 内鬼职业 | Modifiers    | 附加属性 |
-|----------------|------|---------------|------|----------------|------|--------------|------|
-| Mayor          | 市长   | Jester        | 小丑   | Janitor        | 清洁工  | Torch        | 火炬   |
-| Lovers         | 恋人   | Shifter       | 交换师  | Morphling      | 化形者  | Diseased     | 病人   |
-| Sheriff        | 警长   | The Glitch    | 混沌   | Camouflager    | 隐蔽者  | Flash        | 闪电侠  |
-| Engineer       | 工程师  | Executioner   | 处刑人  | Miner          | 管道工  | Tiebreaker   | 破平者  |
-| Swapper        | 换票师  | Arsonist      | 纵火犯  | Swooper        | 俯冲者  | Drunk        | 醉鬼   |
-| Investigator   | 调查员  | Phantom       | 幻影   | Underdog       | 潜伏者  | Giant        | 巨人   |
-| Time Lord      | 时间之主 |               |      | Undertaker     | 送葬者  | Button Barry | 执钮者  |
-| Medic          | 医生   |               |      | Teleporter     | 传送者  | Coroner      | 掘墓人  |
-| Seer           | 预言家 |               |      | Concealer      | 隐身人  | Carnivore    | 掘墓内鬼 |
-| Spy            | 间谍   |               |      | Grenadier      | 掷弹兵  |              |      |
-| Snitch         | 告密者  |               |      |                |      |              |      |
-| Altruist       | 殉道者  |               |      |                |      |              |      |
-| Prophet        | 侧写师  |               |      |                |      |              |      |
-| Covert         | 隐秘者  |               |      |                |      |              |      |
-| Lighter        | 执灯人  |
-
-
-[返回目录](#目录)
-
-***
-
-## 6.TownOfUs-R v3.4.0  (支持2022.10.25）
+## 4.TownOfUs-R v3.4.0  (支持2022.10.25）
 
 已支持潜艇地图 <br>
-[github地址（点这）](https://github.com/eDonnes124/Town-Of-Us-R) <br>
+[ GitHub仓库 ( 点这 ) ](https://github.com/eDonnes124/Town-Of-Us-R) <br>
 
 | Crewmate Roles | 船员职业 | Neutral Roles  | 中立职业 | Impostor Roles | 内鬼职业 | Modifiers    | 附加属性 |
 |----------------|------|----------------|------|----------------|------|--------------|------|
@@ -250,11 +197,10 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 [返回目录](#目录)
 
-***
 
-## 7.TheEpicRoles  v1.1.2（支持2022.2.24s）(断更)
+## 5.TheEpicRoles  v1.1.2（支持2022.2.24s）(断更)
 
-[github地址（点这）](https://github.com/LaicosVK/TheEpicRoles) <br>
+[ GitHub仓库 ( 点这 ) ](https://github.com/LaicosVK/TheEpicRoles) <br>
 ![image](./Image/TER_banner.png) <br>
 新特点： <br>
 1.上一场比赛中最先死亡的玩家将在下一场比赛中获得首杀盾。<br>
@@ -289,10 +235,10 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 [返回目录](#目录)
 
-## 8.Las Monjas V3.0.1（适合2022.10.25）(持续更新中)
+## 6.Las Monjas V3.0.1（适合2022.10.25）(持续更新中)
 
 与潜艇地图兼容 <br>
-[github地址（点这）](https://github.com/KiraYamato94/LasMonjas) <br>
+[ GitHub仓库 ( 点这 ) ](https://github.com/KiraYamato94/LasMonjas) <br>
 
 ![image](./Image/LasMonjas_banner.png)
 
@@ -331,15 +277,15 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 [返回目录](#目录)
 
-## 9.ExtremeRoles v4.0.0.2 （最新支持2022.10.25) (持续更新中)
+## 7.ExtremeRoles v4.0.0.2 （最新支持2022.10.25) (持续更新中)
 
-[github地址（点这）](https://github.com/yukieiji/ExtremeRoles)
+[ GitHub仓库 ( 点这 ) ](https://github.com/yukieiji/ExtremeRoles)
 
 [返回目录](#目录)
 
-## 10.Nebula On The Ship v1.16.1（支持2022.10.25）(持续更新中)
+## 8.Nebula On The Ship v1.16.1（支持2022.10.25）(持续更新中)
 
-原版链接: https://github.com/Dolly1016/Nebula
+[ GitHub仓库 ( 点这 ) ](https://github.com/Dolly1016/Nebula)
 
 | Impostors    | 内鬼     | Crewmates    | 船员 | Neutral     | 中立     | Secondary | 附带属性 |
 | ------------ | -------- | ------------ | ---- | ----------- | -------- | --------- | -------- |
@@ -363,9 +309,9 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 [返回目录](#目录)
 
-## 11.Peasmod v3.0.0-pre2.2（支持2022.3.29s）（断更）
+## 9.Peasmod v3.0.0-pre2.2（支持2022.3.29s）（断更）
 
-[github地址（点这）](https://github.com/Dolly1016/Nebula)
+[ GitHub仓库 ( 点这 ) ](https://github.com/Dolly1016/Nebula)
 ![image](./Image/Logo.png)
 
 | Crewmate Roles | 船员职业 | Impostor Roles | 内鬼职业 | Neutral Roles | 中立职业 | GameModes     | 其他模式 |
@@ -379,25 +325,10 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 [返回目录](#目录)
 
-## 12.国际象棋模组v1.1.1版本（支持2021.6.30版本）（断更)
 
-[github地址（点这）](https://github.com/KyleSmith0905/Among-Chess)
+## 10.Syyreth ModsAmongUs v4.0.6版本（支持2022.8.24）（断更）
 
-![image](./Image/%E8%B1%A1%E6%A3%8B%E6%A8%A1%E7%BB%84.png)
-
-[返回目录](#目录)
-
-## 13.挑战者模组4.3.2（支持2020.6.15s）（断更）
-
-[github地址（点这）](https://github.com/Lunastellia/Challenger-Among-Us)
-
-![image](./Image/%E6%8C%91%E6%88%98%E8%80%85%E6%88%91%E4%BB%AC%E4%B8%AD%E9%97%B44.1.3.png)
-
-[返回目录](#目录)
-
-## 14.Syyreth ModsAmongUs v4.0.6版本（支持2022.8.24）（断更）
-
-[github地址（点这）](https://github.com/Syyreth/ModsAmongUs)
+[ GitHub仓库 ( 点这 ) ](https://github.com/Syyreth/ModsAmongUs)
 
 ![image](./Image/Syyreth's%20ModsAmongUs%20Roles.jpg.png) <br>
 
@@ -421,16 +352,107 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 [返回目录](#目录)
 
-## 15.Cursed-Among-Us v1.1.0 （支持2021.6.30）（断更）
+## 11.SuperNewRoles 
+[Github仓库(点这)](https://github.com/ykundesu/SuperNewRoles)
+![image](Image/SNRImage.png)
 
-模组链接：https://github.com/Devs-Us/Cursed-Among-Us
-![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/icon.png) <br>
+## 12.TheOtherRoles CE
+[Github仓库(点这)](https://github.com/JustASysAdmin/TheOtherRoles2)
+![image](Image/TOR_Logo.jpg)
+
+## 13.TheOtherRoles MR
+[Github仓库(点这)](https://github.com/miru-y/TheOtherRoles-MR)
+
+## 14.TownOfHost
+[Github仓库(点这)](https://github.com/tukasa0001/TownOfHost)
+![image](Image/TownOfHost-Title.png)
+## 15.TownOfHost -TheOtherRoles
+[Github仓库(点这)](https://github.com/music-discussion/TownOfHost-TheOtherRoles)
+## 16.BetterTownOfUS
+[Github仓库(点这)](https://github.com/MC-AS-Huier/Better-Town-Of-Us-R)(原仓库已删除)
+![image](Image/TOU-logo%20(1).png)
+
+## 17.UltimateMods
+[Github仓库(点这)](https://github.com/Dekokiyo/UltimateMods)
+![image](Image/UltimateModsWiki.png)
+## 18.PropHunt
+[Github仓库(点这)](https://github.com/ugackMiner53/PropHunt)
+![image](Image/prophuntlogo.png)
+
+# 旧模组
+
+## 1.TownOfImpostors v2.0.8（最新支持2021.6.15版本）(断更)
+
+[ GitHub仓库 ( 点这 ) ](https://github.com/Town-of-Impostors/TownOfImpostors)
+
+![image](./Image/TOI-Animated.gif)
+
+| Crewmate Team | 船员职业 | Impostor  | 内鬼职业 | Other Teams | 其他职业 | Modifiers | 其他效果 |
+| ------------- | -------- | --------- | -------- | ----------- | -------- | --------- | -------- |
+| Sheriff       | 警长     | Dragger   | 拖拽者   | Jester      | 小丑     | Lovers    | 恋人     |
+| Doctor        | 医生     | Morphling | 变形者   | Arsonist    | 纵火犯   | Giant     | 巨人     |
+| Agent         | 代理人   | Deceiver  | 欺骗者   |             |          | Tiny      | 迷你船员   |
+| Detective     | 调查员   | Viper     | 毒蛇     |             |          | Nightowl  | 执灯人   |
+| Plumber       | 管道工   | Sniper    | 狙击手   |             |          |           |          |
+| Informant     | 告密者   |           |          |             |          |           |          |
+| Trickster     | 诱饵     |           |          |             |          |           |          |
+| Operative     | 特务     |           |          |             |          |           |          |
+| Mayor         | 市长     |           |          |             |          |           |          |
 
 [返回目录](#目录)
 
-## 16.skeld.net (支持大部分版本)
+## 2.TownOfUs v3.1.1 (非官方延续) (最新支持2021.12.15) (断更)
 
-模组链接：https://skeld.net/
+[ GitHub仓库 ( 点这 ) ](https://github.com/Anusien/Town-Of-Us) <br>
+[最开始我们的小镇的GitHub仓库](https://github.com/slushiegoose/Town-Of-Us) <br>
+![image](./Image/TOU-logo.png) <br>
+
+| Crewmate Roles | 船员职业 | Neutral Roles | 中立职业 | Impostor Roles | 内鬼职业 | Modifiers    | 附加属性 |
+|----------------|------|---------------|------|----------------|------|--------------|------|
+| Mayor          | 市长   | Jester        | 小丑   | Janitor        | 清洁工  | Torch        | 火炬   |
+| Lovers         | 恋人   | Shifter       | 交换师  | Morphling      | 化形者  | Diseased     | 病人   |
+| Sheriff        | 警长   | The Glitch    | 混沌   | Camouflager    | 隐蔽者  | Flash        | 闪电侠  |
+| Engineer       | 工程师  | Executioner   | 处刑人  | Miner          | 管道工  | Tiebreaker   | 破平者  |
+| Swapper        | 换票师  | Arsonist      | 纵火犯  | Swooper        | 俯冲者  | Drunk        | 醉鬼   |
+| Investigator   | 调查员  | Phantom       | 幻影   | Underdog       | 潜伏者  | Giant        | 巨人   |
+| Time Lord      | 时间之主 |               |      | Undertaker     | 送葬者  | Button Barry | 执钮者  |
+| Medic          | 医生   |               |      | Teleporter     | 传送者  | Coroner      | 掘墓人  |
+| Seer           | 预言家 |               |      | Concealer      | 隐身人  | Carnivore    | 掘墓内鬼 |
+| Spy            | 间谍   |               |      | Grenadier      | 掷弹兵  |              |      |
+| Snitch         | 告密者  |               |      |                |      |              |      |
+| Altruist       | 殉道者  |               |      |                |      |              |      |
+| Prophet        | 侧写师  |               |      |                |      |              |      |
+| Covert         | 隐秘者  |               |      |                |      |              |      |
+| Lighter        | 执灯人  |
+
+[返回目录](#目录)
+
+## 3.国际象棋模组v1.1.1版本（支持2021.6.30版本）（断更)
+
+[ GitHub仓库 ( 点这 ) ](https://github.com/KyleSmith0905/Among-Chess)
+
+![image](./Image/%E8%B1%A1%E6%A3%8B%E6%A8%A1%E7%BB%84.png)
+
+
+[返回目录](#目录)
+## 4.挑战者模组4.3.2（支持2020.6.15s）（断更）
+
+[ GitHub仓库 ( 点这 ) ](https://github.com/Lunastellia/Challenger-Among-Us)
+
+![image](./Image/%E6%8C%91%E6%88%98%E8%80%85%E6%88%91%E4%BB%AC%E4%B8%AD%E9%97%B44.1.3.png)
+
+
+[返回目录](#目录)
+## 5.Cursed-Among-Us v1.1.0 （支持2021.6.30）（断更）
+
+[ GitHub仓库 ( 点这 ) ]https://github.com/Devs-Us/Cursed-Among-Us
+![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/icon.png) <br>
+
+
+[返回目录](#目录)
+## 6.skeld.net (支持大部分版本)
+
+[官方网站（点这）](https://skeld.net/)
 
 | GameMOD        | 游戏模式   |
 | -------------- | ---------- |
@@ -449,11 +471,10 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 [返回目录](#目录)
 
-## 17.哈利波特模组 v1.2.0（最新支持2021.5.10s） (断更)
+## 7.哈利波特模组 v1.2.0（最新支持2021.5.10s） (断更)
 
-点评：好玩但由于版本过于老旧，不推荐游玩。
 
-模组链接：https://github.com/FatherofHeathens/HarryPotterAmongUs
+[ GitHub仓库 ( 点这 ) ](https://github.com/FatherofHeathens/HarryPotterAmongUs)
 
 | Role      | 职业   | Passive Ability                         | 被动                   | Active Ability                                                                                                                                       | 技能                         |
 | --------- | ------ | --------------------------------------- | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
@@ -465,43 +486,17 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 [返回目录](#目录)
 
-## 18.SuperNewRoles 
-[Github仓库(点这)](https://github.com/ykundesu/SuperNewRoles)
-![image](Image/SNRImage.png)
-
-## 19.TheOtherRoles CE
-[Github仓库(点这)](https://github.com/JustASysAdmin/TheOtherRoles2)
-![image](Image/TOR_Logo.jpg)
-
-## 20.TheOtherRoles MR
-[Github仓库(点这)](https://github.com/miru-y/TheOtherRoles-MR)
-
-## 21.TownOfHost
-[Github仓库(点这)](https://github.com/tukasa0001/TownOfHost)
-![image](Image/TownOfHost-Title.png)
-## 22.TownOfHost -TheOtherRoles
-[Github仓库(点这)](https://github.com/music-discussion/TownOfHost-TheOtherRoles)
-## 23.BetterTownOfUS
-[Github仓库(点这)](https://github.com/MC-AS-Huier/Better-Town-Of-Us-R)(原仓库已删除)
-![image](Image/TOU-logo%20(1).png)
-
-## 24.UltimateMods
-[Github仓库(点这)](https://github.com/Dekokiyo/UltimateMods)
-![image](Image/UltimateModsWiki.png)
-## 25.PropHunt
-[Github仓库(点这)](https://github.com/ugackMiner53/PropHunt)
-![image](Image/prophuntlogo.png)
 # 工具
 
 ## １.crewlink游戏聊天工具 v2.0.1  (支持版本v2021.11.9.2s)（断更）
 
-原版链接：https://github.com/ottomated/CrewLink
+[ GitHub仓库 ( 点这 ) ](https://github.com/ottomated/CrewLink)
 
 断更如有需要请使用BetterCrewLink更好的近距离聊天工具
 
 ## ２.BetterCrewLink更好的近距离聊天工具 v3.0.5  (支持大部分Among Us版本) （持续更新中）
 
-原版链接：https://github.com/OhMyGuus/BetterCrewlink
+[ GitHub仓库 ( 点这 ) ](https://github.com/OhMyGuus/BetterCrewlink)
 
 已支持中文
 
@@ -509,11 +504,11 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 ## ３.Among Us回放模组 v2.0.3 (支持任意版本) (断更)
 
-原版链接：https://github.com/sawa90/AmongUsReplayInWindow
+[ GitHub仓库 ( 点这 ) ](https://github.com/sawa90/AmongUsReplayInWindow)
 
 ## ４.模组管理器 v5.1.2 ModManager (持续更新中)
 
-原版链接：https://github.com/MatuxGG/ModManager
+[ GitHub仓库 ( 点这 ) ](https://github.com/MatuxGG/ModManager)
 
 [返回目录](#目录)
 
@@ -524,7 +519,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 ## １.潜艇地图Submerged v2022.10.26 (支持2022.10.25) (持续更新中)
 
 支持潜艇地图的模组的模组作者已将潜艇地图放入模组文件直接下载支持的模组即可 <br>
-原版链接:https://github.com/SubmergedAmongUs/Submerged
+[ GitHub仓库 ( 点这 ) ](https://github.com/SubmergedAmongUs/Submerged)
 ![image](https://github.com/SubmergedAmongUs/Submerged/blob/main/Images/Icon.png)
 
 | 模组                                                                           | ❔ | 程度 |
