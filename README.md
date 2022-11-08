@@ -185,22 +185,24 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 [最开始的我们的小镇](https://github.com/slushiegoose/Town-Of-Us) <br>
 ![image](./Image/TOU-logo.png) <br>
 
-| Crewmate Roles | 船员职业 | Neutral Roles | 中立职业 | Impostor Roles | 内鬼职业 | Modifiers    | 效果设置 |
-| -------------- | -------- | ------------- | -------- | -------------- | -------- | ------------ | -------- |
-| Mayor          | 市长     | Jester        | 小丑     | Janitor        | 清洁工   | Torch        | 执灯人   |
-| Lovers         | 恋人     | Shifter       | 交换师   | Morphling      | 变形者   | Diseased     | 瘟疫     |
-| Sheriff        | 警长     | The Glitch    | 混沌     | Camouflager    | 隐蔽者   | Flash        | 闪现     |
-| Engineer       | 工程师   | Executioner   | 处决者   | Miner          | 矿工     | Tiebreaker   | 破平者   |
-| Swapper        | 换票师   | Arsonist      | 纵火犯   | Swooper        | 俯冲者   | Drunk        | 醉酒     |
-| Investigator   | 调查员   | Phantom       | 幻影     | Underdog       |          | Giant        | 巨人     |
-| Time Lord      | 时间之主 |               |          | Undertaker     | 送葬者   | Button Barry | 执钮者   |
-| Medic          | 医生     |               |          | Teleporter     | 传送者   | Coroner      |          |
-| Seer           | 灵媒     |               |          | Concealer      |          | Carnivore    |          |
-| Spy            | 间谍     |               |          | Grenadier      |          |              |          |
-| Snitch         | 告密者   |               |          |                |          |              |          |
-| Altruist       | 利他者   |               |          |                |          |              |          |
-| Prophet        | 先知     |               |          |                |          |              |          |
-| Covert         | 隐秘者   |               |          |                |          |              |          |
+| Crewmate Roles | 船员职业 | Neutral Roles | 中立职业 | Impostor Roles | 内鬼职业 | Modifiers    | 附加属性 |
+|----------------|------|---------------|------|----------------|------|--------------|------|
+| Mayor          | 市长   | Jester        | 小丑   | Janitor        | 清洁工  | Torch        | 火炬   |
+| Lovers         | 恋人   | Shifter       | 交换师  | Morphling      | 化形者  | Diseased     | 病人   |
+| Sheriff        | 警长   | The Glitch    | 混沌   | Camouflager    | 隐蔽者  | Flash        | 闪电侠  |
+| Engineer       | 工程师  | Executioner   | 处刑人  | Miner          | 管道工  | Tiebreaker   | 破平者  |
+| Swapper        | 换票师  | Arsonist      | 纵火犯  | Swooper        | 俯冲者  | Drunk        | 醉鬼   |
+| Investigator   | 调查员  | Phantom       | 幻影   | Underdog       | 潜伏者  | Giant        | 巨人   |
+| Time Lord      | 时间之主 |               |      | Undertaker     | 送葬者  | Button Barry | 执钮者  |
+| Medic          | 医生   |               |      | Teleporter     | 传送者  | Coroner      | 掘墓人  |
+| Seer           | 预言家 |               |      | Concealer      | 隐身人  | Carnivore    | 掘墓内鬼 |
+| Spy            | 间谍   |               |      | Grenadier      | 掷弹兵  |              |      |
+| Snitch         | 告密者  |               |      |                |      |              |      |
+| Altruist       | 殉道者  |               |      |                |      |              |      |
+| Prophet        | 侧写师  |               |      |                |      |              |      |
+| Covert         | 隐秘者  |               |      |                |      |              |      |
+| Lighter        | 执灯人  |
+
 
 [返回目录](#目录)
 
@@ -211,24 +213,29 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 已支持潜艇地图 <br>
 [github地址（点这）](https://github.com/eDonnes124/Town-Of-Us-R) <br>
 
-| Crewmate Roles | 船员职业   | Neutral Roles | 中立职业 | Impostor Roles | 内鬼职业 | Modifiers    | 效果设置 |
-| -------------- | ---------- | ------------- | -------- | -------------- | -------- | ------------ | -------- |
-| Haunter        | 猎人       | Amnesiac      | 失忆者   | Camouflager    | 隐蔽者   | Bait         | 诱饵     |
-| Investigator   | 调查员     | Executioner   | 守护天使 | Grenadier      |          | Diseased     | 病人     |
-| Seer           | 灵媒       | Jester        | 小丑     | Morphling      | 变形者   | Torch        | 执灯人   |
-| Snitch         | 告密者     | Phantom       |          | Swooper        |          | Button Barry | 赏金猎人 |
-| Spy            | 间谍       | Arsonist      | 纵火犯   | Poisoner       |          | Drunk        | 醉汉     |
-| Tracker        | 追踪者     | The Glitch    | 混沌     | Traitor        |          | Flash        | 闪电侠   |
-| Sheriff        | 警长       |               |          | Underdog       |          | Giant        | 巨人     |
-| Veteran        | 老兵       |               |          | Janitor        | 清洁工   | Lovers       | 恋人     |
-| Vigilante      | 义警       |               |          | Miner          |          | Sleuth       |          |
-| Altruist       | 殉道者     |               |          | Undertaker     |          | Tiebreaker   |          |
-| Medic          | 医生       |               |          |                |          |              |          |
-| Engineer       | 工程师     |               |          |                |          |              |          |
-| Mayor          | 市长       |               |          |                |          |              |          |
-| Swapper        | 换票师     |               |          |                |          |              |          |
-| Time Lord      | 时间之主   |               |          |                |          |              |          |
-| Transporter    | 传送师     |               |          |                |          |              |          |
+| Crewmate Roles | 船员职业 | Neutral Roles  | 中立职业 | Impostor Roles | 内鬼职业 | Modifiers    | 附加属性 |
+|----------------|------|----------------|------|----------------|------|--------------|------|
+| Detective      | 侦探   | Amnesiac       | 失忆者  | Escapist       | 逃逸者  | Bait         | 诱饵   |
+| Haunter        | 猎人   | Guardian Angel | 守护天使 | Grenadier      | 掷弹兵  | Blind        | 胆小鬼  |
+| Investigator   | 调查员  | Survivor       | 幸存者  | Morphling      | 化形者  | Diseased     | 病人   |
+| Mystic         | 灵媒   | Executioner    | 处刑人  | Swooper        | 隐身人  | Multitasker  | 多线程  |
+| Seer           | 预言家  | Jester         | 小丑   | Poisoner       | 绝命毒师 | Torch        | 火炬   |
+| Snitch         | 告密者  | Phantom        | 幻影   | Traitor        | 叛徒   | Button Barry | 执钮人  |
+| Spy            | 间谍   | Arsonist       | 纵火犯  | Blackmailer    | 勒索者  | Flash        | 闪电侠  |
+| Tracker        | 追踪者  | Plaguebearer   | 疫医   | Janitor        | 清理者  | Giant        | 巨人   |
+| Trapper        | 陷阱师  | The Glitch     | 混沌   | Miner          | 管道工  | Radar        | 雷达   |
+| Sheriff        | 警长   | Werewolf       | 豺狼   | Undertaker     | 送葬者  | Lovers       | 恋人   |
+| Veteran        | 老兵   |                |      |                |      | Sleuth       | 掘墓人  |
+| Vigilante      | 警员   |                |      |                |      | Tiebreaker   | 破平者  |
+| Altruist       | 殉道者  |                |      |                |      | Disperser    | 分散者  |
+| Medic          | 医生   |                |      |                |      | Double Shot  | 专业刺客 |
+| Engineer       | 工程师  |                |      |                |      | Underdog     | 潜伏者  |
+| Mayor          | 市长   |                |      |                |      |              |      |
+| Medium         | 通灵师  |                |      |                |      |              |      |
+| Swapper        | 换票师  |                |      |                |      |              |      |
+| Time Lord      | 时间之主 |                |      |                |      |              |      |
+| Transporter    | 传送师  |
+
 
 [返回目录](#目录)
 
