@@ -72,22 +72,22 @@
 [github地址（点这）](https://github.com/TheOtherRolesAU/TheOtherRoles)
 ![image](./Image/TOR_logo.png)
 
-| Impostors         | 内鬼职业         | Crewmates      | 船员职业 | Crewmates   | 船员职业 | Neutral    | 中立职业 |
-| ----------------- | ---------------- | -------------- | -------- | ----------- | -------- | ---------- | -------- |
-| Evil Guesser      | 坏堵怪           | Nice Guesser   | 好赌怪   | Swapper     | 换票师   | Jester     | 小丑     |
-| Bounty Hunter     | 赏金猎人         | Detective      | 侦探    | Time Master | 时间之主 | Jackal     | 豺狼     |
-| Camouflager       | 隐蔽者           | Engineer       | 工程师   | Tracker     | 追踪者   | Sidekick   | 跟班     |
-| Cleaner           | 清洁工           | Hacker         | 黑客     | Medium      | 通灵师   | Vulture    | 秃鹫     |
-| Eraser            | 抹除者           | Lighter        | 执灯人   | Portalmaker | 传送师   | Lawyer     | 律师     |
-| Godfather (Mafia) | 教父（黑手党）   | Mayor          | 市长     |             |          | Arsonist   | 纵火犯   |
-| Mafioso (Mafia)   | 黑手党（黑手党） | Medic          | 医生     |             |          | Thier      | 小偷     |
-| Janitor (Mafia)   | 清洁工（黑手党） | Security Guard | 保安     |             |          | Pursuer    | 追随者   |
-| Morphling         | 变形者           | Seer           | 灵媒     |             |          | Prosecutor | 检察官   |
-| Trickster         | 骗术师           | Sheriff        | 警长     |             |          |            |          |
-| Vampire           | 吸血鬼           | Deputy         | 捕快     |             |          |            |          |
-| Warlock           | 术士             | Shifter        | 交换师   |             |          |            |          |
-| Witch             | 女巫             | Snitch         | 告密者   |             |          |            |          |
-| Ninja             | 忍者             | Spy            | 间谍     |             |          |            |          |
+| Impostors         | 内鬼职业         | Crewmates      | 船员职业 | Crewmates   | 船员职业 |
+| ----------------- | ---------------- | -------------- | -------- | ----------- | -------- |
+| Evil Guesser      | 坏堵怪           | Nice Guesser   | 好赌怪   | Swapper     | 换票师   |
+| Bounty Hunter     | 赏金猎人         | Detective      | 侦探    | Time Master | 时间之主 |
+| Camouflager       | 隐蔽者           | Engineer       | 工程师   | Tracker     | 追踪者   |
+| Cleaner           | 清洁工           | Hacker         | 黑客     | Medium      | 通灵师   |
+| Eraser            | 抹除者           | Lighter        | 执灯人   | Portalmaker | 传送师   |
+| Godfather (Mafia) | 教父（黑手党）   | Mayor          | 市长     |             |          |
+| Mafioso (Mafia)   | 黑手党（黑手党） | Medic          | 医生     |             |          |
+| Janitor (Mafia)   | 清洁工（黑手党） | Security Guard | 保安     |             |          |
+| Morphling         | 变形者           | Seer           | 灵媒     |             |          |
+| Trickster         | 骗术师           | Sheriff        | 警长     |             |          |
+| Vampire           | 吸血鬼           | Deputy         | 捕快     |             |          |
+| Warlock           | 术士             | Shifter        | 交换师   |             |          |
+| Witch             | 女巫             | Snitch         | 告密者   |             |          |
+| Ninja             | 忍者             | Spy            | 间谍     |             |          |
 
 | Neutral    | 中立职业 | Secondary     | 属性   | Gamemode     | 游戏模式 |
 | ---------- | -------- | ------------- | -------- | ------------ | -------- |
@@ -98,7 +98,7 @@
 | Lawyer     | 律师     | Anti Teleport | 醉鬼     |              |          |
 | Arsonist   | 纵火犯   | Tie Breaker   | 通讯兵   |              |          |
 | Thier      | 小偷     | Sunglasse     | 太阳镜   |              |          |
-| Pursuer    | 陷阱师   | Invert        | 破平者   |              |          |
+| Pursuer    | 追随者   | Invert        | 破平者   |              |          |
 | Prosecutor | 检察官   |               |          |              |          |
 
 [返回目录](#目录)
