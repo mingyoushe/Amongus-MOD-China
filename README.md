@@ -210,14 +210,14 @@ Among Us支持版本：2022.10.25
 
 ## 5.TheEpicRoles  v1.1.2（支持2022.2.24s）(断更)
 
-[ GitHub仓库 ( 点这 ) ](https://github.com/LaicosVK/TheEpicRoles) `<br>`
-![image](./Image/TER_banner.png) `<br>`
-新特点： `<br>`
-1.上一场比赛中最先死亡的玩家将在下一场比赛中获得首杀盾。`<br>`
-2.就绪状态：当有一个人未准备好时，大厅主持人无法开始游戏。`<br>`
-3.定制鼠标光标。`<br>`
-4.模组选项类别分类。`<br>`
-5.运输船不再抖动。`<br>`
+[ GitHub仓库 ( 点这 ) ](https://github.com/LaicosVK/TheEpicRoles) <br>
+![image](./Image/TER_banner.png) <br>
+新特点： <br>
+1.上一场比赛中最先死亡的玩家将在下一场比赛中获得首杀盾。<br>
+2.就绪状态：当有一个人未准备好时，大厅主持人无法开始游戏。<br>
+3.定制鼠标光标。<br>
+4.模组选项类别分类。<br>
+5.运输船不再抖动。<br>
 
 | Impostors         | 内鬼     | Crewmates      | 船员     | Neutral  | 中立   |  |
 | ----------------- | -------- | -------------- | -------- | -------- | ------ | - |
@@ -247,8 +247,8 @@ Among Us支持版本：2022.10.25
 
 ## 6.Las Monjas V3.0.1（适合2022.10.25）(持续更新中)
 
-与潜艇地图兼容 `<br>`
-[ GitHub仓库 ( 点这 ) ](https://github.com/KiraYamato94/LasMonjas) `<br>`
+与潜艇地图兼容 <br>
+[ GitHub仓库 ( 点这 ) ](https://github.com/KiraYamato94/LasMonjas) <br>
 
 ![image](./Image/LasMonjas_banner.png)
 
@@ -339,7 +339,7 @@ Among Us支持版本：2022.10.25
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/Syyreth/ModsAmongUs)
 
-![image](./Image/Syyreth's%20ModsAmongUs%20Roles.jpg.png) `<br>`
+![image](./Image/Syyreth's%20ModsAmongUs%20Roles.jpg.png) <br>
 
 | Crewmate Roles: | 船员职业 | Neutral Roles: | 中立职业 | Impostor Roles: | 内鬼职业 | Coven Roles:  | 巫师团   |
 | --------------- | -------- | -------------- | -------- | --------------- | -------- | ------------- | -------- |
@@ -423,9 +423,9 @@ Among Us支持版本：2022.10.25
 
 ## 2.TownOfUs v3.1.1 (非官方延续) (最新支持2021.12.15) (断更)
 
-[ GitHub仓库 ( 点这 ) ](https://github.com/Anusien/Town-Of-Us) `<br>`
-[最开始我们的小镇的GitHub仓库](https://github.com/slushiegoose/Town-Of-Us) `<br>`
-![image](./Image/TOU-logo.png) `<br>`
+[ GitHub仓库 ( 点这 ) ](https://github.com/Anusien/Town-Of-Us) <br>
+[最开始我们的小镇的GitHub仓库](https://github.com/slushiegoose/Town-Of-Us) <br>
+![image](./Image/TOU-logo.png) <br>
 
 | Crewmate Roles | 船员职业 | Neutral Roles | 中立职业 | Impostor Roles | 内鬼职业 | Modifiers    | 附加属性 |
 | -------------- | -------- | ------------- | -------- | -------------- | -------- | ------------ | -------- |
@@ -466,7 +466,7 @@ Among Us支持版本：2022.10.25
 ## 5.Cursed-Among-Us v1.1.0 （支持2021.6.30）（断更）
 
 [ GitHub仓库 ( 点这 ) ]https://github.com/Devs-Us/Cursed-Among-Us
-![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/icon.png) `<br>`
+![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/icon.png) <br>
 
 [返回目录](#目录)
 
@@ -537,7 +537,7 @@ Among Us支持版本：2022.10.25
 
 ## １.潜艇地图Submerged v2022.10.26 (支持2022.10.25) (持续更新中)
 
-支持潜艇地图的模组的模组作者已将潜艇地图放入模组文件直接下载支持的模组即可 `<br>`
+支持潜艇地图的模组的模组作者已将潜艇地图放入模组文件直接下载支持的模组即可 <br>
 [ GitHub仓库 ( 点这 ) ](https://github.com/SubmergedAmongUs/Submerged)
 ![image](https://github.com/SubmergedAmongUs/Submerged/blob/main/Images/Icon.png)
 
