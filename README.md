@@ -213,7 +213,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 ![image](./Image/TER_banner.png) <br>
 新特点： <br>
 1.上一场比赛中最先死亡的玩家将在下一场比赛中获得首杀盾。<br>
-2.就绪状态：当有一个人未准备好时，大厅主持人无法开始游戏。
+2.就绪状态：当有一个人未准备好时，大厅主持人无法开始游戏。<br>
 3.定制鼠标光标。<br>
 4.模组选项类别分类。<br>
 5.运输船不再抖动。<br>
@@ -245,8 +245,8 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 [返回目录](#目录)
 ## 8.LAS MONJAS V2.1.3（适合2022.8.24）
 
-与潜艇地图兼容 `<br>`
-[github地址（点这）](https://github.com/KiraYamato94/LasMonjas) `<br>`
+与潜艇地图兼容 <br>
+[github地址（点这）](https://github.com/KiraYamato94/LasMonjas) <br>
 
 ![image](./Image/LasMonjas_banner.png)
 
@@ -347,7 +347,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 [github地址（点这）](https://github.com/Syyreth/ModsAmongUs)
 
-![image](./Image/Syyreth's%20ModsAmongUs%20Roles.jpg.png) `<br>`
+![image](./Image/Syyreth's%20ModsAmongUs%20Roles.jpg.png) <br>
 
 | Crewmate Roles: | 船员职业 | Neutral Roles: | 中立职业 | Impostor Roles: | 内鬼职业 | Coven Roles:  | 巫师团   |
 | --------------- | -------- | -------------- | -------- | --------------- | -------- | ------------- | -------- |
@@ -371,7 +371,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 ## 15.恶搞模组Cursed-Among-Us v1.1.0 （支持2021.6.30）
 
 模组链接：https://github.com/Devs-Us/Cursed-Among-Us
-![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/icon.png) `<br>`
+![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/icon.png) <br>
 
 [返回目录](#目录)
 ## 16.S服skeld.net(最新支持2022.3.29s)
