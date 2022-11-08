@@ -466,20 +466,31 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 [返回目录](#目录)
 
 ## 18.SuperNewRoles 
+[Github仓库(点这)](https://github.com/ykundesu/SuperNewRoles)
+![image](Image/SNRImage.png)
 
 ## 19.TheOtherRoles CE
+[Github仓库(点这)](https://github.com/JustASysAdmin/TheOtherRoles2)
+![image](Image/TOR_Logo.jpg)
 
 ## 20.TheOtherRoles MR
+[Github仓库(点这)](https://github.com/miru-y/TheOtherRoles-MR)
 
 ## 21.TownOfHost
-
+[Github仓库(点这)](https://github.com/tukasa0001/TownOfHost)
+![image](Image/TownOfHost-Title.png)
 ## 22.TownOfHost -TheOtherRoles
-
+[Github仓库(点这)](https://github.com/music-discussion/TownOfHost-TheOtherRoles)
 ## 23.BetterTownOfUS
+[Github仓库(点这)](https://github.com/MC-AS-Huier/Better-Town-Of-Us-R)(原仓库已删除)
+![image](Image/TOU-logo%20(1).png)
 
 ## 24.UltimateMods
-
+[Github仓库(点这)](https://github.com/Dekokiyo/UltimateMods)
+![image](Image/UltimateModsWiki.png)
 ## 25.PropHunt
+[Github仓库(点这)](https://github.com/ugackMiner53/PropHunt)
+![image](Image/prophuntlogo.png)
 # 工具
 
 ## １.crewlink游戏聊天工具 v2.0.1  (支持版本v2021.11.9.2s)（断更）
