@@ -4,10 +4,10 @@
   - [Among Us](#among-us)
   - [提醒](#提醒)
 - [模组](#模组)
-  - [1.TheOtherRoles V4.2.0（最新支持2022.10.25）(持续更新中)](#1theotherroles-v420最新支持20221025持续更新中)
-  - [2.TheOtherRoles GM v3.5.5.1（最新支持2022.3.29）（断更）](#2theotherroles-gm-v3551最新支持2022329断更)
-  - [3.TheOtherRoles GM-Haoming v2.3.133（最新支持2022.10.25）(持续更新中)](#3theotherroles-gm-haoming-v23133最新支持20221025持续更新中)
-  - [4.TownOfUs-R v3.4.0  (支持2022.10.25）](#4townofus-r-v340--支持20221025)
+  - [1.TheOtherRoles](#1theotherroles)
+  - [2.TheOtherRoles GM](#2theotherroles-gm)
+  - [3.TheOtherRoles GM-Haoming](#3theotherroles-gm-haoming)
+  - [4.TownOfUs-R v3.4.0](#4townofus-r)
   - [5.TheEpicRoles  v1.1.2（支持2022.2.24s）(断更)](#5theepicroles--v112支持2022224s断更)
   - [6.Las Monjas V3.0.1（适合2022.10.25）(持续更新中)](#6las-monjas-v301适合20221025持续更新中)
   - [7.ExtremeRoles v4.0.0.2 （最新支持2022.10.25) (持续更新中)](#7extremeroles-v4002-最新支持20221025-持续更新中)
@@ -23,7 +23,7 @@
   - [17.UltimateMods](#17ultimatemods)
   - [18.PropHunt](#18prophunt)
 - [旧模组](#旧模组)
-  - [1.TownOfImpostors v2.0.8（最新支持2021.6.15版本）(断更)](#1townofimpostors-v208最新支持2021615版本断更) 
+  - [1.TownOfImpostors v2.0.8（最新支持2021.6.15版本）(断更)](#1townofimpostors-v208最新支持2021615版本断更)
   - [2.TownOfUs v3.1.1 (非官方延续) (最新支持2021.12.15) (断更)](#2townofus-v311-非官方延续-最新支持20211215-断更)
   - [3.国际象棋模组v1.1.1版本（支持2021.6.30版本）（断更)](#3国际象棋模组v111版本支持2021630版本断更)
   - [4.挑战者模组4.3.2（支持2020.6.15s）（断更）](#4挑战者模组432支持2020615s断更)
@@ -34,10 +34,10 @@
   - [１.crewlink游戏聊天工具 v2.0.1  (支持版本v2021.11.9.2s)（断更）](#１crewlink游戏聊天工具-v201--支持版本v20211192s断更)
   - [２.BetterCrewLink更好的近距离聊天工具 v3.0.5  (支持大部分Among Us版本) （持续更新中）](#２bettercrewlink更好的近距离聊天工具-v305--支持大部分among-us版本-持续更新中)
   - [３.Among Us回放模组 v2.0.3 (支持任意版本) (断更)](#３among-us回放模组-v203-支持任意版本-断更)
-  - [４.模组管理器 v5.1.2 ModManager (持续更新中)](#４模组管理器-v512-modmanager-持续更新中)
+  - [４.ModManager](#４modmanager)
   - [5.levelimposter-editor](#5levelimposter-editor)
 - [地图](#地图)
-  - [１.潜艇地图Submerged v2022.10.26 (支持2022.10.25) (持续更新中)](#１潜艇地图submerged-v20221026-支持20221025-持续更新中)
+  - [１.Submerged](#1submerged)
   - [2.levelimposter](#2levelimposter)
 - [多语言样式声明](#多语言样式声明)
   - [简体中文（SChinese）](#简体中文schinese)
@@ -67,16 +67,19 @@
 
 # 模组
 
-## 1.TheOtherRoles V4.2.0（最新支持2022.10.25）(持续更新中)
-
-支持与潜艇地图融合游玩！<br>
-[ GitHub仓库 ( 点这 ) ](https://github.com/TheOtherRolesAU/TheOtherRoles)
+## 1.TheOtherRoles
 ![image](./Image/TOR_logo.png)
+[ GitHub仓库 ( 点这 ) ](https://github.com/TheOtherRolesAU/TheOtherRoles)
+###### 最新版本：v4.2.0
+###### Among Us支持版本：2022.10.25
+###### 更新状况：持续更新中
+
+### 职业
 
 | Impostors         | 内鬼职业         | Crewmates      | 船员职业 | Crewmates   | 船员职业 |
 | ----------------- | ---------------- | -------------- | -------- | ----------- | -------- |
 | Evil Guesser      | 坏堵怪           | Nice Guesser   | 好赌怪   | Swapper     | 换票师   |
-| Bounty Hunter     | 赏金猎人         | Detective      | 侦探    | Time Master | 时间之主 |
+| Bounty Hunter     | 赏金猎人         | Detective      | 侦探     | Time Master | 时间之主 |
 | Camouflager       | 隐蔽者           | Engineer       | 工程师   | Tracker     | 追踪者   |
 | Cleaner           | 清洁工           | Hacker         | 黑客     | Medium      | 通灵师   |
 | Eraser            | 抹除者           | Lighter        | 执灯人   | Portalmaker | 传送师   |
@@ -90,10 +93,10 @@
 | Witch             | 女巫             | Snitch         | 告密者   |             |          |
 | Ninja             | 忍者             | Spy            | 间谍     |             |          |
 
-| Neutral    | 中立职业 | Secondary     | 属性   | Gamemode     | 游戏模式 |
+| Neutral    | 中立职业 | Secondary     | 属性     | Gamemode     | 游戏模式 |
 | ---------- | -------- | ------------- | -------- | ------------ | -------- |
 | Jester     | 小丑     | Lover         | 恋人     | Classic      | 诸神之战 |
-| Jackal     | 豺狼     | Mini          | 迷你船员   | Guesser      | 赌怪模式 |
+| Jackal     | 豺狼     | Mini          | 迷你船员 | Guesser      | 赌怪模式 |
 | Sidekick   | 跟班     | VIP           | VIP      | Hide 'n Seek | 躲猫猫   |
 | Vulture    | 秃鹫     | Bloody        | 溅血者   |              |          |
 | Lawyer     | 律师     | Anti Teleport | 醉鬼     |              |          |
@@ -104,25 +107,28 @@
 
 [返回目录](#目录)
 
-
-## 2.TheOtherRoles GM v3.5.5.1（最新支持2022.3.29）（断更）
+## 2.TheOtherRoles GM
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/yukinogatari/TheOtherRoles-GM)
+###### 最新版本：v3.5.5.1
 
-GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
+###### Among Us支持版本：2022.3.29
+###### 更新状况：断更
+
+### 职业
 
 | Impostors         | 内鬼职业         | Crewmates      | 船员职业 | Neutral          | 中立职业    |
 | ----------------- | ---------------- | -------------- | -------- | ---------------- | ----------- |
 | Evil Mini         | 坏小人           | Nice Mini      | 好小人   | Arsonist         | 纵火犯      |
 | Evil Guesser      | 赌怪             | Nice Guesser   | 好赌怪   | Jester           | 小丑        |
-| Bounty Hunter     | 赏金猎人         | Detective      | 侦探    | Jackal           | 豺狼        |
+| Bounty Hunter     | 赏金猎人         | Detective      | 侦探     | Jackal           | 豺狼        |
 | Camouflager       | 隐蔽者           | Engineer       | 工程师   | Sidekick         | 跟班        |
 | Cleaner           | 清洁工           | Hacker         | 黑客     | Lover            | 恋人        |
-| Eraser            | 抹除者           | Lighter        | 小灯人   | Opportunist      | 投机主义者   |
+| Eraser            | 抹除者           | Lighter        | 小灯人   | Opportunist      | 投机主义者  |
 | Godfather (Mafia) | 教父（黑手党）   | Mayor          | 市长     | Vulture          | 秃鹫        |
 | Mafioso (Mafia)   | 黑手党（黑手党） | Medic          | 医生     | Lawyer           | 律师        |
 | Janitor (Mafia)   | 清洁工（黑手党） | Security Guard | 保安     | Chain-Shifter    | 连环交换师  |
-| Morphling         | 变形者           | Seer           | 灵媒     | Plague Doctor    | 疫医      |
+| Morphling         | 变形者           | Seer           | 灵媒     | Plague Doctor    | 疫医        |
 | Trickster         | 骗术师           | Sheriff        | 警长     | Fox & Immoralist | 狐妖&背德者 |
 | Vampire           | 吸血鬼           | Shifter        | 交换者   |                  |             |
 | Warlock           | 术士             | Snitch         | 告密者   |                  |             |
@@ -133,23 +139,29 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 | Neko-Kabocha      | 复仇者           | Bait           | 诱饵     |                  |             |
 | Evil Watcher      | 坏观察者         | Madmate        | 通灵师   |                  |             |
 |                   |                  | Fortune Teller | 算命先生 |                  |             |
-|                   |                  | Nice Watcher   | 观察者  |                  |             |
+|                   |                  | Nice Watcher   | 观察者   |                  |             |
+
+GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 [返回目录](#目录)
 
-
-## 3.TheOtherRoles GM-Haoming v2.3.133（最新支持2022.10.25）(持续更新中)
+## 3.TheOtherRoles GM-Haoming
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/haoming37/TheOtherRoles-GM-Haoming)
+###### 最新版本：v2.3.133
 
-与潜艇地图兼容 <br>
-地图改动(Polus) ： <br>
-你可以设置随机重生地点 <br>
-附加额外通风口（出生点-脉搏室-右下角样本室） <br>
-可以设置心电图在右下角样本室 <br>
-地图改动（airship） <br>
-在任务中增加墙壁检查(飞艇)#来自AuShipMod的创意 <br>
+###### Among Us支持版本：2022.10.25
+###### 更新状况：持续更新中
+### 介绍
+与潜艇地图兼容 
+地图改动(Polus) ： 
+你可以设置随机重生地点 
+附加额外通风口（出生点-脉搏室-右下角样本室）
+可以设置心电图在右下角样本室 
+地图改动（airship）
+在任务中增加墙壁检查(飞艇)#来自AuShipMod的创意
 
+### 职业
 在GM版本基础上新增职业如下：
 
 | 内鬼                | 船员     | 中立       |
@@ -165,49 +177,50 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 [返回目录](#目录)
 
+## 4.TownOfUs-R 
+[ GitHub仓库 ( 点这 ) ](https://github.com/eDonnes124/Town-Of-Us-R) 
+###### 最新版本：v3.4.0
 
-## 4.TownOfUs-R v3.4.0  (支持2022.10.25）
+###### Among Us支持版本：2022.10.25
+###### 更新状况：持续更新中
 
-已支持潜艇地图 <br>
-[ GitHub仓库 ( 点这 ) ](https://github.com/eDonnes124/Town-Of-Us-R) <br>
+### 职业
 
 | Crewmate Roles | 船员职业 | Neutral Roles  | 中立职业 | Impostor Roles | 内鬼职业 | Modifiers    | 附加属性 |
-|----------------|------|----------------|------|----------------|------|--------------|------|
-| Detective      | 侦探   | Amnesiac       | 失忆者  | Escapist       | 逃逸者  | Bait         | 诱饵   |
-| Haunter        | 猎人   | Guardian Angel | 守护天使 | Grenadier      | 掷弹兵  | Blind        | 胆小鬼  |
-| Investigator   | 调查员  | Survivor       | 幸存者  | Morphling      | 化形者  | Diseased     | 病人   |
-| Mystic         | 灵媒   | Executioner    | 处刑人  | Swooper        | 隐身人  | Multitasker  | 多线程  |
-| Seer           | 预言家  | Jester         | 小丑   | Poisoner       | 绝命毒师 | Torch        | 火炬   |
-| Snitch         | 告密者  | Phantom        | 幻影   | Traitor        | 叛徒   | Button Barry | 执钮人  |
-| Spy            | 间谍   | Arsonist       | 纵火犯  | Blackmailer    | 勒索者  | Flash        | 闪电侠  |
-| Tracker        | 追踪者  | Plaguebearer   | 疫医   | Janitor        | 清理者  | Giant        | 巨人   |
-| Trapper        | 陷阱师  | The Glitch     | 混沌   | Miner          | 管道工  | Radar        | 雷达   |
-| Sheriff        | 警长   | Werewolf       | 豺狼   | Undertaker     | 送葬者  | Lovers       | 恋人   |
-| Veteran        | 老兵   |                |      |                |      | Sleuth       | 掘墓人  |
-| Vigilante      | 警员   |                |      |                |      | Tiebreaker   | 破平者  |
-| Altruist       | 殉道者  |                |      |                |      | Disperser    | 分散者  |
-| Medic          | 医生   |                |      |                |      | Double Shot  | 专业刺客 |
-| Engineer       | 工程师  |                |      |                |      | Underdog     | 潜伏者  |
-| Mayor          | 市长   |                |      |                |      |              |      |
-| Medium         | 通灵师  |                |      |                |      |              |      |
-| Swapper        | 换票师  |                |      |                |      |              |      |
-| Time Lord      | 时间之主 |                |      |                |      |              |      |
-| Transporter    | 传送师  |
-
+| -------------- | -------- | -------------- | -------- | -------------- | -------- | ------------ | -------- |
+| Detective      | 侦探     | Amnesiac       | 失忆者   | Escapist       | 逃逸者   | Bait         | 诱饵     |
+| Haunter        | 猎人     | Guardian Angel | 守护天使 | Grenadier      | 掷弹兵   | Blind        | 胆小鬼   |
+| Investigator   | 调查员   | Survivor       | 幸存者   | Morphling      | 化形者   | Diseased     | 病人     |
+| Mystic         | 灵媒     | Executioner    | 处刑人   | Swooper        | 隐身人   | Multitasker  | 多线程   |
+| Seer           | 预言家   | Jester         | 小丑     | Poisoner       | 绝命毒师 | Torch        | 火炬     |
+| Snitch         | 告密者   | Phantom        | 幻影     | Traitor        | 叛徒     | Button Barry | 执钮人   |
+| Spy            | 间谍     | Arsonist       | 纵火犯   | Blackmailer    | 勒索者   | Flash        | 闪电侠   |
+| Tracker        | 追踪者   | Plaguebearer   | 疫医     | Janitor        | 清理者   | Giant        | 巨人     |
+| Trapper        | 陷阱师   | The Glitch     | 混沌     | Miner          | 管道工   | Radar        | 雷达     |
+| Sheriff        | 警长     | Werewolf       | 豺狼     | Undertaker     | 送葬者   | Lovers       | 恋人     |
+| Veteran        | 老兵     |                |          |                |          | Sleuth       | 掘墓人   |
+| Vigilante      | 警员     |                |          |                |          | Tiebreaker   | 破平者   |
+| Altruist       | 殉道者   |                |          |                |          | Disperser    | 分散者   |
+| Medic          | 医生     |                |          |                |          | Double Shot  | 专业刺客 |
+| Engineer       | 工程师   |                |          |                |          | Underdog     | 潜伏者   |
+| Mayor          | 市长     |                |          |                |          |              |          |
+| Medium         | 通灵师   |                |          |                |          |              |          |
+| Swapper        | 换票师   |                |          |                |          |              |          |
+| Time Lord      | 时间之主 |                |          |                |          |              |          |
+| Transporter    | 传送师   |                |          |                |          |              |          |
 
 [返回目录](#目录)
 
-
 ## 5.TheEpicRoles  v1.1.2（支持2022.2.24s）(断更)
 
-[ GitHub仓库 ( 点这 ) ](https://github.com/LaicosVK/TheEpicRoles) <br>
-![image](./Image/TER_banner.png) <br>
-新特点： <br>
-1.上一场比赛中最先死亡的玩家将在下一场比赛中获得首杀盾。<br>
-2.就绪状态：当有一个人未准备好时，大厅主持人无法开始游戏。<br>
-3.定制鼠标光标。<br>
-4.模组选项类别分类。<br>
-5.运输船不再抖动。<br>
+[ GitHub仓库 ( 点这 ) ](https://github.com/LaicosVK/TheEpicRoles) `<br>`
+![image](./Image/TER_banner.png) `<br>`
+新特点： `<br>`
+1.上一场比赛中最先死亡的玩家将在下一场比赛中获得首杀盾。`<br>`
+2.就绪状态：当有一个人未准备好时，大厅主持人无法开始游戏。`<br>`
+3.定制鼠标光标。`<br>`
+4.模组选项类别分类。`<br>`
+5.运输船不再抖动。`<br>`
 
 | Impostors         | 内鬼     | Crewmates      | 船员     | Neutral  | 中立   |  |
 | ----------------- | -------- | -------------- | -------- | -------- | ------ | - |
@@ -237,8 +250,8 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 ## 6.Las Monjas V3.0.1（适合2022.10.25）(持续更新中)
 
-与潜艇地图兼容 <br>
-[ GitHub仓库 ( 点这 ) ](https://github.com/KiraYamato94/LasMonjas) <br>
+与潜艇地图兼容 `<br>`
+[ GitHub仓库 ( 点这 ) ](https://github.com/KiraYamato94/LasMonjas) `<br>`
 
 ![image](./Image/LasMonjas_banner.png)
 
@@ -325,12 +338,11 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 [返回目录](#目录)
 
-
 ## 10.Syyreth ModsAmongUs v4.0.6版本（支持2022.8.24）（断更）
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/Syyreth/ModsAmongUs)
 
-![image](./Image/Syyreth's%20ModsAmongUs%20Roles.jpg.png) <br>
+![image](./Image/Syyreth's%20ModsAmongUs%20Roles.jpg.png) `<br>`
 
 | Crewmate Roles: | 船员职业 | Neutral Roles: | 中立职业 | Impostor Roles: | 内鬼职业 | Coven Roles:  | 巫师团   |
 | --------------- | -------- | -------------- | -------- | --------------- | -------- | ------------- | -------- |
@@ -352,30 +364,41 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 [返回目录](#目录)
 
-## 11.SuperNewRoles 
+## 11.SuperNewRoles
+
 [Github仓库(点这)](https://github.com/ykundesu/SuperNewRoles)
 ![image](Image/SNRImage.png)
 
 ## 12.TheOtherRoles CE
+
 [Github仓库(点这)](https://github.com/JustASysAdmin/TheOtherRoles2)
 ![image](Image/TOR_Logo.jpg)
 
 ## 13.TheOtherRoles MR
+
 [Github仓库(点这)](https://github.com/miru-y/TheOtherRoles-MR)
 
 ## 14.TownOfHost
+
 [Github仓库(点这)](https://github.com/tukasa0001/TownOfHost)
 ![image](Image/TownOfHost-Title.png)
+
 ## 15.TownOfHost -TheOtherRoles
+
 [Github仓库(点这)](https://github.com/music-discussion/TownOfHost-TheOtherRoles)
+
 ## 16.BetterTownOfUS
+
 [Github仓库(点这)](https://github.com/MC-AS-Huier/Better-Town-Of-Us-R)(原仓库已删除)
 ![image](Image/TOU-logo%20(1).png)
 
 ## 17.UltimateMods
+
 [Github仓库(点这)](https://github.com/Dekokiyo/UltimateMods)
 ![image](Image/UltimateModsWiki.png)
+
 ## 18.PropHunt
+
 [Github仓库(点这)](https://github.com/ugackMiner53/PropHunt)
 ![image](Image/prophuntlogo.png)
 
@@ -391,7 +414,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 | ------------- | -------- | --------- | -------- | ----------- | -------- | --------- | -------- |
 | Sheriff       | 警长     | Dragger   | 拖拽者   | Jester      | 小丑     | Lovers    | 恋人     |
 | Doctor        | 医生     | Morphling | 变形者   | Arsonist    | 纵火犯   | Giant     | 巨人     |
-| Agent         | 代理人   | Deceiver  | 欺骗者   |             |          | Tiny      | 迷你船员   |
+| Agent         | 代理人   | Deceiver  | 欺骗者   |             |          | Tiny      | 迷你船员 |
 | Detective     | 调查员   | Viper     | 毒蛇     |             |          | Nightowl  | 执灯人   |
 | Plumber       | 管道工   | Sniper    | 狙击手   |             |          |           |          |
 | Informant     | 告密者   |           |          |             |          |           |          |
@@ -403,27 +426,27 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 ## 2.TownOfUs v3.1.1 (非官方延续) (最新支持2021.12.15) (断更)
 
-[ GitHub仓库 ( 点这 ) ](https://github.com/Anusien/Town-Of-Us) <br>
-[最开始我们的小镇的GitHub仓库](https://github.com/slushiegoose/Town-Of-Us) <br>
-![image](./Image/TOU-logo.png) <br>
+[ GitHub仓库 ( 点这 ) ](https://github.com/Anusien/Town-Of-Us) `<br>`
+[最开始我们的小镇的GitHub仓库](https://github.com/slushiegoose/Town-Of-Us) `<br>`
+![image](./Image/TOU-logo.png) `<br>`
 
 | Crewmate Roles | 船员职业 | Neutral Roles | 中立职业 | Impostor Roles | 内鬼职业 | Modifiers    | 附加属性 |
-|----------------|------|---------------|------|----------------|------|--------------|------|
-| Mayor          | 市长   | Jester        | 小丑   | Janitor        | 清洁工  | Torch        | 火炬   |
-| Lovers         | 恋人   | Shifter       | 交换师  | Morphling      | 化形者  | Diseased     | 病人   |
-| Sheriff        | 警长   | The Glitch    | 混沌   | Camouflager    | 隐蔽者  | Flash        | 闪电侠  |
-| Engineer       | 工程师  | Executioner   | 处刑人  | Miner          | 管道工  | Tiebreaker   | 破平者  |
-| Swapper        | 换票师  | Arsonist      | 纵火犯  | Swooper        | 俯冲者  | Drunk        | 醉鬼   |
-| Investigator   | 调查员  | Phantom       | 幻影   | Underdog       | 潜伏者  | Giant        | 巨人   |
-| Time Lord      | 时间之主 |               |      | Undertaker     | 送葬者  | Button Barry | 执钮者  |
-| Medic          | 医生   |               |      | Teleporter     | 传送者  | Coroner      | 掘墓人  |
-| Seer           | 预言家 |               |      | Concealer      | 隐身人  | Carnivore    | 掘墓内鬼 |
-| Spy            | 间谍   |               |      | Grenadier      | 掷弹兵  |              |      |
-| Snitch         | 告密者  |               |      |                |      |              |      |
-| Altruist       | 殉道者  |               |      |                |      |              |      |
-| Prophet        | 侧写师  |               |      |                |      |              |      |
-| Covert         | 隐秘者  |               |      |                |      |              |      |
-| Lighter        | 执灯人  |
+| -------------- | -------- | ------------- | -------- | -------------- | -------- | ------------ | -------- |
+| Mayor          | 市长     | Jester        | 小丑     | Janitor        | 清洁工   | Torch        | 火炬     |
+| Lovers         | 恋人     | Shifter       | 交换师   | Morphling      | 化形者   | Diseased     | 病人     |
+| Sheriff        | 警长     | The Glitch    | 混沌     | Camouflager    | 隐蔽者   | Flash        | 闪电侠   |
+| Engineer       | 工程师   | Executioner   | 处刑人   | Miner          | 管道工   | Tiebreaker   | 破平者   |
+| Swapper        | 换票师   | Arsonist      | 纵火犯   | Swooper        | 俯冲者   | Drunk        | 醉鬼     |
+| Investigator   | 调查员   | Phantom       | 幻影     | Underdog       | 潜伏者   | Giant        | 巨人     |
+| Time Lord      | 时间之主 |               |          | Undertaker     | 送葬者   | Button Barry | 执钮者   |
+| Medic          | 医生     |               |          | Teleporter     | 传送者   | Coroner      | 掘墓人   |
+| Seer           | 预言家   |               |          | Concealer      | 隐身人   | Carnivore    | 掘墓内鬼 |
+| Spy            | 间谍     |               |          | Grenadier      | 掷弹兵   |              |          |
+| Snitch         | 告密者   |               |          |                |          |              |          |
+| Altruist       | 殉道者   |               |          |                |          |              |          |
+| Prophet        | 侧写师   |               |          |                |          |              |          |
+| Covert         | 隐秘者   |               |          |                |          |              |          |
+| Lighter        | 执灯人   |               |          |                |          |              |          |
 
 [返回目录](#目录)
 
@@ -433,23 +456,23 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 ![image](./Image/%E8%B1%A1%E6%A3%8B%E6%A8%A1%E7%BB%84.png)
 
-
 [返回目录](#目录)
+
 ## 4.挑战者模组4.3.2（支持2020.6.15s）（断更）
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/Lunastellia/Challenger-Among-Us)
 
 ![image](./Image/%E6%8C%91%E6%88%98%E8%80%85%E6%88%91%E4%BB%AC%E4%B8%AD%E9%97%B44.1.3.png)
 
-
 [返回目录](#目录)
+
 ## 5.Cursed-Among-Us v1.1.0 （支持2021.6.30）（断更）
 
 [ GitHub仓库 ( 点这 ) ]https://github.com/Devs-Us/Cursed-Among-Us
-![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/icon.png) <br>
-
+![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/icon.png) `<br>`
 
 [返回目录](#目录)
+
 ## 6.skeld.net (支持大部分版本)
 
 [官方网站（点这）](https://skeld.net/)
@@ -472,7 +495,6 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 [返回目录](#目录)
 
 ## 7.哈利波特模组 v1.2.0（最新支持2021.5.10s） (断更)
-
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/FatherofHeathens/HarryPotterAmongUs)
 
@@ -518,7 +540,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 ## １.潜艇地图Submerged v2022.10.26 (支持2022.10.25) (持续更新中)
 
-支持潜艇地图的模组的模组作者已将潜艇地图放入模组文件直接下载支持的模组即可 <br>
+支持潜艇地图的模组的模组作者已将潜艇地图放入模组文件直接下载支持的模组即可 `<br>`
 [ GitHub仓库 ( 点这 ) ](https://github.com/SubmergedAmongUs/Submerged)
 ![image](https://github.com/SubmergedAmongUs/Submerged/blob/main/Images/Icon.png)
 
@@ -541,24 +563,25 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 | [Impostor](https://github.com/Impostor/Impostor/) | ✅ |   支持   |
 
 ### 语言的支持
-| 语言    | ❔ | 支持情况 |
-|-        |:-: |:-:      |
-| English | ✅ | 默认    |
-| Deutsch | ✅ | 支持    |
-| Español | ✅ | 支持    |
-| Français | ✅ | 支持   |
-| Nederlands | ✅ | 支持 |
-| Português (Brasil) | ✅ | 支持 |
-| Русский | ✅ | 支持    |
-| 日本語 | ✅ | 支持      |
-| 简体中文 | ✅ | 支持    |
-| 繁體中文 | ✅ | 支持    |
-| Bisaya | ❌ | 不支持    |
-| Español (Latinoamérica) | ❌ | 不支持|
-| Gaeilge | ❌ | 不支持 |
-| Italiano | ❌ | 不支持 |
-| Português | ❌ | 不支持 |
-| 한국어 | ❌ | 不支持 |
+
+| 语言                      | ❔ | 支持情况 |
+| ------------------------- | :-: | :------: |
+| English                   | ✅ |   默认   |
+| Deutsch                   | ✅ |   支持   |
+| Español                  | ✅ |   支持   |
+| Français                 | ✅ |   支持   |
+| Nederlands                | ✅ |   支持   |
+| Português (Brasil)       | ✅ |   支持   |
+| Русский            | ✅ |   支持   |
+| 日本語                    | ✅ |   支持   |
+| 简体中文                  | ✅ |   支持   |
+| 繁體中文                  | ✅ |   支持   |
+| Bisaya                    | ❌ |  不支持  |
+| Español (Latinoamérica) | ❌ |  不支持  |
+| Gaeilge                   | ❌ |  不支持  |
+| Italiano                  | ❌ |  不支持  |
+| Português                | ❌ |  不支持  |
+| 한국어                    | ❌ |  不支持  |
 
 [返回目录](#目录)
 
