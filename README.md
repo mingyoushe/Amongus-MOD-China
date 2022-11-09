@@ -77,6 +77,7 @@
 Among Us支持版本：2022.10.25s  
 更新状况：持续更新中  
 
+[职业](README/Roles.md/#1theotherroles)
 ### 职业
 
 | Impostors         | 内鬼职业         | Crewmates      | 船员职业 | Crewmates   | 船员职业 |
@@ -671,7 +672,7 @@ Among Us支持版本：大部分版本
 ## １.Submerged
 ![image](https://github.com/SubmergedAmongUs/Submerged/blob/main/Images/Icon.png)  
 [ GitHub仓库 ( 点这 ) ](https://github.com/SubmergedAmongUs/Submerged) 
- 
+
 最新版本：v2022.10.26  
 Among Us支持版本：2022.10.25  
 更新状况：持续更新中  
