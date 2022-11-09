@@ -314,7 +314,7 @@ Among Us支持版本：2022.10.25s
 
 [返回目录](#目录)
 
-## 7.ExtremeRoles v4.0.0.2 （最新支持2022.10.25) (持续更新中)
+## 7.ExtremeRoles
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/yukieiji/ExtremeRoles)
 
@@ -324,7 +324,7 @@ Among Us支持版本：2022.10.25s
 
 [返回目录](#目录)
 
-## 8.Nebula On The Ship v1.16.1（支持2022.10.25）(持续更新中)
+## 8.Nebula On The Ship
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/Dolly1016/Nebula)
 
@@ -359,7 +359,7 @@ Among Us支持版本：2022.10.25s
 
 [返回目录](#目录)
 
-## 9.Peasmod v3.0.0-pre2.2（支持2022.3.29s）（断更）
+## 9.Peasmod
 ![image](./Image/Logo.png)
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/Peasplayer/Peasmod)
@@ -381,7 +381,7 @@ Among Us支持版本：2022.3.29s
 
 [返回目录](#目录)
 
-## 10.Syyreth ModsAmongUs v4.0.6版本（支持2022.8.24）（断更）
+## 10.Syyreth ModsAmongUs
 ![image](./Image/Syyreth's%20ModsAmongUs%20Roles.jpg.png) <br>
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/Syyreth/ModsAmongUs)
@@ -547,7 +547,7 @@ Among Us支持版本：2021.6.30s
 
 [返回目录](#目录)
 
-## 6.skeld.net (支持大部分版本)
+## 6.skeld.net
 
 [官方网站（点这）](https://skeld.net/)
 
@@ -568,7 +568,7 @@ Among Us支持版本：2021.6.30s
 
 [返回目录](#目录)
 
-## 7.哈利波特模组 v1.2.0（最新支持2021.5.10s） (断更)
+## 7.哈利波特模组
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/FatherofHeathens/HarryPotterAmongUs)
 
