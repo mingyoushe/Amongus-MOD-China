@@ -215,9 +215,15 @@ Among Us支持版本：2022.10.25
 [返回目录](#目录)
 
 ## 5.TheEpicRoles  v1.1.2（支持2022.2.24s）(断更)
+![image](./Image/TER_banner.png) <br>
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/LaicosVK/TheEpicRoles) <br>
-![image](./Image/TER_banner.png) <br>
+
+最新版本：v1.1.2  
+Among Us支持版本：2022.2.24  
+更新状况：断更  
+
+### 介绍
 新特点： <br>
 1.上一场比赛中最先死亡的玩家将在下一场比赛中获得首杀盾。<br>
 2.就绪状态：当有一个人未准备好时，大厅主持人无法开始游戏。<br>
@@ -225,68 +231,83 @@ Among Us支持版本：2022.10.25
 4.模组选项类别分类。<br>
 5.运输船不再抖动。<br>
 
-| Impostors         | 内鬼     | Crewmates      | 船员     | Neutral  | 中立   |  |
-| ----------------- | -------- | -------------- | -------- | -------- | ------ | - |
-| Evil Mini         | 坏小人   | Nice Mini      | 好小人   | Arsonist | 纵火犯 |  |
-| Evil Guesser      | 坏赌怪   | Nice Guesser   | 好赌怪   | Jester   | 小丑   |  |
-| Bounty Hunter     | 赏金猎人 | Detective      | 调查员   | Jackal   | 豺狼   |  |
-| Camouflager       | 隐蔽者   | Engineer       | 工程师   | Sidekick | 跟班   |  |
-| Cleaner           | 清洁工   | Hacker         | 黑客     | Vulture  | 秃鹫   |  |
-| Eraser            | 抹除者   | Lighter        | 小灯人   | Lawyer   | 律师   |  |
-| Godfahter (Mafia) | 教父     | Mayor          | 市长     | Lover    | 恋人   |  |
-| Mafioso (Mafia)   | 黑手党   | Medic          | 医生     |          |        |  |
-| Janitor (Mafia)   | 清洁工   | Security Guard | 保安     |          |        |  |
-| Morphling         | 变形者   | Seer           | 灵媒     |          |        |  |
-| Trickster         | 骗术师   | Sheriff        | 警长     |          |        |  |
-| Vampire           | 吸血鬼   | Deputy         | 捕快     |          |        |  |
-| Warlock           | 术士     | Shifter        | 交换师   |          |        |  |
-| Witch             | 女巫     | Snitch         | 告密者   |          |        |  |
-| Phaser            |          | Spy            | 间谍     |          |        |  |
-|                   |          | Swapper        | 换票师   |          |        |  |
-|                   |          | Time Master    | 时间之主 |          |        |  |
-|                   |          | Tracker        | 追踪者   |          |        |  |
-|                   |          | Bait           | 诱饵     |          |        |  |
-|                   |          | Medium         | 通灵师   |          |        |  |
-|                   |          | Jumper         |          |          |        |  |
+### 职业
+
+| Impostors         | 内鬼     | Crewmates      | 船员     | Neutral  | 中立   |
+| ----------------- | -------- | -------------- | -------- | -------- | ------ |
+| Evil Mini         | 坏小人   | Nice Mini      | 好小人   | Arsonist | 纵火犯 |
+| Evil Guesser      | 坏赌怪   | Nice Guesser   | 好赌怪   | Jester   | 小丑   |
+| Bounty Hunter     | 赏金猎人 | Detective      | 调查员   | Jackal   | 豺狼   |
+| Camouflager       | 隐蔽者   | Engineer       | 工程师   | Sidekick | 跟班   |
+| Cleaner           | 清洁工   | Hacker         | 黑客     | Vulture  | 秃鹫   |
+| Eraser            | 抹除者   | Lighter        | 小灯人   | Lawyer   | 律师   |
+| Godfahter (Mafia) | 教父     | Mayor          | 市长     | Lover    | 恋人   |
+| Mafioso (Mafia)   | 黑手党   | Medic          | 医生     |          |        |
+| Janitor (Mafia)   | 清洁工   | Security Guard | 保安     |          |        |
+| Morphling         | 变形者   | Seer           | 灵媒     |          |        |
+| Trickster         | 骗术师   | Sheriff        | 警长     |          |        |
+| Vampire           | 吸血鬼   | Deputy         | 捕快     |          |        |
+| Warlock           | 术士     | Shifter        | 交换师   |          |        |
+| Witch             | 女巫     | Snitch         | 告密者   |          |        |
+| Phaser            |          | Spy            | 间谍     |          |        |
+|                   |          | Swapper        | 换票师   |          |        |
+|                   |          | Time Master    | 时间之主 |          |        |
+|                   |          | Tracker        | 追踪者   |          |        |
+|                   |          | Bait           | 诱饵     |          |        |
+|                   |          | Medium         | 通灵师   |          |        |
+|                   |          | Jumper         |          |          |        |
 
 [返回目录](#目录)
 
-## 6.Las Monjas V3.0.1（适合2022.10.25）(持续更新中)
-
+## 6.Las Monjas
+![image](./Image/LasMonjas_banner.png)
 与潜艇地图兼容 <br>
+
 [ GitHub仓库 ( 点这 ) ](https://github.com/KiraYamato94/LasMonjas) <br>
 
-![image](./Image/LasMonjas_banner.png)
+最新版本：v3.0.2  
+Among Us支持版本：2022.10.25  
+更新状况：持续更新中  
 
-| GameModes | CaptureTheFlag | PoliceAndThiefs | KingOfTheHill | Hot Potato | Zombie Laboratory |
-| --------- | -------------- | --------------- | ------------- | ---------- | ----------------- |
-| 游戏模式  | 夺旗模式       | 警察抓小偷      | 山丘之王      | 热土豆     | 僵尸实验室        |
+###游戏模式
 
-| Impostors   | 内鬼职业 | Crewmates      | 船员职业 | Neutrals        | 中立职业 | Modifiers      | 效果     |
-| ----------- | -------- | -------------- | -------- | --------------- | -------- | -------------- | -------- |
-| Mimic       | 变形者   | Captain        | 船长     | Joker           | 小丑     | Lovers         | 恋人     |
-| Painter     | 隐蔽者   | Mechanic       | 工程师   | Role Thief      | 交换师   | Lighter        | 小灯人   |
-| Demon       | 吸血鬼   | Sheriff        | 警长     | Pyromaniac      | 纵火犯   | Blind          | 失明者   |
-| Janitor     | 清理者   | Detective      | 侦探     | Treasure Hunter | 寻宝猎人 | Flash          | 闪电侠   |
-| Ilusionist  | 骗术师   | Forensic       | 法医     | Devourer        | 秃鹫     | Big Chungus    | 巨人     |
-| Manipulator | 术士     | Time Traveler  | 时间之主 | Poisoner        |          | The Chosen One | 天选之子 |
-| Bomberman   | 爆破者   | Squire         | 医生     | Puppeteer       |          | Performer      | 演员     |
-| Chameleon   | 隐形人   | Cheater        | 换票师   | Rebels          | 叛军职业 | Pro            |          |
-| Gambler     | 赌徒     | Fortune Teller | 预言家   | Renegade        | 豺狼     |                |          |
-| Sorcerer    | 女巫     | Hacker         | 黑客     | Bounty Hunter   | 赏金猎人 |                |          |
-| Medusa      | 美杜莎   | Sleuth         | 追踪者   | Trapper         | 陷阱师   |                |          |
-| Hypnotist   |          | Fink           | 告密者   | Yinyanger       | 阴阳师   |                |          |
-| Archer      |          | Kid            | 小孩     | Challenger      | 挑战者   |                |          |
-|             |          | Welder         | 焊接工   | Ninja           | 忍者     |                |          |
-|             |          | Spiritualist   | 殉道者   | Berserker       |          |                |          |
-|             |          | Vigilant       | 保安     |                 |          |                |          |
-|             |          | Coward         | 诱饵     |                 |          |                |          |
-|             |          | Bat            |          |                 |          |                |          |
-|             |          | Hunter         | 猎人     |                 |          |                |          |
-|             |          | Jinx           | 倒霉蛋   |                 |          |                |          |
-|             |          | Necromancer    |          |                 |          |                |          |
-|             |          | Engineer       |          |                 |          |                |          |
-|             |          | Shy            |          |                 |          |                |          |
+| CaptureTheFlag | PoliceAndThiefs | KingOfTheHill | Hot Potato | Zombie Laboratory |
+| -------------- | --------------- | ------------- | ---------- | ----------------- |
+| 夺旗模式       | 警察抓小偷      | 山丘之王      | 热土豆     | 僵尸实验室        |
+
+### 职业
+
+| Impostors   | 内鬼职业 | Crewmates      | 船员职业 | Crewmates   | 船员职业 |
+|-------------|------|----------------|------|-------------|------|
+| Mimic       | 化形者  | Captain        | 船长   | Vigilant    | 哨兵   |
+| Painter     | 隐蔽者  | Mechanic       | 工程师  | Hunter      | 猎人   |
+| Demon       | 吸血鬼  | Sheriff        | 警长   | Jinx        | 扫把星  |
+| Janitor     | 清理者  | Detective      | 侦探   | Coward      | 怯懦者  |
+| Ilusionist  | 骗术师  | Forensic       | 法医   | Bat         | 蝙蝠侠  |
+| Manipulator | 术士   | Time Traveler  | 时间之主 | Necromancer | 死灵法师 |
+| Bomberman   | 炸弹人  | Squire         | 医生   | Engineer    | 机关师  |
+| Chameleon   | 隐形人  | Cheater        | 换票师  | Shy         | 内敛者  |
+| Gambler     | 赌怪   | Fortune Teller | 预言家  | Task Master | 代理人  |
+| Sorcerer    | 女巫   | Hacker         | 黑客   | Jailer      | 狱卒   |
+| Medusa      | 美杜莎  | Sleuth         | 追踪者  |             |      |
+| Hypnotist   | 催眠师  | Fink           | 告密者  |             |      |
+| Archer      | 弓箭手  | Kid            | 小孩   |             |      |
+| Plumber     | 管道工  | Welder         | 焊接工  |             |      |
+| Librarian   | 勒索者  | Spiritualist   | 殉道者  |
+
+| Neutrals        | 中立职业 | Rebels        | 反叛者职业 | Modifiers      | 效果  |
+|-----------------|------|---------------|-------|----------------|-----|
+| Joker           | 小丑   | Renegade      | 变节者   | Lovers         | 恋人  |
+| Role Thief      | 交换师  | Bounty Hunter | 赏金猎人  | Lighter        | 执灯人 |
+| Pyromaniac      | 纵火犯  | Trapper       | 陷阱师   | Blind          | 失明者 |
+| Treasure Hunter | 寻宝猎人 | Yinyanger     | 阴阳师   | Flash          | 闪电侠 |
+| Devourer        | 秃鹫   | Challenger    | 挑战者   | Big Chungus    | 巨人  |
+| Poisoner        | 疫医   | Ninja         | 忍者    | The Chosen One | 诱饵  |
+| Puppeteer       | 傀儡师  | Berserker     | 嗜血杀手  | Performer      | 广播员 |
+| Exiler          | 处刑人  | Yandere       | 尾随者   | Pro            | 醉鬼  |
+| Amuesiac        | 失忆者  | Stranded      | 探险者   | Paintall       | 彩弹人 |
+| Seeker          | 寻找者  | Monja         | 修女    | Electrician    | 电工  |
+
 
 千年隼号地图展示：
 ![image](./Image/%E5%8D%83%E5%B9%B4%E9%9A%BC.jpg)
