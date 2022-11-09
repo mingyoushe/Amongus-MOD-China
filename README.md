@@ -7,13 +7,13 @@
   - [1.TheOtherRoles](#1theotherroles)
   - [2.TheOtherRoles GM](#2theotherroles-gm)
   - [3.TheOtherRoles GM-Haoming](#3theotherroles-gm-haoming)
-  - [4.TownOfUs-R v3.4.0](#4townofus-r)
-  - [5.TheEpicRoles  v1.1.2（支持2022.2.24s）(断更)](#5theepicroles--v112支持2022224s断更)
-  - [6.Las Monjas V3.0.1（适合2022.10.25）(持续更新中)](#6las-monjas-v301适合20221025持续更新中)
-  - [7.ExtremeRoles v4.0.0.2 （最新支持2022.10.25) (持续更新中)](#7extremeroles-v4002-最新支持20221025-持续更新中)
-  - [8.Nebula On The Ship v1.16.1（支持2022.10.25）(持续更新中)](#8nebula-on-the-ship-v1161支持20221025持续更新中)
-  - [9.Peasmod v3.0.0-pre2.2（支持2022.3.29s）（断更）](#9peasmod-v300-pre22支持2022329s断更)
-  - [10.Syyreth ModsAmongUs v4.0.6版本（支持2022.8.24）（断更）](#10syyreth-modsamongus-v406版本支持2022824断更)
+  - [4.TownOfUs-R](#4townofus-r)
+  - [5.TheEpicRoles](#5theepicroles)
+  - [6.Las Monjas V3.0.2](#6las-monjas-v302)
+  - [7.ExtremeRoles](#7extremeroles)
+  - [8.Nebula On The Ship](#8nebula-on-the-ship)
+  - [9.Peasmod](#9peasmod)
+  - [10.Syyreth ModsAmongUs](#10syyreth-modsamongus)
   - [11.SuperNewRoles](#11supernewroles)
   - [12.TheOtheRoles CE](#12theotherroles-ce)
   - [13.TheOtherRoles MR](#13theotherroles-mr)
@@ -23,17 +23,17 @@
   - [17.UltimateMods](#17ultimatemods)
   - [18.PropHunt](#18prophunt)
 - [旧模组](#旧模组)
-  - [1.TownOfImpostors v2.0.8（最新支持2021.6.15版本）(断更)](#1townofimpostors-v208最新支持2021615版本断更)
-  - [2.TownOfUs v3.1.1 (非官方延续) (最新支持2021.12.15) (断更)](#2townofus-v311-非官方延续-最新支持20211215-断更)
-  - [3.国际象棋模组v1.1.1版本（支持2021.6.30版本）（断更)](#3国际象棋模组v111版本支持2021630版本断更)
-  - [4.挑战者模组4.3.2（支持2020.6.15s）（断更）](#4挑战者模组432支持2020615s断更)
-  - [5.Cursed-Among-Us v1.1.0 （支持2021.6.30）（断更）](#5cursed-among-us-v110-支持2021630断更)
-  - [6.skeld.net (支持大部分版本)](#6skeldnet-支持大部分版本)
-  - [7.哈利波特模组 v1.2.0（最新支持2021.5.10s） (断更)](#7哈利波特模组-v120最新支持2021510s-断更)
+  - [1.TownOfImpostors](#1townofimpostors)
+  - [2.TownOfUs](#2townofus)
+  - [3.国际象棋模组](#3国际象棋模组)
+  - [4.挑战者模组](#4挑战者模组)
+  - [5.Cursed-Among-Us](#5cursed-among-us)
+  - [6.skeld.net](#6skeldnet)
+  - [7.哈利波特模组](#7哈利波特模组)
 - [工具](#工具)
-  - [１.crewlink游戏聊天工具 v2.0.1  (支持版本v2021.11.9.2s)（断更）](#１crewlink游戏聊天工具-v201--支持版本v20211192s断更)
-  - [２.BetterCrewLink更好的近距离聊天工具 v3.0.5  (支持大部分Among Us版本) （持续更新中）](#２bettercrewlink更好的近距离聊天工具-v305--支持大部分among-us版本-持续更新中)
-  - [３.Among Us回放模组 v2.0.3 (支持任意版本) (断更)](#３among-us回放模组-v203-支持任意版本-断更)
+  - [１.crewlink 游戏聊天工具](#１crewlink游戏聊天工具)
+  - [２.BetterCrewLink 更好的近距离聊天工具](#２bettercrewlink更好的近距离聊天工具)
+  - [３.Among Us回放模组](#３among-us回放模组)
   - [４.ModManager](#４modmanager)
   - [5.levelimposter-editor](#5levelimposter-editor)
 - [地图](#地图)
@@ -73,7 +73,7 @@
 [ GitHub仓库 ( 点这 ) ](https://github.com/TheOtherRolesAU/TheOtherRoles)  
 
 最新版本：v4.2.0  
-Among Us支持版本：2022.10.25  
+Among Us支持版本：2022.10.25s  
 更新状况：持续更新中  
 
 ### 职业
@@ -114,7 +114,7 @@ Among Us支持版本：2022.10.25
 [ GitHub仓库 ( 点这 ) ](https://github.com/yukinogatari/TheOtherRoles-GM)  
 
 最新版本：v3.5.5.1  
-Among Us支持版本：2022.3.29  
+Among Us支持版本：2022.3.29s  
 更新状况：断更  
 
 ### 职业
@@ -152,7 +152,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 [ GitHub仓库 ( 点这 ) ](https://github.com/haoming37/TheOtherRoles-GM-Haoming)  
 
 最新版本：v2.3.133  
-Among Us支持版本：2022.10.25  
+Among Us支持版本：2022.10.25s  
 更新状况：持续更新中  
 
 ### 介绍
@@ -184,7 +184,7 @@ Among Us支持版本：2022.10.25
 [ GitHub仓库 ( 点这 ) ](https://github.com/eDonnes124/Town-Of-Us-R)   
 
 最新版本：v3.4.0  
-Among Us支持版本：2022.10.25  
+Among Us支持版本：2022.10.25s  
 更新状况：持续更新中  
 
 ### 职业
@@ -214,13 +214,13 @@ Among Us支持版本：2022.10.25
 
 [返回目录](#目录)
 
-## 5.TheEpicRoles  v1.1.2（支持2022.2.24s）(断更)
+## 5.TheEpicRoles
 ![image](./Image/TER_banner.png) <br>
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/LaicosVK/TheEpicRoles) <br>
 
 最新版本：v1.1.2  
-Among Us支持版本：2022.2.24  
+Among Us支持版本：2022.2.24s  
 更新状况：断更  
 
 ### 介绍
@@ -266,7 +266,7 @@ Among Us支持版本：2022.2.24
 [ GitHub仓库 ( 点这 ) ](https://github.com/KiraYamato94/LasMonjas) <br>
 
 最新版本：v3.0.2  
-Among Us支持版本：2022.10.25  
+Among Us支持版本：2022.10.25s  
 更新状况：持续更新中  
 
 ###游戏模式
@@ -318,38 +318,57 @@ Among Us支持版本：2022.10.25
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/yukieiji/ExtremeRoles)
 
+最新版本：v4.0.0.2  
+Among Us支持版本：2022.10.25s  
+更新状况：持续更新中  
+
 [返回目录](#目录)
 
 ## 8.Nebula On The Ship v1.16.1（支持2022.10.25）(持续更新中)
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/Dolly1016/Nebula)
 
-| Impostors    | 内鬼     | Crewmates    | 船员 | Neutral     | 中立     | Secondary | 附带属性 |
-| ------------ | -------- | ------------ | ---- | ----------- | -------- | --------- | -------- |
-| Camouflager  | 隐蔽者   | Agent        |      | Arsonist    | 纵火     | Drunk     |          |
-| Cleaner      | 清理着   | Alien        |      | Avenger     |          | Guesser   |          |
-| Damned       |          | Bait         |      | Empiric     |          | Lover     | 恋人     |
-| Disturber    |          | Comet        |      | Jackal      | 豺狼     | Trilemma  |          |
-| Eraser       | 抹除者   | Doctor       | 医生 | Jester      | 小丑     |           |          |
-| Evil Ace     |          | Mayor        | 市长 | Opportunist | 投机主义 |           |          |
-| Evil Guesser | 邪恶赌怪 | Navvy        |      | Sidekick    | 跟班     |           |          |
-| Evil Trapper |          | Necromancer  |      | Vulture     | 秃鹫     |           |          |
-| Morphing     | 变形者   | Nice Guesser | 赌怪 |             |          |           |          |
-| Reaper       |          | Nice Trapper |      |             |          |           |          |
-| Sniper       |          | Oracle       |      |             |          |           |          |
-|              |          | Provocateur  |      |             |          |           |          |
-|              |          | Psychic      |      |             |          |           |          |
-|              |          | Seer         |      |             |          |           |          |
-|              |          | Sheriff      | 警长 |             |          |           |          |
-|              |          | Spy          |      |             |          |           |          |
-|              |          | Madmate      | 叛徒 |             |          |           |          |
+最新版本：v1.16.1  
+Among Us支持版本：2022.10.25s  
+更新状况：持续更新中  
+
+### 职业
+
+| Impostors     | Crewmates    | Neutral       | Secondary | Ghost       |
+|---------------|--------------|---------------|-----------|-------------|
+| Bounty Hunter | Agent        | Arsonist      | Drunk     | Poltergeist |
+| Camouflager   | Alien        | Avenger       | Guesser   |             |
+| Cleaner       | Bait         | Empiric       | Lover     |             |
+| Damned        | Busker       | Chain Shifter | Trilemma  |             |
+| Disturber     | Comet        | Jackal        |           |             |
+| Eraser        | Doctor       | Jester        |           |             |
+| Evil Ace      | Guardian     | Opportunist   |           |             |
+| Evil Guesser  | Mayor        | Sidekick      |           |             |
+| Evil Trapper  | Navvy        | Vulture       |           |             |
+| Jailer        | Necromancer  |               |           |             |
+| Marionette    | Nice Guesser |               |           |             |
+| Morphing      | Nice Trapper |               |           |             |
+| Painter       | Oracle       |               |           |             |
+| Raider        | Provocateur  |               |           |             |
+| Reaper        | Psychic      |               |           |             |
+| Sniper        | Seer         |               |           |             |
+|               | Sheriff      |               |           |             |
+|               | Spy          |               |           |             |
+|               | Madmate      |
+
 
 [返回目录](#目录)
 
 ## 9.Peasmod v3.0.0-pre2.2（支持2022.3.29s）（断更）
-
-[ GitHub仓库 ( 点这 ) ](https://github.com/Dolly1016/Nebula)
 ![image](./Image/Logo.png)
+
+[ GitHub仓库 ( 点这 ) ](https://github.com/Peasplayer/Peasmod)
+
+最新版本：v3.0.0-pre2.2    
+Among Us支持版本：2022.3.29s  
+更新状况：持续更新中  
+
+### 职业
 
 | Crewmate Roles | 船员职业 | Impostor Roles | 内鬼职业 | Neutral Roles | 中立职业 | GameModes     | 其他模式 |
 | -------------- | -------- | -------------- | -------- | ------------- | -------- | ------------- | -------- |
@@ -363,10 +382,15 @@ Among Us支持版本：2022.10.25
 [返回目录](#目录)
 
 ## 10.Syyreth ModsAmongUs v4.0.6版本（支持2022.8.24）（断更）
+![image](./Image/Syyreth's%20ModsAmongUs%20Roles.jpg.png) <br>
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/Syyreth/ModsAmongUs)
 
-![image](./Image/Syyreth's%20ModsAmongUs%20Roles.jpg.png) <br>
+最新版本：v4.0.6  
+Among Us支持版本：2022.8.24s  
+更新状况：断更
+
+### 职业
 
 | Crewmate Roles: | 船员职业 | Neutral Roles: | 中立职业 | Impostor Roles: | 内鬼职业 | Coven Roles:  | 巫师团   |
 | --------------- | -------- | -------------- | -------- | --------------- | -------- | ------------- | -------- |
@@ -428,11 +452,17 @@ Among Us支持版本：2022.10.25
 
 # 旧模组
 
-## 1.TownOfImpostors v2.0.8（最新支持2021.6.15版本）(断更)
+## 1.TownOfImpostors
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/Town-of-Impostors/TownOfImpostors)
 
+最新版本：v2.0.8  
+Among Us支持版本：2022.6.15s  
+更新状况：断更  
+
 ![image](./Image/TOI-Animated.gif)
+
+### 职业
 
 | Crewmate Team | 船员职业 | Impostor  | 内鬼职业 | Other Teams | 其他职业 | Modifiers | 其他效果 |
 | ------------- | -------- | --------- | -------- | ----------- | -------- | --------- | -------- |
@@ -448,11 +478,18 @@ Among Us支持版本：2022.10.25
 
 [返回目录](#目录)
 
-## 2.TownOfUs v3.1.1 (非官方延续) (最新支持2021.12.15) (断更)
+## 2.TownOfUs
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/Anusien/Town-Of-Us) <br>
 [最开始我们的小镇的GitHub仓库](https://github.com/slushiegoose/Town-Of-Us) <br>
+
+最新版本：v3.1.1-非官方延续  
+Among Us支持版本：2021.12.15s  
+更新状况：断更  
+
 ![image](./Image/TOU-logo.png) <br>
+
+### 职业
 
 | Crewmate Roles | 船员职业 | Neutral Roles | 中立职业 | Impostor Roles | 内鬼职业 | Modifiers    | 附加属性 |
 | -------------- | -------- | ------------- | -------- | -------------- | -------- | ------------ | -------- |
@@ -474,25 +511,38 @@ Among Us支持版本：2022.10.25
 
 [返回目录](#目录)
 
-## 3.国际象棋模组v1.1.1版本（支持2021.6.30版本）（断更)
+## 3.国际象棋模组
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/KyleSmith0905/Among-Chess)
+
+最新版本：v1.1.1  
+Among Us支持版本：2021.6.30s  
+更新状况：断更  
 
 ![image](./Image/%E8%B1%A1%E6%A3%8B%E6%A8%A1%E7%BB%84.png)
 
 [返回目录](#目录)
 
-## 4.挑战者模组4.3.2（支持2020.6.15s）（断更）
+## 4.挑战者模组
 
-[ GitHub仓库 ( 点这 ) ](https://github.com/Lunastellia/Challenger-Among-Us)
+[ GitHub仓库 ( 点这 ) ](https://github.com/Lunastellia/Challenger-Among-Us)、
+
+最新版本：v4.3.2  
+Among Us支持版本：2020.6.15s  
+更新状况：断更  
 
 ![image](./Image/%E6%8C%91%E6%88%98%E8%80%85%E6%88%91%E4%BB%AC%E4%B8%AD%E9%97%B44.1.3.png)
 
 [返回目录](#目录)
 
-## 5.Cursed-Among-Us v1.1.0 （支持2021.6.30）（断更）
+## 5.Cursed-Among-Us
 
 [ GitHub仓库 ( 点这 ) ]https://github.com/Devs-Us/Cursed-Among-Us
+
+最新版本：v1.1.0  
+Among Us支持版本：2021.6.30s  
+更新状况：断更  
+
 ![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/icon.png) <br>
 
 [返回目录](#目录)
@@ -522,6 +572,12 @@ Among Us支持版本：2022.10.25
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/FatherofHeathens/HarryPotterAmongUs)
 
+最新版本：v1.2.0  
+Among Us支持版本：2021.5.10s  
+更新状况：断更  
+
+### 职业
+
 | Role      | 职业   | Passive Ability                         | 被动                   | Active Ability                                                                                                                                       | 技能                         |
 | --------- | ------ | --------------------------------------- | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
 | Harry     | 哈利   | Can not be killed by Voldemort's spell. | 不能被伏地魔的法术杀死 | Can become invisible for 10 seconds.                                                                                                                 | 隐身10秒                     |
@@ -534,27 +590,43 @@ Among Us支持版本：2022.10.25
 
 # 工具
 
-## １.crewlink游戏聊天工具 v2.0.1  (支持版本v2021.11.9.2s)（断更）
+## １.crewlink 游戏聊天工具
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/ottomated/CrewLink)
 
+最新版本：v2.0.1  
+Among Us支持版本：2021.11.9.2s  
+更新状况：断更  
+
 断更如有需要请使用BetterCrewLink更好的近距离聊天工具
 
-## ２.BetterCrewLink更好的近距离聊天工具 v3.0.5  (支持大部分Among Us版本) （持续更新中）
+## ２.BetterCrewLink 更好的近距离聊天工具
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/OhMyGuus/BetterCrewlink)
+
+最新版本：v3.0.5  
+Among Us支持版本：大部分Among Us 版本  
+更新状况：持续更新中  
 
 已支持中文
 
 注：服务器有问题，需自行搭建语音服务器
 
-## ３.Among Us回放模组 v2.0.3 (支持任意版本) (断更)
+## ３.Among Us回放模组
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/sawa90/AmongUsReplayInWindow)
 
-## ４.模组管理器 v5.1.2 ModManager (持续更新中)
+最新版本：v2.0.3  
+Among Us支持版本：任意版本  
+更新状况：断更  
+
+## ４.模组管理器 ModManager
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/MatuxGG/ModManager)
+
+最新版本：v5.1.2  
+Among Us支持版本：大部分版本  
+更新状况：持续更新中  
 
 [返回目录](#目录)
 
