@@ -9,7 +9,7 @@
   - [3.TheOtherRoles GM-Haoming](#3theotherroles-gm-haoming)
   - [4.TownOfUs-R](#4townofus-r)
   - [5.TheEpicRoles](#5theepicroles)
-  - [6.Las Monjas V3.0.2](#6las-monjas-v302)
+  - [6.Las Monjas](#6las-monjas)
   - [7.ExtremeRoles](#7extremeroles)
   - [8.Nebula On The Ship](#8nebula-on-the-ship)
   - [9.Peasmod](#9peasmod)
