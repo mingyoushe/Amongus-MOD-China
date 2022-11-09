@@ -25,15 +25,15 @@
 - [旧模组](#旧模组)
   - [1.TownOfImpostors](#1townofimpostors)
   - [2.TownOfUs](#2townofus)
-  - [3.国际象棋模组](#3国际象棋模组)
-  - [4.挑战者模组](#4挑战者模组)
+  - [3.Chess](#3Chess)
+  - [4.hallenger](#4hallenger)
   - [5.Cursed-Among-Us](#5cursed-among-us)
   - [6.skeld.net](#6skeldnet)
-  - [7.哈利波特模组](#7哈利波特模组)
+  - [7.HarryPotter](#7HarryPotter)
 - [工具](#工具)
-  - [１.crewlink 游戏聊天工具](#１crewlink游戏聊天工具)
-  - [２.BetterCrewLink 更好的近距离聊天工具](#２bettercrewlink更好的近距离聊天工具)
-  - [３.Among Us回放模组](#３among-us回放模组)
+  - [１.crewlink](#１crewlink)
+  - [２.BetterCrewLink](#２bettercrewlink)
+  - [３.ReplayInWindow](#３ReplayInWindow)
   - [４.ModManager](#４modmanager)
   - [5.levelimposter-editor](#5levelimposter-editor)
 - [地图](#地图)
@@ -68,13 +68,14 @@
 # 模组
 
 ## 1.TheOtherRoles
-![image](./Image/TOR_logo.png)  
 
-[ GitHub仓库 ( 点这 ) ](https://github.com/TheOtherRolesAU/TheOtherRoles)  
+![image](./Image/TOR_logo.png)
 
-最新版本：v4.2.0  
-Among Us支持版本：2022.10.25s  
-更新状况：持续更新中  
+[ GitHub仓库 ( 点这 ) ](https://github.com/TheOtherRolesAU/TheOtherRoles)
+
+最新版本：v4.2.0
+Among Us支持版本：2022.10.25s
+更新状况：持续更新中
 
 ### 职业
 
@@ -111,11 +112,11 @@ Among Us支持版本：2022.10.25s
 
 ## 2.TheOtherRoles GM
 
-[ GitHub仓库 ( 点这 ) ](https://github.com/yukinogatari/TheOtherRoles-GM)  
+[ GitHub仓库 ( 点这 ) ](https://github.com/yukinogatari/TheOtherRoles-GM)
 
-最新版本：v3.5.5.1  
-Among Us支持版本：2022.3.29s  
-更新状况：断更  
+最新版本：v3.5.5.1
+Among Us支持版本：2022.3.29s
+更新状况：断更
 
 ### 职业
 
@@ -149,22 +150,24 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 ## 3.TheOtherRoles GM-Haoming
 
-[ GitHub仓库 ( 点这 ) ](https://github.com/haoming37/TheOtherRoles-GM-Haoming)  
+[ GitHub仓库 ( 点这 ) ](https://github.com/haoming37/TheOtherRoles-GM-Haoming)
 
-最新版本：v2.3.133  
-Among Us支持版本：2022.10.25s  
-更新状况：持续更新中  
+最新版本：v2.3.133
+Among Us支持版本：2022.10.25s
+更新状况：持续更新中
 
 ### 介绍
-与潜艇地图兼容  
-地图改动(Polus) ：   
-你可以设置随机重生地点   
-附加额外通风口（出生点-脉搏室-右下角样本室）  
-可以设置心电图在右下角样本室   
-地图改动（airship）  
-在任务中增加墙壁检查(飞艇)#来自AuShipMod的创意  
+
+与潜艇地图兼容
+地图改动(Polus) ：
+你可以设置随机重生地点
+附加额外通风口（出生点-脉搏室-右下角样本室）
+可以设置心电图在右下角样本室
+地图改动（airship）
+在任务中增加墙壁检查(飞艇)#来自AuShipMod的创意
 
 ### 职业
+
 在GM版本基础上新增职业如下：
 
 | 内鬼                | 船员     | 中立       |
@@ -180,12 +183,13 @@ Among Us支持版本：2022.10.25s
 
 [返回目录](#目录)
 
-## 4.TownOfUs-R 
-[ GitHub仓库 ( 点这 ) ](https://github.com/eDonnes124/Town-Of-Us-R)   
+## 4.TownOfUs-R
 
-最新版本：v3.4.0  
-Among Us支持版本：2022.10.25s  
-更新状况：持续更新中  
+[ GitHub仓库 ( 点这 ) ](https://github.com/eDonnes124/Town-Of-Us-R)
+
+最新版本：v3.4.0
+Among Us支持版本：2022.10.25s
+更新状况：持续更新中
 
 ### 职业
 
@@ -215,15 +219,17 @@ Among Us支持版本：2022.10.25s
 [返回目录](#目录)
 
 ## 5.TheEpicRoles
+
 ![image](./Image/TER_banner.png) <br>
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/LaicosVK/TheEpicRoles) <br>
 
-最新版本：v1.1.2  
-Among Us支持版本：2022.2.24s  
-更新状况：断更  
+最新版本：v1.1.2
+Among Us支持版本：2022.2.24s
+更新状况：断更
 
 ### 介绍
+
 新特点： <br>
 1.上一场比赛中最先死亡的玩家将在下一场比赛中获得首杀盾。<br>
 2.就绪状态：当有一个人未准备好时，大厅主持人无法开始游戏。<br>
@@ -260,14 +266,15 @@ Among Us支持版本：2022.2.24s
 [返回目录](#目录)
 
 ## 6.Las Monjas
+
 ![image](./Image/LasMonjas_banner.png)
 与潜艇地图兼容 <br>
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/KiraYamato94/LasMonjas) <br>
 
-最新版本：v3.0.2  
-Among Us支持版本：2022.10.25s  
-更新状况：持续更新中  
+最新版本：v3.0.2
+Among Us支持版本：2022.10.25s
+更新状况：持续更新中
 
 ###游戏模式
 
@@ -278,36 +285,35 @@ Among Us支持版本：2022.10.25s
 ### 职业
 
 | Impostors   | 内鬼职业 | Crewmates      | 船员职业 | Crewmates   | 船员职业 |
-|-------------|------|----------------|------|-------------|------|
-| Mimic       | 化形者  | Captain        | 船长   | Vigilant    | 哨兵   |
-| Painter     | 隐蔽者  | Mechanic       | 工程师  | Hunter      | 猎人   |
-| Demon       | 吸血鬼  | Sheriff        | 警长   | Jinx        | 扫把星  |
-| Janitor     | 清理者  | Detective      | 侦探   | Coward      | 怯懦者  |
-| Ilusionist  | 骗术师  | Forensic       | 法医   | Bat         | 蝙蝠侠  |
-| Manipulator | 术士   | Time Traveler  | 时间之主 | Necromancer | 死灵法师 |
-| Bomberman   | 炸弹人  | Squire         | 医生   | Engineer    | 机关师  |
-| Chameleon   | 隐形人  | Cheater        | 换票师  | Shy         | 内敛者  |
-| Gambler     | 赌怪   | Fortune Teller | 预言家  | Task Master | 代理人  |
-| Sorcerer    | 女巫   | Hacker         | 黑客   | Jailer      | 狱卒   |
-| Medusa      | 美杜莎  | Sleuth         | 追踪者  |             |      |
-| Hypnotist   | 催眠师  | Fink           | 告密者  |             |      |
-| Archer      | 弓箭手  | Kid            | 小孩   |             |      |
-| Plumber     | 管道工  | Welder         | 焊接工  |             |      |
-| Librarian   | 勒索者  | Spiritualist   | 殉道者  |
+| ----------- | -------- | -------------- | -------- | ----------- | -------- |
+| Mimic       | 化形者   | Captain        | 船长     | Vigilant    | 哨兵     |
+| Painter     | 隐蔽者   | Mechanic       | 工程师   | Hunter      | 猎人     |
+| Demon       | 吸血鬼   | Sheriff        | 警长     | Jinx        | 扫把星   |
+| Janitor     | 清理者   | Detective      | 侦探     | Coward      | 怯懦者   |
+| Ilusionist  | 骗术师   | Forensic       | 法医     | Bat         | 蝙蝠侠   |
+| Manipulator | 术士     | Time Traveler  | 时间之主 | Necromancer | 死灵法师 |
+| Bomberman   | 炸弹人   | Squire         | 医生     | Engineer    | 机关师   |
+| Chameleon   | 隐形人   | Cheater        | 换票师   | Shy         | 内敛者   |
+| Gambler     | 赌怪     | Fortune Teller | 预言家   | Task Master | 代理人   |
+| Sorcerer    | 女巫     | Hacker         | 黑客     | Jailer      | 狱卒     |
+| Medusa      | 美杜莎   | Sleuth         | 追踪者   |             |          |
+| Hypnotist   | 催眠师   | Fink           | 告密者   |             |          |
+| Archer      | 弓箭手   | Kid            | 小孩     |             |          |
+| Plumber     | 管道工   | Welder         | 焊接工   |             |          |
+| Librarian   | 勒索者   | Spiritualist   | 殉道者   |             |          |
 
-| Neutrals        | 中立职业 | Rebels        | 反叛者职业 | Modifiers      | 效果  |
-|-----------------|------|---------------|-------|----------------|-----|
-| Joker           | 小丑   | Renegade      | 变节者   | Lovers         | 恋人  |
-| Role Thief      | 交换师  | Bounty Hunter | 赏金猎人  | Lighter        | 执灯人 |
-| Pyromaniac      | 纵火犯  | Trapper       | 陷阱师   | Blind          | 失明者 |
-| Treasure Hunter | 寻宝猎人 | Yinyanger     | 阴阳师   | Flash          | 闪电侠 |
-| Devourer        | 秃鹫   | Challenger    | 挑战者   | Big Chungus    | 巨人  |
-| Poisoner        | 疫医   | Ninja         | 忍者    | The Chosen One | 诱饵  |
-| Puppeteer       | 傀儡师  | Berserker     | 嗜血杀手  | Performer      | 广播员 |
-| Exiler          | 处刑人  | Yandere       | 尾随者   | Pro            | 醉鬼  |
-| Amuesiac        | 失忆者  | Stranded      | 探险者   | Paintall       | 彩弹人 |
-| Seeker          | 寻找者  | Monja         | 修女    | Electrician    | 电工  |
-
+| Neutrals        | 中立职业 | Rebels        | 反叛者职业 | Modifiers      | 效果   |
+| --------------- | -------- | ------------- | ---------- | -------------- | ------ |
+| Joker           | 小丑     | Renegade      | 变节者     | Lovers         | 恋人   |
+| Role Thief      | 交换师   | Bounty Hunter | 赏金猎人   | Lighter        | 执灯人 |
+| Pyromaniac      | 纵火犯   | Trapper       | 陷阱师     | Blind          | 失明者 |
+| Treasure Hunter | 寻宝猎人 | Yinyanger     | 阴阳师     | Flash          | 闪电侠 |
+| Devourer        | 秃鹫     | Challenger    | 挑战者     | Big Chungus    | 巨人   |
+| Poisoner        | 疫医     | Ninja         | 忍者       | The Chosen One | 诱饵   |
+| Puppeteer       | 傀儡师   | Berserker     | 嗜血杀手   | Performer      | 广播员 |
+| Exiler          | 处刑人   | Yandere       | 尾随者     | Pro            | 醉鬼   |
+| Amuesiac        | 失忆者   | Stranded      | 探险者     | Paintall       | 彩弹人 |
+| Seeker          | 寻找者   | Monja         | 修女       | Electrician    | 电工   |
 
 千年隼号地图展示：
 ![image](./Image/%E5%8D%83%E5%B9%B4%E9%9A%BC.jpg)
@@ -318,9 +324,9 @@ Among Us支持版本：2022.10.25s
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/yukieiji/ExtremeRoles)
 
-最新版本：v4.0.0.2  
-Among Us支持版本：2022.10.25s  
-更新状况：持续更新中  
+最新版本：v4.0.0.2
+Among Us支持版本：2022.10.25s
+更新状况：持续更新中
 
 [返回目录](#目录)
 
@@ -328,14 +334,14 @@ Among Us支持版本：2022.10.25s
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/Dolly1016/Nebula)
 
-最新版本：v1.16.1  
-Among Us支持版本：2022.10.25s  
-更新状况：持续更新中  
+最新版本：v1.16.1
+Among Us支持版本：2022.10.25s
+更新状况：持续更新中
 
 ### 职业
 
 | Impostors     | Crewmates    | Neutral       | Secondary | Ghost       |
-|---------------|--------------|---------------|-----------|-------------|
+| ------------- | ------------ | ------------- | --------- | ----------- |
 | Bounty Hunter | Agent        | Arsonist      | Drunk     | Poltergeist |
 | Camouflager   | Alien        | Avenger       | Guesser   |             |
 | Cleaner       | Bait         | Empiric       | Lover     |             |
@@ -354,19 +360,19 @@ Among Us支持版本：2022.10.25s
 | Sniper        | Seer         |               |           |             |
 |               | Sheriff      |               |           |             |
 |               | Spy          |               |           |             |
-|               | Madmate      |
-
+|               | Madmate      |               |           |             |
 
 [返回目录](#目录)
 
 ## 9.Peasmod
+
 ![image](./Image/Logo.png)
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/Peasplayer/Peasmod)
 
-最新版本：v3.0.0-pre2.2    
-Among Us支持版本：2022.3.29s  
-更新状况：持续更新中  
+最新版本：v3.0.0-pre2.2
+Among Us支持版本：2022.3.29s
+更新状况：持续更新中
 
 ### 职业
 
@@ -382,12 +388,13 @@ Among Us支持版本：2022.3.29s
 [返回目录](#目录)
 
 ## 10.Syyreth ModsAmongUs
+
 ![image](./Image/Syyreth's%20ModsAmongUs%20Roles.jpg.png) <br>
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/Syyreth/ModsAmongUs)
 
-最新版本：v4.0.6  
-Among Us支持版本：2022.8.24s  
+最新版本：v4.0.6
+Among Us支持版本：2022.8.24s
 更新状况：断更
 
 ### 职业
@@ -428,7 +435,7 @@ Among Us支持版本：2022.8.24s
 
 ## 13.TheOtherRoles MR
 
-[Github仓库(点这)](https://github.com/miru-y/TheOtherRoles-MR)  
+[Github仓库(点这)](https://github.com/miru-y/TheOtherRoles-MR)
 
 [返回目录](#目录)
 
@@ -441,7 +448,7 @@ Among Us支持版本：2022.8.24s
 
 ## 15.TownOfHost -TheOtherRoles
 
-[Github仓库(点这)](https://github.com/music-discussion/TownOfHost-TheOtherRoles)  
+[Github仓库(点这)](https://github.com/music-discussion/TownOfHost-TheOtherRoles)
 
 [返回目录](#目录)
 
@@ -472,9 +479,9 @@ Among Us支持版本：2022.8.24s
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/Town-of-Impostors/TownOfImpostors)
 
-最新版本：v2.0.8  
-Among Us支持版本：2022.6.15s  
-更新状况：断更  
+最新版本：v2.0.8
+Among Us支持版本：2022.6.15s
+更新状况：断更
 
 ![image](./Image/TOI-Animated.gif)
 
@@ -499,9 +506,9 @@ Among Us支持版本：2022.6.15s
 [ GitHub仓库 ( 点这 ) ](https://github.com/Anusien/Town-Of-Us) <br>
 [最开始我们的小镇的GitHub仓库](https://github.com/slushiegoose/Town-Of-Us) <br>
 
-最新版本：v3.1.1-非官方延续  
-Among Us支持版本：2021.12.15s  
-更新状况：断更  
+最新版本：v3.1.1-非官方延续
+Among Us支持版本：2021.12.15s
+更新状况：断更
 
 ![image](./Image/TOU-logo.png) <br>
 
@@ -527,25 +534,25 @@ Among Us支持版本：2021.12.15s
 
 [返回目录](#目录)
 
-## 3.国际象棋模组
+## 3.Chess
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/KyleSmith0905/Among-Chess)
 
-最新版本：v1.1.1  
-Among Us支持版本：2021.6.30s  
-更新状况：断更  
+最新版本：v1.1.1
+Among Us支持版本：2021.6.30s
+更新状况：断更
 
 ![image](./Image/%E8%B1%A1%E6%A3%8B%E6%A8%A1%E7%BB%84.png)
 
 [返回目录](#目录)
 
-## 4.挑战者模组
+## 4.hallenger
 
-[ GitHub仓库 ( 点这 ) ](https://github.com/Lunastellia/Challenger-Among-Us)、
+[ GitHub仓库 ( 点这 ) ](https://github.com/Lunastellia/Challenger-Among-Us)  
 
-最新版本：v4.3.2  
-Among Us支持版本：2020.6.15s  
-更新状况：断更  
+最新版本：v4.3.2
+Among Us支持版本：2020.6.15s
+更新状况：断更
 
 ![image](./Image/%E6%8C%91%E6%88%98%E8%80%85%E6%88%91%E4%BB%AC%E4%B8%AD%E9%97%B44.1.3.png)
 
@@ -555,9 +562,9 @@ Among Us支持版本：2020.6.15s
 
 [ GitHub仓库 ( 点这 ) ]https://github.com/Devs-Us/Cursed-Among-Us
 
-最新版本：v1.1.0  
-Among Us支持版本：2021.6.30s  
-更新状况：断更  
+最新版本：v1.1.0
+Among Us支持版本：2021.6.30s
+更新状况：断更
 
 ![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/icon.png) <br>
 
@@ -584,13 +591,13 @@ Among Us支持版本：2021.6.30s
 
 [返回目录](#目录)
 
-## 7.哈利波特模组
+## 7.HarryPotter
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/FatherofHeathens/HarryPotterAmongUs)
 
-最新版本：v1.2.0  
-Among Us支持版本：2021.5.10s  
-更新状况：断更  
+最新版本：v1.2.0
+Among Us支持版本：2021.5.10s
+更新状况：断更
 
 ### 职业
 
@@ -606,19 +613,19 @@ Among Us支持版本：2021.5.10s
 
 # 工具
 
-## １.crewlink 游戏聊天工具
+## １.crewlink
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/ottomated/CrewLink)
 
-最新版本：v2.0.1  
-Among Us支持版本：2021.11.9.2s  
-更新状况：断更  
+最新版本：v2.0.1
+Among Us支持版本：2021.11.9.2s
+更新状况：断更
 
-断更如有需要请使用BetterCrewLink更好的近距离聊天工具
+断更如有需要请使用BetterCrewLink。
 
 [返回目录](#目录)
 
-## ２.BetterCrewLink 更好的近距离聊天工具
+## ２.BetterCrewLink
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/OhMyGuus/BetterCrewlink)
 
@@ -632,7 +639,7 @@ Among Us支持版本：大部分Among Us 版本
 
 [返回目录](#目录)
 
-## ３.Among Us回放模组
+## ３.ReplayInWindow
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/sawa90/AmongUsReplayInWindow)
 
@@ -642,10 +649,9 @@ Among Us支持版本：任意版本
 
 [返回目录](#目录)
 
-## ４.模组管理器 ModManager
+## ４.ModManager
 
-[ GitHub仓库 ( 点这 ) ](https://github.com/MatuxGG/ModManager)
-
+[ GitHub仓库 ( 点这 ) ](https://github.com/MatuxGG/ModManager)  
 最新版本：v5.1.2  
 Among Us支持版本：大部分版本  
 更新状况：持续更新中  
@@ -658,11 +664,16 @@ Among Us支持版本：大部分版本
 
 # 地图
 
-## １.潜艇地图Submerged v2022.10.26 (支持2022.10.25) (持续更新中)
+## １.Submerged
+![image](https://github.com/SubmergedAmongUs/Submerged/blob/main/Images/Icon.png)  
+[ GitHub仓库 ( 点这 ) ](https://github.com/SubmergedAmongUs/Submerged)  
+最新版本：v2022.10.26  
+Among Us支持版本：2022.10.25  
+更新状况：持续更新中  
 
-支持潜艇地图的模组的模组作者已将潜艇地图放入模组文件直接下载支持的模组即可 <br>
-[ GitHub仓库 ( 点这 ) ](https://github.com/SubmergedAmongUs/Submerged)
-![image](https://github.com/SubmergedAmongUs/Submerged/blob/main/Images/Icon.png)
+### 介绍
+支持潜艇地图的模组的模组作者已将潜艇地图放入模组文件直接下载支持的模组即可  
+### 各模组支持情况
 
 | 模组                                                                           | ❔ | 程度 |
 | ------------------------------------------------------------------------------ | -- | ---- |
