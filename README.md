@@ -51,17 +51,17 @@
 
 # 前言
 
-这是关于Among Us(中文译名：我们之间 俗称：太空狼人杀)这款游戏的中文模组指南
+这是关于Among Us(中文译名：我们之间 俗称：太空狼人杀)这款游戏的中文模组指南  
 
 ###### Among Us
 
-《Among Us》是一款由Innersloth制作发行的策略休闲游戏。
+《Among Us》是一款由Innersloth制作发行的策略休闲游戏。  
 
 当您在飞船上前往您要去的地方时，可与4-15名玩家一起在线或通过局域网联机。但是要当心……因为船上可能有伪装者。一到三名船员已被伪装者所取代（内鬼）。他们的目标是在船返航前消灭其余船员。伪装者将破坏船只，潜入通风管道，欺骗其他人以保持自己安全并杀死船员。当每个人都在修理设施时，没有人可以保持匿名。一旦报告了尸体，幸存的船员将公开辩论他们认为“伪装者”是谁。伪装者的目的是假装他们是船员。如果不投票，则每个人都将继续维护该船，直到找到另一具尸体或召开紧急会议为止。如果伪装者被投票投出，那么船员将获胜。
 
 ###### 提醒
 
-随着Among Us版本更新官方服务器所支持的服务器也在更新，过老版本只能使用私服才可游玩。
+随着Among Us版本更新官方服务器所支持的服务器也在更新，过老版本只能使用私服才可游玩。  
 
 [返回目录](#目录)
 
@@ -69,13 +69,13 @@
 
 ## 1.TheOtherRoles
 
-![image](./Image/TOR_logo.png)
+![image](./Image/TOR_logo.png)  
 
-[ GitHub仓库 ( 点这 ) ](https://github.com/TheOtherRolesAU/TheOtherRoles)
+[ GitHub仓库 ( 点这 ) ](https://github.com/TheOtherRolesAU/TheOtherRoles)  
 
-最新版本：v4.2.0
-Among Us支持版本：2022.10.25s
-更新状况：持续更新中
+最新版本：v4.2.0  
+Among Us支持版本：2022.10.25s  
+更新状况：持续更新中  
 
 ### 职业
 
@@ -112,11 +112,11 @@ Among Us支持版本：2022.10.25s
 
 ## 2.TheOtherRoles GM
 
-[ GitHub仓库 ( 点这 ) ](https://github.com/yukinogatari/TheOtherRoles-GM)
+[ GitHub仓库 ( 点这 ) ](https://github.com/yukinogatari/TheOtherRoles-GM)  
 
-最新版本：v3.5.5.1
-Among Us支持版本：2022.3.29s
-更新状况：断更
+最新版本：v3.5.5.1  
+Among Us支持版本：2022.3.29    
+更新状况：断更  
 
 ### 职业
 
@@ -144,31 +144,31 @@ Among Us支持版本：2022.3.29s
 |                   |                  | Fortune Teller | 算命先生 |                  |             |
 |                   |                  | Nice Watcher   | 观察者   |                  |             |
 
-GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
+GM是管理员模式，一般作为裁判存在，普通模式不建议开启。  
 
 [返回目录](#目录)
 
 ## 3.TheOtherRoles GM-Haoming
 
-[ GitHub仓库 ( 点这 ) ](https://github.com/haoming37/TheOtherRoles-GM-Haoming)
+[ GitHub仓库 ( 点这 ) ](https://github.com/haoming37/TheOtherRoles-GM-Haoming)  
 
-最新版本：v2.3.133
-Among Us支持版本：2022.10.25s
-更新状况：持续更新中
+最新版本：v2.3.133  
+Among Us支持版本：2022.10.25  
+更新状况：持续更新中  
 
 ### 介绍
 
-与潜艇地图兼容
-地图改动(Polus) ：
-你可以设置随机重生地点
-附加额外通风口（出生点-脉搏室-右下角样本室）
-可以设置心电图在右下角样本室
-地图改动（airship）
-在任务中增加墙壁检查(飞艇)#来自AuShipMod的创意
+与潜艇地图兼容  
+地图改动(Polus) ：  
+你可以设置随机重生地点  
+附加额外通风口（出生点-脉搏室-右下角样本室） 
+可以设置心电图在右下角样本室  
+地图改动（airship）  
+在任务中增加墙壁检查(飞艇)#来自AuShipMod的创意  
 
 ### 职业
 
-在GM版本基础上新增职业如下：
+在GM版本基础上新增职业如下：  
 
 | 内鬼                | 船员     | 中立       |
 | ------------------- | -------- | ---------- |
@@ -187,9 +187,9 @@ Among Us支持版本：2022.10.25s
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/eDonnes124/Town-Of-Us-R)
 
-最新版本：v3.4.0
-Among Us支持版本：2022.10.25s
-更新状况：持续更新中
+最新版本：v3.4.0  
+Among Us支持版本：2022.10.25  
+更新状况：持续更新中  
 
 ### 职业
 
@@ -220,22 +220,22 @@ Among Us支持版本：2022.10.25s
 
 ## 5.TheEpicRoles
 
-![image](./Image/TER_banner.png) <br>
+![image](./Image/TER_banner.png)  
 
-[ GitHub仓库 ( 点这 ) ](https://github.com/LaicosVK/TheEpicRoles) <br>
+[ GitHub仓库 ( 点这 ) ](https://github.com/LaicosVK/TheEpicRoles)   
 
-最新版本：v1.1.2
-Among Us支持版本：2022.2.24s
-更新状况：断更
+最新版本：v1.1.2  
+Among Us支持版本：2022.2.24  
+更新状况：断更  
 
 ### 介绍
 
-新特点： <br>
-1.上一场比赛中最先死亡的玩家将在下一场比赛中获得首杀盾。<br>
-2.就绪状态：当有一个人未准备好时，大厅主持人无法开始游戏。<br>
-3.定制鼠标光标。<br>
-4.模组选项类别分类。<br>
-5.运输船不再抖动。<br>
+新特点：  
+1.上一场比赛中最先死亡的玩家将在下一场比赛中获得首杀盾。  
+2.就绪状态：当有一个人未准备好时，大厅主持人无法开始游戏。  
+3.定制鼠标光标。  
+4.模组选项类别分类。  
+5.运输船不再抖动。  
 
 ### 职业
 
@@ -268,15 +268,15 @@ Among Us支持版本：2022.2.24s
 ## 6.Las Monjas
 
 ![image](./Image/LasMonjas_banner.png)
-与潜艇地图兼容 <br>
+与潜艇地图兼容   
 
-[ GitHub仓库 ( 点这 ) ](https://github.com/KiraYamato94/LasMonjas) <br>
+[ GitHub仓库 ( 点这 ) ](https://github.com/KiraYamato94/LasMonjas)   
 
-最新版本：v3.0.2
-Among Us支持版本：2022.10.25s
-更新状况：持续更新中
+最新版本：v3.0.2  
+Among Us支持版本：2022.10.25  
+更新状况：持续更新中  
 
-###游戏模式
+### 游戏模式
 
 | CaptureTheFlag | PoliceAndThiefs | KingOfTheHill | Hot Potato | Zombie Laboratory |
 | -------------- | --------------- | ------------- | ---------- | ----------------- |
@@ -315,28 +315,28 @@ Among Us支持版本：2022.10.25s
 | Amuesiac        | 失忆者   | Stranded      | 探险者     | Paintall       | 彩弹人 |
 | Seeker          | 寻找者   | Monja         | 修女       | Electrician    | 电工   |
 
-千年隼号地图展示：
-![image](./Image/%E5%8D%83%E5%B9%B4%E9%9A%BC.jpg)
+千年隼号地图展示：  
+![image](./Image/%E5%8D%83%E5%B9%B4%E9%9A%BC.jpg)  
 
 [返回目录](#目录)
 
 ## 7.ExtremeRoles
 
-[ GitHub仓库 ( 点这 ) ](https://github.com/yukieiji/ExtremeRoles)
+[ GitHub仓库 ( 点这 ) ](https://github.com/yukieiji/ExtremeRoles)  
 
-最新版本：v4.0.0.2
-Among Us支持版本：2022.10.25s
-更新状况：持续更新中
+最新版本：v4.0.0.2  
+Among Us支持版本：2022.10.25  
+更新状况：持续更新中  
 
 [返回目录](#目录)
 
 ## 8.Nebula On The Ship
 
-[ GitHub仓库 ( 点这 ) ](https://github.com/Dolly1016/Nebula)
+[ GitHub仓库 ( 点这 ) ](https://github.com/Dolly1016/Nebula)  
 
-最新版本：v1.16.1
-Among Us支持版本：2022.10.25s
-更新状况：持续更新中
+最新版本：v1.16.1  
+Among Us支持版本：2022.10.25  
+更新状况：持续更新中  
 
 ### 职业
 
@@ -366,13 +366,13 @@ Among Us支持版本：2022.10.25s
 
 ## 9.Peasmod
 
-![image](./Image/Logo.png)
+![image](./Image/Logo.png)  
 
-[ GitHub仓库 ( 点这 ) ](https://github.com/Peasplayer/Peasmod)
+[ GitHub仓库 ( 点这 ) ](https://github.com/Peasplayer/Peasmod)  
 
-最新版本：v3.0.0-pre2.2
-Among Us支持版本：2022.3.29s
-更新状况：持续更新中
+最新版本：v3.0.0-pre2.2  
+Among Us支持版本：2022.3.29  
+更新状况：持续更新中  
 
 ### 职业
 
@@ -389,13 +389,13 @@ Among Us支持版本：2022.3.29s
 
 ## 10.Syyreth ModsAmongUs
 
-![image](./Image/Syyreth's%20ModsAmongUs%20Roles.jpg.png) <br>
+![image](./Image/Syyreth's%20ModsAmongUs%20Roles.jpg.png)   
 
-[ GitHub仓库 ( 点这 ) ](https://github.com/Syyreth/ModsAmongUs)
+[ GitHub仓库 ( 点这 ) ](https://github.com/Syyreth/ModsAmongUs)  
 
-最新版本：v4.0.6
-Among Us支持版本：2022.8.24s
-更新状况：断更
+最新版本：v4.0.6  
+Among Us支持版本：2022.8.24  
+更新状况：断更  
 
 ### 职业
 
@@ -420,16 +420,16 @@ Among Us支持版本：2022.8.24s
 [返回目录](#目录)
 
 ## 11.SuperNewRoles
-
-[Github仓库(点这)](https://github.com/ykundesu/SuperNewRoles)
 ![image](Image/SNRImage.png)
+
+[Github仓库(点这)](https://github.com/ykundesu/SuperNewRoles)  
 
 [返回目录](#目录)
 
 ## 12.TheOtherRoles CE
+![image](Image/TOR_Logo.jpg)
 
 [Github仓库(点这)](https://github.com/JustASysAdmin/TheOtherRoles2)
-![image](Image/TOR_Logo.jpg)
 
 [返回目录](#目录)
 
@@ -440,9 +440,10 @@ Among Us支持版本：2022.8.24s
 [返回目录](#目录)
 
 ## 14.TownOfHost
+![image](Image/TownOfHost-Title.png)
 
 [Github仓库(点这)](https://github.com/tukasa0001/TownOfHost)
-![image](Image/TownOfHost-Title.png)
+
 
 [返回目录](#目录)
 
@@ -453,37 +454,40 @@ Among Us支持版本：2022.8.24s
 [返回目录](#目录)
 
 ## 16.BetterTownOfUS
+![image](Image/TOU-logo%20(1).png)
 
 [Github仓库(点这)](https://github.com/MC-AS-Huier/Better-Town-Of-Us-R)(原仓库已删除)
-![image](Image/TOU-logo%20(1).png)
+
 
 [返回目录](#目录)
 
 ## 17.UltimateMods
+![image](Image/UltimateModsWiki.png)
 
 [Github仓库(点这)](https://github.com/Dekokiyo/UltimateMods)
-![image](Image/UltimateModsWiki.png)
+
 
 [返回目录](#目录)
 
 ## 18.PropHunt
+![image](Image/prophuntlogo.png)
 
 [Github仓库(点这)](https://github.com/ugackMiner53/PropHunt)
-![image](Image/prophuntlogo.png)
+
 
 [返回目录](#目录)
 
 # 旧模组
 
 ## 1.TownOfImpostors
+![image](./Image/TOI-Animated.gif)
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/Town-of-Impostors/TownOfImpostors)
 
-最新版本：v2.0.8
-Among Us支持版本：2022.6.15s
-更新状况：断更
+最新版本：v2.0.8  
+Among Us支持版本：2022.6.12  
+更新状况：断更  
 
-![image](./Image/TOI-Animated.gif)
 
 ### 职业
 
@@ -502,15 +506,15 @@ Among Us支持版本：2022.6.15s
 [返回目录](#目录)
 
 ## 2.TownOfUs
+![image](./Image/TOU-logo.png)
 
-[ GitHub仓库 ( 点这 ) ](https://github.com/Anusien/Town-Of-Us) <br>
-[最开始我们的小镇的GitHub仓库](https://github.com/slushiegoose/Town-Of-Us) <br>
+[ GitHub仓库 ( 点这 ) ](https://github.com/Anusien/Town-Of-Us)   
+[最开始我们的小镇的GitHub仓库](https://github.com/slushiegoose/Town-Of-Us)   
 
-最新版本：v3.1.1-非官方延续
-Among Us支持版本：2021.12.15s
-更新状况：断更
+最新版本：v3.1.1-非官方延续  
+Among Us支持版本：2021.12.15  
+更新状况：断更  
 
-![image](./Image/TOU-logo.png) <br>
 
 ### 职业
 
@@ -535,38 +539,38 @@ Among Us支持版本：2021.12.15s
 [返回目录](#目录)
 
 ## 3.Chess
+![image](./Image/%E8%B1%A1%E6%A3%8B%E6%A8%A1%E7%BB%84.png)
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/KyleSmith0905/Among-Chess)
 
-最新版本：v1.1.1
-Among Us支持版本：2021.6.30s
-更新状况：断更
+最新版本：v1.1.1  
+Among Us支持版本：2021.6.30  
+更新状况：断更  
 
-![image](./Image/%E8%B1%A1%E6%A3%8B%E6%A8%A1%E7%BB%84.png)
 
 [返回目录](#目录)
 
 ## 4.hallenger
+![image](./Image/%E6%8C%91%E6%88%98%E8%80%85%E6%88%91%E4%BB%AC%E4%B8%AD%E9%97%B44.1.3.png)
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/Lunastellia/Challenger-Among-Us)  
 
-最新版本：v4.3.2
-Among Us支持版本：2020.6.15s
-更新状况：断更
+最新版本：v4.3.2  
+Among Us支持版本：2020.6.12  
+更新状况：断更  
 
-![image](./Image/%E6%8C%91%E6%88%98%E8%80%85%E6%88%91%E4%BB%AC%E4%B8%AD%E9%97%B44.1.3.png)
 
 [返回目录](#目录)
 
 ## 5.Cursed-Among-Us
+![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/icon.png)
 
-[ GitHub仓库 ( 点这 ) ]https://github.com/Devs-Us/Cursed-Among-Us
+[ GitHub仓库 ( 点这 ) ](https://github.com/Devs-Us/Cursed-Among-Us)
 
-最新版本：v1.1.0
-Among Us支持版本：2021.6.30s
-更新状况：断更
-
-![image](https://github.com/mingyoushe/Amongus-MOD-China/blob/main/icon.png) <br>
+最新版本：v1.1.0  
+Among Us支持版本：2021.6.30  
+更新状况：断更  
+   
 
 [返回目录](#目录)
 
@@ -595,9 +599,9 @@ Among Us支持版本：2021.6.30s
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/FatherofHeathens/HarryPotterAmongUs)
 
-最新版本：v1.2.0
-Among Us支持版本：2021.5.10s
-更新状况：断更
+最新版本：v1.2.0  
+Among Us支持版本：2021.5.10  
+更新状况：断更  
 
 ### 职业
 
@@ -617,9 +621,9 @@ Among Us支持版本：2021.5.10s
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/ottomated/CrewLink)
 
-最新版本：v2.0.1
-Among Us支持版本：2021.11.9.2s
-更新状况：断更
+最新版本：v2.0.1  
+Among Us支持版本：2021.11.9.2s  
+更新状况：断更  
 
 断更如有需要请使用BetterCrewLink。
 
@@ -633,9 +637,9 @@ Among Us支持版本：2021.11.9.2s
 Among Us支持版本：大部分Among Us 版本  
 更新状况：持续更新中  
 
-已支持中文
+已支持中文  
 
-注：服务器有问题，需自行搭建语音服务器
+注：服务器有问题，需自行搭建语音服务器  
 
 [返回目录](#目录)
 
@@ -666,7 +670,8 @@ Among Us支持版本：大部分版本
 
 ## １.Submerged
 ![image](https://github.com/SubmergedAmongUs/Submerged/blob/main/Images/Icon.png)  
-[ GitHub仓库 ( 点这 ) ](https://github.com/SubmergedAmongUs/Submerged)  
+[ GitHub仓库 ( 点这 ) ](https://github.com/SubmergedAmongUs/Submerged) 
+ 
 最新版本：v2022.10.26  
 Among Us支持版本：2022.10.25  
 更新状况：持续更新中  
