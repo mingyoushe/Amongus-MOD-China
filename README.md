@@ -69,7 +69,9 @@
 
 ## 1.TheOtherRoles
 ![image](./Image/TOR_logo.png)  
+
 [ GitHub仓库 ( 点这 ) ](https://github.com/TheOtherRolesAU/TheOtherRoles)  
+
 最新版本：v4.2.0  
 Among Us支持版本：2022.10.25  
 更新状况：持续更新中  
@@ -110,6 +112,7 @@ Among Us支持版本：2022.10.25
 ## 2.TheOtherRoles GM
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/yukinogatari/TheOtherRoles-GM)  
+
 最新版本：v3.5.5.1  
 Among Us支持版本：2022.3.29  
 更新状况：断更  
@@ -147,9 +150,11 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 ## 3.TheOtherRoles GM-Haoming
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/haoming37/TheOtherRoles-GM-Haoming)  
+
 最新版本：v2.3.133  
 Among Us支持版本：2022.10.25  
 更新状况：持续更新中  
+
 ### 介绍
 与潜艇地图兼容  
 地图改动(Polus) ：   
@@ -177,6 +182,7 @@ Among Us支持版本：2022.10.25
 
 ## 4.TownOfUs-R 
 [ GitHub仓库 ( 点这 ) ](https://github.com/eDonnes124/Town-Of-Us-R)   
+
 最新版本：v3.4.0  
 Among Us支持版本：2022.10.25  
 更新状况：持续更新中  
