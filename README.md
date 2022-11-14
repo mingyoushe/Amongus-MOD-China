@@ -153,9 +153,9 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/haoming37/TheOtherRoles-GM-Haoming)  
 
-最新版本：v2.3.134  
+最新版本：v2.3.136  
 Among Us支持版本：2022.10.25  
-更新状况：持续更新中（discord only）  
+更新状况：暂停更新  
 
 ### 介绍
 
