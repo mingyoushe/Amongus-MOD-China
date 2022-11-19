@@ -329,7 +329,7 @@ Among Us支持版本：2022.10.25
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/yukieiji/ExtremeRoles)  
 
-最新版本：v4.0.0.2  
+最新版本：v4.0.1.1  
 Among Us支持版本：2022.10.25  
 更新状况：持续更新中  
 
