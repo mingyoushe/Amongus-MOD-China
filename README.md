@@ -273,14 +273,13 @@ Among Us支持版本：2022.2.24
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/KiraYamato94/LasMonjas)   
 
-最新版本：v3.0.2  
+最新版本：v3.0.3  
 Among Us支持版本：2022.10.25  
 更新状况：持续更新中  
 
 ### 切换汉语
 
-方法：进入房间，在聊天框内输入`/language chinese`即可   
-（此方法获得的汉化并不全面）
+方式：进入房间，在聊天框内输入`/language chinese`即可   
 
 ### 游戏模式
 
