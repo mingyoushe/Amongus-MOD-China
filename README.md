@@ -348,12 +348,12 @@ Among Us支持版本：2022.10.25
 | Impostors     | 内鬼职业  | Crewmates    | 船员职业  | Neutral       | 中立职业  |
 |---------------|-------|--------------|-------|---------------|-------|
 | Bounty Hunter | 赏金猎人  | Agent        | 代理人   | Arsonist      | 纵火犯   |
-| Camouflager   | 隐蔽着   | Alien        | 外星人   | Avenger       | 复仇者   |
+| Camouflager   | 隐蔽者   | Alien        | 外星人   | Avenger       | 复仇者   |
 | Cleaner       | 清理者   | Bait         | 诱饵    | Empiric       | 疫医    |
 | Damned        | 受诅咒者  | Busker       | 街头艺人  | Chain Shifter | 连环交换师 |
 | Disturber     | 干扰者   | Comet        | 彗星之子  | Jackal        | 豺狼    |
 | Eraser        | 抹除者   | Doctor       | 医学家   | Jester        | 小丑    |
-| Evil Ace      | 米命王牌  | Guardian     | 特工    | Opportunist   | 投机者   |
+| Evil Ace      | 密命王牌  | Guardian     | 特工    | Opportunist   | 投机者   |
 | Evil Guesser  | 邪恶的赌怪 | Mayor        | 市长    | Sidekick      | 跟班    |
 | Evil Trapper  | 邪恶陷阱师 | Navvy        | 修理工   | Vulture       | 秃鹫    |
 | Jailer        | 狱卒    | Necromancer  | 死灵法师  |               |       |
