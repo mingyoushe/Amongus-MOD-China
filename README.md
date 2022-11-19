@@ -69,8 +69,8 @@
 
 # 链接
 
-[![image](./Image/hanpi.png)](https:/www.amonguscn.club/)  
-[![image](./Image/hanpi.png)](https:/amonguscn.club/)  
+[![imgae](./Image/hanpi.png)](http://baidu.com)  
+[![image](./Image/hanpi.png)](http:/amonguscn.club/)  
 
 # 模组
 
