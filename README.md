@@ -345,27 +345,35 @@ Among Us支持版本：2022.10.25
 
 ### 职业
 
-| Impostors     | Crewmates    | Neutral       | Secondary | Ghost       |
-| ------------- | ------------ | ------------- | --------- | ----------- |
-| Bounty Hunter | Agent        | Arsonist      | Drunk     | Poltergeist |
-| Camouflager   | Alien        | Avenger       | Guesser   |             |
-| Cleaner       | Bait         | Empiric       | Lover     |             |
-| Damned        | Busker       | Chain Shifter | Trilemma  |             |
-| Disturber     | Comet        | Jackal        |           |             |
-| Eraser        | Doctor       | Jester        |           |             |
-| Evil Ace      | Guardian     | Opportunist   |           |             |
-| Evil Guesser  | Mayor        | Sidekick      |           |             |
-| Evil Trapper  | Navvy        | Vulture       |           |             |
-| Jailer        | Necromancer  |               |           |             |
-| Marionette    | Nice Guesser |               |           |             |
-| Morphing      | Nice Trapper |               |           |             |
-| Painter       | Oracle       |               |           |             |
-| Raider        | Provocateur  |               |           |             |
-| Reaper        | Psychic      |               |           |             |
-| Sniper        | Seer         |               |           |             |
-|               | Sheriff      |               |           |             |
-|               | Spy          |               |           |             |
-|               | Madmate      |               |           |             |
+| Impostors     | 内鬼职业  | Crewmates    | 船员职业  | Neutral       | 中立职业  |
+|---------------|-------|--------------|-------|---------------|-------|
+| Bounty Hunter | 赏金猎人  | Agent        | 代理人   | Arsonist      | 纵火犯   |
+| Camouflager   | 隐蔽着   | Alien        | 外星人   | Avenger       | 复仇者   |
+| Cleaner       | 清理者   | Bait         | 诱饵    | Empiric       | 疫医    |
+| Damned        | 受诅咒者  | Busker       | 街头艺人  | Chain Shifter | 连环交换师 |
+| Disturber     | 干扰者   | Comet        | 彗星之子  | Jackal        | 豺狼    |
+| Eraser        | 抹除者   | Doctor       | 医学家   | Jester        | 小丑    |
+| Evil Ace      | 米命王牌  | Guardian     | 特工    | Opportunist   | 投机者   |
+| Evil Guesser  | 邪恶的赌怪 | Mayor        | 市长    | Sidekick      | 跟班    |
+| Evil Trapper  | 邪恶陷阱师 | Navvy        | 修理工   | Vulture       | 秃鹫    |
+| Jailer        | 狱卒    | Necromancer  | 死灵法师  |               |       |
+| Marionette    | 木偶师   | Nice Guesser | 正义的赌怪 |               |       |
+| Morphing      | 化形者   | Nice Trapper | 正义陷阱师 |               |       |
+| Painter       | 画皮师   | Oracle       | 占卜师   |               |       |
+| Raider        | 强盗    | Provocateur  | 挑衅者   |               |       |
+| Reaper        | 送葬者   | Psychic      | 通灵师   |               |       |
+| Sniper        | 狙击手   | Seer         | 灵媒    |               |       |
+|               |       | Sheriff      | 警长    |               |       |
+|               |       | Spy          | 卧底    |               |       |
+|               |       | Madmate      | 叛徒    |
+
+| Secondary | 附加职业 | Ghost       | 亡灵职业 |
+|-----------|------|-------------|------|
+| Drunk     | 醉鬼   | Poltergeist | 捣蛋鬼  |
+| Guesser   | 赌怪   |             |      |
+| Lover     | 恋人   |             |      |
+| Trilemma  | 三角恋  |
+
 
 [返回目录](#目录)
 
