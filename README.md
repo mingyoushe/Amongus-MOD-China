@@ -3,6 +3,7 @@
 - [前言](#前言)
   - [Among Us](#among-us)
   - [提醒](#提醒)
+  - [友情链接](#友情链接)
 - [模组](#模组)
   - [1.TheOtherRoles](#1theotherroles)
   - [2.TheOtherRoles GM](#2theotherroles-gm)
@@ -65,6 +66,10 @@
 随着Among Us版本更新官方服务器所支持的服务器也在更新，过老版本只能使用私服才可游玩。  
 
 [返回目录](#目录)
+
+###### 友情链接
+
+![image](./Image/bilibili.png)
 
 # 模组
 
