@@ -69,8 +69,7 @@
 
 # 链接
 
-[![imgae](./Image/hanpi.png)](http://baidu.com)  
-[![image](./Image/hanpi.png)](http:/amonguscn.club/)  
+[![imgae](./Image/bili.png)](http://space.bilibili.com/64116958)  
 
 # 模组
 
