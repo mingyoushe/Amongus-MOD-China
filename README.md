@@ -22,6 +22,7 @@
   - [16.BetterTownOfUS](#16bettertownofus)
   - [17.UltimateMods](#17ultimatemods)
   - [18.PropHunt](#18prophunt)
+  - [19.TownOfHost_Y](#19.TownOfHost_Y)
 - [旧模组](#旧模组)
   - [1.TownOfImpostors](#1townofimpostors)
   - [2.TownOfUs](#2townofus)
@@ -489,6 +490,14 @@ Among Us支持版本：2022.8.24
 
 
 [返回目录](#目录)
+
+## 19.TownOfHost_Y
+
+[Github仓库(点这)](https://github.com/Yumenopai/TownOfHost_Y)
+
+
+[返回目录](#目录)
+
 
 # 旧模组
 
