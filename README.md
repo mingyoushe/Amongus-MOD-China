@@ -69,7 +69,7 @@
 
 # 链接
 
-[![image](./Image/hanpi.png)](https:/amonguscn.club/)  
+[![image](./Image/hanpi.png)](https:/www.amonguscn.club/)  
 [![image](./Image/hanpi.png)](https:/amonguscn.club/)  
 
 # 模组
