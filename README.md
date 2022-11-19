@@ -3,7 +3,7 @@
 - [前言](#前言)
   - [Among Us](#among-us)
   - [提醒](#提醒)
-  - [友情链接](#友情链接)
+- [链接](#链接)
 - [模组](#模组)
   - [1.TheOtherRoles](#1theotherroles)
   - [2.TheOtherRoles GM](#2theotherroles-gm)
@@ -53,7 +53,7 @@
 
 # 前言
 
-这是关于Among Us(中文译名：我们之间 俗称：太空狼人杀)这款游戏的中文模组指南  
+这是关于Among Us（中文译名：在我们之间，俗称：太空狼人杀）这款游戏的中文模组指南  
 
 ###### Among Us
 
@@ -67,9 +67,10 @@
 
 [返回目录](#目录)
 
-###### 友情链接
+# 链接
 
-![image](./Image/bilibili.png)
+[![image](./Image/hanpi.png)](https:/amonguscn.club/)  
+[![image](./Image/hanpi.png)](https:/amonguscn.club/)  
 
 # 模组
 
