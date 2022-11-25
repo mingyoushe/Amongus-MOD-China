@@ -69,8 +69,8 @@
 
 # 链接
 
-[![imgae](./Image/bili.png)](https://space.bilibili.com/64116958)  
-[四个憨批资源小站](https://amonguscn.club)  
+[![image](./Image/bili.png)](https://space.bilibili.com/64116958)
+[![image](./Image/hanpi.png)](https://amonguscn.club)  
 [梦初的资源网盘](http://pan.pafyx.top)  
 
 # 模组
