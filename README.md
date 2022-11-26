@@ -71,7 +71,7 @@
 
 [![image](./Image/bili.png)](https://space.bilibili.com/64116958)
 [![image](./Image/hanpi.png)](https://amonguscn.club)  
-[![资源网盘](https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg)](http://pan.pafyx.top)  
+[![image](http://1.15.248.203:8888/down/tCwka0bBDkkW)](http://pan.pafyx.top)  
 
 # 模组
 
