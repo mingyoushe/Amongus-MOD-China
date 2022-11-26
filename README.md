@@ -70,8 +70,8 @@
 # 链接
 
 [![image](./Image/bili.png)](https://space.bilibili.com/64116958)
-[![image](./Image/hanpi.png)](https://amonguscn.club)  
-[![image](http://1.15.248.203:8888/down/tCwka0bBDkkW)](http://pan.pafyx.top)  
+[![image](./Image/hanpi.png)](https://amonguscn.club)
+[![image](http://1.15.248.203:8888/down/KpEBdqDgq3cV)](http://pan.pafyx.top)  
 
 # 模组
 
