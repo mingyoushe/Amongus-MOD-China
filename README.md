@@ -505,6 +505,43 @@ Among Us支持版本：2022.8.24
 
 [返回目录](#目录)
 
+## 20.AUModS
+
+[Github仓库(点这)](https://github.com/AUModS/AUModS)
+
+
+[返回目录](#目录)
+
+## 21.TownOfSuper
+
+[Github仓库(点这)](https://github.com/reitou-mugicha/TownOfSuper)
+
+
+[返回目录](#目录)
+
+## 22.TownOfUsReworked
+
+[Github仓库(点这)](https://github.com/AlchlcDvl/TownOfUsReworked)
+
+
+[返回目录](#目录)
+
+## 23.TownOfLoonie
+
+[Github仓库(点这)](https://github.com/SkullCreeper/TownOfLoonie)
+
+
+## 24.AllTheRoles
+
+[Github仓库(点这)](https://github.com/Zeo666/AllTheRoles)
+
+
+[返回目录](#目录)
+
+
+[返回目录](#目录)
+
+
 
 # 旧模组
 
