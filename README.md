@@ -496,28 +496,22 @@ Among Us支持版本：2022.8.24
 [Github仓库(点这)](https://github.com/ugackMiner53/PropHunt)
 
 
-[返回目录](#目录)
-
 ## 19.TownOfHost_Y
 
 [Github仓库(点这)](https://github.com/Yumenopai/TownOfHost_Y)
 
 
-[返回目录](#目录)
 
 ## 20.AUModS
 
 [Github仓库(点这)](https://github.com/AUModS/AUModS)
 
 
-[返回目录](#目录)
 
 ## 21.TownOfSuper
 
 [Github仓库(点这)](https://github.com/reitou-mugicha/TownOfSuper)
 
-
-[返回目录](#目录)
 
 ## 22.TownOfUsReworked
 
@@ -536,11 +530,6 @@ Among Us支持版本：2022.8.24
 [Github仓库(点这)](https://github.com/Zeo666/AllTheRoles)
 
 
-[返回目录](#目录)
-
-
-[返回目录](#目录)
-
 
 
 # 旧模组
@@ -551,7 +540,7 @@ Among Us支持版本：2022.8.24
 [ GitHub仓库 ( 点这 ) ](https://github.com/Town-of-Impostors/TownOfImpostors)
 
 最新版本：v2.0.8  
-Among Us支持版本：2022.6.12  
+Among Us支持版本：2021.6.15  
 更新状况：断更  
 
 
