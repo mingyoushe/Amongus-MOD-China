@@ -682,7 +682,7 @@ Among Us支持版本：2021.11.9.2s
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/OhMyGuus/BetterCrewlink)  
 
-最新版本：v3.1.1
+最新版本：v3.1.1  
 Among Us支持版本：大部分Among Us 版本  
 更新状况：持续更新中  
 
