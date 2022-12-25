@@ -44,6 +44,7 @@
   - [３.ReplayInWindow](#３ReplayInWindow)
   - [４.ModManager](#４modmanager)
   - [5.levelimposter-editor](#5levelimposter-editor)
+  - [6.AmongUsMenu](#6AmongUsMenu)
 - [地图](#地图)
   - [１.Submerged](#1submerged)
   - [2.levelimposter](#2levelimposter)
@@ -334,7 +335,7 @@ Among Us支持版本：2022.12.8 & 12.14
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/Dolly1016/Nebula)  
 
-最新版本：v2.0.2  
+最新版本：v2.0.2.1
 Among Us支持版本：2022.12.8 & 2022.12.14   
 更新状况：持续更新中  
 
@@ -425,7 +426,7 @@ Among Us支持版本：2022.8.24
 ![image](Image/SNRImage.png)
 [Github仓库(点这)](https://github.com/ykundesu/SuperNewRoles)
 
-最新版本：v1.5.1.2  
+最新版本：v1.5.2.1
 Among Us支持版本：2022.12.8 & 2022.12.14  
 更新状况：持续更新中  
 
@@ -451,8 +452,8 @@ Among Us支持版本：2022.10.25
 ![image](Image/TownOfHost-Title.png)
 [Github仓库(点这)](https://github.com/tukasa0001/TownOfHost)
 
-最新版本：v4.0.0  
-Among Us支持版本：2022.10.25(将要推出支持2022.12.8 & 2022.12.14的版本)  
+最新版本：v4.0.1
+Among Us支持版本：2022.12.14
 更新状况：持续更新中  
 
 ## 15.TownOfHost -TheOtherRoles
@@ -473,7 +474,7 @@ Among Us支持版本：2022.10.25(将要推出支持2022.12.8 & 2022.12.14的版
 ![image](Image/UltimateModsWiki.png)
 [Github仓库(点这)](https://github.com/Dekokiyo/UltimateMods)
 
-最新版本：v1.2.0.1  
+最新版本：v1.3.0
 Among Us支持版本：2022.12.8 & 2022.12.14  
 更新状况：持续更新中  
 
@@ -483,32 +484,56 @@ Among Us支持版本：2022.12.8 & 2022.12.14
 
 [Github仓库(点这)](https://github.com/ugackMiner53/PropHunt)
 
+最新版本：v2022.11.5
+Among Us支持版本：2022.10.25
+更新状况：断更
+
 ## 19.TownOfHost_Y
 
 [Github仓库(点这)](https://github.com/Yumenopai/TownOfHost_Y)
+
+最新版本：v3.0.2.3
+Among Us支持版本：2022.10.25
+更新状况：持续更新中
 
 ## 20.AUModS
 
 [Github仓库(点这)](https://github.com/AUModS/AUModS)
 
+最新版本：v22.12.14.0
+Among Us支持版本：2022.12.14
+更新状况：持续更新中
+
 ## 21.TownOfSuper
 
 [Github仓库(点这)](https://github.com/reitou-mugicha/TownOfSuper)
+
+最新版本：v1.3.1
+Among Us支持版本：2022.10.25
+更新状况：持续更新中
 
 ## 22.TownOfUsReworked
 
 [Github仓库(点这)](https://github.com/AlchlcDvl/TownOfUsReworked)
 
+最新版本：v3.4.0
+Among Us支持版本：2022.10.25
+更新状况：持续更新中
+
 ## 23.TownOfLoonie
 
 [Github仓库(点这)](https://github.com/SkullCreeper/TownOfLoonie)
+
+最新版本：v1.1.0.1
+Among Us支持版本：2022.10.25
+更新状况：持续更新中
 
 ## 24.AllTheRoles
 
 [Github仓库(点这)](https://github.com/Zeo666/AllTheRoles)
 
-最新版本：v0.9.23  
-Among Us支持版本：2022.10.25  
+最新版本：v0.9.24
+Among Us支持版本：2022.12.14
 更新状况：持续更新中  
 
 
@@ -657,7 +682,7 @@ Among Us支持版本：2021.11.9.2s
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/OhMyGuus/BetterCrewlink)  
 
-最新版本：v3.0.5  
+最新版本：v3.1.1
 Among Us支持版本：大部分Among Us 版本  
 更新状况：持续更新中  
 
@@ -676,7 +701,7 @@ Among Us支持版本：任意版本
 ## ４.ModManager
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/MatuxGG/ModManager)  
-最新版本：v5.1.2  
+最新版本：v5.3.3
 Among Us支持版本：大部分版本  
 更新状况：持续更新中  
 
@@ -684,8 +709,18 @@ Among Us支持版本：大部分版本
 ![image](https://camo.githubusercontent.com/f55150ac1820966f8e30cfac3d138fe4e33da49ecc5d14897b73aef5a8a59447/68747470733a2f2f692e696d6775722e636f6d2f456665514a68342e706e67)  
 [ Github仓库 ( 点这 ) ](https://github.com/DigiWorm0/LevelImposter-Editor)  
 [网站](https://editor.levelimposter.net/)  
+最新版本：v0.10.0
+Among Us支持版本：2022.12.8&2022.12.14
+更新状况：持续更新中
 
 搭配LevelImposter模组的地图编辑制作器(已支持中文)  
+
+## 6.AmongUsMenu
+
+[ Github仓库 (点这)](https://github.com/BitCrackers/AmongUsMenu)
+最新版本：v1.2.2
+Among Us支持版本：最新版本
+更新状况：持续更新中
 
 # 地图
 
