@@ -6,30 +6,25 @@
 - [链接](#链接)
 - [模组](#模组)
   - [1.TheOtherRoles](#1theotherroles)
-  - [2.TheOtherRoles GM](#2theotherroles-gm)
-  - [3.TheOtherRoles GM-Haoming](#3theotherroles-gm-haoming)
-  - [4.TownOfUs-R](#4townofus-r)
-  - [5.TheEpicRoles](#5theepicroles)
-  - [6.Las Monjas](#6las-monjas)
-  - [7.ExtremeRoles](#7extremeroles)
-  - [8.Nebula On The Ship](#8nebula-on-the-ship)
-  - [9.Peasmod](#9peasmod)
-  - [10.Syyreth ModsAmongUs](#10syyreth-modsamongus)
-  - [11.SuperNewRoles](#11supernewroles)
-  - [12.TheOtheRoles CE](#12theotherroles-ce)
-  - [13.TheOtherRoles MR](#13theotherroles-mr)
-  - [14.TownOfHost](#14townofhost)
-  - [15.TownOfHost-TheOtherRoles](#15townofhost--theotherroles)
-  - [16.BetterTownOfUS](#16bettertownofus)
-  - [17.UltimateMods](#17ultimatemods)
-  - [18.PropHunt](#18prophunt)
-  - [19.TownOfHost_Y](#19TownOfHost_Y)
-  - [20.AUModS](#20aumods)
-  - [21.TownOfSuper](#21townofsuper)
-  - [22.TownOfUsReworked](#22townofusreworked)
-  - [23.TownOfLoonie](#23townofloonie)
-  - [24.AllTheRoles](#24alltheroles)
-  - [25.Revolutionary-host-roles](#25revolutionary-host-roles)
+  - [2.TheOtherRoles GM-Haoming](#2theotherroles-gm-haoming)
+  - [3.TownOfUs-R](#3townofus-r)
+  - [4.Las Monjas](#4las-monjas)
+  - [5.ExtremeRoles](#5extremeroles)
+  - [6.Nebula On The Ship](#6nebula-on-the-ship)
+  - [7.Syyreth ModsAmongUs](#7syyreth-modsamongus)
+  - [8.SuperNewRoles](#8supernewroles)
+  - [9.TheOtheRoles CE](#9theotherroles-ce)
+  - [10.TheOtherRoles MR](#10theotherroles-mr)
+  - [11.TownOfHost](#11townofhost)
+  - [12.TownOfHost-TheOtherRoles](#12townofhost--theotherroles)
+  - [13.UltimateMods](#13ultimatemods)
+  - [14.PropHunt](#14prophunt)
+  - [15.TownOfHost_Y](#15TownOfHost_Y)
+  - [16.AUModS](#16aumods)
+  - [17.TownOfSuper](#17townofsuper)
+  - [18.TownOfLoonie](#18townofloonie)
+  - [19.AllTheRoles](#19alltheroles)
+  - [20.Revolutionary-host-roles](#20revolutionary-host-roles)
 - [旧模组](#旧模组)
   - [1.TownOfImpostors](#1townofimpostors)
   - [2.TownOfUs](#2townofus)
@@ -38,6 +33,9 @@
   - [5.Cursed-Among-Us](#5cursed-among-us)
   - [6.skeld.net](#6skeldnet)
   - [7.HarryPotter](#7HarryPotter)
+  - [8.TheOtherRoles GM](#8theotherroles-gm)
+  - [9.TheEpicRoles](#9theepicroles)
+  - [10.Peasmod](#10peasmod)
 - [工具](#工具)
   - [１.crewlink](#１crewlink)
   - [２.BetterCrewLink](#２bettercrewlink)
@@ -75,7 +73,6 @@
 
 [![image](./Image/bili.png)](https://space.bilibili.com/64116958)
 [![image](./Image/hanpi.png)](https://amonguscn.club)
-[![image](http://1.15.248.203:8888/down/KpEBdqDgq3cV)](http://pan.pafyx.top)
 
 # 模组
 
@@ -120,43 +117,7 @@ Among Us支持版本：2022.10.25s
 | Pursuer    | 追随者   | Invert        | 破平者   |              |          |
 | Prosecutor | 检察官   |               |          |              |          |
 
-## 2.TheOtherRoles GM
-
-[ GitHub仓库 ( 点这 ) ](https://github.com/yukinogatari/TheOtherRoles-GM)  
-
-最新版本：v3.5.5.1  
-Among Us支持版本：2022.3.29   
-更新状况：断更  
-
-### 职业
-
-| Impostors         | 内鬼职业         | Crewmates      | 船员职业 | Neutral          | 中立职业    |
-| ----------------- | ---------------- | -------------- | -------- | ---------------- | ----------- |
-| Evil Mini         | 坏小人           | Nice Mini      | 好小人   | Arsonist         | 纵火犯      |
-| Evil Guesser      | 赌怪             | Nice Guesser   | 好赌怪   | Jester           | 小丑        |
-| Bounty Hunter     | 赏金猎人         | Detective      | 侦探     | Jackal           | 豺狼        |
-| Camouflager       | 隐蔽者           | Engineer       | 工程师   | Sidekick         | 跟班        |
-| Cleaner           | 清洁工           | Hacker         | 黑客     | Lover            | 恋人        |
-| Eraser            | 抹除者           | Lighter        | 小灯人   | Opportunist      | 投机主义者  |
-| Godfather (Mafia) | 教父（黑手党）   | Mayor          | 市长     | Vulture          | 秃鹫        |
-| Mafioso (Mafia)   | 黑手党（黑手党） | Medic          | 医生     | Lawyer           | 律师        |
-| Janitor (Mafia)   | 清洁工（黑手党） | Security Guard | 保安     | Chain-Shifter    | 连环交换师  |
-| Morphling         | 变形者           | Seer           | 灵媒     | Plague Doctor    | 疫医        |
-| Trickster         | 骗术师           | Sheriff        | 警长     | Fox & Immoralist | 狐妖&背德者 |
-| Vampire           | 吸血鬼           | Shifter        | 交换者   |                  |             |
-| Warlock           | 术士             | Snitch         | 告密者   |                  |             |
-| Witch             | 女巫             | Spy            | 间谍     |                  |             |
-| Ninja             | 忍者             | Nice Swapper   | 好换票师 |                  |             |
-| Evil Swapper      | 坏换票师         | Time Master    | 时间之主 |                  |             |
-| Serial Killer     | 嗜血杀手         | Tracker        | 追踪者   |                  |             |
-| Neko-Kabocha      | 复仇者           | Bait           | 诱饵     |                  |             |
-| Evil Watcher      | 坏观察者         | Madmate        | 通灵师   |                  |             |
-|                   |                  | Fortune Teller | 算命先生 |                  |             |
-|                   |                  | Nice Watcher   | 观察者   |                  |             |
-
-GM是管理员模式，一般作为裁判存在，普通模式不建议开启。  
-
-## 3.TheOtherRoles GM-Haoming
+## 2.TheOtherRoles GM-Haoming
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/haoming37/GMH)  
 
@@ -189,7 +150,7 @@ Among Us支持版本：2022.10.25
 | 绝境者              |          | 丘比特     |
 |                     |          | 化身博士   |
 
-## 4.TownOfUs-R
+## 3.TownOfUs-R
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/eDonnes124/Town-Of-Us-R)  
 
@@ -222,58 +183,13 @@ Among Us支持版本：2022.10.25
 | Time Lord      | 时间之主 |                |          |                |          |              |          |
 | Transporter    | 传送师   |                |          |                |          |              |          |
 
-## 5.TheEpicRoles  
-
-![image](./Image/TER_banner.png)  
-
-[ GitHub仓库 ( 点这 ) ](https://github.com/LaicosVK/TheEpicRoles)  
-
-最新版本：v1.1.2  
-Among Us支持版本：2022.2.24  
-更新状况：断更  
-
-### 介绍  
-
-新特点：  
-1.上一场比赛中最先死亡的玩家将在下一场比赛中获得首杀盾。  
-2.就绪状态：当有一个人未准备好时，大厅主持人无法开始游戏。  
-3.定制鼠标光标。  
-4.模组选项类别分类。  
-5.运输船不再抖动。  
-
-### 职业  
-
-| Impostors         | 内鬼     | Crewmates      | 船员     | Neutral  | 中立   |
-| ----------------- | -------- | -------------- | -------- | -------- | ------ |
-| Evil Mini         | 坏小人   | Nice Mini      | 好小人   | Arsonist | 纵火犯 |
-| Evil Guesser      | 坏赌怪   | Nice Guesser   | 好赌怪   | Jester   | 小丑   |
-| Bounty Hunter     | 赏金猎人 | Detective      | 调查员   | Jackal   | 豺狼   |
-| Camouflager       | 隐蔽者   | Engineer       | 工程师   | Sidekick | 跟班   |
-| Cleaner           | 清洁工   | Hacker         | 黑客     | Vulture  | 秃鹫   |
-| Eraser            | 抹除者   | Lighter        | 小灯人   | Lawyer   | 律师   |
-| Godfahter (Mafia) | 教父     | Mayor          | 市长     | Lover    | 恋人   |
-| Mafioso (Mafia)   | 黑手党   | Medic          | 医生     |          |        |
-| Janitor (Mafia)   | 清洁工   | Security Guard | 保安     |          |        |
-| Morphling         | 变形者   | Seer           | 灵媒     |          |        |
-| Trickster         | 骗术师   | Sheriff        | 警长     |          |        |
-| Vampire           | 吸血鬼   | Deputy         | 捕快     |          |        |
-| Warlock           | 术士     | Shifter        | 交换师   |          |        |
-| Witch             | 女巫     | Snitch         | 告密者   |          |        |
-| Phaser            |          | Spy            | 间谍     |          |        |
-|                   |          | Swapper        | 换票师   |          |        |
-|                   |          | Time Master    | 时间之主 |          |        |
-|                   |          | Tracker        | 追踪者   |          |        |
-|                   |          | Bait           | 诱饵     |          |        |
-|                   |          | Medium         | 通灵师   |          |        |
-|                   |          | Jumper         |          |          |        |
-
-## 6.Las Monjas  
+## 4.Las Monjas  
 
 ![image](./Image/LasMonjas_banner.png)  
 [ GitHub仓库 ( 点这 ) ](https://github.com/KiraYamato94/LasMonjas)  
 
-最新版本：v3.0.3  
-Among Us支持版本：2022.10.25  
+最新版本：v3.0.4  
+Among Us支持版本：2022.12.14  
 更新状况：持续更新中  
 
 ### 切换汉语
@@ -322,20 +238,20 @@ Among Us支持版本：2022.10.25
 千年隼号地图展示：  
 ![image](./Image/%E5%8D%83%E5%B9%B4%E9%9A%BC.jpg)
 
-## 7.ExtremeRoles
+## 5.ExtremeRoles
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/yukieiji/ExtremeRoles)  
 
-最新版本：v5.0.0.3  
-Among Us支持版本：2022.12.8 & 12.14  
+最新版本：v5.0.0.4  
+Among Us支持版本：12.14  
 更新状况：持续更新中  
 
-## 8.Nebula On The Ship
+## 6.Nebula On The Ship
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/Dolly1016/Nebula)  
 
-最新版本：v2.0.2  
-Among Us支持版本：2022.12.8 & 2022.12.14   
+最新版本：v2.0.2.2  
+Among Us支持版本：2022.12.14   
 更新状况：持续更新中  
 
 ### 职业
@@ -369,28 +285,7 @@ Among Us支持版本：2022.12.8 & 2022.12.14
 | Lover     | 恋人     |             |          |
 | Trilemma  | 三角恋   |             |          |
 
-## 9.Peasmod
-
-![image](./Image/Logo.png)
-
-[ GitHub仓库 ( 点这 ) ](https://github.com/Peasplayer/Peasmod)  
-
-最新版本：v3.0.0-pre2.2  
-Among Us支持版本：2022.3.29  
-更新状况：断更
-
-### 职业
-
-| Crewmate Roles | 船员职业 | Impostor Roles | 内鬼职业 | Neutral Roles | 中立职业 | GameModes     | 其他模式 |
-| -------------- | -------- | -------------- | -------- | ------------- | -------- | ------------- | -------- |
-| Captain        | 船长     | Builder        | 建筑工   | Jester        | 小丑     | BattleRoyale  | 大乱斗   |
-| Demon          | 恶魔     | Glaciater      | 冷冻人   | Troll         | 小鬼     | Hide and Seek | 躲猫猫   |
-| Doctor         | 医生     | Janitor        | 清理者   |               |          | God Impostor  | 上帝内鬼 |
-| Inspector      | 调查员   | Ninja          | 忍者     |               |          |               |          |
-| Mayor          | 市长     | Undertaker     | 刺客     |               |          |               |          |
-| Sheriff        | 警长     |                |          |               |          |               |          |
-
-## 10.Syyreth ModsAmongUs
+## 7.Syyreth ModsAmongUs
 
 ![image](./Image/Syyreth's%20ModsAmongUs%20Roles.jpg.png)
 
@@ -420,16 +315,18 @@ Among Us支持版本：2022.8.24
 | Drainer         |          |                |          |                 |          |               |          |
 | Lovers          | 恋人     |                |          |                 |          |               |          |
 
-## 11.SuperNewRoles
+## 8.SuperNewRoles
 
 ![image](Image/SNRImage.png)
 [Github仓库(点这)](https://github.com/ykundesu/SuperNewRoles)
 
-最新版本：v1.5.1.2  
-Among Us支持版本：2022.12.8 & 2022.12.14  
+最新版本：v1.5.2.1  
+Among Us支持版本：2022.12.14  
 更新状况：持续更新中  
 
-## 12.TheOtherRoles CE
+职业多bug也很多，开发者是生产队的驴
+
+## 9.TheOtherRoles CE
 
 ![image](Image/TOR_Logo.jpg)
 [Github仓库(点这)](https://github.com/JustASysAdmin/TheOtherRoles2)  
@@ -438,7 +335,7 @@ Among Us支持版本：2022.12.8 & 2022.12.14
 Among Us支持版本：2022.10.25  
 更新状况：停更  
 
-## 13.TheOtherRoles MR
+## 10.TheOtherRoles MR
 
 [Github仓库(点这)](https://github.com/miru-y/TheOtherRoles-MR)
 
@@ -446,14 +343,16 @@ Among Us支持版本：2022.10.25
 Among Us支持版本：2022.10.25  
 更新状况：持续更新中  
 
-## 14.TownOfHost
+## 11.TownOfHost
 
 ![image](Image/TownOfHost-Title.png)
 [Github仓库(点这)](https://github.com/tukasa0001/TownOfHost)
 
-最新版本：v4.0.0  
-Among Us支持版本：2022.10.25(将要推出支持2022.12.8 & 2022.12.14的版本)  
+最新版本：v4.0.1  
+Among Us支持版本：2022.12.14  
 更新状况：持续更新中  
+
+一个只需房主装模组，其他人就可一起游玩的模组，在原版基础上更改
 
 ## 15.TownOfHost -TheOtherRoles
 
@@ -463,59 +362,82 @@ Among Us支持版本：2022.10.25(将要推出支持2022.12.8 & 2022.12.14的版
 Among Us支持版本：2022.10.25(将要推出支持2022.12.8 & 2022.12.14的版本)  
 更新状况：持续更新中  
 
-## 16.BetterTownOfUS
+Town  Of Host的分支
+dev8 开发者做出来了，但一鸽再鸽
 
-![image](Image/TOU-logo%20(1).png)  
-(原仓库已删除)
-
-## 17.UltimateMods
+## 16.UltimateMods
 
 ![image](Image/UltimateModsWiki.png)
 [Github仓库(点这)](https://github.com/Dekokiyo/UltimateMods)
 
-最新版本：v1.2.0.1  
-Among Us支持版本：2022.12.8 & 2022.12.14  
+最新版本：v1.3.0  
+Among Us支持版本：2022.12.14  
 更新状况：持续更新中  
 
-## 18.PropHunt
+## 17.PropHunt
 
-![image](Image/prophuntlogo.png)
+![image](Image/prophuntlogo.png)  
 
-[Github仓库(点这)](https://github.com/ugackMiner53/PropHunt)
+[Github仓库(点这)](https://github.com/ugackMiner53/PropHunt)  
+
+最新版本：v2022.11.5  
+Among Us支持版本：2022.10.25  
+
+推出了一个叫道具狩猎模式的模组
 
 ## 19.TownOfHost_Y
 
-[Github仓库(点这)](https://github.com/Yumenopai/TownOfHost_Y)
+[Github仓库(点这)](https://github.com/Yumenopai/TownOfHost_Y)  
+
+最新版本：v3.0.2.3  
+Among Us支持版本：2022.10.25  
+
+Town Of Host的分支，在Town Of Host的基础上增加了SuperNewRole的职业
 
 ## 20.AUModS
 
-[Github仓库(点这)](https://github.com/AUModS/AUModS)
+[Github仓库(点这)](https://github.com/AUModS/AUModS)  
+
+最新版本：v22.12.14  
+Among Us支持版本：2022.12.14  
+
+基于TheOtherRole 代码制作的一个模组，作者tomarai曾做过TheOtherRole的分支，TheOtherRole GM就是基于他的TheOtherRole分支做的分支
 
 ## 21.TownOfSuper
 
-[Github仓库(点这)](https://github.com/reitou-mugicha/TownOfSuper)
+[Github仓库(点这)](https://github.com/reitou-mugicha/TownOfSuper)  
 
-## 22.TownOfUsReworked
+最新版本：v1.3.1  
+Among Us支持版本：2022.10.25  
 
-[Github仓库(点这)](https://github.com/AlchlcDvl/TownOfUsReworked)
+采用部分TownOfHost代码制成的功能性模组
 
 ## 23.TownOfLoonie
 
-[Github仓库(点这)](https://github.com/SkullCreeper/TownOfLoonie)
+[Github仓库(点这)](https://github.com/SkullCreeper/TownOfLoonie)  
+
+最新版本：v1.1.0.2  
+Among Us支持版本：2022.10.25  
+
+别问，问就是作者和GMH一样跑路了,这是TownOfHost - TheOtherRole 的分支。
 
 ## 24.AllTheRoles
+![image](https://github.com/Zeo666/AllTheRoles/raw/main/Images/ATR-logo.png)  
+[Github仓库(点这)](https://github.com/Zeo666/AllTheRoles)  
 
-[Github仓库(点这)](https://github.com/Zeo666/AllTheRoles)
-
-最新版本：v0.9.23  
-Among Us支持版本：2022.10.25  
+最新版本：v0.9.25  
+Among Us支持版本：2022.12.14  
 更新状况：持续更新中  
+
+职业多的数不过来的模组,缝合怪模组懂得都懂，房主消失模拟器，建议私服游玩
 
 
 ## 25.Revolutionary-host-roles
 
 ![image](https://github.com/sansai0707/Revolutionary-host-roles/blob/main/images/RHRLogoIcon.png)  
-[Github仓库(点这)](https://github.com/sansai0707/Revolutionary-host-roles)
+[Github仓库(点这)](https://github.com/sansai0707/Revolutionary-host-roles)  
+
+值得期待地类似TownOfHost的模组，毕竟名字挺唬人的
 
 # 旧模组
 
@@ -630,6 +552,82 @@ Among Us支持版本：2021.6.30
 最新版本：v1.2.0  
 Among Us支持版本：2021.5.10  
 更新状况：断更  
+
+## 8.TheOtherRoles GM
+
+[ GitHub仓库 ( 点这 ) ](https://github.com/yukinogatari/TheOtherRoles-GM)  
+
+最新版本：v3.5.5.1  
+Among Us支持版本：2022.3.29   
+更新状况：断更  
+
+### 职业
+
+| Impostors         | 内鬼职业         | Crewmates      | 船员职业 | Neutral          | 中立职业    |
+| ----------------- | ---------------- | -------------- | -------- | ---------------- | ----------- |
+| Evil Mini         | 坏小人           | Nice Mini      | 好小人   | Arsonist         | 纵火犯      |
+| Evil Guesser      | 赌怪             | Nice Guesser   | 好赌怪   | Jester           | 小丑        |
+| Bounty Hunter     | 赏金猎人         | Detective      | 侦探     | Jackal           | 豺狼        |
+| Camouflager       | 隐蔽者           | Engineer       | 工程师   | Sidekick         | 跟班        |
+| Cleaner           | 清洁工           | Hacker         | 黑客     | Lover            | 恋人        |
+| Eraser            | 抹除者           | Lighter        | 小灯人   | Opportunist      | 投机主义者  |
+| Godfather (Mafia) | 教父（黑手党）   | Mayor          | 市长     | Vulture          | 秃鹫        |
+| Mafioso (Mafia)   | 黑手党（黑手党） | Medic          | 医生     | Lawyer           | 律师        |
+| Janitor (Mafia)   | 清洁工（黑手党） | Security Guard | 保安     | Chain-Shifter    | 连环交换师  |
+| Morphling         | 变形者           | Seer           | 灵媒     | Plague Doctor    | 疫医        |
+| Trickster         | 骗术师           | Sheriff        | 警长     | Fox & Immoralist | 狐妖&背德者 |
+| Vampire           | 吸血鬼           | Shifter        | 交换者   |                  |             |
+| Warlock           | 术士             | Snitch         | 告密者   |                  |             |
+| Witch             | 女巫             | Spy            | 间谍     |                  |             |
+| Ninja             | 忍者             | Nice Swapper   | 好换票师 |                  |             |
+| Evil Swapper      | 坏换票师         | Time Master    | 时间之主 |                  |             |
+| Serial Killer     | 嗜血杀手         | Tracker        | 追踪者   |                  |             |
+| Neko-Kabocha      | 复仇者           | Bait           | 诱饵     |                  |             |
+| Evil Watcher      | 坏观察者         | Madmate        | 通灵师   |                  |             |
+|                   |                  | Fortune Teller | 算命先生 |                  |             |
+|                   |                  | Nice Watcher   | 观察者   |                  |             |
+
+GM是管理员模式，一般作为裁判存在，普通模式不建议开启。  
+
+## 9.TheEpicRoles  
+
+![image](./Image/TER_banner.png)  
+
+[ GitHub仓库 ( 点这 ) ](https://github.com/LaicosVK/TheEpicRoles)  
+
+最新版本：v1.1.2  
+Among Us支持版本：2022.2.24  
+更新状况：断更  
+
+## 10.Peasmod
+
+![image](./Image/Logo.png)
+
+[ GitHub仓库 ( 点这 ) ](https://github.com/Peasplayer/Peasmod)  
+
+最新版本：v3.0.0-pre2.2  
+Among Us支持版本：2022.3.29  
+更新状况：断更
+
+### 职业
+
+| Crewmate Roles | 船员职业 | Impostor Roles | 内鬼职业 | Neutral Roles | 中立职业 | GameModes     | 其他模式 |
+| -------------- | -------- | -------------- | -------- | ------------- | -------- | ------------- | -------- |
+| Captain        | 船长     | Builder        | 建筑工   | Jester        | 小丑     | BattleRoyale  | 大乱斗   |
+| Demon          | 恶魔     | Glaciater      | 冷冻人   | Troll         | 小鬼     | Hide and Seek | 躲猫猫   |
+| Doctor         | 医生     | Janitor        | 清理者   |               |          | God Impostor  | 上帝内鬼 |
+| Inspector      | 调查员   | Ninja          | 忍者     |               |          |               |          |
+| Mayor          | 市长     | Undertaker     | 刺客     |               |          |               |          |
+| Sheriff        | 警长     |                |          |               |          |               |          |
+
+### 介绍  
+
+新特点：  
+1.上一场比赛中最先死亡的玩家将在下一场比赛中获得首杀盾。  
+2.就绪状态：当有一个人未准备好时，大厅主持人无法开始游戏。  
+3.定制鼠标光标。  
+4.模组选项类别分类。  
+5.运输船不再抖动。  
 
 ### 职业
 
