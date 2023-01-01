@@ -460,8 +460,8 @@ Among Us支持版本：2022.12.14
 
 [Github仓库(点这)](https://github.com/music-discussion/TownOfHost-TheOtherRoles)
 
-最新版本：v0.9.3.4b  
-Among Us支持版本：2022.10.25(将要推出支持2022.12.8 & 2022.12.14的版本)  
+最新版本：v0.9.3.5b  
+Among Us支持版本：2022.12.8&2022.12.14  
 更新状况：持续更新中  
 
 ## 16.BetterTownOfUS
