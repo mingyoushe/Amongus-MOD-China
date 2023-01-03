@@ -516,24 +516,24 @@ Among Us支持版本：2022.10.25
 
 [Github仓库(点这)](https://github.com/AlchlcDvl/TownOfUsReworked)
 
-最新版本：v3.4.0
-Among Us支持版本：2022.10.25
+最新版本：v3.4.0  
+Among Us支持版本：2022.10.25  
 更新状况：持续更新中
 
 ## 23.TownOfLoonie
 
 [Github仓库(点这)](https://github.com/SkullCreeper/TownOfLoonie)
 
-最新版本：v1.1.0.1
-Among Us支持版本：2022.10.25
+最新版本：v1.1.0.1  
+Among Us支持版本：2022.10.25  
 更新状况：持续更新中
 
 ## 24.AllTheRoles
 
 [Github仓库(点这)](https://github.com/Zeo666/AllTheRoles)
 
-最新版本：v0.9.24
-Among Us支持版本：2022.12.14
+最新版本：v0.9.26  
+Among Us支持版本：2022.12.14  
 更新状况：持续更新中  
 
 
