@@ -273,8 +273,8 @@ Among Us支持版本：2022.2.24
 ![image](./Image/LasMonjas_banner.png)  
 [ GitHub仓库 ( 点这 ) ](https://github.com/KiraYamato94/LasMonjas)  
 
-最新版本：v3.0.3  
-Among Us支持版本：2022.10.25  
+最新版本：v3.0.4  
+Among Us支持版本：2022.12.14  
 更新状况：持续更新中  
 
 ### 切换汉语
