@@ -82,8 +82,8 @@
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/TheOtherRolesAU/TheOtherRoles)  
 
-最新版本：v4.2.0  
-Among Us支持版本：2022.10.25s  
+最新版本：v4.2.1  
+Among Us支持版本：2022.12.14  
 更新状况：持续更新中  
 
 ### 职业
