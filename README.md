@@ -354,7 +354,7 @@ Among Us支持版本：2022.12.14
 
 一个只需房主装模组，其他人就可一起游玩的模组，在原版基础上更改
 
-## 15.TownOfHost -TheOtherRoles
+## 12.TownOfHost -TheOtherRoles
 
 [Github仓库(点这)](https://github.com/music-discussion/TownOfHost-TheOtherRoles)
 
@@ -365,7 +365,7 @@ Among Us支持版本：2022.10.25(将要推出支持2022.12.8 & 2022.12.14的版
 Town  Of Host的分支
 dev8 开发者做出来了，但一鸽再鸽
 
-## 16.UltimateMods
+## 13.UltimateMods
 
 ![image](Image/UltimateModsWiki.png)
 [Github仓库(点这)](https://github.com/Dekokiyo/UltimateMods)
@@ -374,7 +374,7 @@ dev8 开发者做出来了，但一鸽再鸽
 Among Us支持版本：2022.12.14  
 更新状况：持续更新中  
 
-## 17.PropHunt
+## 14.PropHunt
 
 ![image](Image/prophuntlogo.png)  
 
@@ -385,7 +385,7 @@ Among Us支持版本：2022.10.25
 
 推出了一个叫道具狩猎模式的模组
 
-## 19.TownOfHost_Y
+## 15.TownOfHost_Y
 
 [Github仓库(点这)](https://github.com/Yumenopai/TownOfHost_Y)  
 
@@ -394,7 +394,7 @@ Among Us支持版本：2022.10.25
 
 Town Of Host的分支，在Town Of Host的基础上增加了SuperNewRole的职业
 
-## 20.AUModS
+## 16.AUModS
 
 [Github仓库(点这)](https://github.com/AUModS/AUModS)  
 
@@ -403,7 +403,7 @@ Among Us支持版本：2022.12.14
 
 基于TheOtherRole 代码制作的一个模组，作者tomarai曾做过TheOtherRole的分支，TheOtherRole GM就是基于他的TheOtherRole分支做的分支
 
-## 21.TownOfSuper
+## 17.TownOfSuper
 
 [Github仓库(点这)](https://github.com/reitou-mugicha/TownOfSuper)  
 
@@ -412,7 +412,7 @@ Among Us支持版本：2022.10.25
 
 采用部分TownOfHost代码制成的功能性模组
 
-## 23.TownOfLoonie
+## 18.TownOfLoonie
 
 [Github仓库(点这)](https://github.com/SkullCreeper/TownOfLoonie)  
 
@@ -421,18 +421,18 @@ Among Us支持版本：2022.10.25
 
 别问，问就是作者和GMH一样跑路了,这是TownOfHost - TheOtherRole 的分支。
 
-## 24.AllTheRoles
+## 19.AllTheRoles
 ![image](https://github.com/Zeo666/AllTheRoles/raw/main/Images/ATR-logo.png)  
 [Github仓库(点这)](https://github.com/Zeo666/AllTheRoles)  
 
-最新版本：v0.9.25  
+最新版本：v0.9.27  
 Among Us支持版本：2022.12.14  
 更新状况：持续更新中  
 
-职业多的数不过来的模组,缝合怪模组懂得都懂，房主消失模拟器，建议私服游玩
+建议私服游玩  
 
 
-## 25.Revolutionary-host-roles
+## 20.Revolutionary-host-roles
 
 ![image](https://github.com/sansai0707/Revolutionary-host-roles/blob/main/images/RHRLogoIcon.png)  
 [Github仓库(点这)](https://github.com/sansai0707/Revolutionary-host-roles)  
