@@ -5,17 +5,17 @@
   - [提醒](#提醒)
 - [链接](#链接)
 - [模组](#模组)
-  - [1.TheOtherRoles](#1theotherroles)
-  - [2.TheOtherRoles GM-Haoming](#2theotherroles-gm-haoming)
-  - [3.TownOfUs-R](#3townofus-r)
-  - [4.Las Monjas](#4las-monjas)
-  - [5.ExtremeRoles](#5extremeroles)
-  - [6.Nebula On The Ship](#6nebula-on-the-ship)
-  - [7.Syyreth ModsAmongUs](#7syyreth-modsamongus)
-  - [8.SuperNewRoles](#8supernewroles)
-  - [9.TheOtheRoles CE](#9theotherroles-ce)
-  - [10.TheOtherRoles MR](#10theotherroles-mr)
-  - [11.TownOfHost](#11townofhost)
+  - [１.TheOtherRoles](#1theotherroles)
+  - [２.TheOtherRoles GM-Haoming](#2theotherroles-gm-haoming)
+  - [３.TownOfUs-R](#3townofus-r)
+  - [４.Las Monjas](#4las-monjas)
+  - [５.ExtremeRoles](#5extremeroles)
+  - [６.Nebula On The Ship](#6nebula-on-the-ship)
+  - [７.Syyreth ModsAmongUs](#7syyreth-modsamongus)
+  - [８.SuperNewRoles](#8supernewroles)
+  - [９.TheOtheRoles CE](#9theotherroles-ce)
+  - [１０.TheOtherRoles MR](#10theotherroles-mr)
+  - [１１.TownOfHost](#11townofhost)
   - [12.TownOfHost-TheOtherRoles](#12townofhost--theotherroles)
   - [13.UltimateMods](#13ultimatemods)
   - [14.PropHunt](#14prophunt)
@@ -41,10 +41,10 @@
   - [２.BetterCrewLink](#２bettercrewlink)
   - [３.ReplayInWindow](#３ReplayInWindow)
   - [４.ModManager](#４modmanager)
-  - [5.levelimposter-editor](#5levelimposter-editor)
+  - [５.levelimposter-editor](#５levelimposter-editor)
 - [地图](#地图)
-  - [１.Submerged](#1submerged)
-  - [2.levelimposter](#2levelimposter)
+  - [１.Submerged](#１submerged)
+  - [２.levelimposter](#２levelimposter)
 - [多语言样式声明](#多语言样式声明)
   - [简体中文（SChinese）](#简体中文schinese)
   - [繁體中文（TChinese）](#繁體中文tchinese)
@@ -678,7 +678,7 @@ Among Us支持版本：任意版本
 Among Us支持版本：大部分版本  
 更新状况：持续更新中  
 
-## 5.LevelImposter-Editor
+## ５.LevelImposter-Editor
 ![image](https://camo.githubusercontent.com/f55150ac1820966f8e30cfac3d138fe4e33da49ecc5d14897b73aef5a8a59447/68747470733a2f2f692e696d6775722e636f6d2f456665514a68342e706e67)  
 [ Github仓库 ( 点这 ) ](https://github.com/DigiWorm0/LevelImposter-Editor)  
 [网站](https://editor.levelimposter.net/)  
@@ -741,7 +741,7 @@ Among Us支持版本：2022.10.25
 | Português                | ❌ |  不支持  |
 | 한국어                    | ❌ |  不支持  |
 
-## 2.LevelImposter
+## ２.LevelImposter
 ![image](https://camo.githubusercontent.com/c09b74dc523d551de620bd8b9ec152a86ad38ed1a33f4356cda81552eb515717/68747470733a2f2f692e696d6775722e636f6d2f76774a6d4849622e706e67)  
 [ Github仓库 ( 点这 ) ](https://github.com/DigiWorm0/LevelImposter)  
 [网站](https://levelimposter.net/)  
