@@ -335,7 +335,7 @@ Among Us支持版本：2022.12.8 & 12.14
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/Dolly1016/Nebula)  
 
-最新版本：v2.0.2.1
+最新版本：v2.1  
 Among Us支持版本：2022.12.8 & 2022.12.14   
 更新状况：持续更新中  
 
@@ -452,8 +452,8 @@ Among Us支持版本：2022.10.25
 ![image](Image/TownOfHost-Title.png)
 [Github仓库(点这)](https://github.com/tukasa0001/TownOfHost)
 
-最新版本：v4.0.1
-Among Us支持版本：2022.12.14
+最新版本：v4.0.2  
+Among Us支持版本：2022.12.14  
 更新状况：持续更新中  
 
 ## 15.TownOfHost -TheOtherRoles
@@ -492,8 +492,8 @@ Among Us支持版本：2022.10.25
 
 [Github仓库(点这)](https://github.com/Yumenopai/TownOfHost_Y)
 
-最新版本：v3.0.2.3
-Among Us支持版本：2022.10.25
+最新版本：402.4.1  
+Among Us支持版本：2022.12.14  
 更新状况：持续更新中
 
 ## 20.AUModS
