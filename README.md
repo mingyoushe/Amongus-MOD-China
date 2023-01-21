@@ -30,6 +30,7 @@
   - [23.TownOfLoonie](#23townofloonie)
   - [24.AllTheRoles](#24alltheroles)
   - [25.Revolutionary-host-roles](#25revolutionary-host-roles)
+  - [26.TownOfHostEdited](#26townofhostedited)
 - [旧模组](#旧模组)
   - [1.TownOfImpostors](#1townofimpostors)
   - [2.TownOfUs](#2townofus)
@@ -541,6 +542,10 @@ Among Us支持版本：2022.12.14
 
 ![image](https://github.com/sansai0707/Revolutionary-host-roles/blob/main/images/RHRLogoIcon.png)  
 [Github仓库(点这)](https://github.com/sansai0707/Revolutionary-host-roles)
+
+## 26.TownOfHostEdited
+![image](https://raw.githubusercontent.com/KARPED1EM/TownOfHostEdited/TOHE/Images/Cover.webp)
+[Github仓库(点这)](https://github.com/KARPED1EM/TownOfHostEdited)
 
 # 旧模组
 
