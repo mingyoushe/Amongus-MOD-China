@@ -31,6 +31,8 @@
   - [24.AllTheRoles](#24alltheroles)
   - [25.Revolutionary-host-roles](#25revolutionary-host-roles)
   - [26.TownOfHostEdited](#26townofhostedited)
+  - [27.TheIdealShip](#27theidealship)
+  - [28.TownOfThem](#28townofthem)
 - [旧模组](#旧模组)
   - [1.TownOfImpostors](#1townofimpostors)
   - [2.TownOfUs](#2townofus)
@@ -546,6 +548,14 @@ Among Us支持版本：2022.12.14
 ## 26.TownOfHostEdited
 ![image](https://raw.githubusercontent.com/KARPED1EM/TownOfHostEdited/TOHE/Images/Cover.webp)
 [Github仓库(点这)](https://github.com/KARPED1EM/TownOfHostEdited)
+
+## 27.TheIdealShip
+![image](https://github.com/TheIdealShipAU/TheIdealShip/blob/main/Images/TIS.png)
+[Github仓库(点这)](https://github.com/TheIdealShipAU/TheIdealShip)
+
+## 28.TownOfThem
+![image](https://github.com/JieGeLovesDengDuaLang/TownOfThem/blob/main/Resources/totLogo.png)
+[Github仓库(点这)](https://github.com/JieGeLovesDengDuaLang/TownOfThem)
 
 # 旧模组
 
