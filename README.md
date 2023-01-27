@@ -154,6 +154,7 @@ Among Us支持版本：2022.10.25
 
 ## 3.TownOfUs-R
 
+![image](https://github.com/eDonnes124/Town-Of-Us-R/blob/master/Images/TOU-logo.png)
 [ GitHub仓库 ( 点这 ) ](https://github.com/eDonnes124/Town-Of-Us-R)  
 
 最新版本：v4.0.1  
@@ -248,7 +249,6 @@ Among Us支持版本：2022.12.14
 Among Us支持版本：12.14  
 更新状况：持续更新中  
 
-玩不懂，bug也多  
 
 ## 6.Nebula On The Ship
 
@@ -289,7 +289,6 @@ Among Us支持版本：2022.12.14
 | Lover     | 恋人     |             |          |
 | Trilemma  | 三角恋   |             |          |
 
-好玩，但bug也多
 
 ## 7.Syyreth ModsAmongUs
 
@@ -330,7 +329,6 @@ Among Us支持版本：2022.8.24
 Among Us支持版本：2022.12.14  
 更新状况：持续更新中  
 
-职业多bug也很多，开发者是生产队的驴
 
 ## 9.TheOtherRoles CE
 
@@ -358,7 +356,7 @@ Among Us支持版本：2022.10.25
 Among Us支持版本：2022.12.14  
 更新状况：持续更新中  
 
-一个只需房主装模组，其他人就可一起游玩的模组，在原版基础上更改
+只需房主装模组，其他人就可一起游玩，在原版基础上更改
 
 ## 12.TownOfHost -TheOtherRoles
 
@@ -378,7 +376,7 @@ dev8 开发者做出来了，但一鸽再鸽
 
 最新版本：v1.3.0  
 Among Us支持版本：2022.12.14  
-更新状况：作者忽然就跑路了  
+更新状况：停止更新  
 
 ## 14.PropHunt
 
@@ -407,7 +405,7 @@ Town Of Host的分支，在Town Of Host的基础上增加了SuperNewRole的职�
 最新版本：v22.12.14  
 Among Us支持版本：2022.12.14  
 
-基于TheOtherRole 代码制作的一个模组，作者tomarai曾做过TheOtherRole的分支，TheOtherRole GM就是基于他的TheOtherRole分支做的分支
+基于TheOtherRoles 代码制作的模组，作者tomarai曾做过TheOtherRole的分支，TheOtherRole GM就是基于他的TheOtherRole分支做的分支
 
 ## 17.TownOfSuper
 
@@ -425,13 +423,13 @@ Among Us支持版本：2022.10.25
 最新版本：v1.1.0.2  
 Among Us支持版本：2022.10.25  
 
-别问，问就是作者和GMH一样跑路了,这是TownOfHost - TheOtherRole 的分支。
+作者和GMH一样跑路了,这是TownOfHost - TheOtherRole 的分支。
 
 ## 19.AllTheRoles
 ![image](https://github.com/Zeo666/AllTheRoles/raw/main/Images/ATR-logo.png)  
 [Github仓库(点这)](https://github.com/Zeo666/AllTheRoles)  
 
-最新版本：v0.9.27  
+最新版本：v0.9.28  
 Among Us支持版本：2022.12.14  
 更新状况：持续更新中  
 
@@ -443,7 +441,6 @@ Among Us支持版本：2022.12.14
 ![image](https://github.com/sansai0707/Revolutionary-host-roles/blob/main/images/RHRLogoIcon.png)  
 [Github仓库(点这)](https://github.com/sansai0707/Revolutionary-host-roles)  
 
-值得期待地类似TownOfHost的模组，毕竟名字挺唬人的
 
 ## 21.TheIdealShip
 ![image](https://github.com/TheIdealShipAU/TheIdealShip/raw/main/Images/TIS.png)  
