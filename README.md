@@ -30,7 +30,7 @@
   - [1.TownOfImpostors](#1townofimpostors)
   - [2.TownOfUs](#2townofus)
   - [3.Chess](#3Chess)
-  - [4.hallenger](#4hallenger)
+  - [4.Challenger](#4Challenger)
   - [5.Cursed-Among-Us](#5cursed-among-us)
   - [6.skeld.net](#6skeldnet)
   - [7.HarryPotter](#7HarryPotter)
@@ -527,7 +527,7 @@ Among Us支持版本：2021.12.15
 Among Us支持版本：2021.6.30  
 更新状况：断更  
 
-## 4.hallenger
+## 4.Challenger
 
 ![image](./Image/%E6%8C%91%E6%88%98%E8%80%85%E6%88%91%E4%BB%AC%E4%B8%AD%E9%97%B44.1.3.png)  
 
