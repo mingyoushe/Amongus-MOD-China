@@ -154,8 +154,8 @@ Among Us支持版本：2022.10.25
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/eDonnes124/Town-Of-Us-R)  
 
-最新版本：v3.4.0  
-Among Us支持版本：2022.10.25   
+最新版本：v4.0.1  
+Among Us支持版本：2022.12.14   
 更新状况：持续更新中  
 
 ### 职业  
@@ -191,6 +191,8 @@ Among Us支持版本：2022.10.25
 最新版本：v3.0.4  
 Among Us支持版本：2022.12.14  
 更新状况：持续更新中  
+
+一句话，一卡一卡，分配角色被改成开盲盒
 
 ### 切换汉语
 
@@ -242,15 +244,17 @@ Among Us支持版本：2022.12.14
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/yukieiji/ExtremeRoles)  
 
-最新版本：v5.0.0.4  
+最新版本：v5.0.0.6  
 Among Us支持版本：12.14  
 更新状况：持续更新中  
+
+玩不懂，bug也多  
 
 ## 6.Nebula On The Ship
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/Dolly1016/Nebula)  
 
-最新版本：v2.0.2.2  
+最新版本：v2.1  
 Among Us支持版本：2022.12.14   
 更新状况：持续更新中  
 
@@ -284,6 +288,8 @@ Among Us支持版本：2022.12.14
 | Guesser   | 赌怪     |             |          |
 | Lover     | 恋人     |             |          |
 | Trilemma  | 三角恋   |             |          |
+
+好玩，但bug也多
 
 ## 7.Syyreth ModsAmongUs
 
@@ -348,7 +354,7 @@ Among Us支持版本：2022.10.25
 ![image](Image/TownOfHost-Title.png)
 [Github仓库(点这)](https://github.com/tukasa0001/TownOfHost)
 
-最新版本：v4.0.1  
+最新版本：v4.0.2  
 Among Us支持版本：2022.12.14  
 更新状况：持续更新中  
 
@@ -358,8 +364,8 @@ Among Us支持版本：2022.12.14
 
 [Github仓库(点这)](https://github.com/music-discussion/TownOfHost-TheOtherRoles)
 
-最新版本：v0.9.3.4b  
-Among Us支持版本：2022.10.25(将要推出支持2022.12.8 & 2022.12.14的版本)  
+最新版本：v0.9.3.7b  
+Among Us支持版本：2022.12.14  
 更新状况：持续更新中  
 
 Town  Of Host的分支
@@ -372,7 +378,7 @@ dev8 开发者做出来了，但一鸽再鸽
 
 最新版本：v1.3.0  
 Among Us支持版本：2022.12.14  
-更新状况：持续更新中  
+更新状况：作者忽然就跑路了  
 
 ## 14.PropHunt
 
@@ -389,8 +395,8 @@ Among Us支持版本：2022.10.25
 
 [Github仓库(点这)](https://github.com/Yumenopai/TownOfHost_Y)  
 
-最新版本：v3.0.2.3  
-Among Us支持版本：2022.10.25  
+最新版本：v402.5  
+Among Us支持版本：2022.12.14  
 
 Town Of Host的分支，在Town Of Host的基础上增加了SuperNewRole的职业
 
@@ -438,6 +444,27 @@ Among Us支持版本：2022.12.14
 [Github仓库(点这)](https://github.com/sansai0707/Revolutionary-host-roles)  
 
 值得期待地类似TownOfHost的模组，毕竟名字挺唬人的
+
+## 21.TheIdealShip
+![image](https://github.com/TheIdealShipAU/TheIdealShip/raw/main/Images/TIS.png)  
+[Github仓库(点这)](https://github.com/TheIdealShipAU/TheIdealShip)  
+
+最新版本：v0.3.4  
+Among Us支持版本：2022.12.14  
+更新状况：持续更新中  
+
+天寸：我做的模组doge  
+
+
+## 22.TownOfHostEdited
+![image](https://github.com/KARPED1EM/TownOfHostEdited/raw/TOHE/Images/Cover.webp)  
+[Github仓库(点这)](https://github.com/KARPED1EM/TownOfHostEdited)  
+
+最新版本：v4.0.2.3  
+Among Us支持版本：2022.12.14  
+更新状况：持续更新中  
+
+咔皮呆做的TownOfHost的分支
 
 # 旧模组
 
