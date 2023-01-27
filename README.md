@@ -25,6 +25,8 @@
   - [18.TownOfLoonie](#18townofloonie)
   - [19.AllTheRoles](#19alltheroles)
   - [20.Revolutionary-host-roles](#20revolutionary-host-roles)
+  - [21.TheIdealShip](#21theidealship)
+  - [22.TownOfHostEdited](#22townofhostedited)
 - [旧模组](#旧模组)
   - [1.TownOfImpostors](#1townofimpostors)
   - [2.TownOfUs](#2townofus)
