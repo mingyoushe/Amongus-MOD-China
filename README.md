@@ -6,26 +6,23 @@
 - [链接](#链接)
 - [模组](#模组)
   - [１.TheOtherRoles](#1theotherroles)
-  - [２.TheOtherRoles GM-Haoming](#2theotherroles-gm-haoming)
-  - [３.TownOfUs-R](#3townofus-r)
-  - [４.Las Monjas](#4las-monjas)
-  - [５.ExtremeRoles](#5extremeroles)
-  - [６.Nebula On The Ship](#6nebula-on-the-ship)
-  - [７.Syyreth ModsAmongUs](#7syyreth-modsamongus)
-  - [８.SuperNewRoles](#8supernewroles)
-  - [９.TheOtheRoles CE](#9theotherroles-ce)
-  - [10.TheOtherRoles MR](#10theotherroles-mr)
-  - [11.TownOfHost](#11townofhost)
-  - [12.TownOfHost-TheOtherRoles](#12townofhost--theotherroles)
-  - [13.AllTheRoles](#13alltheroles)
-  - [14.PropHunt](#14prophunt)
-  - [15.TownOfHost_Y](#15TownOfHost_Y)
-  - [16.AUModS](#16aumods)
-  - [17.TownOfSuper](#17townofsuper)
-  - [18.TownOfLoonie](#18townofloonie)
-  - [19.Revolutionary-host-roles](#19revolutionary-host-roles)
-  - [20.TheIdealShip](#20theidealship)
-  - [21.TownOfHostEdited](#21townofhostedited)
+  - [2.TownOfUs-R](#2townofus-r)
+  - [3.Las Monjas](#3las-monjas)
+  - [4.ExtremeRoles](#4extremeroles)
+  - [5.Nebula On The Ship](#5nebula-on-the-ship)
+  - [6.SuperNewRoles](#6supernewroles)
+  - [7.TheOtheRoles CE](#7theotherroles-ce)
+  - [8.TheOtherRoles MR](#8theotherroles-mr)
+  - [9.TownOfHost](#9townofhost)
+  - [10.TownOfHost-TheOtherRoles](#10townofhost--theotherroles)
+  - [11.AllTheRoles](#11alltheroles)
+  - [12.TownOfHost_Y](#12TownOfHost_Y)
+  - [13.AUModS](#13aumods)
+  - [14.TownOfSuper](#14townofsuper)
+  - [15.Revolutionary-host-roles](#15revolutionary-host-roles)
+  - [16.TheIdealShip](#16theidealship)
+  - [17.TownOfHostEdited](#17townofhostedited)
+  - [18.TheOtherUs](#18theotherus)
 - [旧模组](#旧模组)
   - [1.TownOfImpostors](#1townofimpostors)
   - [2.TownOfUs](#2townofus)
@@ -38,6 +35,10 @@
   - [9.TheEpicRoles](#9theepicroles)
   - [10.Peasmod](#10peasmod)
   - [11.UltimateMods](#11UltimateMods)
+  - [12.TheOtherRoles GM-Haoming](#12theotherroles-gm-haoming)
+  - [13.Syyreth ModsAmongUs](#13syyreth-modsamongus)
+  - [14.PropHunt](#14prophunt)
+  - [15.TownOfLoonie](#15townofloonie)
 - [工具](#工具)
   - [１.crewlink](#１crewlink)
   - [２.BetterCrewLink](#２bettercrewlink)
@@ -77,6 +78,20 @@
 [![image](./Image/hanpi.png)](https://amonguscn.club)
 
 # 模组
+
+<!-- 模板
+## 序号.模组名
+！[image](图片链接)  
+
+[ GitHub仓库 ( 点这 ) ](仓库地址)  
+
+最新版本：v  
+Among Us支持版本：  
+更新状况：  
+
+职业：
+
+点评： -->
 
 ## 1.TheOtherRoles
 
@@ -119,40 +134,7 @@ Among Us支持版本：2022.12.14
 | Pursuer    | 追随者   | Invert        | 破平者   |              |          |
 | Prosecutor | 检察官   |               |          |              |          |
 
-## 2.TheOtherRoles GM-Haoming
-
-[ GitHub仓库 ( 点这 ) ](https://github.com/haoming37/GMH)  
-
-最新版本：v2.3.136  
-Among Us支持版本：2022.10.25  
-更新状况：断更(作者在冬眠)  
-
-### 介绍  
-
-与潜艇地图兼容  
-地图改动(Polus) ：  
-你可以设置随机重生地点  
-附加额外通风口（出生点-脉搏室-右下角样本室）  
-可以设置心电图在右下角样本室  
-地图改动（airship）  
-在任务中增加墙壁检查(飞艇)#来自AuShipMod的创意  
-
-### 职业
-
-在GM版本基础上新增职业如下：  
-
-| 内鬼                | 船员     | 中立       |
-| ------------------- | -------- | ---------- |
-| 邪恶的黑客          | 占卜师   | 狐妖       |
-| 邪恶的追踪者        | 幻视者   | 背德者     |
-| 设陷者              | 福尔摩斯 | 薛定谔的猫 |
-| 模仿者（杀手/助手） |          | 傀儡师     |
-| 双子爆破者A/B       |          | 魅魔       |
-| 嗜血杀手            |          | 莫里亚蒂   |
-| 绝境者              |          | 丘比特     |
-|                     |          | 化身博士   |
-
-## 3.TownOfUs-R
+## 2.TownOfUs-R
 
 ![image](https://github.com/eDonnes124/Town-Of-Us-R/blob/master/Images/TOU-logo.png)  
 
@@ -187,7 +169,7 @@ Among Us支持版本：2022.12.14
 | Time Lord      | 时间之主 |                |          |                |          |              |          |
 | Transporter    | 传送师   |                |          |                |          |              |          |
 
-## 4.Las Monjas  
+## 3.Las Monjas  
 
 ![image](./Image/LasMonjas_banner.png)  
 
@@ -243,7 +225,7 @@ Among Us支持版本：2022.12.14
 千年隼号地图展示：  
 ![image](./Image/%E5%8D%83%E5%B9%B4%E9%9A%BC.jpg)
 
-## 5.ExtremeRoles
+## 4.ExtremeRoles
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/yukieiji/ExtremeRoles)  
 
@@ -252,7 +234,7 @@ Among Us支持版本：12.14
 更新状况：持续更新中  
 
 
-## 6.Nebula On The Ship
+## 5.Nebula On The Ship
 
 ![image](./Image/Nebula.png)  
 
@@ -292,39 +274,7 @@ Among Us支持版本：2022.12.14
 | Guesser   | 赌怪     |             |          |
 | Lover     | 恋人     |             |          |
 | Trilemma  | 三角恋   |             |          |
-
-
-## 7.Syyreth ModsAmongUs
-
-![image](./Image/Syyreth's%20ModsAmongUs%20Roles.jpg.png)
-
-[ GitHub仓库 ( 点这 ) ](https://github.com/Syyreth/ModsAmongUs)  
-
-最新版本：v4.0.6  
-Among Us支持版本：2022.8.24  
-更新状况：断更  
-
-### 职业
-
-| Crewmate Roles: | 船员职业 | Neutral Roles: | 中立职业 | Impostor Roles: | 内鬼职业 | Coven Roles:  | 巫师团   |
-| --------------- | -------- | -------------- | -------- | --------------- | -------- | ------------- | -------- |
-| V.I.P           | VIP      | Executioner    |          | Janitor         | 清理者   | Witch         | 女巫     |
-| Captain         | 船长     | Jester         | 小丑     | Morpher         | 变形者   | Medusa        | 美杜莎   |
-| Vigilante       | 警长     | Phantom        |          | Spy             | 间谍     | Potion Master | 药剂师   |
-| Guardian        | 保安     | Arsonist       | 纵火犯   | Consort         |          | Necromancer   | 死灵法师 |
-| Investigator    | 调查员   | Ghoul          |          | The Stealth     |          | Hex Master    |          |
-| Swapper         | 换票师   | Plaguebearer   |          | Graverobber     |          | Poisoner      | 毒药师   |
-| Engineer        | 工程师   | Angel          | 天使     | FlashBang       |          |               |          |
-| Visionary       |          | Serial Killer  | 连环杀手 | Blackmailer     |          |               |          |
-| Chronos         |          | Survivor       |          | Bounty Hunter   | 赏金猎人 |               |          |
-| Retributionist  | 殉道师   |                |          | AntiTasker      |          |               |          |
-| Lookout         |          |                |          | Assassin        | 刺客     |               |          |
-| Tracker         | 追踪者   |                |          |                 |          |               |          |
-| Pilot           |          |                |          |                 |          |               |          |
-| Drainer         |          |                |          |                 |          |               |          |
-| Lovers          | 恋人     |                |          |                 |          |               |          |
-
-## 8.SuperNewRoles
+## 6.SuperNewRoles
 
 ![image](Image/SNRImage.png)  
 
@@ -335,7 +285,7 @@ Among Us支持版本：2022.12.14
 更新状况：持续更新中  
 
 
-## 9.TheOtherRoles CE
+## 7.TheOtherRoles CE
 
 ![image](Image/TOR_Logo.jpg)  
 
@@ -345,7 +295,7 @@ Among Us支持版本：2022.12.14
 Among Us支持版本：2022.10.25  
 更新状况：停更  
 
-## 10.TheOtherRoles MR
+## 8.TheOtherRoles MR
 
 [Github仓库(点这)](https://github.com/miru-y/TheOtherRoles-MR)
 
@@ -353,7 +303,7 @@ Among Us支持版本：2022.10.25
 Among Us支持版本：2022.10.25  
 更新状况：持续更新中  
 
-## 11.TownOfHost
+## 9.TownOfHost
 
 ![image](Image/TownOfHost-Title.png)  
 
@@ -365,7 +315,7 @@ Among Us支持版本：2022.12.14
 
 只需房主装模组，其他人就可一起游玩，在原版基础上更改
 
-## 12.TownOfHost -TheOtherRoles
+## 10.TownOfHost -TheOtherRoles
 
 [Github仓库(点这)](https://github.com/music-discussion/TownOfHost-TheOtherRoles)
 
@@ -376,7 +326,7 @@ Among Us支持版本：2022.12.14
 Town  Of Host的分支
 dev8 开发者做出来了，但一鸽再鸽
 
-## 13.AllTheRoles
+## 11.AllTheRoles
 ![image](https://github.com/Zeo666/AllTheRoles/raw/main/Images/ATR-logo.png)  
 [Github仓库(点这)](https://github.com/Zeo666/AllTheRoles)  
 
@@ -386,18 +336,7 @@ Among Us支持版本：2022.12.14
 
 建议私服游玩  
 
-## 14.PropHunt
-
-![image](Image/prophuntlogo.png)  
-
-[Github仓库(点这)](https://github.com/ugackMiner53/PropHunt)  
-
-最新版本：v2022.11.5  
-Among Us支持版本：2022.10.25  
-
-推出了一个叫道具狩猎模式的模组
-
-## 15.TownOfHost_Y
+## 12.TownOfHost_Y
 
 [Github仓库(点这)](https://github.com/Yumenopai/TownOfHost_Y)  
 
@@ -406,7 +345,7 @@ Among Us支持版本：2022.12.14
 
 Town Of Host的分支，在Town Of Host的基础上增加了SuperNewRole的职业
 
-## 16.AUModS
+## 13.AUModS
 
 [Github仓库(点这)](https://github.com/AUModS/AUModS)  
 
@@ -415,7 +354,7 @@ Among Us支持版本：2022.12.14
 
 基于TheOtherRoles 代码制作的模组，作者tomarai曾做过TheOtherRole的分支，TheOtherRole GM就是基于他的TheOtherRole分支做的分支
 
-## 17.TownOfSuper
+## 14.TownOfSuper
 
 [Github仓库(点这)](https://github.com/reitou-mugicha/TownOfSuper)  
 
@@ -424,22 +363,13 @@ Among Us支持版本：2022.10.25
 
 采用部分TownOfHost代码制成的功能性模组
 
-## 18.TownOfLoonie
-
-[Github仓库(点这)](https://github.com/SkullCreeper/TownOfLoonie)  
-
-最新版本：v1.1.0.2  
-Among Us支持版本：2022.10.25  
-
-作者和GMH一样跑路了,这是TownOfHost - TheOtherRole 的分支。
-
-## 19.Revolutionary-host-roles
+## 15.Revolutionary-host-roles
 
 ![image](https://github.com/sansai0707/Revolutionary-host-roles/blob/main/images/RHRLogoIcon.png)  
 [Github仓库(点这)](https://github.com/sansai0707/Revolutionary-host-roles)  
 
 
-## 20.TheIdealShip
+## 16.TheIdealShip
 ![image](https://github.com/TheIdealShipAU/TheIdealShip/raw/main/Images/TIS.png)  
 [Github仓库(点这)](https://github.com/TheIdealShipAU/TheIdealShip)  
 
@@ -450,7 +380,7 @@ Among Us支持版本：2022.12.14
 天寸：我做的模组doge  
 
 
-## 21.TownOfHostEdited
+## 17.TownOfHostEdited
 ![image](https://github.com/KARPED1EM/TownOfHostEdited/raw/TOHE/Images/Cover.webp)  
 [Github仓库(点这)](https://github.com/KARPED1EM/TownOfHostEdited)  
 
@@ -458,7 +388,26 @@ Among Us支持版本：2022.12.14
 Among Us支持版本：2022.12.14  
 更新状况：持续更新中  
 
-咔皮呆做的TownOfHost的分支
+咔皮呆做的TownOfHost的分支  
+
+## 18.TheOtherUs
+！[image](https://user-images.githubusercontent.com/113001912/192659417-85c94f28-d9b9-454a-a6b4-6679fe9dca91.png)  
+
+[ GitHub仓库 ( 点这 ) ](https://github.com/SpexGH/TheOtherUs)  
+
+最新版本：v1.2.4  
+Among Us支持版本：2022.12.14  
+更新状况：持续更新  
+
+<!-- 暂时注释，等出正式版再加
+## 19.TownOfThem
+！[image](https://github.com/JieGeLovesDengDuaLang/TownOfThem/raw/main/Resources/totLogo.png)  
+
+[ GitHub仓库 ( 点这 ) ](https://github.com/JieGeLovesDengDuaLang/TownOfThem)  
+
+最新版本：v  
+Among Us支持版本：  
+更新状况：   -->
 
 # 旧模组
 
@@ -669,6 +618,89 @@ Among Us支持版本：2022.3.29
 最新版本：v1.3.0  
 Among Us支持版本：2022.12.14  
 更新状况：断更  
+
+## 12.TheOtherRoles GM-Haoming
+
+[ GitHub仓库 ( 点这 ) ](https://github.com/haoming37/GMH)  
+
+最新版本：v2.3.136  
+Among Us支持版本：2022.10.25  
+更新状况：断更(作者在冬眠)  
+
+### 介绍  
+
+与潜艇地图兼容  
+地图改动(Polus) ：  
+你可以设置随机重生地点  
+附加额外通风口（出生点-脉搏室-右下角样本室）  
+可以设置心电图在右下角样本室  
+地图改动（airship）  
+在任务中增加墙壁检查(飞艇)#来自AuShipMod的创意  
+
+### 职业
+
+在GM版本基础上新增职业如下：  
+
+| 内鬼                | 船员     | 中立       |
+| ------------------- | -------- | ---------- |
+| 邪恶的黑客          | 占卜师   | 狐妖       |
+| 邪恶的追踪者        | 幻视者   | 背德者     |
+| 设陷者              | 福尔摩斯 | 薛定谔的猫 |
+| 模仿者（杀手/助手） |          | 傀儡师     |
+| 双子爆破者A/B       |          | 魅魔       |
+| 嗜血杀手            |          | 莫里亚蒂   |
+| 绝境者              |          | 丘比特     |
+|                     |          | 化身博士   |
+
+## 13.Syyreth ModsAmongUs
+
+![image](./Image/Syyreth's%20ModsAmongUs%20Roles.jpg.png)
+
+[ GitHub仓库 ( 点这 ) ](https://github.com/Syyreth/ModsAmongUs)  
+
+最新版本：v4.0.6  
+Among Us支持版本：2022.8.24  
+更新状况：断更  
+
+### 职业
+
+| Crewmate Roles: | 船员职业 | Neutral Roles: | 中立职业 | Impostor Roles: | 内鬼职业 | Coven Roles:  | 巫师团   |
+| --------------- | -------- | -------------- | -------- | --------------- | -------- | ------------- | -------- |
+| V.I.P           | VIP      | Executioner    |          | Janitor         | 清理者   | Witch         | 女巫     |
+| Captain         | 船长     | Jester         | 小丑     | Morpher         | 变形者   | Medusa        | 美杜莎   |
+| Vigilante       | 警长     | Phantom        |          | Spy             | 间谍     | Potion Master | 药剂师   |
+| Guardian        | 保安     | Arsonist       | 纵火犯   | Consort         |          | Necromancer   | 死灵法师 |
+| Investigator    | 调查员   | Ghoul          |          | The Stealth     |          | Hex Master    |          |
+| Swapper         | 换票师   | Plaguebearer   |          | Graverobber     |          | Poisoner      | 毒药师   |
+| Engineer        | 工程师   | Angel          | 天使     | FlashBang       |          |               |          |
+| Visionary       |          | Serial Killer  | 连环杀手 | Blackmailer     |          |               |          |
+| Chronos         |          | Survivor       |          | Bounty Hunter   | 赏金猎人 |               |          |
+| Retributionist  | 殉道师   |                |          | AntiTasker      |          |               |          |
+| Lookout         |          |                |          | Assassin        | 刺客     |               |          |
+| Tracker         | 追踪者   |                |          |                 |          |               |          |
+| Pilot           |          |                |          |                 |          |               |          |
+| Drainer         |          |                |          |                 |          |               |          |
+| Lovers          | 恋人     |                |          |                 |          |               |          |
+
+## 14.PropHunt
+
+![image](Image/prophuntlogo.png)  
+
+[Github仓库(点这)](https://github.com/ugackMiner53/PropHunt)  
+
+最新版本：v2022.11.5  
+Among Us支持版本：2022.10.25  
+
+推出了一个叫道具狩猎模式的模组  
+
+## 15.TownOfLoonie
+
+[Github仓库(点这)](https://github.com/SkullCreeper/TownOfLoonie)  
+
+最新版本：v1.1.0.2  
+Among Us支持版本：2022.10.25  
+
+作者和GMH一样跑路了,这是TownOfHost - TheOtherRole 的分支。  
 
 # 工具
 
