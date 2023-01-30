@@ -99,6 +99,8 @@ Among Us支持版本：
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/TheOtherRolesAU/TheOtherRoles)  
 
+中文译名：超多职业  
+
 最新版本：v4.2.1  
 Among Us支持版本：2022.12.14  
 更新状况：持续更新中  
@@ -140,6 +142,8 @@ Among Us支持版本：2022.12.14
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/eDonnes124/Town-Of-Us-R)  
 
+中文译名：我们的小镇  
+
 最新版本：v4.0.1  
 Among Us支持版本：2022.12.14   
 更新状况：持续更新中  
@@ -174,6 +178,8 @@ Among Us支持版本：2022.12.14
 ![image](./Image/LasMonjas_banner.png)  
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/KiraYamato94/LasMonjas)  
+
+中文译名：修道院  
 
 最新版本：v3.0.4  
 Among Us支持版本：2022.12.14  
@@ -229,6 +235,8 @@ Among Us支持版本：2022.12.14
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/yukieiji/ExtremeRoles)  
 
+中文译名：极端职业  
+
 最新版本：v5.0.0.6  
 Among Us支持版本：12.14  
 更新状况：持续更新中  
@@ -239,6 +247,8 @@ Among Us支持版本：12.14
 ![image](./Image/Nebula.png)  
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/Dolly1016/Nebula)  
+
+中文译名：星云舰  
 
 最新版本：v2.1  
 Among Us支持版本：2022.12.14   
@@ -279,6 +289,8 @@ Among Us支持版本：2022.12.14
 ![image](Image/SNRImage.png)  
 
 [Github仓库(点这)](https://github.com/ykundesu/SuperNewRoles)
+
+中文译名：超新职业  
 
 最新版本：v1.5.2.1  
 Among Us支持版本：2022.12.14  
@@ -323,11 +335,13 @@ Among Us支持版本：2022.12.14
 Among Us支持版本：2022.12.14  
 更新状况：持续更新中  
 
-Town  Of Host的分支
+Town Of Host的分支
 dev8 开发者做出来了，但一鸽再鸽
 
 ## 11.AllTheRoles
+
 ![image](https://github.com/Zeo666/AllTheRoles/raw/main/Images/ATR-logo.png)  
+
 [Github仓库(点这)](https://github.com/Zeo666/AllTheRoles)  
 
 最新版本：v0.9.28  
@@ -394,6 +408,8 @@ Among Us支持版本：2022.12.14
 ![image](https://user-images.githubusercontent.com/113001912/192659417-85c94f28-d9b9-454a-a6b4-6679fe9dca91.png)  
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/SpexGH/TheOtherUs)  
+
+中文译名：我们的超多职业  
 
 最新版本：v1.2.4  
 Among Us支持版本：2022.12.14  
