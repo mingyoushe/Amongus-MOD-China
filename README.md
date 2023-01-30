@@ -5,13 +5,13 @@
   - [提醒](#提醒)
 - [链接](#链接)
 - [模组](#模组)
-  - [１.TheOtherRoles](#1theotherroles)
+  - [1.TheOtherRoles](#1theotherroles)
   - [2.TownOfUs-R](#2townofus-r)
   - [3.Las Monjas](#3las-monjas)
-  - [4.ExtremeRoles](#4extremeroles)
-  - [5.Nebula On The Ship](#5nebula-on-the-ship)
+  - [4.Nebula On The Ship](#4nebula-on-the-ship)
+  - [5.ExtremeRoles](#5extremeroles)
   - [6.SuperNewRoles](#6supernewroles)
-  - [7.TheOtheRoles CE](#7theotherroles-ce)
+  - [7.TheOtherUs](#7theotherus)
   - [8.TheOtherRoles MR](#8theotherroles-mr)
   - [9.TownOfHost](#9townofhost)
   - [10.TownOfHost-TheOtherRoles](#10townofhost--theotherroles)
@@ -22,7 +22,6 @@
   - [15.Revolutionary-host-roles](#15revolutionary-host-roles)
   - [16.TheIdealShip](#16theidealship)
   - [17.TownOfHostEdited](#17townofhostedited)
-  - [18.TheOtherUs](#18theotherus)
 - [旧模组](#旧模组)
   - [1.TownOfImpostors](#1townofimpostors)
   - [2.TownOfUs](#2townofus)
@@ -39,12 +38,13 @@
   - [13.Syyreth ModsAmongUs](#13syyreth-modsamongus)
   - [14.PropHunt](#14prophunt)
   - [15.TownOfLoonie](#15townofloonie)
+  - [16.TheOtherRoles CE](#16theotherroles-ce)
 - [工具](#工具)
   - [１.crewlink](#１crewlink)
   - [２.BetterCrewLink](#２bettercrewlink)
   - [３.ReplayInWindow](#３ReplayInWindow)
   - [４.ModManager](#４modmanager)
-  - [５.levelimposter-editor](#５levelimposter-editor)
+  - [５.Levelimposter-editor](#５levelimposter-editor)
 - [地图](#地图)
   - [１.Submerged](#１submerged)
   - [２.levelimposter](#２levelimposter)
@@ -81,6 +81,7 @@
 
 <!-- 模板
 ## 序号.模组名
+
 ！[image](图片链接)  
 
 [ GitHub仓库 ( 点这 ) ](仓库地址)  
@@ -231,18 +232,7 @@ Among Us支持版本：2022.12.14
 千年隼号地图展示：  
 ![image](./Image/%E5%8D%83%E5%B9%B4%E9%9A%BC.jpg)
 
-## 4.ExtremeRoles
-
-[ GitHub仓库 ( 点这 ) ](https://github.com/yukieiji/ExtremeRoles)  
-
-中文译名：极端职业  
-
-最新版本：v5.0.0.6  
-Among Us支持版本：12.14  
-更新状况：持续更新中  
-
-
-## 5.Nebula On The Ship
+## 4.Nebula On The Ship
 
 ![image](./Image/Nebula.png)  
 
@@ -284,6 +274,17 @@ Among Us支持版本：2022.12.14
 | Guesser   | 赌怪     |             |          |
 | Lover     | 恋人     |             |          |
 | Trilemma  | 三角恋   |             |          |
+
+## 5.ExtremeRoles
+
+[ GitHub仓库 ( 点这 ) ](https://github.com/yukieiji/ExtremeRoles)  
+
+中文译名：极端职业  
+
+最新版本：v5.0.0.6  
+Among Us支持版本：12.14  
+更新状况：持续更新中  
+
 ## 6.SuperNewRoles
 
 ![image](Image/SNRImage.png)  
@@ -296,16 +297,16 @@ Among Us支持版本：2022.12.14
 Among Us支持版本：2022.12.14  
 更新状况：持续更新中  
 
+## 7.TheOtherUs
+![image](https://user-images.githubusercontent.com/113001912/192659417-85c94f28-d9b9-454a-a6b4-6679fe9dca91.png)  
 
-## 7.TheOtherRoles CE
+[ GitHub仓库 ( 点这 ) ](https://github.com/SpexGH/TheOtherUs)  
 
-![image](Image/TOR_Logo.jpg)  
+中文译名：我们的超多职业  
 
-[Github仓库(点这)](https://github.com/JustASysAdmin/TheOtherRoles2)  
-
-最新版本：v5.7.2  
-Among Us支持版本：2022.10.25  
-更新状况：停更  
+最新版本：v1.2.4  
+Among Us支持版本：2022.12.14  
+更新状况：持续更新  
 
 ## 8.TheOtherRoles MR
 
@@ -393,7 +394,6 @@ Among Us支持版本：2022.12.14
 
 天寸：我做的模组doge  
 
-
 ## 17.TownOfHostEdited
 ![image](https://github.com/KARPED1EM/TownOfHostEdited/raw/TOHE/Images/Cover.webp)  
 [Github仓库(点这)](https://github.com/KARPED1EM/TownOfHostEdited)  
@@ -403,17 +403,6 @@ Among Us支持版本：2022.12.14
 更新状况：持续更新中  
 
 咔皮呆做的TownOfHost的分支  
-
-## 18.TheOtherUs
-![image](https://user-images.githubusercontent.com/113001912/192659417-85c94f28-d9b9-454a-a6b4-6679fe9dca91.png)  
-
-[ GitHub仓库 ( 点这 ) ](https://github.com/SpexGH/TheOtherUs)  
-
-中文译名：我们的超多职业  
-
-最新版本：v1.2.4  
-Among Us支持版本：2022.12.14  
-更新状况：持续更新  
 
 <!-- 暂时注释，等出正式版再加
 ## 19.TownOfThem
@@ -717,6 +706,17 @@ Among Us支持版本：2022.10.25
 Among Us支持版本：2022.10.25  
 
 作者和GMH一样跑路了,这是TownOfHost - TheOtherRole 的分支。  
+
+## 16.TheOtherRoles CE
+
+![image](Image/TOR_Logo.jpg)  
+
+[Github仓库(点这)](https://github.com/JustASysAdmin/TheOtherRoles2)  
+
+最新版本：v5.7.2  
+Among Us支持版本：2022.10.25  
+更新状况：停更  
+
 
 # 工具
 
