@@ -391,7 +391,7 @@ Among Us支持版本：2022.12.14
 咔皮呆做的TownOfHost的分支  
 
 ## 18.TheOtherUs
-！[image](https://user-images.githubusercontent.com/113001912/192659417-85c94f28-d9b9-454a-a6b4-6679fe9dca91.png)  
+![image](https://user-images.githubusercontent.com/113001912/192659417-85c94f28-d9b9-454a-a6b4-6679fe9dca91.png)  
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/SpexGH/TheOtherUs)  
 
@@ -401,7 +401,7 @@ Among Us支持版本：2022.12.14
 
 <!-- 暂时注释，等出正式版再加
 ## 19.TownOfThem
-！[image](https://github.com/JieGeLovesDengDuaLang/TownOfThem/raw/main/Resources/totLogo.png)  
+![image](https://github.com/JieGeLovesDengDuaLang/TownOfThem/raw/main/Resources/totLogo.png)  
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/JieGeLovesDengDuaLang/TownOfThem)  
 
