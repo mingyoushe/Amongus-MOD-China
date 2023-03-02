@@ -182,7 +182,7 @@ Among Us支持版本：2022.12.14
 
 中文译名：修道院  
 
-最新版本：v3.0.4  
+最新版本：v3.1.1  
 Among Us支持版本：2022.12.14  
 更新状况：持续更新中  
 
@@ -240,7 +240,7 @@ Among Us支持版本：2022.12.14
 
 中文译名：星云舰  
 
-最新版本：v2.1  
+最新版本：v2.2  
 Among Us支持版本：2022.12.14   
 更新状况：持续更新中  
 
@@ -281,7 +281,7 @@ Among Us支持版本：2022.12.14
 
 中文译名：极端职业  
 
-最新版本：v5.0.0.6  
+最新版本：v5.1.1.1  
 Among Us支持版本：12.14  
 更新状况：持续更新中  
 
@@ -293,7 +293,7 @@ Among Us支持版本：12.14
 
 中文译名：超新职业  
 
-最新版本：v1.5.3.1  
+最新版本：v1.5.4.2  
 Among Us支持版本：2022.12.14  
 更新状况：持续更新中  
 
@@ -304,7 +304,7 @@ Among Us支持版本：2022.12.14
 
 中文译名：我们的超多职业  
 
-最新版本：v1.2.4  
+最新版本：v1.2.5  
 Among Us支持版本：2022.12.14  
 更新状况：持续更新  
 
@@ -322,8 +322,8 @@ Among Us支持版本：2022.10.25
 
 [Github仓库(点这)](https://github.com/tukasa0001/TownOfHost)
 
-最新版本：v4.0.2  
-Among Us支持版本：2022.12.14  
+最新版本：v4.1.1  
+Among Us支持版本：2023.2.28  
 更新状况：持续更新中  
 
 只需房主装模组，其他人就可一起游玩，在原版基础上更改
@@ -345,7 +345,7 @@ dev8 开发者做出来了，但一鸽再鸽
 
 [Github仓库(点这)](https://github.com/Zeo666/AllTheRoles)  
 
-最新版本：v0.9.30  
+最新版本：v0.9.31  
 Among Us支持版本：2022.12.14  
 更新状况：持续更新中  
 
@@ -355,7 +355,7 @@ Among Us支持版本：2022.12.14
 
 [Github仓库(点这)](https://github.com/Yumenopai/TownOfHost_Y)  
 
-最新版本：v402.5  
+最新版本：v402.6  
 Among Us支持版本：2022.12.14  
 
 Town Of Host的分支，在Town Of Host的基础上增加了SuperNewRole的职业
@@ -380,8 +380,8 @@ Among Us支持版本：2022.10.25
 
 ## 15.Revolutionary-host-roles
 
-![image](https://github.com/sansai0707/Revolutionary-host-roles/blob/main/images/RHRLogoIcon.png)  
-[Github仓库(点这)](https://github.com/sansai0707/Revolutionary-host-roles)  
+![image](https://raw.githubusercontent.com/sansaaaaai/Revolutionary-host-roles/main/Resources/RHRlogo.png)  
+[Github仓库(点这)](https://github.com/sansaaaaai/Revolutionary-host-roles)  
 
 
 ## 16.TheIdealShip
@@ -395,16 +395,17 @@ Among Us支持版本：2022.12.14
 天寸：我做的模组doge  
 
 ## 17.TownOfHostEdited
-![image](https://github.com/KARPED1EM/TownOfHostEdited/raw/TOHE/Images/Cover.webp)  
+![image](https://github.com/KARPED1EM/TownOfHostEdited/raw/TOHE/Resources/TOHE-BG.jpg)  
 [Github仓库(点这)](https://github.com/KARPED1EM/TownOfHostEdited)  
 
-最新版本：v4.0.2.3  
-Among Us支持版本：2022.12.14  
+最新版本：v2.1.0  
+Among Us支持版本：2023.2.28  
 更新状况：持续更新中  
 
 咔皮呆做的TownOfHost的分支  
 
 <!-- 暂时注释，等出正式版再加
+
 ## 19.TownOfThem
 ![image](https://github.com/JieGeLovesDengDuaLang/TownOfThem/raw/main/Resources/totLogo.png)  
 
