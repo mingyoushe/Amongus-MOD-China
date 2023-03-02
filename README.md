@@ -455,8 +455,8 @@ Among Us支持版本：2022.10.25
 ![image](Image/TownOfHost-Title.png)
 [Github仓库(点这)](https://github.com/tukasa0001/TownOfHost)
 
-最新版本：v4.0.2  
-Among Us支持版本：2022.12.14  
+最新版本：v4.1.1  
+Among Us支持版本：2023.3.28  
 更新状况：持续更新中  
 
 ## 15.TownOfHost -TheOtherRoles
@@ -546,7 +546,7 @@ Among Us支持版本：2022.12.14
 [Github仓库(点这)](https://github.com/sansai0707/Revolutionary-host-roles)
 
 ## 26.TownOfHostEdited
-![image](https://raw.githubusercontent.com/KARPED1EM/TownOfHostEdited/TOHE/Images/Cover.webp)
+![image](https://github.com/KARPED1EM/TownOfHostEdited/blob/TOHE/Resources/TOHE-BG.jpg)
 [Github仓库(点这)](https://github.com/KARPED1EM/TownOfHostEdited)
 
 ## 27.TheIdealShip
@@ -733,8 +733,8 @@ Among Us支持版本：2022.12.8&2022.12.14
 ## 6.AmongUsMenu
 
 [ Github仓库 (点这)](https://github.com/BitCrackers/AmongUsMenu)
-最新版本：v1.2.2
-Among Us支持版本：最新版本
+最新版本：v1.2.7  
+Among Us支持版本：最新版本  
 更新状况：持续更新中
 
 # 地图
