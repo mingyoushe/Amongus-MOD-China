@@ -185,8 +185,8 @@ Among Us支持版本：2022.12.14
 
 中文译名：修道院  
 
-最新版本：v3.1.1  
-Among Us支持版本：2022.12.14  
+最新版本：v3.1.2  
+Among Us支持版本：2023.2.28  
 更新状况：持续更新中  
 
 ### 切换汉语
@@ -243,8 +243,8 @@ Among Us支持版本：2022.12.14
 
 中文译名：星云舰  
 
-最新版本：v2.2  
-Among Us支持版本：2022.12.14   
+最新版本：v2.2.1  
+Among Us支持版本：2023.2.28   
 更新状况：持续更新中  
 
 ### 职业
@@ -284,8 +284,8 @@ Among Us支持版本：2022.12.14
 
 中文译名：极端职业  
 
-最新版本：v5.1.1.1  
-Among Us支持版本：12.14  
+最新版本：v6.0.0.2  
+Among Us支持版本：2023.2.28  
 更新状况：持续更新中  
 
 ## 6.SuperNewRoles
@@ -296,9 +296,11 @@ Among Us支持版本：12.14
 
 中文译名：超新职业  
 
-最新版本：v1.5.4.2  
-Among Us支持版本：2022.12.14  
+最新版本：v1.6.0.0  
+Among Us支持版本：2023.2.28  
 更新状况：持续更新中  
+
+建议私服游玩
 
 ## 7.TheOtherUs
 ![image](https://user-images.githubusercontent.com/113001912/192659417-85c94f28-d9b9-454a-a6b4-6679fe9dca91.png)  
@@ -307,8 +309,8 @@ Among Us支持版本：2022.12.14
 
 中文译名：我们的超多职业  
 
-最新版本：v1.2.5  
-Among Us支持版本：2022.12.14  
+最新版本：v1.2.6  
+Among Us支持版本：2023.2.28  
 更新状况：持续更新  
 
 ## 8.TheOtherRoles MR
@@ -317,7 +319,7 @@ Among Us支持版本：2022.12.14
 
 最新版本：v2.8.1  
 Among Us支持版本：2022.10.25  
-更新状况：持续更新中  
+更新状况：断更  
 
 ## 9.TownOfHost
 
@@ -340,7 +342,6 @@ Among Us支持版本：2022.12.14
 更新状况：持续更新中  
 
 Town Of Host的分支
-dev8 开发者做出来了，但一鸽再鸽
 
 ## 11.AllTheRoles
 
@@ -360,15 +361,17 @@ Among Us支持版本：2022.12.14
 
 最新版本：v402.6  
 Among Us支持版本：2022.12.14  
+更新状况：持续更新中  
 
-Town Of Host的分支，在Town Of Host的基础上增加了SuperNewRole的职业
+Town Of Host的分支
 
 ## 13.AUModS
 
 [Github仓库(点这)](https://github.com/AUModS/AUModS)  
 
-最新版本：v22.12.14  
-Among Us支持版本：2022.12.14  
+最新版本：v23.2.28  
+Among Us支持版本：2023.2.28  
+更新状况：持续更新中  
 
 基于TheOtherRoles 代码制作的模组，作者tomarai曾做过TheOtherRole的分支，TheOtherRole GM就是基于他的TheOtherRole分支做的分支
 
@@ -378,6 +381,7 @@ Among Us支持版本：2022.12.14
 
 最新版本：v1.3.1  
 Among Us支持版本：2022.10.25  
+更新状况：停更  
 
 采用部分TownOfHost代码制成的功能性模组
 
@@ -391,9 +395,9 @@ Among Us支持版本：2022.10.25
 ![image](https://github.com/TheIdealShipAU/TheIdealShip/raw/main/Images/TIS.png)  
 [Github仓库(点这)](https://github.com/TheIdealShipAU/TheIdealShip)  
 
-最新版本：v0.3.4  
-Among Us支持版本：2022.12.14  
-更新状况：持续更新中  
+最新版本：v0.3.5  
+Among Us支持版本：2023.2.28  
+更新状况：停更摆烂  
 
 天寸：我做的模组doge  
 
