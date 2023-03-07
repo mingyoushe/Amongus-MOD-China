@@ -71,6 +71,7 @@
 ###### 提醒
 
 随着Among Us版本更新官方服务器所支持的服务器也在更新，过老版本只能使用私服才可游玩。
+随着模组的职业越来越多，修改的东西也越来越多，容易触发树懒官方服务器的反作弊所以建议私服游玩。
 
 # 链接
 
@@ -102,8 +103,8 @@ Among Us支持版本：
 
 中文译名：超多职业  
 
-最新版本：v4.2.1  
-Among Us支持版本：2022.12.14  
+最新版本：v4.3.0  
+Among Us支持版本：2023.2.28  
 更新状况：持续更新中  
 
 ### 职业
@@ -124,6 +125,7 @@ Among Us支持版本：2022.12.14
 | Warlock           | 术士             | Shifter        | 交换师   |             |          |
 | Witch             | 女巫             | Snitch         | 告密者   |             |          |
 | Ninja             | 忍者             | Spy            | 间谍     |             |          |
+| Bomber            | 爆破手            |               |          |             |          |
 
 | Neutral    | 中立职业 | Secondary     | 属性     | Gamemode     | 游戏模式 |
 | ---------- | -------- | ------------- | -------- | ------------ | -------- |
@@ -157,22 +159,23 @@ Among Us支持版本：2022.12.14
 | Haunter        | 猎人     | Guardian Angel | 守护天使 | Grenadier      | 掷弹兵   | Blind        | 胆小鬼   |
 | Investigator   | 调查员   | Survivor       | 幸存者   | Morphling      | 化形者   | Diseased     | 病人     |
 | Mystic         | 灵媒     | Executioner    | 处刑人   | Swooper        | 隐身人   | Multitasker  | 多线程   |
-| Seer           | 预言家   | Jester         | 小丑     | Poisoner       | 绝命毒师 | Torch        | 火炬     |
+| Seer           | 预言家   | Jester         | 小丑     | Poisoner       | 绝命毒师(4.0.1取消) | Torch        | 火炬     |
 | Snitch         | 告密者   | Phantom        | 幻影     | Traitor        | 叛徒     | Button Barry | 执钮人   |
 | Spy            | 间谍     | Arsonist       | 纵火犯   | Blackmailer    | 勒索者   | Flash        | 闪电侠   |
 | Tracker        | 追踪者   | Plaguebearer   | 疫医     | Janitor        | 清理者   | Giant        | 巨人     |
 | Trapper        | 陷阱师   | The Glitch     | 混沌     | Miner          | 管道工   | Radar        | 雷达     |
 | Sheriff        | 警长     | Werewolf       | 豺狼     | Undertaker     | 送葬者   | Lovers       | 恋人     |
-| Veteran        | 老兵     |                |          |                |          | Sleuth       | 掘墓人   |
-| Vigilante      | 警员     |                |          |                |          | Tiebreaker   | 破平者   |
+| Veteran        | 老兵     |                |          | Bomber         | 爆破手    | Sleuth       | 掘墓人   |
+| Vigilante      | 警员     |                |          | Escapist       |  逃逸者    | Tiebreaker   | 破平者   |
 | Altruist       | 殉道者   |                |          |                |          | Disperser    | 分散者   |
 | Medic          | 医生     |                |          |                |          | Double Shot  | 专业刺客 |
 | Engineer       | 工程师   |                |          |                |          | Underdog     | 潜伏者   |
 | Mayor          | 市长     |                |          |                |          |              |          |
 | Medium         | 通灵师   |                |          |                |          |              |          |
 | Swapper        | 换票师   |                |          |                |          |              |          |
-| Time Lord      | 时间之主 |                |          |                |          |              |          |
+| Time Lord      | 时间之主(4.0.1取消) |                |          |                |          |              |          |
 | Transporter    | 传送师   |                |          |                |          |              |          |
+| Imitator       | 效颦者         |
 
 ## 3.Las Monjas  
 
@@ -188,13 +191,13 @@ Among Us支持版本：2022.12.14
 
 ### 切换汉语
 
-方式：进入房间，在聊天框内输入 `/language chinese`即可  
+方式：进入房间，在聊天框内输入 `/language chinese`即可，可以简写为`/l chinese`  
 
 ### 游戏模式
 
-| CaptureTheFlag | PoliceAndThiefs | KingOfTheHill | Hot Potato | Zombie Laboratory |
-| -------------- | --------------- | ------------- | ---------- | ----------------- |
-| 夺旗模式       | 警察抓小偷      | 山丘之王      | 烫手山芋   | 僵尸实验室        |
+| CaptureTheFlag | PoliceAndThiefs | KingOfTheHill | Hot Potato | Zombie Laboratory | Monja Festival |
+| -------------- | --------------- | ------------- | ---------- | ----------------- | --------------|
+| 夺旗模式       | 警察抓小偷      | 山丘之王      | 烫手山芋   | 僵尸实验室        | 修女节 |
 
 ### 职业
 
