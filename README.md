@@ -547,7 +547,7 @@ Among Us支持版本：2022.12.14
 
 ## 26.TownOfHostEdited
 ![image](https://github.com/KARPED1EM/TownOfHostEdited/blob/TOHE/Resources/TOHE-BG.jpg)
-[Github仓库(点这)](https://github.com/KARPED1EM/TownOfHostEdited)
+[Github仓库(点这)](https://github.com/KARPED1EM/TownOfEdited)
 
 ## 27.TheIdealShip
 ![image](https://github.com/TheIdealShipAU/TheIdealShip/blob/main/Images/TIS.png)
