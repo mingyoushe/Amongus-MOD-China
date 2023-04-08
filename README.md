@@ -34,6 +34,7 @@
   - [27.TheIdealShip](#27theidealship)
   - [28.TownOfThem](#28townofthem)
   - [29.StellarRoles](#29StellarRoles)
+  - [30.MoreGamemodes](#MoreGamemodes)
 - [旧模组](#旧模组)
   - [1.TownOfImpostors](#1townofimpostors)
   - [2.TownOfUs](#2townofus)
@@ -560,6 +561,9 @@ Among Us支持版本：2022.12.14
 
 ## 29.StellarRoles
 [Github仓库(点这)](https://github.com/Mr-Fluuff/StellarRolesAU)
+
+## 30.MoreGamemodes
+[GitHub仓库(点这)](https://github.com/Rabek009/MoreGamemodes)
 
 # 旧模组
 
