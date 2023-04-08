@@ -33,6 +33,7 @@
   - [26.TownOfHostEdited](#26townofhostedited)
   - [27.TheIdealShip](#27theidealship)
   - [28.TownOfThem](#28townofthem)
+  - [29.StellarRoles](#29StellarRoles)
 - [旧模组](#旧模组)
   - [1.TownOfImpostors](#1townofimpostors)
   - [2.TownOfUs](#2townofus)
@@ -556,6 +557,9 @@ Among Us支持版本：2022.12.14
 ## 28.TownOfThem
 ![image](https://github.com/JieGeLovesDengDuaLang/TownOfThem/blob/main/Resources/totLogo.png)
 [Github仓库(点这)](https://github.com/JieGeLovesDengDuaLang/TownOfThem)
+
+## 29.StellarRoles
+[Github仓库(点这)](https://github.com/Mr-Fluuff/StellarRolesAU)
 
 # 旧模组
 
