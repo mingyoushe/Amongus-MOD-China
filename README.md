@@ -12,16 +12,11 @@
   - [5.ExtremeRoles](#5extremeroles)
   - [6.SuperNewRoles](#6supernewroles)
   - [7.TheOtherUs](#7theotherus)
-  - [8.TheOtherRoles MR](#8theotherroles-mr)
-  - [9.TownOfHost](#9townofhost)
-  - [10.TownOfHost-TheOtherRoles](#10townofhost--theotherroles)
-  - [11.AllTheRoles](#11alltheroles)
-  - [12.TownOfHost_Y](#12TownOfHost_Y)
-  - [13.AUModS](#13aumods)
-  - [14.TownOfSuper](#14townofsuper)
-  - [15.Revolutionary-host-roles](#15revolutionary-host-roles)
-  - [16.TheIdealShip](#16theidealship)
-  - [17.TownOfHostEdited](#17townofhostedited)
+  - [8.TownOfHost](#9townofhost)
+  - [9.TownOfHost-TheOtherRoles](#10townofhost--theotherroles)
+  - [10.AllTheRoles](#11alltheroles)
+  - [11.TownOfHost_Y](#12TownOfHost_Y)
+  - [12.TownOfHostEdited](#17townofhostedited)
 - [旧模组](#旧模组)
   - [1.TownOfImpostors](#1townofimpostors)
   - [2.TownOfUs](#2townofus)
@@ -103,11 +98,11 @@ Among Us支持版本：
 
 中文译名：超多职业  
 
-最新版本：v4.3.0  
-Among Us支持版本：2023.2.28  
+最新版本：v4.3.1  
+Among Us支持版本：2023.3.28  
 更新状况：持续更新中  
 
-### 职业
+<!-- ### 职业
 
 | Impostors         | 内鬼职业         | Crewmates      | 船员职业 | Crewmates   | 船员职业 |
 | ----------------- | ---------------- | -------------- | -------- | ----------- | -------- |
@@ -138,7 +133,7 @@ Among Us支持版本：2023.2.28
 | Thier      | 小偷     | Sunglasse     | 太阳镜   |              |          |
 | Pursuer    | 追随者   | Invert        | 破平者   |              |          |
 | Prosecutor | 检察官   |               |          |              |          |
-
+ -->
 ## 2.TownOfUs-R
 
 ![image](https://github.com/eDonnes124/Town-Of-Us-R/blob/master/Images/TOU-logo.png)  
@@ -147,11 +142,11 @@ Among Us支持版本：2023.2.28
 
 中文译名：我们的小镇  
 
-最新版本：v4.0.2  
-Among Us支持版本：2022.12.14   
+最新版本：v4.0.5  
+Among Us支持版本：2023.3.28   
 更新状况：持续更新中  
 
-### 职业  
+<!-- ### 职业  
 
 | Crewmate Roles | 船员职业 | Neutral Roles  | 中立职业 | Impostor Roles | 内鬼职业 | Modifiers    | 附加属性 |
 | -------------- | -------- | -------------- | -------- | -------------- | -------- | ------------ | -------- |
@@ -176,7 +171,7 @@ Among Us支持版本：2022.12.14
 | Time Lord      | 时间之主(4.0.1取消) |                |          |                |          |              |          |
 | Transporter    | 传送师   |                |          |                |          |              |          |
 | Imitator       | 效颦者         |
-
+-->
 ## 3.Las Monjas  
 
 ![image](./Image/LasMonjas_banner.png)  
@@ -185,8 +180,8 @@ Among Us支持版本：2022.12.14
 
 中文译名：修道院  
 
-最新版本：v3.1.2  
-Among Us支持版本：2023.2.28  
+最新版本：v3.1.6  
+Among Us支持版本：2023.3.28  
 更新状况：持续更新中  
 
 ### 切换汉语
@@ -199,7 +194,7 @@ Among Us支持版本：2023.2.28
 | -------------- | --------------- | ------------- | ---------- | ----------------- | --------------|
 | 夺旗模式       | 警察抓小偷      | 山丘之王      | 烫手山芋   | 僵尸实验室        | 修女节 |
 
-### 职业
+<!-- ### 职业
 
 | Impostors   | 内鬼职业 | Crewmates      | 船员职业 | Crewmates   | 船员职业 |
 | ----------- | -------- | -------------- | -------- | ----------- | -------- |
@@ -230,7 +225,7 @@ Among Us支持版本：2023.2.28
 | Puppeteer       | 傀儡师   | Berserker     | 嗜血杀手   | Performer      | 广播员 |
 | Exiler          | 处刑人   | Yandere       | 尾随者     | Pro            | 醉鬼   |
 | Amuesiac        | 失忆者   | Stranded      | 探险者     | Paintall       | 彩弹人 |
-| Seeker          | 寻找者   | Monja         | 修女       | Electrician    | 电工   |
+| Seeker          | 寻找者   | Monja         | 修女       | Electrician    | 电工   | -->
 
 千年隼号地图展示：  
 ![image](./Image/%E5%8D%83%E5%B9%B4%E9%9A%BC.jpg)
@@ -243,11 +238,11 @@ Among Us支持版本：2023.2.28
 
 中文译名：星云舰  
 
-最新版本：v2.2.1  
-Among Us支持版本：2023.2.28   
+最新版本：v2.3.1  
+Among Us支持版本：2023.3.28   
 更新状况：持续更新中  
 
-### 职业
+<!-- ### 职业
 
 | Impostors     | 内鬼职业   | Crewmates    | 船员职业   | Neutral       | 中立职业   |
 | ------------- | ---------- | ------------ | ---------- | ------------- | ---------- |
@@ -277,15 +272,15 @@ Among Us支持版本：2023.2.28
 | Guesser   | 赌怪     |             |          |
 | Lover     | 恋人     |             |          |
 | Trilemma  | 三角恋   |             |          |
-
+ -->
 ## 5.ExtremeRoles
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/yukieiji/ExtremeRoles)  
 
 中文译名：极端职业  
 
-最新版本：v6.0.0.2  
-Among Us支持版本：2023.2.28  
+最新版本：v7.1.0.0  
+Among Us支持版本：2023.3.28  
 更新状况：持续更新中  
 
 ## 6.SuperNewRoles
@@ -296,8 +291,8 @@ Among Us支持版本：2023.2.28
 
 中文译名：超新职业  
 
-最新版本：v1.6.0.0  
-Among Us支持版本：2023.2.28  
+最新版本：v1.7.1.0  
+Among Us支持版本：2023.3.28  
 更新状况：持续更新中  
 
 建议私服游玩
@@ -313,22 +308,22 @@ Among Us支持版本：2023.2.28
 Among Us支持版本：2023.2.28  
 更新状况：持续更新  
 
-## 8.TheOtherRoles MR
+<!-- ## 8.TheOtherRoles MR
 
 [Github仓库(点这)](https://github.com/miru-y/TheOtherRoles-MR)
 
 最新版本：v2.8.1  
 Among Us支持版本：2022.10.25  
-更新状况：断更  
+更新状况：断更   -->
 
-## 9.TownOfHost
+## 8.TownOfHost
 
 ![image](Image/TownOfHost-Title.png)  
 
 [Github仓库(点这)](https://github.com/tukasa0001/TownOfHost)
 
-最新版本：v4.1.1  
-Among Us支持版本：2023.2.28  
+最新版本：v4.1.2  
+Among Us支持版本：2023.3.28  
 更新状况：持续更新中  
 
 只需房主装模组，其他人就可一起游玩，在原版基础上更改
@@ -337,8 +332,8 @@ Among Us支持版本：2023.2.28
 
 [Github仓库(点这)](https://github.com/music-discussion/TownOfHost-TheOtherRoles)
 
-最新版本：v0.9.3.7b  
-Among Us支持版本：2022.12.14  
+最新版本：v0.9.3.11b  
+Among Us支持版本：2023.2.28  
 更新状况：持续更新中  
 
 Town Of Host的分支
@@ -349,8 +344,8 @@ Town Of Host的分支
 
 [Github仓库(点这)](https://github.com/Zeo666/AllTheRoles)  
 
-最新版本：v0.9.31  
-Among Us支持版本：2022.12.14  
+最新版本：v0.10.3  
+Among Us支持版本：2023.3.28  
 更新状况：持续更新中  
 
 建议私服游玩  
@@ -359,13 +354,13 @@ Among Us支持版本：2022.12.14
 
 [Github仓库(点这)](https://github.com/Yumenopai/TownOfHost_Y)  
 
-最新版本：v402.6  
-Among Us支持版本：2022.12.14  
+最新版本：v412.8  
+Among Us支持版本：2023.3.28  
 更新状况：持续更新中  
 
 Town Of Host的分支
 
-## 13.AUModS
+<!-- ## 13.AUModS
 
 [Github仓库(点这)](https://github.com/AUModS/AUModS)  
 
@@ -399,14 +394,14 @@ Among Us支持版本：2022.10.25
 Among Us支持版本：2023.2.28  
 更新状况：停更摆烂  
 
-天寸：我做的模组doge  
+天寸：我做的模组doge   -->
 
-## 17.TownOfHostEdited
+## 13.TownOfHostEdited
 ![image](https://github.com/KARPED1EM/TownOfHostEdited/raw/TOHE/Resources/TOHE-BG.jpg)  
 [Github仓库(点这)](https://github.com/KARPED1EM/TownOfHostEdited)  
 
-最新版本：v2.1.0  
-Among Us支持版本：2023.2.28  
+最新版本：v2.3.0  
+Among Us支持版本：2023.3.28  
 更新状况：持续更新中  
 
 咔皮呆做的TownOfHost的分支  
