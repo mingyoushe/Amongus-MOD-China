@@ -12,11 +12,11 @@
   - [5.ExtremeRoles](#5extremeroles)
   - [6.SuperNewRoles](#6supernewroles)
   - [7.TheOtherUs](#7theotherus)
-  - [8.TownOfHost](#9townofhost)
-  - [9.TownOfHost-TheOtherRoles](#10townofhost--theotherroles)
-  - [10.AllTheRoles](#11alltheroles)
-  - [11.TownOfHost_Y](#12TownOfHost_Y)
-  - [12.TownOfHostEdited](#17townofhostedited)
+  - [8.TownOfHost](#8townofhost)
+  - [9.TownOfHost-TheOtherRoles](#9townofhost--theotherroles)
+  - [10.AllTheRoles](#10alltheroles)
+  - [11.TownOfHost_Y](#11townofhost_y)
+  - [12.TownOfHostEdited](#12townofhostedited)
 - [旧模组](#旧模组)
   - [1.TownOfImpostors](#1townofimpostors)
   - [2.TownOfUs](#2townofus)
@@ -328,7 +328,7 @@ Among Us支持版本：2023.3.28
 
 只需房主装模组，其他人就可一起游玩，在原版基础上更改
 
-## 10.TownOfHost -TheOtherRoles
+## 9.TownOfHost -TheOtherRoles
 
 [Github仓库(点这)](https://github.com/music-discussion/TownOfHost-TheOtherRoles)
 
@@ -338,7 +338,7 @@ Among Us支持版本：2023.2.28
 
 Town Of Host的分支
 
-## 11.AllTheRoles
+## 10.AllTheRoles
 
 ![image](https://github.com/Zeo666/AllTheRoles/raw/main/Images/ATR-logo.png)  
 
@@ -350,7 +350,7 @@ Among Us支持版本：2023.3.28
 
 建议私服游玩  
 
-## 12.TownOfHost_Y
+## 11.TownOfHost_Y
 
 [Github仓库(点这)](https://github.com/Yumenopai/TownOfHost_Y)  
 
@@ -396,7 +396,7 @@ Among Us支持版本：2023.2.28
 
 天寸：我做的模组doge   -->
 
-## 13.TownOfHostEdited
+## 12.TownOfHostEdited
 ![image](https://github.com/KARPED1EM/TownOfHostEdited/raw/TOHE/Resources/TOHE-BG.jpg)  
 [Github仓库(点这)](https://github.com/KARPED1EM/TownOfHostEdited)  
 
