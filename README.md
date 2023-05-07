@@ -17,6 +17,7 @@
   - [10.AllTheRoles](#10alltheroles)
   - [11.TownOfHost_Y](#11townofhost_y)
   - [12.TownOfHostEdited](#12townofhostedited)
+  - [13.TownOfUsReworked](#13townofusreworked)
 - [旧模组](#旧模组)
   - [1.TownOfImpostors](#1townofimpostors)
   - [2.TownOfUs](#2townofus)
@@ -405,6 +406,16 @@ Among Us支持版本：2023.3.28
 更新状况：持续更新中  
 
 咔皮呆做的TownOfHost的分支  
+
+## 13.TownOfUsReworked
+
+![image](https://github.com/AlchlcDvl/TownOfUsReworked/blob/master/Images/Reworked.png)  
+
+[Github仓库(点这)](https://github.com/AlchlcDvl/TownOfUsReworked)  
+
+最新版本：v0.2.0  
+Among Us支持版本：2023.3.28  
+更新状况：持续更新中  
 
 <!-- 暂时注释，等出正式版再加
 
