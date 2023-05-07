@@ -41,7 +41,7 @@
   - [３.ReplayInWindow](#３ReplayInWindow)
   - [４.ModManager](#４modmanager)
   - [５.Levelimposter-editor](#５levelimposter-editor)
-  - [６.MultiClientInstancing](#６.MultiClientInstancing)
+  - [６.MultiClientInstancing](#６multiclientinstancing)
 - [地图](#地图)
   - [１.Submerged](#１submerged)
   - [２.levelimposter](#２levelimposter)
