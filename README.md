@@ -36,11 +36,12 @@
   - [15.TownOfLoonie](#15townofloonie)
   - [16.TheOtherRoles CE](#16theotherroles-ce)
 - [工具](#工具)
-  - [１.crewlink](#１crewlink)
-  - [２.BetterCrewLink](#２bettercrewlink)
+  - [１.BetterCrewLink](#１bettercrewlink)
+  - [２.CrewLink](#２crewlink)
   - [３.ReplayInWindow](#３ReplayInWindow)
   - [４.ModManager](#４modmanager)
   - [５.Levelimposter-editor](#５levelimposter-editor)
+  - [６.MultiClientInstancing](#６.MultiClientInstancing)
 - [地图](#地图)
   - [１.Submerged](#１submerged)
   - [２.levelimposter](#２levelimposter)
@@ -734,19 +735,11 @@ Among Us支持版本：2022.10.25
 
 # 工具
 
-## １.crewlink
-
-[ GitHub仓库 ( 点这 ) ](https://github.com/ottomated/CrewLink)  
-
-最新版本：v2.0.1  
-Among Us支持版本：2021.11.9.2s  
-更新状况：断更  
-
-断更如有需要请使用BetterCrewLink。  
-
-## ２.BetterCrewLink
+## １.BetterCrewLink
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/OhMyGuus/BetterCrewlink)  
+
+功能：实现游戏内近距离语音  
 
 最新版本：v3.0.5  
 Among Us支持版本：大部分Among Us 版本  
@@ -756,9 +749,22 @@ Among Us支持版本：大部分Among Us 版本
 
 注：服务器有问题，需自行搭建语音服务器  
 
+## ２.CrewLink
+
+[ GitHub仓库 ( 点这 ) ](https://github.com/ottomated/CrewLink)  
+
+最新版本：v2.0.1  
+Among Us支持版本：2021.11.9.2s  
+更新状况：断更  
+
+注：已断更，如有需要请使用BetterCrewLink。  
+
+
 ## ３.ReplayInWindow
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/sawa90/AmongUsReplayInWindow)  
+
+功能：对战全局回放、事件记载  
 
 最新版本：v2.0.3  
 Among Us支持版本：任意版本  
@@ -767,7 +773,10 @@ Among Us支持版本：任意版本
 ## ４.ModManager
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/MatuxGG/ModManager)  
-最新版本：v5.1.2  
+
+功能：模组管理器，实现快速更换模组  
+
+最新版本：v5.3.7  
 Among Us支持版本：大部分版本  
 更新状况：持续更新中  
 
@@ -777,6 +786,17 @@ Among Us支持版本：大部分版本
 [网站](https://editor.levelimposter.net/)  
 
 搭配LevelImposter模组的地图编辑制作器(已支持中文)  
+
+##　６.MultiClientInstancing
+
+[ Github仓库 ( 点这 ) ](https://github.com/MyDragonBreath/AmongUs.MultiClientInstancing)  
+
+功能：可在游戏内添加机器人玩家，可在本体与其他机器人视角中切换并控制  
+注：仅作为模组的样貌预览使用，具体游戏功能可能不生效，并不能胜任“模组测试”这项工作。 
+
+最新版本：v0.0.5  
+Among Us支持版本：2023.2.28  
+更新状况：持续更新中  
 
 # 地图
 
