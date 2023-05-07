@@ -787,7 +787,7 @@ Among Us支持版本：大部分版本
 
 搭配LevelImposter模组的地图编辑制作器(已支持中文)  
 
-##　６.MultiClientInstancing
+## ６.MultiClientInstancing
 
 [ Github仓库 ( 点这 ) ](https://github.com/MyDragonBreath/AmongUs.MultiClientInstancing)  
 
