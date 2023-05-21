@@ -568,8 +568,7 @@ Among Us支持版本：2022.12.14
 
 ## 31.TownOfHostEdited-XI
 ![image](https://github.com/Xieiawa/TownOfHostEdited-XI)
-[Github仓库(点这)]
-(https://github.com/Xieiawa/TownOfHostEdited-XI)
+[Github仓库(点这)](https://github.com/Xieiawa/TownOfHostEdited-XI)
 
 # 旧模组
 
