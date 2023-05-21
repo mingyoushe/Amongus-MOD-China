@@ -32,9 +32,12 @@
   - [25.Revolutionary-host-roles](#25revolutionary-host-roles)
   - [26.TownOfHostEdited](#26townofhostedited)
   - [27.TheIdealShip](#27theidealship)
-  - [28.TownOfThem](#28townofthem)
+  - [28.TownOfThem]
+(#28townofthem)
   - [29.StellarRoles](#29StellarRoles)
   - [30.MoreGamemodes](#MoreGamemodes)
+  - [31.TownOfHostEdited-XI]
+(#TownOfHostEdited-XI)
 - [旧模组](#旧模组)
   - [1.TownOfImpostors](#1townofimpostors)
   - [2.TownOfUs](#2townofus)
@@ -564,6 +567,11 @@ Among Us支持版本：2022.12.14
 
 ## 30.MoreGamemodes
 [GitHub仓库(点这)](https://github.com/Rabek009/MoreGamemodes)
+
+## 31.TownOfHostEdited-XI
+![image](https://github.com/Xieiawa/TownOfHostEdited-XI)
+[Github仓库(点这)]
+(https://github.com/Xieiawa/TownOfHostEdited-XI)
 
 # 旧模组
 
