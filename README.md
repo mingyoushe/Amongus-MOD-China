@@ -51,6 +51,7 @@
   - [４.ModManager](#４modmanager)
   - [5.levelimposter-editor](#5levelimposter-editor)
   - [6.AmongUsMenu](#6AmongUsMenu)
+  - [7.AmongUs.MultiClientInstancing](7#AmongUs.MultiClientInstancing)
 - [地图](#地图)
   - [１.Submerged](#1submerged)
   - [2.levelimposter](#2levelimposter)
@@ -749,6 +750,9 @@ Among Us支持版本：2022.12.8&2022.12.14
 最新版本：v1.2.7  
 Among Us支持版本：最新版本  
 更新状况：持续更新中
+
+## 7.AmongUs.MultiClientInstancing
+[Github仓库(点这)](https://github.com/MyDragonBreath/AmongUs.MultiClientInstancing)
 
 # 地图
 
