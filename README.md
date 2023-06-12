@@ -5,19 +5,18 @@
   - [提醒](#提醒)
 - [链接](#链接)
 - [模组](#模组)
-  - [1.TheOtherRoles](#1theotherroles)
-  - [2.TownOfUs-R](#2townofus-r)
-  - [3.Las Monjas](#3las-monjas)
-  - [4.Nebula On The Ship](#4nebula-on-the-ship)
-  - [5.ExtremeRoles](#5extremeroles)
-  - [6.SuperNewRoles](#6supernewroles)
-  - [7.TheOtherUs](#7theotherus)
+  - [1.TheOtherRoles](#1theotherroles-(超多职业))
+  - [2.TownOfUs-R](#2townofus-r-(我们的小镇))
+  - [3.Las Monjas](#3las-monjas-(修道院))
+  - [4.Nebula On The Ship](#4nebula-on-the-ship-(星云舰))
+  - [5.ExtremeRoles](#5extremeroles-(极端职业))
+  - [6.SuperNewRoles](#6supernewroles-(超新职业))
+  - [7.TheOtherUs](#7theotherus-(我们的超多职业))
   - [8.TownOfHost](#8townofhost)
   - [9.TownOfHost-TheOtherRoles](#9townofhost--theotherroles)
   - [10.AllTheRoles](#10alltheroles)
   - [11.TownOfHost_Y](#11townofhost_y)
-  - [12.TownOfHostEdited](#12townofhostedited)
-  - [13.TownOfUsReworked](#13townofusreworked)
+  - [12.TownOfUsReworked](#12townofusreworked)
 - [旧模组](#旧模组)
   - [1.TownOfImpostors](#1townofimpostors)
   - [2.TownOfUs](#2townofus)
@@ -34,7 +33,9 @@
   - [13.Syyreth ModsAmongUs](#13syyreth-modsamongus)
   - [14.PropHunt](#14prophunt)
   - [15.TownOfLoonie](#15townofloonie)
-  - [16.TheOtherRoles CE](#16theotherroles-ce)
+  - [16.TownOfHost Plus](#16townofhost-plus)
+  - [17.TheOtherRoles CE](#17theotherroles-ce)
+  - [18.TownOfHostEdited](#18townofhostedited)
 - [工具](#工具)
   - [１.BetterCrewLink](#１bettercrewlink)
   - [２.CrewLink](#２crewlink)
@@ -85,23 +86,21 @@
 [ GitHub仓库 ( 点这 ) ](仓库地址)  
 
 最新版本：v  
-Among Us支持版本：  
+Among Us 支持版本：  
 更新状况：  
 
 职业：
 
 点评： -->
 
-## 1.TheOtherRoles
+## 1.TheOtherRoles (超多职业)
 
 ![image](./Image/TOR_logo.png)  
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/TheOtherRolesAU/TheOtherRoles)  
 
-中文译名：超多职业  
-
 最新版本：v4.3.1  
-Among Us支持版本：2023.3.28  
+Among Us 支持版本：2023.3.28  
 更新状况：持续更新中  
 
 <!-- ### 职业
@@ -136,16 +135,14 @@ Among Us支持版本：2023.3.28
 | Pursuer    | 追随者   | Invert        | 破平者   |              |          |
 | Prosecutor | 检察官   |               |          |              |          |
  -->
-## 2.TownOfUs-R
+## 2.TownOfUs-R (我们的小镇)
 
 ![image](https://github.com/eDonnes124/Town-Of-Us-R/blob/master/Images/TOU-logo.png)  
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/eDonnes124/Town-Of-Us-R)  
 
-中文译名：我们的小镇  
-
 最新版本：v4.0.5  
-Among Us支持版本：2023.3.28   
+Among Us 支持版本：2023.3.28   
 更新状况：持续更新中  
 
 <!-- ### 职业  
@@ -174,16 +171,14 @@ Among Us支持版本：2023.3.28
 | Transporter    | 传送师   |                |          |                |          |              |          |
 | Imitator       | 效颦者         |
 -->
-## 3.Las Monjas  
+## 3.Las Monjas (修道院)
 
 ![image](./Image/LasMonjas_banner.png)  
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/KiraYamato94/LasMonjas)  
 
-中文译名：修道院  
-
 最新版本：v3.1.6  
-Among Us支持版本：2023.3.28  
+Among Us 支持版本：2023.3.28  
 更新状况：持续更新中  
 
 ### 切换汉语
@@ -193,8 +188,8 @@ Among Us支持版本：2023.3.28
 ### 游戏模式
 
 | CaptureTheFlag | PoliceAndThiefs | KingOfTheHill | Hot Potato | Zombie Laboratory | Monja Festival |
-| -------------- | --------------- | ------------- | ---------- | ----------------- | --------------|
-| 夺旗模式       | 警察抓小偷      | 山丘之王      | 烫手山芋   | 僵尸实验室        | 修女节 |
+| -------------- | --------------- | ------------- | ---------- | ----------------- | -------------- |
+| 夺旗模式       | 警察抓小偷      | 山丘之王      | 烫手山芋   | 僵尸实验室        | 修女节         |
 
 <!-- ### 职业
 
@@ -227,22 +222,21 @@ Among Us支持版本：2023.3.28
 | Puppeteer       | 傀儡师   | Berserker     | 嗜血杀手   | Performer      | 广播员 |
 | Exiler          | 处刑人   | Yandere       | 尾随者     | Pro            | 醉鬼   |
 | Amuesiac        | 失忆者   | Stranded      | 探险者     | Paintall       | 彩弹人 |
-| Seeker          | 寻找者   | Monja         | 修女       | Electrician    | 电工   | -->
+| Seeker          | 寻找者   | Monja         | 修女       | Electrician    | 电工   |
 
 千年隼号地图展示：  
 ![image](./Image/%E5%8D%83%E5%B9%B4%E9%9A%BC.jpg)
 
-## 4.Nebula On The Ship
+
+## 4.Nebula On The Ship (星云舰)
 
 ![image](./Image/Nebula.png)  
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/Dolly1016/Nebula)  
 
-中文译名：星云舰  
-
 最新版本：v2.3.1  
-Among Us支持版本：2023.3.28   
-更新状况：持续更新中  
+Among Us 支持版本：2023.3.28   
+更新状况：可能停更（作者已发通知）
 
 <!-- ### 职业
 
@@ -275,39 +269,33 @@ Among Us支持版本：2023.3.28
 | Lover     | 恋人     |             |          |
 | Trilemma  | 三角恋   |             |          |
  -->
-## 5.ExtremeRoles
+## 5.ExtremeRoles (极端职业)
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/yukieiji/ExtremeRoles)  
 
-中文译名：极端职业  
-
 最新版本：v7.1.0.0  
-Among Us支持版本：2023.3.28  
+Among Us 支持版本：2023.3.28  
 更新状况：持续更新中  
 
-## 6.SuperNewRoles
+## 6.SuperNewRoles (超新职业)
 
 ![image](Image/SNRImage.png)  
 
 [Github仓库(点这)](https://github.com/ykundesu/SuperNewRoles)
 
-中文译名：超新职业  
-
 最新版本：v1.7.1.0  
-Among Us支持版本：2023.3.28  
+Among Us 支持版本：2023.3.28  
 更新状况：持续更新中  
 
-建议私服游玩
+> 建议私服游玩
 
-## 7.TheOtherUs
+## 7.TheOtherUs (我们的超多职业)
 ![image](https://user-images.githubusercontent.com/113001912/192659417-85c94f28-d9b9-454a-a6b4-6679fe9dca91.png)  
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/SpexGH/TheOtherUs)  
 
-中文译名：我们的超多职业  
-
 最新版本：v1.2.6  
-Among Us支持版本：2023.2.28  
+Among Us 支持版本：2023.2.28  
 更新状况：持续更新  
 
 <!-- ## 8.TheOtherRoles MR
@@ -315,7 +303,7 @@ Among Us支持版本：2023.2.28
 [Github仓库(点这)](https://github.com/miru-y/TheOtherRoles-MR)
 
 最新版本：v2.8.1  
-Among Us支持版本：2022.10.25  
+Among Us 支持版本：2022.10.25  
 更新状况：断更   -->
 
 ## 8.TownOfHost
@@ -325,20 +313,20 @@ Among Us支持版本：2022.10.25
 [Github仓库(点这)](https://github.com/tukasa0001/TownOfHost)
 
 最新版本：v4.1.2  
-Among Us支持版本：2023.3.28  
+Among Us 支持版本：2023.3.28  
 更新状况：持续更新中  
 
-只需房主装模组，其他人就可一起游玩，在原版基础上更改
+> 来自日本，只需要房主安装模组，所有人都可以一起玩
 
-## 9.TownOfHost -TheOtherRoles
+## 9.TownOfHost - TheOtherRoles
 
 [Github仓库(点这)](https://github.com/music-discussion/TownOfHost-TheOtherRoles)
 
 最新版本：v0.9.3.11b  
-Among Us支持版本：2023.2.28  
+Among Us 支持版本：2023.2.28  
 更新状况：持续更新中  
 
-Town Of Host的分支
+> TownOfHost 的分支，由来自各国的开发者共同开发，目前原主要开发者 [music-discussion](https://github.com/music-discussion) 几乎不再参与，来自韩国的 단풍잎 正在尝试开发新的 AmongUs Mod API
 
 ## 10.AllTheRoles
 
@@ -347,40 +335,42 @@ Town Of Host的分支
 [Github仓库(点这)](https://github.com/Zeo666/AllTheRoles)  
 
 最新版本：v0.10.3  
-Among Us支持版本：2023.3.28  
+Among Us 支持版本：2023.3.28  
 更新状况：持续更新中  
 
-建议私服游玩  
+> 建议私服游玩  
 
 ## 11.TownOfHost_Y
 
 [Github仓库(点这)](https://github.com/Yumenopai/TownOfHost_Y)  
 
-最新版本：v412.8  
-Among Us支持版本：2023.3.28  
-更新状况：持续更新中  
+最新版本：v412.9.1 
+Among Us 支持版本：2023.3.28  
+更新状况：即将停更（作者已发通知）  
 
-Town Of Host的分支
+> TownOfHost 的分支，来自日本，由一人开发。
 
-<!-- ## 13.AUModS
+<!--
+
+## 13.AUModS
 
 [Github仓库(点这)](https://github.com/AUModS/AUModS)  
 
 最新版本：v23.2.28  
-Among Us支持版本：2023.2.28  
+Among Us 支持版本：2023.2.28  
 更新状况：持续更新中  
 
-基于TheOtherRoles 代码制作的模组，作者tomarai曾做过TheOtherRole的分支，TheOtherRole GM就是基于他的TheOtherRole分支做的分支
+>  基于 TheOtherRoles 代码制作的模组，作者 tomarai 曾做过 TheOtherRole 的分支，TheOtherRole GM 就是基于他的 TheOtherRole 分支做的分支
 
 ## 14.TownOfSuper
 
 [Github仓库(点这)](https://github.com/reitou-mugicha/TownOfSuper)  
 
 最新版本：v1.3.1  
-Among Us支持版本：2022.10.25  
-更新状况：停更  
+Among Us 支持版本：2022.10.25  
+更新状况：停更
 
-采用部分TownOfHost代码制成的功能性模组
+>  采用部分 TownOfHost 代码制成的功能性模组
 
 ## 15.Revolutionary-host-roles
 
@@ -393,29 +383,21 @@ Among Us支持版本：2022.10.25
 [Github仓库(点这)](https://github.com/TheIdealShipAU/TheIdealShip)  
 
 最新版本：v0.3.5  
-Among Us支持版本：2023.2.28  
+Among Us 支持版本：2023.2.28  
 更新状况：停更摆烂  
 
-天寸：我做的模组doge   -->
+> 天寸：我做的模组doge
 
-## 12.TownOfHostEdited
-![image](https://github.com/KARPED1EM/TownOfHostEdited/raw/TOHE/Resources/TOHE-BG.jpg)  
-[Github仓库(点这)](https://github.com/KARPED1EM/TownOfHostEdited)  
+-->
 
-最新版本：v2.3.0  
-Among Us支持版本：2023.3.28  
-更新状况：持续更新中  
-
-咔皮呆做的TownOfHost的分支  
-
-## 13.TownOfUsReworked
+## 12.TownOfUsReworked
 
 ![image](https://github.com/AlchlcDvl/TownOfUsReworked/blob/master/Images/Reworked.png)  
 
 [Github仓库(点这)](https://github.com/AlchlcDvl/TownOfUsReworked)  
 
-最新版本：v0.2.0  
-Among Us支持版本：2023.3.28  
+最新版本：v0.3.1  
+Among Us 支持版本：2023.3.28  
 更新状况：持续更新中  
 
 <!-- 暂时注释，等出正式版再加
@@ -426,8 +408,10 @@ Among Us支持版本：2023.3.28
 [ GitHub仓库 ( 点这 ) ](https://github.com/JieGeLovesDengDuaLang/TownOfThem)  
 
 最新版本：v  
-Among Us支持版本：  
-更新状况：   -->
+Among Us 支持版本：  
+更新状况：
+
+-->
 
 # 旧模组
 
@@ -438,7 +422,7 @@ Among Us支持版本：
 [ GitHub仓库 ( 点这 ) ](https://github.com/Town-of-Impostors/TownOfImpostors)  
 
 最新版本：v2.0.8  
-Among Us支持版本：2021.6.15  
+Among Us 支持版本：2021.6.15  
 更新状况：断更  
 
 ### 职业
@@ -463,7 +447,7 @@ Among Us支持版本：2021.6.15
 [最开始我们的小镇的GitHub仓库](https://github.com/slushiegoose/Town-Of-Us)  
 
 最新版本：v3.1.1-非官方延续  
-Among Us支持版本：2021.12.15  
+Among Us 支持版本：2021.12.15  
 更新状况：断更  
 
 ### 职业
@@ -493,7 +477,7 @@ Among Us支持版本：2021.12.15
 [ GitHub仓库 ( 点这 ) ](https://github.com/KyleSmith0905/Among-Chess)  
 
 最新版本：v1.1.1  
-Among Us支持版本：2021.6.30  
+Among Us 支持版本：2021.6.30  
 更新状况：断更  
 
 ## 4.Challenger
@@ -503,7 +487,7 @@ Among Us支持版本：2021.6.30
 [ GitHub仓库 ( 点这 ) ](https://github.com/Lunastellia/Challenger-Among-Us)  
 
 最新版本：v4.3.2  
-Among Us支持版本：2020.6.12  
+Among Us 支持版本：2020.6.12  
 更新状况：断更  
 
 ## 5.Cursed-Among-Us
@@ -513,7 +497,7 @@ Among Us支持版本：2020.6.12
 [ GitHub仓库 ( 点这 ) ](https://github.com/Devs-Us/Cursed-Among-Us)  
 
 最新版本：v1.1.0  
-Among Us支持版本：2021.6.30  
+Among Us 支持版本：2021.6.30  
 更新状况：断更  
 
 ## 6.skeld.net
@@ -540,7 +524,7 @@ Among Us支持版本：2021.6.30
 [ GitHub仓库 ( 点这 ) ](https://github.com/FatherofHeathens/HarryPotterAmongUs)  
 
 最新版本：v1.2.0  
-Among Us支持版本：2021.5.10  
+Among Us 支持版本：2021.5.10  
 更新状况：断更  
 
 ## 8.TheOtherRoles GM
@@ -548,7 +532,7 @@ Among Us支持版本：2021.5.10
 [ GitHub仓库 ( 点这 ) ](https://github.com/yukinogatari/TheOtherRoles-GM)  
 
 最新版本：v3.5.5.1  
-Among Us支持版本：2022.3.29   
+Among Us 支持版本：2022.3.29   
 更新状况：断更  
 
 ### 职业
@@ -586,7 +570,7 @@ GM是管理员模式，一般作为裁判存在，普通模式不建议开启。
 [ GitHub仓库 ( 点这 ) ](https://github.com/LaicosVK/TheEpicRoles)  
 
 最新版本：v1.1.2  
-Among Us支持版本：2022.2.24  
+Among Us 支持版本：2022.2.24  
 更新状况：断更  
 
 ## 10.Peasmod
@@ -596,7 +580,7 @@ Among Us支持版本：2022.2.24
 [ GitHub仓库 ( 点这 ) ](https://github.com/Peasplayer/Peasmod)  
 
 最新版本：v3.0.0-pre2.2  
-Among Us支持版本：2022.3.29  
+Among Us 支持版本：2022.3.29  
 更新状况：断更
 
 ### 职业
@@ -636,7 +620,7 @@ Among Us支持版本：2022.3.29
 [Github仓库(点这)](https://github.com/Dekokiyo/UltimateMods)
 
 最新版本：v1.3.0  
-Among Us支持版本：2022.12.14  
+Among Us 支持版本：2022.12.14  
 更新状况：断更  
 
 ## 12.TheOtherRoles GM-Haoming
@@ -644,7 +628,7 @@ Among Us支持版本：2022.12.14
 [ GitHub仓库 ( 点这 ) ](https://github.com/haoming37/GMH)  
 
 最新版本：v2.3.136  
-Among Us支持版本：2022.10.25  
+Among Us 支持版本：2022.10.25  
 更新状况：断更(作者在冬眠)  
 
 ### 介绍  
@@ -679,7 +663,7 @@ Among Us支持版本：2022.10.25
 [ GitHub仓库 ( 点这 ) ](https://github.com/Syyreth/ModsAmongUs)  
 
 最新版本：v4.0.6  
-Among Us支持版本：2022.8.24  
+Among Us 支持版本：2022.8.24  
 更新状况：断更  
 
 ### 职业
@@ -709,28 +693,48 @@ Among Us支持版本：2022.8.24
 [Github仓库(点这)](https://github.com/ugackMiner53/PropHunt)  
 
 最新版本：v2022.11.5  
-Among Us支持版本：2022.10.25  
+Among Us 支持版本：2022.10.25  
 
-推出了一个叫道具狩猎模式的模组  
+>  推出了一个叫道具狩猎模式的模组  
 
 ## 15.TownOfLoonie
 
 [Github仓库(点这)](https://github.com/SkullCreeper/TownOfLoonie)  
 
 最新版本：v1.1.0.2  
-Among Us支持版本：2022.10.25  
+Among Us 支持版本：2022.10.25  
+更新状况：停更  
 
-作者和GMH一样跑路了,这是TownOfHost - TheOtherRole 的分支。  
+>  TownOfHost - TheOtherRole 的分支，由 TownOfHost - TheOtherRole 前开发者之一 Loonie 开发。
 
-## 16.TheOtherRoles CE
+## 16.TownOfHost Plus
+
+最新版本：v1.0  
+Among Us 支持版本：2023.3.28  
+更新状况：停更  
+
+>  TownOfHost - TheOtherRole 的分支，由 TownOfHost - TheOtherRole 前开发者之一 Loonie 开发。可以视作 TownOfLoonie 的续作。后续 Loonie 在 TownOfHostEdited 停更后负责了其分支 TownOfHostEdited - Restored 的开发。
+
+## 17.TheOtherRoles CE
 
 ![image](Image/TOR_Logo.jpg)  
 
 [Github仓库(点这)](https://github.com/JustASysAdmin/TheOtherRoles2)  
 
 最新版本：v5.7.2  
-Among Us支持版本：2022.10.25  
+Among Us 支持版本：2022.10.25  
 更新状况：停更  
+
+## 18.TownOfHostEdited
+
+![image](https://github.com/KARPED1EM/TownOfHostEdited/raw/TOHE/Resources/Images/TOHE-BG.jpg)  
+[Github仓库(点这)](https://github.com/KARPED1EM/TownOfHostEdited)  
+
+最新版本：v2.3.6  
+Among Us 支持版本：2023.3.28  
+更新状况：停更
+
+> TownOfHost 的分支，由一人开发的国人模组。几乎占据了大部分Host模组的玩家占比后突然停更。目前该模组的数个分支还在持续更新。
 
 
 # 工具
@@ -742,7 +746,7 @@ Among Us支持版本：2022.10.25
 功能：实现游戏内近距离语音  
 
 最新版本：v3.0.5  
-Among Us支持版本：大部分Among Us 版本  
+Among Us 支持版本：大部分Among Us 版本  
 更新状况：持续更新中  
 
 已支持中文  
@@ -754,7 +758,7 @@ Among Us支持版本：大部分Among Us 版本
 [ GitHub仓库 ( 点这 ) ](https://github.com/ottomated/CrewLink)  
 
 最新版本：v2.0.1  
-Among Us支持版本：2021.11.9.2s  
+Among Us 支持版本：2021.11.9.2s  
 更新状况：断更  
 
 注：已断更，如有需要请使用BetterCrewLink。  
@@ -767,7 +771,7 @@ Among Us支持版本：2021.11.9.2s
 功能：对战全局回放、事件记载  
 
 最新版本：v2.0.3  
-Among Us支持版本：任意版本  
+Among Us 支持版本：任意版本  
 更新状况：断更  
 
 ## ４.ModManager
@@ -777,7 +781,7 @@ Among Us支持版本：任意版本
 功能：模组管理器，实现快速更换模组  
 
 最新版本：v5.3.7  
-Among Us支持版本：大部分版本  
+Among Us 支持版本：大部分版本  
 更新状况：持续更新中  
 
 ## ５.LevelImposter-Editor
@@ -795,7 +799,7 @@ Among Us支持版本：大部分版本
 注：仅作为模组的样貌预览使用，具体游戏功能可能不生效，并不能胜任“模组测试”这项工作。 
 
 最新版本：v0.0.5  
-Among Us支持版本：2023.2.28  
+Among Us 支持版本：2023.2.28  
 更新状况：持续更新中  
 
 # 地图
@@ -806,7 +810,7 @@ Among Us支持版本：2023.2.28
 [ GitHub仓库 ( 点这 ) ](https://github.com/SubmergedAmongUs/Submerged)  
 
 最新版本：v2022.10.26  
-Among Us支持版本：2022.10.25  
+Among Us 支持版本：2022.10.25  
 更新状况：持续更新中  
 
 ### 介绍
