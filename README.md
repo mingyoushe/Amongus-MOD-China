@@ -240,7 +240,7 @@ Among Us 支持版本：2023.3.28
 >
 > -->
 >
-> 千年隼号地图展示：  
+> ### 千年隼号地图
 > ![image](./Image/%E5%8D%83%E5%B9%B4%E9%9A%BC.jpg)
 
 
@@ -309,7 +309,7 @@ Among Us 支持版本：2023.3.28
 Among Us 支持版本：2023.3.28  
 更新状况：持续更新中  
 
-> 建议私服游玩
+> 来自日本，正常玩建议私服游玩。主要开发者同时也参与 [TownOfHost](https://github.com/tukasa0001/TownOfHost) 的开发。拥有 Host 模式，开启后只需要房主安装模组所有人都可以玩
 
 ## 7.TheOtherUs (我们的超多职业)
 ![image](https://user-images.githubusercontent.com/113001912/192659417-85c94f28-d9b9-454a-a6b4-6679fe9dca91.png)  
@@ -352,7 +352,7 @@ Among Us 支持版本：2023.3.28
 Among Us 支持版本：2023.2.28  
 更新状况：持续更新中  
 
-> TownOfHost 的分支，由来自各国的开发者共同开发，目前原主要开发者 [music-discussion](https://github.com/music-discussion) 几乎不再参与，来自韩国的 단풍잎 正在尝试开发新的 AmongUs Mod API
+> [TownOfHost](https://github.com/tukasa0001/TownOfHost) 的分支，由来自各国的开发者共同开发，目前原主要开发者 [music-discussion](https://github.com/music-discussion) 几乎不再参与，来自韩国的 단풍잎 正在尝试开发新的 AmongUs Mod API
 
 ## 10.AllTheRoles
 
@@ -374,7 +374,7 @@ Among Us 支持版本：2023.3.28
 Among Us 支持版本：2023.3.28  
 更新状况：即将停更（作者已发通知）  
 
-> TownOfHost 的分支，来自日本，由一人开发。
+> [TownOfHost](https://github.com/tukasa0001/TownOfHost) 的分支，来自日本，由一人开发。~~可能是唯一一个会直播敲代码的模组~~
 
 <!--
 
@@ -386,7 +386,7 @@ Among Us 支持版本：2023.3.28
 Among Us 支持版本：2023.2.28  
 更新状况：持续更新中  
 
->  基于 TheOtherRoles 代码制作的模组，作者 tomarai 曾做过 TheOtherRole 的分支，TheOtherRole GM 就是基于他的 TheOtherRole 分支做的分支
+>  基于 [TheOtherRoles](https://github.com/TheOtherRolesAU/TheOtherRoles) 代码制作的模组，作者 tomarai 曾做过 [TheOtherRoles](https://github.com/TheOtherRolesAU/TheOtherRoles) 的分支，[TheOtherRole GM](https://github.com/yukinogatari/TheOtherRoles-GM) 就是基于他的 [TheOtherRoles](https://github.com/TheOtherRolesAU/TheOtherRoles) 分支做的分支
 
 ## 14.TownOfSuper
 
@@ -396,12 +396,18 @@ Among Us 支持版本：2023.2.28
 Among Us 支持版本：2022.10.25  
 更新状况：停更
 
->  采用部分 TownOfHost 代码制成的功能性模组
+>  采用部分 [TownOfHost](https://github.com/tukasa0001/TownOfHost) 代码制成的功能性模组
 
 ## 15.Revolutionary-host-roles
 
 ![image](https://raw.githubusercontent.com/sansaaaaai/Revolutionary-host-roles/main/Resources/RHRlogo.png)  
 [Github仓库 ( 点这 ) ](https://github.com/sansaaaaai/Revolutionary-host-roles)  
+
+最新版本：v  
+Among Us 支持版本：  
+更新状况：
+
+> [TownOfHost](https://github.com/tukasa0001/TownOfHost) 的分支
 
 
 ## 16.TheIdealShip
@@ -451,19 +457,20 @@ Among Us 支持版本：
 Among Us 支持版本：2021.6.15  
 更新状况：断更  
 
-### 职业
-
-| Crewmate Team | 船员职业 | Impostor  | 内鬼职业 | Other Teams | 其他职业 | Modifiers | 其他效果 |
-| ------------- | -------- | --------- | -------- | ----------- | -------- | --------- | -------- |
-| Sheriff       | 警长     | Dragger   | 拖拽者   | Jester      | 小丑     | Lovers    | 恋人     |
-| Doctor        | 医生     | Morphling | 变形者   | Arsonist    | 纵火犯   | Giant     | 巨人     |
-| Agent         | 代理人   | Deceiver  | 欺骗者   |             |          | Tiny      | 迷你船员 |
-| Detective     | 调查员   | Viper     | 毒蛇     |             |          | Nightowl  | 执灯人   |
-| Plumber       | 管道工   | Sniper    | 狙击手   |             |          |           |          |
-| Informant     | 告密者   |           |          |             |          |           |          |
-| Trickster     | 诱饵     |           |          |             |          |           |          |
-| Operative     | 特务     |           |          |             |          |           |          |
-| Mayor         | 市长     |           |          |             |          |           |          |
+> ### 职业
+>
+> | Crewmate Team | 船员职业 | Impostor  | 内鬼职业 | Other Teams | 其他职业 | Modifiers | 其他效果 |
+> | ------------- | -------- | --------- | -------- | ----------- | -------- | --------- | -------- |
+> | Sheriff       | 警长     | Dragger   | 拖拽者   | Jester      | 小丑     | Lovers    | 恋人     |
+> | Doctor        | 医生     | Morphling | 变形者   | Arsonist    | 纵火犯   | Giant     | 巨人     |
+> | Agent         | 代理人   | Deceiver  | 欺骗者   |             |          | Tiny      | 迷你船员 |
+> | Detective     | 调查员   | Viper     | 毒蛇     |             |          | Nightowl  | 执灯人   |
+> | Plumber       | 管道工   | Sniper    | 狙击手   |             |          |           |          |
+> | Informant     | 告密者   |           |          |             |          |           |          |
+> | Trickster     | 诱饵     |           |          |             |          |           |          |
+> | Operative     | 特务     |           |          |             |          |           |          |
+> | Mayor         | 市长     |           |          |             |          |           |          |
+>
 
 ## 2.TownOfUs
 
@@ -476,25 +483,26 @@ Among Us 支持版本：2021.6.15
 Among Us 支持版本：2021.12.15  
 更新状况：断更  
 
-### 职业
-
-| Crewmate Roles | 船员职业 | Neutral Roles | 中立职业 | Impostor Roles | 内鬼职业 | Modifiers    | 附加属性 |
-| -------------- | -------- | ------------- | -------- | -------------- | -------- | ------------ | -------- |
-| Mayor          | 市长     | Jester        | 小丑     | Janitor        | 清洁工   | Torch        | 火炬     |
-| Lovers         | 恋人     | Shifter       | 交换师   | Morphling      | 化形者   | Diseased     | 病人     |
-| Sheriff        | 警长     | The Glitch    | 混沌     | Camouflager    | 隐蔽者   | Flash        | 闪电侠   |
-| Engineer       | 工程师   | Executioner   | 处刑人   | Miner          | 管道工   | Tiebreaker   | 破平者   |
-| Swapper        | 换票师   | Arsonist      | 纵火犯   | Swooper        | 俯冲者   | Drunk        | 醉鬼     |
-| Investigator   | 调查员   | Phantom       | 幻影     | Underdog       | 潜伏者   | Giant        | 巨人     |
-| Time Lord      | 时间之主 |               |          | Undertaker     | 送葬者   | Button Barry | 执钮者   |
-| Medic          | 医生     |               |          | Teleporter     | 传送者   | Coroner      | 掘墓人   |
-| Seer           | 预言家   |               |          | Concealer      | 隐身人   | Carnivore    | 掘墓内鬼 |
-| Spy            | 间谍     |               |          | Grenadier      | 掷弹兵   |              |          |
-| Snitch         | 告密者   |               |          |                |          |              |          |
-| Altruist       | 殉道者   |               |          |                |          |              |          |
-| Prophet        | 侧写师   |               |          |                |          |              |          |
-| Covert         | 隐秘者   |               |          |                |          |              |          |
-| Lighter        | 执灯人   |               |          |                |          |              |          |
+> ### 职业
+>
+> | Crewmate Roles | 船员职业 | Neutral Roles | 中立职业 | Impostor Roles | 内鬼职业 | Modifiers    | 附加属性 |
+> | -------------- | -------- | ------------- | -------- | -------------- | -------- | ------------ | -------- |
+> | Mayor          | 市长     | Jester        | 小丑     | Janitor        | 清洁工   | Torch        | 火炬     |
+> | Lovers         | 恋人     | Shifter       | 交换师   | Morphling      | 化形者   | Diseased     | 病人     |
+> | Sheriff        | 警长     | The Glitch    | 混沌     | Camouflager    | 隐蔽者   | Flash        | 闪电侠   |
+> | Engineer       | 工程师   | Executioner   | 处刑人   | Miner          | 管道工   | Tiebreaker   | 破平者   |
+> | Swapper        | 换票师   | Arsonist      | 纵火犯   | Swooper        | 俯冲者   | Drunk        | 醉鬼     |
+> | Investigator   | 调查员   | Phantom       | 幻影     | Underdog       | 潜伏者   | Giant        | 巨人     |
+> | Time Lord      | 时间之主 |               |          | Undertaker     | 送葬者   | Button Barry | 执钮者   |
+> | Medic          | 医生     |               |          | Teleporter     | 传送者   | Coroner      | 掘墓人   |
+> | Seer           | 预言家   |               |          | Concealer      | 隐身人   | Carnivore    | 掘墓内鬼 |
+> | Spy            | 间谍     |               |          | Grenadier      | 掷弹兵   |              |          |
+> | Snitch         | 告密者   |               |          |                |          |              |          |
+> | Altruist       | 殉道者   |               |          |                |          |              |          |
+> | Prophet        | 侧写师   |               |          |                |          |              |          |
+> | Covert         | 隐秘者   |               |          |                |          |              |          |
+> | Lighter        | 执灯人   |               |          |                |          |              |          |
+>
 
 ## 3.Chess
 
@@ -668,7 +676,7 @@ Among Us 支持版本：2022.10.25
 > 附加额外通风口（出生点-脉搏室-右下角样本室）  
 > 可以设置心电图在右下角样本室  
 > 地图改动（airship）  
-> 在任务中增加墙壁检查(飞艇)#来自AuShipMod的创意  
+> 在任务中增加墙壁检查(飞艇) #来自 AuShipMod 的创意  
 >
 > ### 职业
 >
@@ -768,7 +776,7 @@ Among Us 支持版本：2022.10.25
 Among Us 支持版本：2023.3.28  
 更新状况：停更
 
-> TownOfHost 的分支，由一人开发的国人模组。几乎占据了大部分Host模组的玩家占比后突然停更。目前该模组的数个分支还在持续更新。
+> [TownOfHost](https://github.com/tukasa0001/TownOfHost) 的分支，由一人开发的国人模组。几乎占据了大部分 Host 模组的玩家占比后突然停更。目前该模组的数个分支还在持续更新。
 
 
 # 工具
@@ -821,7 +829,7 @@ Among Us 支持版本：大部分版本
 ## ５.LevelImposter-Editor
 ![image](https://camo.githubusercontent.com/f55150ac1820966f8e30cfac3d138fe4e33da49ecc5d14897b73aef5a8a59447/68747470733a2f2f692e696d6775722e636f6d2f456665514a68342e706e67)  
 [ Github仓库 ( 点这 ) ](https://github.com/DigiWorm0/LevelImposter-Editor)  
-[网站 ( 点这 ) ](https://editor.levelimposter.net/)  
+[官方网站 ( 点这 ) ](https://editor.levelimposter.net/)  
 
 >  搭配LevelImposter模组的地图编辑制作器(已支持中文)  
 
