@@ -247,9 +247,9 @@ Among Us 支持版本：2023.3.28
 
 ## 4.ExtremeRoles (极端职业)
 
-[ GitHub仓库 ( 点这 ) ](https://github.com/yukieiji/ExtremeRoles)  
-
 ![image](Image/ExtremeRoles_banner.png)
+
+[ GitHub仓库 ( 点这 ) ](https://github.com/yukieiji/ExtremeRoles)  
 
 最新版本：v7.1.2.4  
 Among Us 支持版本：2023.3.28  
@@ -268,12 +268,13 @@ Among Us 支持版本：2023.6.13
 > 来自日本，正常玩建议私服游玩。主要开发者同时也参与 [TownOfHost](https://github.com/tukasa0001/TownOfHost) 的开发。拥有 Host 模式，开启后只需要房主安装模组所有人都可以玩
 
 ## 6.TheOtherUs (我们的超多职业)
+
 ![image](https://user-images.githubusercontent.com/113001912/192659417-85c94f28-d9b9-454a-a6b4-6679fe9dca91.png)  
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/SpexGH/TheOtherUs)  
 
-最新版本：v1.2.7  
-Among Us 支持版本：2023.2.28  
+最新版本：v1.2.91  
+Among Us 支持版本：2023.6.13  
 更新状况：持续更新  
 
 <!--
@@ -391,11 +392,11 @@ Among Us 支持版本：
 
 -->
 
-## 11. TownOfHostEdited-Restored
+## 11.TownOfHostEdited-Restored
 
 [Github仓库 ( 点这 ) ](https://github.com/Loonie-Toons/TOHE-Restored)
 
-最新版本：v2.4.1 
+最新版本：v2.4.1  
 Among Us 支持版本：2023.6.13  
 更新状况：持续更新中
 
@@ -407,7 +408,7 @@ Among Us 支持版本：2023.6.13
 
 [Github仓库 ( 点这 ) ](https://github.com/ImaMapleTree/Lotus)
 
-最新版本：v1.0.0 
+最新版本：v1.0.0  
 Among Us 支持版本：2023.6.13  
 更新状况：持续更新中 
 
