@@ -30,7 +30,7 @@
   - [10.Peasmod](#10peasmod)
   - [11.UltimateMods](#11UltimateMods)
   - [12.TheOtherRoles GM-Haoming](#12theotherroles-gm-haoming)
-  - [13.Syyreth ModsAmongUs](#13syyreth-modsamongus)
+  - [13.Syyreth Mods AmongUs](#13syyreth-mods-amongus)
   - [14.PropHunt](#14prophunt)
   - [15.TownOfLoonie](#15townofloonie)
   - [16.TownOfHost Plus](#16townofhost-plus)
