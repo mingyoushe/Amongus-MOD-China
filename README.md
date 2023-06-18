@@ -295,7 +295,7 @@ Among Us 支持版本：2022.10.25
 
 [Github仓库 ( 点这 ) ](https://github.com/tukasa0001/TownOfHost)
 
-最新版本：v5.0.0  
+最新版本：v5.0.1  
 Among Us 支持版本：2023.3.28  
 更新状况：持续更新中  
 
