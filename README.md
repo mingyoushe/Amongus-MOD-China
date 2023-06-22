@@ -251,7 +251,7 @@ Among Us 支持版本：2023.3.28
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/yukieiji/ExtremeRoles)  
 
-最新版本：v8.0.0.1  
+最新版本：v8.0.0.2  
 Among Us 支持版本：2023.6.13  
 更新状况：持续更新中  
 
