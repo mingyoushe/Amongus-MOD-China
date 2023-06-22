@@ -261,7 +261,7 @@ Among Us 支持版本：2023.6.13
 
 [Github仓库 ( 点这 ) ](https://github.com/ykundesu/SuperNewRoles)
 
-最新版本：v1.8.0.0  
+最新版本：v1.8.1.0  
 Among Us 支持版本：2023.6.13  
 更新状况：持续更新中  
 
@@ -317,9 +317,9 @@ Among Us 支持版本：2023.3.28
 
 [Github仓库 ( 点这 ) ](https://github.com/Yumenopai/TownOfHost_Y)  
 
-最新版本：v412.9.1 
+最新版本：v412.10 / v501.10
 Among Us 支持版本：2023.3.28  
-更新状况：即将停更（作者已发通知）  
+更新状况：持续更新中
 
 > [TownOfHost](https://github.com/tukasa0001/TownOfHost) 的分支，来自日本，由一人开发。~~可能是唯一一个会直播敲代码的模组~~
 
