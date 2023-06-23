@@ -317,7 +317,7 @@ Among Us 支持版本：2023.3.28
 
 [Github仓库 ( 点这 ) ](https://github.com/Yumenopai/TownOfHost_Y)  
 
-最新版本：v412.10 / v501.10  
+最新版本：v412.10 / v501.10.2  
 Among Us 支持版本：2023.3.28  
 更新状况：持续更新中
 
