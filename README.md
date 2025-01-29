@@ -17,6 +17,7 @@
   - [10.AllTheRoles](#10alltheroles)
   - [11.TownOfHost_Y](#11townofhost_y)
   - [12.TownOfUsReworked](#12townofusreworked)
+  - [13.Lotus Continued](#13lotus-continued)
 - [旧模组](#旧模组)
   - [1.TownOfImpostors](#1townofimpostors)
   - [2.TownOfUs](#2townofus)
@@ -36,6 +37,8 @@
   - [16.TownOfHost Plus](#16townofhost-plus)
   - [17.TheOtherRoles CE](#17theotherroles-ce)
   - [18.TownOfHostEdited](#18townofhostedited)
+  - [19.TownOfThem](#19townofthem)
+  - [20.Project Lotus](#20project-lotus)
 - [工具](#工具)
   - [１.BetterCrewLink](#１bettercrewlink)
   - [２.CrewLink](#２crewlink)
@@ -338,8 +341,8 @@ Among Us 支持版本：2022.10.25
 
 [Github仓库 ( 点这 ) ](https://github.com/tukasa0001/TownOfHost)
 
-最新版本：v5.0.0  
-Among Us 支持版本：2023.3.28  
+最新版本：v5.1.9  
+Among Us 支持版本：2024.9.4  
 更新状况：持续更新中  
 
 > 来自日本，只需要房主安装模组，所有人都可以一起玩
@@ -350,9 +353,9 @@ Among Us 支持版本：2023.3.28
 
 最新版本：v0.9.3.11b  
 Among Us 支持版本：2023.2.28  
-更新状况：持续更新中  
+更新状况：停更  
 
-> [TownOfHost](https://github.com/tukasa0001/TownOfHost) 的分支，由来自各国的开发者共同开发，目前原主要开发者 [music-discussion](https://github.com/music-discussion) 几乎不再参与，来自韩国的 단풍잎 正在尝试开发新的 AmongUs Mod API
+> [TownOfHost](https://github.com/tukasa0001/TownOfHost) 的分支，由来自各国的开发者共同开发，目前原主要开发者[discussion](https://github.com/discus-sions) 已不再参与该模组开发，来自韩国的 단풍잎 在2023年前去开发属于自己的独立游戏
 
 ## 10.AllTheRoles
 
@@ -428,23 +431,22 @@ Among Us 支持版本：2023.2.28
 
 [Github仓库 ( 点这 ) ](https://github.com/AlchlcDvl/TownOfUsReworked)  
 
-最新版本：v0.3.1  
-Among Us 支持版本：2023.3.28  
+最新版本：v0.7.0
+Among Us 支持版本：2024.10.29  
 更新状况：持续更新中  
 
-<!-- 暂时注释，等出正式版再加
+## 13.Lotus Continued
 
-## 19.TownOfThem
-![image](https://github.com/JieGeLovesDengDuaLang/TownOfThem/raw/main/Resources/totLogo.png)  
+![image](https://github.com/Lotus-AU/LotusContinued/blob/main/assets/LotusBanner.png)
 
-[ GitHub仓库 ( 点这 ) ](https://github.com/JieGeLovesDengDuaLang/TownOfThem)  
+[Github仓库(点这)](https://github.com/Lotus-AU/LotusContinued)
 
-最新版本：v  
-Among Us 支持版本：  
-更新状况：
+最新版本: v1.1.0(无发行版,资源需要自行打包或寻找)
+Among Us 支持版本: 2024.11.26
+更新状况: 持续更新中
 
--->
-
+> [Project:Lotus](#20project-lotus)的续作,主要由[discussion](https://github.com/discus-sions),[ThetaHalo](https://github.com/ThetaHalo),开发,模组拥有独立网站([点这](https://beta.lotusau.top)),该模组使用自研框架。特点为使用宠物或多次投票释放技能,在原版实现复活及局内生成假人的功能。支持简体中文(需要去模组的[语言仓库](https://github.com/Lotus-AU/Languages)自行安装)
+ 
 # 旧模组
 
 ## 1.TownOfImpostors
@@ -776,9 +778,27 @@ Among Us 支持版本：2022.10.25
 Among Us 支持版本：2023.3.28  
 更新状况：停更
 
-> [TownOfHost](https://github.com/tukasa0001/TownOfHost) 的分支，由一人开发的国人模组。几乎占据了大部分 Host 模组的玩家占比后突然停更。目前该模组的数个分支还在持续更新。
+> [TownOfHost](https://github.com/tukasa0001/TownOfHost) 的分支，主要由一人开发的国人模组。几乎占据了大部分 Host 模组的玩家占比后突然停更。目前该模组的数个分支还在持续更新。
 
+## 19.TownOfThem
 
+![image](https://github.com/JieGeLovesDengDuaLang/TownOfThem/raw/main/Resources/totLogo.png)  
+[ GitHub仓库 ( 点这 ) ](https://github.com/JieGeLovesDengDuaLang/TownOfThem)  
+
+最新版本：无
+Among Us 支持版本：无  
+更新状况：已与[Clash Of Gods](https://github.com/CognifyDev/ClashOfGods)合并
+
+## 20.Project Lotus
+
+![image](https://github.com/ImaMapleTree/Lotus/blob/main/assets/LotusBanner1.png)
+[Github仓库(点这)](https://github.com/ImaMapleTree/Lotus)
+
+最新版本: v1.0.0
+Among Us 支持版本: 2023.6.13
+更新情况: 停更
+
+> [Town Of Host:The Other Roles](#9townofhost---theotherroles) 的续作,来自韩国的tealeaf(단풍잎)为主要开发人,现已停更
 # 工具
 
 ## １.BetterCrewLink
