@@ -355,7 +355,7 @@ Among Us 支持版本：2024.9.4
 Among Us 支持版本：2023.2.28  
 更新状况：停更  
 
-> [TownOfHost](https://github.com/tukasa0001/TownOfHost) 的分支，由来自各国的开发者共同开发，目前原主要开发者 [music-discussion](https://github.com/music-discussion) 已不在参与该模组开发，来自韩国的 단풍잎 在2023年前去开发属于自己的独立游戏
+> [TownOfHost](https://github.com/tukasa0001/TownOfHost) 的分支，由来自各国的开发者共同开发，目前原主要开发者[discussion](https://github.com/discus-sions) 已不再参与该模组开发，来自韩国的 단풍잎 在2023年前去开发属于自己的独立游戏
 
 ## 10.AllTheRoles
 
@@ -441,11 +441,12 @@ Among Us 支持版本：2024.10.29
 
 [Github仓库(点这)](https://github.com/Lotus-AU/LotusContinued)
 
-最新版本: v1.1.0
+最新版本: v1.1.0(无发行版,资源需要自行打包或寻找)
 Among Us 支持版本: 2024.11.26
 更新状况: 持续更新中
 
-> [Project:Lotus](#20project-lotus)的续作,主要由[music-discussion](https://github.com/music-discussion),[ThetaHalo](https://github.com/ThetaHalo),开发,模组拥有独立网站([点这](https://beta.lotusau.top)).该模组使用自研框架.特点为使用宠物或多次投票释放技能,在原版实现复活及局内生成假人的功能
+> [Project:Lotus](#20project-lotus)的续作,主要由[discussion](https://github.com/discus-sions),[ThetaHalo](https://github.com/ThetaHalo),开发,模组拥有独立网站([点这](https://beta.lotusau.top)),该模组使用自研框架。特点为使用宠物或多次投票释放技能,在原版实现复活及局内生成假人的功能。支持简体中文(需要去模组的[语言仓库](https://github.com/Lotus-AU/Languages)自行安装)
+ 
 # 旧模组
 
 ## 1.TownOfImpostors
