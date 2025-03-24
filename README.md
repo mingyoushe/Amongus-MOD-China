@@ -18,6 +18,8 @@
   - [11.TownOfHost_Y](#11townofhost_y)
   - [12.TownOfUsReworked](#12townofusreworked)
   - [13.Lotus Continued](#13lotus-continued)
+  - [17.Endless Host Roles](#17Endless-Host-Roles)
+  - [18.Stellar Roles](#18Stellar-Roles)
 - [旧模组](#旧模组)
   - [1.TownOfImpostors](#1townofimpostors)
   - [2.TownOfUs](#2townofus)
@@ -106,8 +108,8 @@ Among Us 支持版本：
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/TheOtherRolesAU/TheOtherRoles)  
 
-最新版本：v4.3.2  
-Among Us 支持版本：2023.3.28  
+最新版本：v4.8.0  
+Among Us 支持版本：2024.11.26  
 更新状况：持续更新中  
 
 <!--
@@ -152,8 +154,8 @@ Among Us 支持版本：2023.3.28
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/eDonnes124/Town-Of-Us-R)  
 
-最新版本：v4.0.6  
-Among Us 支持版本：2023.3.28   
+最新版本：v5.2.1  
+Among Us 支持版本：2024.10.29   
 更新状况：持续更新中  
 
 <!--
@@ -192,8 +194,8 @@ Among Us 支持版本：2023.3.28
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/KiraYamato94/LasMonjas)  
 
-最新版本：v3.1.7  
-Among Us 支持版本：2023.3.28  
+最新版本：v3.8.6  
+Among Us 支持版本：2024.11.26  
 更新状况：持续更新中  
 
 > ### 切换汉语
@@ -253,9 +255,9 @@ Among Us 支持版本：2023.3.28
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/Dolly1016/Nebula)  
 
-最新版本：v2.3.1  
-Among Us 支持版本：2023.3.28   
-更新状况：可能停更（作者已发通知）
+最新版本：v2.17.2.3  
+Among Us 支持版本：2024.11.26   
+更新状况：持续更新
 
 <!--
 
@@ -298,8 +300,8 @@ Among Us 支持版本：2023.3.28
 
 ![image](Image/ExtremeRoles_banner.png)
 
-最新版本：v7.1.2.4  
-Among Us 支持版本：2023.3.28  
+最新版本：v12.1.5.3  
+Among Us 支持版本：2024.11.26  
 更新状况：持续更新中  
 
 ## 6.SuperNewRoles (超新职业)
@@ -308,8 +310,8 @@ Among Us 支持版本：2023.3.28
 
 [Github仓库 ( 点这 ) ](https://github.com/ykundesu/SuperNewRoles)
 
-最新版本：v1.7.2.0  
-Among Us 支持版本：2023.3.28  
+最新版本：v2.5.0.7  
+Among Us 支持版本：2024.11.26  
 更新状况：持续更新中  
 
 > 来自日本，正常玩建议私服游玩。主要开发者同时也参与 [TownOfHost](https://github.com/tukasa0001/TownOfHost) 的开发。拥有 Host 模式，开启后只需要房主安装模组所有人都可以玩
@@ -319,8 +321,8 @@ Among Us 支持版本：2023.3.28
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/SpexGH/TheOtherUs)  
 
-最新版本：v1.2.7  
-Among Us 支持版本：2023.2.28  
+最新版本：v2.0.2  
+Among Us 支持版本：2024.10.29  
 更新状况：持续更新  
 
 <!--
@@ -341,8 +343,8 @@ Among Us 支持版本：2022.10.25
 
 [Github仓库 ( 点这 ) ](https://github.com/tukasa0001/TownOfHost)
 
-最新版本：v5.1.9  
-Among Us 支持版本：2024.9.4  
+最新版本：v5.1.10  
+Among Us 支持版本：2024.11.26  
 更新状况：持续更新中  
 
 > 来自日本，只需要房主安装模组，所有人都可以一起玩
@@ -363,8 +365,8 @@ Among Us 支持版本：2023.2.28
 
 [Github仓库 ( 点这 ) ](https://github.com/Zeo666/AllTheRoles)  
 
-最新版本：v0.10.3  
-Among Us 支持版本：2023.3.28  
+最新版本：v0.12.2  
+Among Us 支持版本：2024.11.26  
 更新状况：持续更新中  
 
 > 建议私服游玩  
@@ -373,9 +375,9 @@ Among Us 支持版本：2023.3.28
 
 [Github仓库 ( 点这 ) ](https://github.com/Yumenopai/TownOfHost_Y)  
 
-最新版本：v412.9.1 
-Among Us 支持版本：2023.3.28  
-更新状况：即将停更（作者已发通知）  
+最新版本：v519.2.7 
+Among Us 支持版本：2024.11.26  
+更新状况：持续更新  
 
 > [TownOfHost](https://github.com/tukasa0001/TownOfHost) 的分支，来自日本，由一人开发。~~可能是唯一一个会直播敲代码的模组~~
 
@@ -406,9 +408,9 @@ Among Us 支持版本：2022.10.25
 ![image](https://raw.githubusercontent.com/sansaaaaai/Revolutionary-host-roles/main/Resources/RHRlogo.png)  
 [Github仓库 ( 点这 ) ](https://github.com/sansaaaaai/Revolutionary-host-roles)  
 
-最新版本：v  
-Among Us 支持版本：  
-更新状况：
+最新版本：v2023.3.28 
+Among Us 支持版本：v2023.3.28  
+更新状况：停更
 
 > [TownOfHost](https://github.com/tukasa0001/TownOfHost) 的分支
 
@@ -446,7 +448,23 @@ Among Us 支持版本: 2024.11.26
 更新状况: 持续更新中
 
 > [Project:Lotus](#20project-lotus)的续作,主要由[discussion](https://github.com/discus-sions),[ThetaHalo](https://github.com/ThetaHalo),开发,模组拥有独立网站([点这](https://beta.lotusau.top)),该模组使用自研框架。特点为使用宠物或多次投票释放技能,在原版实现复活及局内生成假人的功能。支持简体中文(需要去模组的[语言仓库](https://github.com/Lotus-AU/Languages)自行安装)
- 
+
+## 17.Endless Host Roles
+
+[Github仓库(点这)](https://github.com/Gurge44/EndlessHostRoles)
+
+最新版本:v5.3.3
+Among Us 支持版本:2024.11.26
+更新状况:持续更新中
+
+## 18.Stellar Roles
+
+[Github仓库(点这)](https://github.com/Mr-Fluuff/StellarRolesAU)
+
+最新版本:v2024.12.5
+Among Us 支持版本:2024.11.26
+更新状况:持续更新中
+
 # 旧模组
 
 ## 1.TownOfImpostors
@@ -522,9 +540,9 @@ Among Us 支持版本：2021.6.30
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/Lunastellia/Challenger-Among-Us)  
 
-最新版本：v4.3.2  
-Among Us 支持版本：2020.6.12  
-更新状况：断更  
+最新版本：v5.2.3  
+Among Us 支持版本：2022.6.21  
+更新状况：断更(已为目前最终版本)  
 
 ## 5.Cursed-Among-Us
 
@@ -764,7 +782,7 @@ Among Us 支持版本：2023.3.28
 
 [Github仓库 ( 点这 ) ](https://github.com/JustASysAdmin/TheOtherRoles2)  
 
-最新版本：v5.7.2  
+最新版本：v5.8.1  
 Among Us 支持版本：2022.10.25  
 更新状况：停更  
 
@@ -774,9 +792,10 @@ Among Us 支持版本：2022.10.25
 [Github仓库 ( 点这 ) ](https://github.com/KARPED1EM/TownOfHostEdited)  
 [官方网站 ( 点这 ) ](https://tohe.cc/)  
 
-最新版本：v2.3.6  
-Among Us 支持版本：2023.3.28  
+最新版本：v3.0.1  
+Among Us 支持版本：2023.10.24  
 更新状况：停更
+现名TownOfNext
 
 > [TownOfHost](https://github.com/tukasa0001/TownOfHost) 的分支，主要由一人开发的国人模组。几乎占据了大部分 Host 模组的玩家占比后突然停更。目前该模组的数个分支还在持续更新。
 
