@@ -20,6 +20,9 @@
   - [13.Lotus Continued](#13lotus-continued)
   - [17.Endless Host Roles](#17Endless-Host-Roles)
   - [18.Stellar Roles](#18Stellar-Roles)
+  - [19.Town Of Host Enhanced](#19Town-Of-Host-Enhanced)
+  - [20.Town Of Us Mira](#20Town-Of-Us-Mira)
+  - [21.LaunchpadReloaded](#21LaunchpadReloaded)
 - [旧模组](#旧模组)
   - [1.TownOfImpostors](#1townofimpostors)
   - [2.TownOfUs](#2townofus)
@@ -154,8 +157,8 @@ Among Us 支持版本：2024.11.26
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/eDonnes124/Town-Of-Us-R)  
 
-最新版本：v5.2.1  
-Among Us 支持版本：2024.10.29   
+最新版本：v5.3.1  
+Among Us 支持版本：16.0.2   
 更新状况：持续更新中  
 
 <!--
@@ -194,8 +197,8 @@ Among Us 支持版本：2024.10.29
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/KiraYamato94/LasMonjas)  
 
-最新版本：v3.8.6  
-Among Us 支持版本：2024.11.26  
+最新版本：v3.8.8  
+Among Us 支持版本：16.0.5  
 更新状况：持续更新中  
 
 > ### 切换汉语
@@ -255,8 +258,8 @@ Among Us 支持版本：2024.11.26
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/Dolly1016/Nebula)  
 
-最新版本：v2.17.2.3  
-Among Us 支持版本：2024.11.26   
+最新版本：Snapshot 25.09.01  
+Among Us 支持版本：16.1.0  
 更新状况：持续更新
 
 <!--
@@ -265,25 +268,25 @@ Among Us 支持版本：2024.11.26
 >
 > | Impostors     | 内鬼职业   | Crewmates    | 船员职业   | Neutral       | 中立职业   |
 > | ------------- | ---------- | ------------ | ---------- | ------------- | ---------- |
-> | Bounty Hunter | 赏金猎人   | Agent        | 代理人     | Arsonist      | 纵火犯     |
-> | Camouflager   | 隐蔽者     | Alien        | 外星人     | Avenger       | 复仇者     |
-> | Cleaner       | 清理者     | Bait         | 诱饵       | Empiric       | 疫医       |
-> | Damned        | 受诅咒者   | Busker       | 街头艺人   | Chain Shifter | 连环交换师 |
-> | Disturber     | 干扰者     | Comet        | 彗星之子   | Jackal        | 豺狼       |
-> | Eraser        | 抹除者     | Doctor       | 医学家     | Jester        | 小丑       |
-> | Evil Ace      | 密命王牌   | Guardian     | 特工       | Opportunist   | 投机者     |
-> | Evil Guesser  | 邪恶的赌怪 | Mayor        | 市长       | Sidekick      | 跟班       |
-> | Evil Trapper  | 邪恶陷阱师 | Navvy        | 修理工     | Vulture       | 秃鹫       |
-> | Jailer        | 狱卒       | Necromancer  | 死灵法师   |               |            |
-> | Marionette    | 木偶师     | Nice Guesser | 正义的赌怪 |               |            |
-> | Morphing      | 化形者     | Nice Trapper | 正义陷阱师 |               |            |
-> | Painter       | 画皮师     | Oracle       | 占卜师     |               |            |
-> | Raider        | 强盗       | Provocateur  | 挑衅者     |               |            |
-> | Reaper        | 送葬者     | Psychic      | 通灵师     |               |            |
-> | Sniper        | 狙击手     | Seer         | 灵媒       |               |            |
-> |               |            | Sheriff      | 警长       |               |            |
-> |               |            | Spy          | 卧底       |               |            |
-> |               |            | Madmate      | 叛徒       |               |            |
+> | Bounty Hunter | 赏金猎人   | Agent        | 代理人      | Arsonist      | 纵火犯     |
+> | Camouflager   | 隐蔽者     | Bait         | 诱饵       | Avenger       | 复仇者     |
+> | Cleaner       | 清理者     | Busker       | 灵化使     | Empiric       | 疫医       |
+> | Damned        | 受诅咒者   | Climber      | 钩索师     | Chain Shifter | 连环交换师 |
+> | Disturber     | 干扰者     | Collator     | 基因学家  | Jackal        | 豺狼       |
+> | Eraser        | 抹除者     | Comet        | 彗星之子  | Jester        | 小丑       |
+> | Evil Ace      | 密命王牌   | Doctor       |医学家     | Opportunist   | 投机者     |
+> | Evil Guesser  | 邪恶的赌怪 | Doppelganger | 二重身    | Sidekick      | 跟班       |
+> | Evil Trapper  | 邪恶陷阱师 | Echo         | 感知者     | Vulture       | 秃鹫       |
+> | Jailer        | 狱卒       | Fixer       | 控局者     |               |            |
+> | Marionette    | 木偶师     | Investigator| 调查员     |               |            |
+> | Morphing      | 化形者     | JekyllAndHyde| 杰基尔   |               |            |
+> | Painter       | 画皮师     | Justice      | 大神官   |               |            |
+> | Raider        | 强盗       | Madmate      | 叛徒     |               |            |
+> | Reaper        | 送葬者     | Mayor        | 市长     |               |            |
+> | Sniper        | 狙击手     | Navvy        | 保安       |               |            |
+> |               |            | Necromancer  | 死灵法师    |               |            |
+> |               |            | NiceGuesser  | 正义的赌怪  |               |            |
+> |               |            | NiceTrapper      | 正义的陷阱师       |               |            |
 >
 > | Secondary | 附加职业 | Ghost       | 亡灵职业 |
 > | --------- | -------- | ----------- | -------- |
@@ -300,18 +303,18 @@ Among Us 支持版本：2024.11.26
 
 ![image](Image/ExtremeRoles_banner.png)
 
-最新版本：v12.1.5.3  
-Among Us 支持版本：2024.11.26  
+最新版本：v2025.8.20.0 
+Among Us 支持版本：16.1.0 
 更新状况：持续更新中  
 
 ## 6.SuperNewRoles (超新职业)
 
 ![image](Image/SNRImage.png)  
 
-[Github仓库 ( 点这 ) ](https://github.com/ykundesu/SuperNewRoles)
+[Github仓库 ( 点这 ) ](https://github.com/SuperNewRoles/SuperNewRoles)
 
-最新版本：v2.5.0.7  
-Among Us 支持版本：2024.11.26  
+最新版本：v3.0.0.1v  
+Among Us 支持版本：16.0.5  
 更新状况：持续更新中  
 
 > 来自日本，正常玩建议私服游玩。主要开发者同时也参与 [TownOfHost](https://github.com/tukasa0001/TownOfHost) 的开发。拥有 Host 模式，开启后只需要房主安装模组所有人都可以玩
@@ -343,8 +346,8 @@ Among Us 支持版本：2022.10.25
 
 [Github仓库 ( 点这 ) ](https://github.com/tukasa0001/TownOfHost)
 
-最新版本：v5.1.10  
-Among Us 支持版本：2024.11.26  
+最新版本：v5.1.13  
+Among Us 支持版本：16.0.5  
 更新状况：持续更新中  
 
 > 来自日本，只需要房主安装模组，所有人都可以一起玩
@@ -365,8 +368,8 @@ Among Us 支持版本：2023.2.28
 
 [Github仓库 ( 点这 ) ](https://github.com/Zeo666/AllTheRoles)  
 
-最新版本：v0.12.2  
-Among Us 支持版本：2024.11.26  
+最新版本：v0.12.5  
+Among Us 支持版本：16.1.0  
 更新状况：持续更新中  
 
 > 建议私服游玩  
@@ -375,9 +378,9 @@ Among Us 支持版本：2024.11.26
 
 [Github仓库 ( 点这 ) ](https://github.com/Yumenopai/TownOfHost_Y)  
 
-最新版本：v519.2.7 
-Among Us 支持版本：2024.11.26  
-更新状况：持续更新  
+最新版本：v519.27.1 
+Among Us 支持版本：16.0.0 
+更新状况：停更  
 
 > [TownOfHost](https://github.com/tukasa0001/TownOfHost) 的分支，来自日本，由一人开发。~~可能是唯一一个会直播敲代码的模组~~
 
@@ -443,27 +446,62 @@ Among Us 支持版本：2024.10.29
 
 [Github仓库(点这)](https://github.com/Lotus-AU/LotusContinued)
 
-最新版本: v1.1.0(无发行版,资源需要自行打包或寻找)
-Among Us 支持版本: 2024.11.26
+最新版本: v1.4.0
+Among Us 支持版本: 16.1.0
 更新状况: 持续更新中
 
 > [Project:Lotus](#20project-lotus)的续作,主要由[discussion](https://github.com/discus-sions),[ThetaHalo](https://github.com/ThetaHalo),开发,模组拥有独立网站([点这](https://beta.lotusau.top)),该模组使用自研框架。特点为使用宠物或多次投票释放技能,在原版实现复活及局内生成假人的功能。支持简体中文(需要去模组的[语言仓库](https://github.com/Lotus-AU/Languages)自行安装)
 
 ## 17.Endless Host Roles
 
+![image](Image/EndlessHostRoles.png)  
+
 [Github仓库(点这)](https://github.com/Gurge44/EndlessHostRoles)
 
-最新版本:v5.3.3
-Among Us 支持版本:2024.11.26
+最新版本:v6.2.1
+Among Us 支持版本:16.1.0
 更新状况:持续更新中
+
+> 唯一一个同时支持潜艇地图和手机StarLight框架的H系列模组,拥有超多职业和模式
 
 ## 18.Stellar Roles
 
 [Github仓库(点这)](https://github.com/Mr-Fluuff/StellarRolesAU)
 
-最新版本:v2024.12.5
-Among Us 支持版本:2024.11.26
+最新版本:v2025.5.12
+Among Us 支持版本:16.0.2
 更新状况:持续更新中
+
+## 19.Town Of Host Enhanced
+
+[Github仓库(点这)](https://github.com/EnhancedNetwork/TownofHost-Enhanced)
+
+最新版本:v2.3.0 Beta 6
+Among Us 支持版本:16.1.0
+更新状况:可能停更
+
+> H系最好的模组
+
+## 20.Town Of Us Mira
+
+![image](https://github.com/AU-Avengers/TOU-Mira/raw/main/Images/Logo.png)  
+
+[Github仓库(点这)](https://github.com/AU-Avengers/TOU-Mira/)
+
+最新版本:v1.1.1
+Among Us 支持版本:16.1.0(同时支持手机)
+更新状况:持续更新中
+
+> TownOfUs使用MiraAPI的重置版
+
+## 21.LaunchpadReloaded
+
+[Github仓库(点这)](https://github.com/All-Of-Us-Mods/LaunchpadReloaded)
+
+最新版本:v0.3.5
+Among Us 支持版本:16.1.0
+更新状况:持续更新中
+
 
 # 旧模组
 
